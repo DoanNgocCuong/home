@@ -5,7 +5,7 @@ date: 2024-07-27
 categories: blog
 ---
 
-### Bài 1: ***Điểm khác biệt về NGUYÊN LÝ HOẠT ĐỘNG của Mô Hình Tạo Ảnh so với Mô Hình Tạo Văn Bản và So Sánh Nhanh 2 Kiến Trúc GANs-VAEs***
+### Bài 1: ***Điểm khác biệt về NGUYÊN LÝ HOẠT ĐỘNG của Mô Hình Tạo Ảnh so với Mô Hình Tạo Văn Bản và So Sánh Nhanh 2 Kiến Trúc GANs-VAEs*** - **AI-Intern INFERO TECHNOLOGY**
 
 ### Phần 1: Nguyên Lý Hoạt Động của Mô Hình Tạo Văn Bản và Tạo Ảnh
 **Sự khác biệt chính:**
