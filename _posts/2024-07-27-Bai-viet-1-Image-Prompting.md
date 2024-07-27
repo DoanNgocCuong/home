@@ -5,9 +5,9 @@ date: 2024-07-27
 categories: blog
 ---
 
-### Bài 1: ***Nguyên lý của các mô hình tạo ảnh khác gì so với các mô hình gen văn bản và so sánh kiến trúc GANs-VAEs trong việc Gen Ảnh***
+### Bài 1: ***Điểm khác biệt về NGUYÊN LÝ HOẠT ĐỘNG của Mô Hình Tạo Ảnh so với Mô Hình Tạo Văn Bản và So Sánh Nhanh 2 Kiến Trúc GANs-VAEs***
 
-### Phần 1: Khác biệt giữa mô hình tạo ảnh và mô hình gen văn bản
+### Phần 1: Nguyên Lý Hoạt Động của Mô Hình Tạo Văn Bản và Tạo Ảnh
 **Sự khác biệt chính:**
 - **Kiến trúc mạng:** Mô hình tạo ảnh thường dùng GANs hoặc VAEs, trong khi mô hình gen văn bản dùng Transformer.
 - **Nguyên lý hoạt động:**
