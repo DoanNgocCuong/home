@@ -10,7 +10,12 @@ categories: blog
 ### Phần 1: Khác biệt giữa mô hình tạo ảnh và mô hình gen văn bản
 **Sự khác biệt chính:**
 - **Kiến trúc mạng:** Mô hình tạo ảnh thường dùng GANs hoặc VAEs, trong khi mô hình gen văn bản dùng Transformer.
-- **Mục tiêu tối ưu hóa:** Mô hình tạo ảnh tập trung vào việc tạo hình ảnh đúng mô tả, còn mô hình gen văn bản dự đoán từ tiếp theo một cách hợp lý.
+- **Nguyên lý hoạt động:**
+    - **Mô hình gen văn bản (Text Generation Models):**
+    Nguyên lý hoạt động chủ yếu là Predict Next Token (Dự đoán từ tiếp theo). Mô hình này dựa vào ngữ cảnh của các từ trước đó để đưa ra dự đoán cho từ hoặc token tiếp theo trong câu. Ví dụ, khi nhận được một đoạn văn bản đầu vào, mô hình sẽ phân tích ngữ cảnh và đưa ra từ tiếp theo sao cho câu văn vẫn giữ được ý nghĩa.
+    - **Mô hình tạo ảnh (Image Generation Models):**
+    Nguyên lý hoạt động chủ yếu là Generate Image from Latent Space (Tạo hình ảnh từ không gian tiềm ẩn). Mô hình này mã hóa thông tin từ một đoạn văn bản mô tả hoặc từ một nguồn ngẫu nhiên, sau đó giải mã để tạo ra hình ảnh mới tương ứng với thông tin đó.
+
 
 **Mô hình tạo ảnh:**
 - **Nguyên lý hoạt động:** Sử dụng mạng nơ-ron sâu như GANs hoặc VAEs để tạo ra hình ảnh từ mô tả văn bản.
