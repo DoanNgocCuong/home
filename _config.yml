@@ -1,5 +1,25 @@
+
+title: Your Site Title
+description: > # this means to include newlines until "baseurl:"
+  Write an awesome description for your new site here.
+  You can edit this line in _config.yml.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://DoanNgocCuongBKEGNH.github.io" # the base hostname & protocol for your site
 theme: minima
-title: Your Blog Title
-description: Your blog description
-baseurl: ""
-url: "https://DoanNgocCuongBKEGNH.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-commonmark-ghpages
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
