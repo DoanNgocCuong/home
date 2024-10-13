@@ -10,3 +10,4 @@ Tài liệu:
 Link tài liệu: Slide, Report: [https://drive.google.com/drive/folders/1FDwvbiKHpUBM1DNJNWkLjOW19pjegAuY?usp=sharing](https://drive.google.com/drive/folders/1FDwvbiKHpUBM1DNJNWkLjOW19pjegAuY?usp=sharing)
 
 All Algorithms in 17 mins: https://www.youtube.com/watch?v=E0Hmnixke2g
+- [Twitter Sentiment Analysis Using Python - Analytics Vidhya](https://courses.analyticsvidhya.com/courses/twitter-sentiment-analysis)
