@@ -1,4 +1,5 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "assert"
+  "attachmentFolderPath": "assert",
+  "promptDelete": false
 }

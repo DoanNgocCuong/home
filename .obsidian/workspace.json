@@ -11,15 +11,36 @@
             "id": "7edb62798779b30c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "image/Pasted image 20241004112525.png"
+              }
+            }
+          },
+          {
+            "id": "cfa9e72d91e0d0c8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "AI Engineering/Pasted image 20241004112621.png"
+              }
+            }
+          },
+          {
+            "id": "0333bc47dec3d161",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineering/DeepLearning/NLP/RAG/Tổng quát.md.md",
+                "file": "AI Engineering/Roadmap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Engineering/DeepLearning/NLP/RAG/Tổng quát.md.md",
+                "file": "AI Engineering/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Engineering/DeepLearning/NLP/RAG/Tổng quát.md.md",
+                "file": "AI Engineering/Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Engineering/DeepLearning/NLP/RAG/Tổng quát.md.md"
+                "file": "AI Engineering/Roadmap.md"
               }
             }
           },
@@ -155,54 +176,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7edb62798779b30c",
+  "active": "0333bc47dec3d161",
   "lastOpenFiles": [
-    "AI Engineering/DeepLearning/NLP/General NLP.md",
+    "AI Engineering/Machine Learning/Untitled.md",
+    "image/Pasted image 20241004112525.png",
+    "2024-09-12.md",
+    "Untitled.md",
+    "2024-10-13.md",
+    "SystemDesign/git.md",
     "assert.md",
+    "cuong test thui nha.md",
+    "index.md",
+    "Hello.md",
+    "Java.md",
+    "README.md",
+    "TEST 1 2 3 4 5 6 7 8 9.md",
+    "AI Engineering/Roadmap.md",
+    "image/Pasted image 20241004134751.png",
+    "AI Engineering/Pasted image 20241004112621.png",
+    "smart-chats/UNTITLED CHAT 2024-10-06 10 02 21.md",
+    "CheckPoints/quy-dinh (1).pdf",
+    "AI Engineering/DeepLearning/NLP/Prompting/Tổng quan.md",
+    "_posts/2024-07-27-Bai-viet-1-Image-Prompting-P1.md",
+    "AI Engineering/DeepLearning/NLP/RAG/Tổng quát.md.md",
+    "AI Engineering/DeepLearning/NLP/General NLP.md",
+    "AI Engineering/DeepLearning/NLP/Untitled.md",
     "AI Engineering/AI Agent/AI Agent note.md",
     "AI Engineering/MLOPs/Các link MLOPs.md",
-    "assert/Pasted image 20241013181142.png",
-    "assert/Pasted image 20241013180157.png",
+    "image/Pasted image 20241013181142.png",
+    "image/Pasted image 20241013180157.png",
     "AI Engineering/Machine Learning/Nguồn Học.md",
-    "assert/Pasted image 20241013175653.png",
-    "Pasted image 20241013174151.png",
+    "image/Pasted image 20241013175653.png",
+    "image/Pasted image 20241013174151.png",
     "AI Engineering/AI Agent",
     "GENAI/AI Engineering.md",
-    "GENAI/GenAI.md",
-    "AI Engineering/Roadmap.md",
+    "AI Engineering/GENAI/GenAI.md",
     "AI Engineering",
     "TEST 2 3 4 5  6/TEST.md",
-    "_posts/2024-07-27-Bai-viet-1-Image-Prompting-P1.md",
-    "CheckPoints/quy-dinh (1).pdf",
     "CheckPoints/Prompting - Shortcut.lnk",
     "Data Science/Untitled.md",
     "Data Science",
-    "AI Engineering/DeepLearning/RCNN/Fast-RCNN.md",
     "AI Engineering/DeepLearning/RCNN",
-    "AI Engineering/DeepLearning/Embedding.md",
     "AI Engineering/DeepLearning",
-    "GENAI",
+    "AI Engineering/GENAI",
     "image/Pasted image 20241012093327.png",
     "image/Pasted image 20241012093317.png",
     "image/Pasted image 20241011150843.png",
-    "image/Pasted image 20241011150832.png",
-    "image/Pasted image 20241006191218.png",
-    "image/Pasted image 20241006170247.png",
     "image",
-    "AI Engineering/Machine Learning/Untitled.md",
     "AI Engineering/Machine Learning",
-    "Math/NewNotes.md",
-    "AI Engineering/MLOPs/UI/Gradio.md",
-    "AI Engineering/MLOPs/Các đường link chưa học.md",
-    "AI Engineering/DeepLearning/NLP/RAG/Search/Untitled.md",
-    "AI Engineering/DeepLearning/NLP/RAG/đo đạc.md",
-    "AI Engineering/DeepLearning/NLP/RAG/Tổng quát.md.md",
-    "AI Engineering/DeepLearning/NLP/RAG/Tối ưu.md",
-    "AI Engineering/DeepLearning/NLP/RAG/tạo câu h.md",
-    "AI Engineering/DeepLearning/NLP/RAG/Sản phẩm đã có.md",
-    "AI Engineering/DeepLearning/NLP/RAG/Reference.md",
-    "AI Engineering/DeepLearning/NLP/RAG/New Note.md",
-    "AI Engineering/DeepLearning/NLP/RAG/Intro.md",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "AI Engineering/DeepLearning/NLP/RAG/RAG 1/Search/Untitled.canvas",
