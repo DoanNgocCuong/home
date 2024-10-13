@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ba8eb1723ad91ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cuong test thui nha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RAG/Search/Untitled.md",
+                "file": "cuong test thui nha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RAG/Search/Untitled.md",
+                "file": "cuong test thui nha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,16 +160,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RAG/Search/Untitled.md"
+                "file": "cuong test thui nha.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4174e34dc18db8ef",
+  "active": "6ba8eb1723ad91ad",
   "lastOpenFiles": [
-    "RAG/Search/Untitled.canvas",
     "RAG/Search/Untitled.md",
+    "cuong test thui nha.md",
+    "RAG/Search/Untitled.canvas",
     "Hello.md",
     "RAG/Search",
     "RAG",

@@ -1,10 +1,10 @@
 {
   "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
-  "autoPushInterval": 0,
-  "autoPullInterval": 0,
-  "autoPullOnBoot": false,
+  "autoSaveInterval": 2,
+  "autoPushInterval": 2,
+  "autoPullInterval": 2,
+  "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
@@ -13,13 +13,13 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
-  "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
+  "customMessageOnAutoBackup": true,
+  "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
-  "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false,
+  "differentIntervalCommitAndPush": true,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
@@ -30,10 +30,10 @@
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
   "lineAuthor": {
-    "show": false,
+    "show": true,
     "followMovement": "inactive",
     "authorDisplay": "initials",
-    "showCommitHash": false,
+    "showCommitHash": true,
     "dateTimeFormatOptions": "date",
     "dateTimeFormatCustomString": "YYYY-MM-DD HH:mm",
     "dateTimeTimezone": "viewer-local",
@@ -49,8 +49,10 @@
       "b": 255
     },
     "textColorCss": "var(--text-muted)",
-    "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 5
+    "ignoreWhitespace": true,
+    "gutterSpacingFallbackLength": 22,
+    "lastShownAuthorDisplay": "initials",
+    "lastShownDateTimeFormatOptions": "date"
   },
   "autoCommitMessage": "vault backup: {{date}}"
 }
