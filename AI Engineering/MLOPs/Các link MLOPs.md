@@ -100,3 +100,7 @@ Bạn có thể áp dụng một hoặc nhiều quy trình và công cụ này t
 List of API: [public-api-lists/public-api-lists at dailydev (github.com)](https://github.com/public-api-lists/public-api-lists?ref=dailydev)
 
 [A Comprehensive Guide on MLOps for Machine Learning Engineering (analyticsvidhya.com)](https://www.analyticsvidhya.com/blog/2022/03/a-comprehensive-guide-on-mlops-for-machine-learning-engineering/)
+Có nhiều triển khai về MLOPs 
+![[Pasted image 20241013181142.png]]
+
+	Link: [Resource | AI Engineer Roadmap 2024 | Codebasics](https://codebasics.io/resources/ai-engineer-roadmap-2024) - Full lộ trình AI Engineering
