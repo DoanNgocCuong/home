@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineering/AI Agent/AI Agent note.md",
+                "file": "AI Engineering/DeepLearning/NLP/RAG/Tổng quát.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Engineering/AI Agent/AI Agent note.md",
+                "file": "AI Engineering/DeepLearning/NLP/RAG/Tổng quát.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Engineering/AI Agent/AI Agent note.md",
+                "file": "AI Engineering/DeepLearning/NLP/RAG/Tổng quát.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Engineering/AI Agent/AI Agent note.md"
+                "file": "AI Engineering/DeepLearning/NLP/RAG/Tổng quát.md.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "7edb62798779b30c",
   "lastOpenFiles": [
+    "AI Engineering/DeepLearning/NLP/General NLP.md",
+    "assert.md",
+    "AI Engineering/AI Agent/AI Agent note.md",
     "AI Engineering/MLOPs/Các link MLOPs.md",
     "assert/Pasted image 20241013181142.png",
-    "AI Engineering/AI Agent/AI Agent note.md",
     "assert/Pasted image 20241013180157.png",
     "AI Engineering/Machine Learning/Nguồn Học.md",
     "assert/Pasted image 20241013175653.png",
@@ -192,19 +194,18 @@
     "Math/NewNotes.md",
     "AI Engineering/MLOPs/UI/Gradio.md",
     "AI Engineering/MLOPs/Các đường link chưa học.md",
-    "NLP/RAG/Search/Untitled.md",
-    "NLP/RAG/đo đạc.md",
-    "NLP/RAG/Tổng quát.md.md",
-    "NLP/RAG/Tối ưu.md",
-    "NLP/RAG/tạo câu h.md",
-    "NLP/RAG/Sản phẩm đã có.md",
-    "NLP/RAG/Reference.md",
-    "NLP/RAG/New Note.md",
-    "NLP/RAG/Intro.md",
-    "NLP/RAG/HitRate and Mrr.md",
+    "AI Engineering/DeepLearning/NLP/RAG/Search/Untitled.md",
+    "AI Engineering/DeepLearning/NLP/RAG/đo đạc.md",
+    "AI Engineering/DeepLearning/NLP/RAG/Tổng quát.md.md",
+    "AI Engineering/DeepLearning/NLP/RAG/Tối ưu.md",
+    "AI Engineering/DeepLearning/NLP/RAG/tạo câu h.md",
+    "AI Engineering/DeepLearning/NLP/RAG/Sản phẩm đã có.md",
+    "AI Engineering/DeepLearning/NLP/RAG/Reference.md",
+    "AI Engineering/DeepLearning/NLP/RAG/New Note.md",
+    "AI Engineering/DeepLearning/NLP/RAG/Intro.md",
     "Untitled.canvas",
     "Untitled 3.canvas",
-    "RAG/Search/Untitled.canvas",
+    "AI Engineering/DeepLearning/NLP/RAG/RAG 1/Search/Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
