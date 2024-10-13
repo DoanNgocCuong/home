@@ -1,0 +1,60 @@
+### Tối ưu Chunking: 5 phương pháp Chunking 
+**Chunking strategy** trong Retrieval Augmented Generation (RAG) đề cập đến việc chia nhỏ tài liệu lớn thành các phần (chunks) nhỏ hơn để cải thiện khả năng truy vấn và xử lý của mô hình. Các chiến lược chunking có thể bao gồm:
+
+1. **Chunk theo đoạn văn**: Chia tài liệu thành các đoạn văn nhỏ hơn, mỗi đoạn có thể chứa một ý tưởng hoàn chỉnh, giúp dễ dàng truy vấn các thông tin cụ thể.
+   
+2. **Chunk theo câu**: Mỗi câu được coi là một chunk, đặc biệt hữu ích khi tài liệu có cấu trúc phức tạp và mỗi câu chứa các thông tin quan trọng.
+
+3. **Chunk theo số từ cố định**: Mỗi chunk có một số lượng từ cố định (ví dụ, 100-200 từ). Chiến lược này giữ cho các đoạn có kích thước tương đối đồng đều.
+
+4. **Chunk theo ngữ nghĩa**: Sử dụng mô hình ngôn ngữ để phát hiện các ý tưởng hoặc ngữ cảnh liên quan và chia tài liệu theo các đoạn chứa thông tin có ý nghĩa ngữ cảnh.
+
+5. **Chunk theo mục tiêu**: Nếu biết trước loại thông tin cần tìm kiếm, chunking có thể được thực hiện dựa trên các mục tiêu cụ thể (ví dụ: tiêu đề, câu hỏi, kết luận) để tăng hiệu quả truy vấn.
+
+Chunking giúp mô hình tìm kiếm thông tin chính xác hơn bằng cách tạo ra các phần nhỏ dễ quản lý và phù hợp với giới hạn của mô hình ngôn ngữ (ví dụ: số lượng token).
+
+![[Pasted image 20241004143340.png]]
+### **Các phương pháp Chunking**
+
+- **Fixed-size chunking**: Chia tài liệu thành các chunk có độ dài cố định (ví dụ: 200 hoặc 300 từ). Cách này dễ thực hiện nhưng có thể cắt đứt ngữ nghĩa trong một đoạn văn.
+- **Semantic chunking**: Chia tài liệu theo ngữ nghĩa tự nhiên của văn bản, dựa trên cấu trúc của các đoạn văn hoặc câu. Điều này giữ được ngữ cảnh và giúp hệ thống truy xuất thông tin chính xác hơn.
+- **Sliding window**: Một kỹ thuật khác là sử dụng cửa sổ trượt (sliding window) để di chuyển qua văn bản, giúp tạo ra các chunk có độ dài cố định nhưng giữ lại sự liên kết giữa các đoạn gần nhau.
+### Tối ưu Indexing: 
+- [Indexing với các chunk nhỏ của data](https://viblo.asia/p/bi-kip-vo-cong-thuong-thua-giup-cai-tien-ung-dung-retrieval-augmented-generation-rag-AZoJjra2JY7#_indexing-voi-cac-chunk-nho-cua-data-5)
+- [Indexing bằng cách tạo câu hỏi cho các documents](https://viblo.asia/p/bi-kip-vo-cong-thuong-thua-giup-cai-tien-ung-dung-retrieval-augmented-generation-rag-AZoJjra2JY7#_indexing-bang-cach-tao-cau-hoi-cho-cac-documents-6) => tạo ra các câu hỏi tương ứng với các documents được cung cấp và từ đó indexing các câu hỏi. Lúc này các documents có thể được coi như là các metadata của các câu hỏi được indexing. Để thực hiện điều này thì chúng ta thường sử dụng một model xịn xò như GPT-4
+- [Indexing bản tóm tắt của các documents](https://viblo.asia/p/bi-kip-vo-cong-thuong-thua-giup-cai-tien-ung-dung-retrieval-augmented-generation-rag-AZoJjra2JY7#_indexing-ban-tom-tat-cua-cac-documents-7) 
+Indexing: bằng cách tạo câu hỏi, bản tóm tắt => (documents được coi như metadata)
+- Embedding đối với tên riêng của người, tổ chức, ...
+<Thách thức của QA với tên riêng, danh từ riêng>
+- Xây dựng phân cấp Indexing Hychirach, BM25, Vector Embedding, 
+### Tối ưu Query: 
+- LLMs chỉnh sửa câu hỏi bỏ bớt lỗi sai, ...
+- Mở rộng câu hỏi để nhúng tốt hơn
+
+ [Hypothetical Document Embeddings (HyDE)](https://arxiv.org/pdf/2212.10496), phương pháp này sử dụng các model Instruction following để tạo ra các **Hypothetical answer** là các câu trả lời giả định.
+![[Pasted image 20241011150832.png]]
+
+
+
+## Multi-Query Retriever
+![[Pasted image 20241011150843.png]]
+### Tối ưu Retrieval 
+- trong Retrieval có Search Indexing (Hybirid search?, : [Hierarchical Navigable Small Worlds (HNSW) | Pinecone](https://www.pinecone.io/learn/series/faiss/hnsw/), nhúng chỉ hơn BM25 ở chỗ giải quyết vấn đề ngữ nghĩa, ...): 
+- Reranker
+
+
+### Tối ưu hoá ngữ cảnh
+- ## Chiến lược Map-Reduce: 
+Dùng reranker được 3 chunks => ném qua LLMs luôn để tạo câu hỏi . 
+Thì ta có thể dùng 1 LLMs: để tổng hợp các chunks => extract ra các thông tin liên quan đến câu hỏi => ...
+- ## Map-rerank
+
+Chiến lược này lặp lại qua các document và cố gắng trả lời các câu hỏi kèm theo một điểm số về mức độ chắc chắn của câu trả lời. Chúng ta sẽ lấy ra các câu trả lời có điểm số cao nhất làm câu trả lời cuối cùng.
+
+
+### Tối ưu câu hỏi: 
+- số ký tự câu hỏi, số chunks đưa vào, khoảng cách các chunks. 
+- - **Retrieval Questions**: Câu hỏi đòi hỏi mô hình lấy thông tin trực tiếp từ bộ dữ liệu.
+- **Generation Questions**: Câu hỏi yêu cầu mô hình tạo văn bản mới dựa trên nội dung đã truy xuất.
+- **Combination Questions**: Câu hỏi kết hợp giữa lấy thông tin và suy luận để tạo ra câu trả lời.
+- DỮ LIỆU THỜI GIAN TIMESERI DATASET (DỮ LIỆU THỜI GIAN TRONG EMBEDDING, position embedding, )

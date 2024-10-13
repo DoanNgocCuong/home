@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"6b9e65c4c4d38550","type":"file","file":"NLP/GraphRAG/Tài liệu.md","x":-180,"y":-280,"width":400,"height":400},
+		{"id":"baefad4a2c8a5dc9","type":"file","file":"image/Pasted image 20241005152903.png","x":220,"y":-240,"width":400,"height":211},
+		{"id":"e4f75805250e3274","type":"text","text":"dgdfgfdg","x":200,"y":60,"width":250,"height":60}
+	],
+	"edges":[]
+}

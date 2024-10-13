@@ -1,0 +1,5 @@
+# Basic settings
+title: "DoanNgocCuong" # Tiêu đề của blog
+description: "A blog about AI, technology, and more." # Mô tả ngắn về blog
+baseurl: "/" # Đường dẫn gốc của trang web, thường để "/" nếu là trang cá nhân
+url: "https://DoanNgocCuongBKEGNH.github.io" # URL của trang GitHub Pages của bạn
