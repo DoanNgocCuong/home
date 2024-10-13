@@ -16,31 +16,8 @@
                 "file": "image/Pasted image 20241004112525.png"
               }
             }
-          },
-          {
-            "id": "cfa9e72d91e0d0c8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "AI Engineering/Pasted image 20241004112621.png"
-              }
-            }
-          },
-          {
-            "id": "0333bc47dec3d161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Engineering/Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "full",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Engineering/Roadmap.md",
+                "file": "image/Pasted image 20241004112525.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Engineering/Roadmap.md",
+                "file": "image/Pasted image 20241004112525.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Engineering/Roadmap.md"
+                "file": "image/Pasted image 20241004112525.png"
               }
             }
           },
@@ -176,8 +153,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0333bc47dec3d161",
+  "active": "7edb62798779b30c",
   "lastOpenFiles": [
+    "image/Pasted image 20241004112621.png",
+    "AI Engineering/Roadmap.md",
+    "image/xong.png",
+    "image/DoanNgocCuongALL.png",
+    "AI Engineering/MLOPs/Các đường link chưa học.md",
     "AI Engineering/Machine Learning/Untitled.md",
     "image/Pasted image 20241004112525.png",
     "2024-09-12.md",
@@ -191,9 +173,7 @@
     "Java.md",
     "README.md",
     "TEST 1 2 3 4 5 6 7 8 9.md",
-    "AI Engineering/Roadmap.md",
     "image/Pasted image 20241004134751.png",
-    "AI Engineering/Pasted image 20241004112621.png",
     "smart-chats/UNTITLED CHAT 2024-10-06 10 02 21.md",
     "CheckPoints/quy-dinh (1).pdf",
     "AI Engineering/DeepLearning/NLP/Prompting/Tổng quan.md",
@@ -212,16 +192,12 @@
     "GENAI/AI Engineering.md",
     "AI Engineering/GENAI/GenAI.md",
     "AI Engineering",
-    "TEST 2 3 4 5  6/TEST.md",
     "CheckPoints/Prompting - Shortcut.lnk",
-    "Data Science/Untitled.md",
     "Data Science",
     "AI Engineering/DeepLearning/RCNN",
     "AI Engineering/DeepLearning",
     "AI Engineering/GENAI",
     "image/Pasted image 20241012093327.png",
-    "image/Pasted image 20241012093317.png",
-    "image/Pasted image 20241011150843.png",
     "image",
     "AI Engineering/Machine Learning",
     "Untitled.canvas",
