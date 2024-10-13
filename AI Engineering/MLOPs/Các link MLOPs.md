@@ -98,3 +98,5 @@ Bạn có thể áp dụng một hoặc nhiều quy trình và công cụ này t
 
 
 List of API: [public-api-lists/public-api-lists at dailydev (github.com)](https://github.com/public-api-lists/public-api-lists?ref=dailydev)
+
+[A Comprehensive Guide on MLOps for Machine Learning Engineering (analyticsvidhya.com)](https://www.analyticsvidhya.com/blog/2022/03/a-comprehensive-guide-on-mlops-for-machine-learning-engineering/)
