@@ -4,45 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a04c3696bac4140",
+        "id": "584f5294167f05c0",
         "type": "tabs",
         "children": [
           {
-            "id": "f7b65c0825b41532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdf2c98a8281c8b3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20241004112525.png"
-              }
-            }
-          },
-          {
-            "id": "4174e34dc18db8ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAG/Search/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ba8eb1723ad91ad",
+            "id": "1200b8cc81e041ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4870148fb23c718d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEST 1 2 3 4 5 6 7 8 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cuong test thui nha.md",
+                "file": "TEST 1 2 3 4 5 6 7 8 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cuong test thui nha.md",
+                "file": "TEST 1 2 3 4 5 6 7 8 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,12 +138,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cuong test thui nha.md"
+                "file": "TEST 1 2 3 4 5 6 7 8 9.md"
               }
+            }
+          },
+          {
+            "id": "b0eb5b2678aa1cf3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,21 +168,58 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ba8eb1723ad91ad",
+  "active": "4870148fb23c718d",
   "lastOpenFiles": [
-    "RAG/Search/Untitled.md",
     "cuong test thui nha.md",
-    "RAG/Search/Untitled.canvas",
-    "Hello.md",
-    "RAG/Search",
-    "RAG",
-    "Pasted image 20241004112621.png",
-    "assert/Pasted image 20241004112554.png",
-    "Pasted image 20241004112525.png",
-    "assert",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
+    "TEST 1 2 3 4 5 6 7 8 9.md",
+    "smart-chats/UNTITLED CHAT 2024-10-06 10 02 21.md",
+    "smart-chats",
+    "SystemDesign/UML.md",
+    "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
+    "SystemDesign",
+    "Test/Untitled.md",
+    "Test",
+    "_config.yaml",
     "2024-09-12.md",
+    "AI.ipynb",
+    "git.md",
+    "Hello.md",
+    "index.md",
+    "Java.md",
+    "Pasted image 20241004134751.png",
+    "Pasted image 20241004134858.png",
+    "README.md",
+    "Untitled.canvas",
+    "_posts/2024-07-27-Bai-viet-1-Image-Prompting-P1.md",
+    "CheckPoints/quy-dinh (1).pdf",
+    "CheckPoints/Prompting - Shortcut.lnk",
+    "Data Science/Untitled.md",
+    "Data Science",
+    "DeepLearning/RCNN/Fast-RCNN.md",
+    "DeepLearning/RCNN",
+    "DeepLearning/Embedding.md",
+    "DeepLearning",
+    "GENAI/GenAI.md",
+    "image/Pasted image 20241012093327.png",
+    "image/Pasted image 20241012093317.png",
+    "image/Pasted image 20241011150843.png",
+    "image/Pasted image 20241011150832.png",
+    "image/Pasted image 20241006191218.png",
+    "image/Pasted image 20241006170247.png",
+    "image/Pasted image 20241005153141.png",
+    "image/Pasted image 20241005152916.png",
+    "Machine Learning/Untitled.md",
+    "Machine Learning/Nguồn Học.md",
+    "Math/NewNotes.md",
+    "MLOPs/UI/Gradio.md",
+    "MLOPs/Untitled.md",
+    "MLOPs/Các đường link chưa học.md",
+    "NLP/RAG/Search/Untitled.md",
+    "NLP/RAG/đo đạc.md",
+    "NLP/RAG/Tổng quát.md.md",
+    "Untitled 3.canvas",
+    "RAG/Search/Untitled.canvas",
+    "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
 }
