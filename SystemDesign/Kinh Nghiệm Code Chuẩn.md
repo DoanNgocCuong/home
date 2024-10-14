@@ -95,3 +95,11 @@ Chúc bạn học tốt!
 ---------
 "hard-coded" (e.g., fixed inputs that should be parameterized or configurable)
 ![[Pasted image 20241012093327.png]]
+
+Ussualy:
+- **JavaScript:**
+    - Function Names: `camelCase`
+    - File Names: `kebab-case`
+- **Python:**
+    - Function Names: `snake_case`
+    - File Names: `snake_case`
