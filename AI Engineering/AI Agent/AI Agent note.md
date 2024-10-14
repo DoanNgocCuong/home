@@ -175,3 +175,7 @@ There are several advanced frameworks available for building and deploying auton
 These frameworks provide a wide range of capabilities, from simple task automation to complex, multi-agent collaboration. Depending on your use case, whether it’s automating workflows, building software, or handling enterprise-level tasks, you can choose a framework that fits your requirements【9†source】【10†source】【12†source】【13†source】.
 
 Are you considering any specific tasks or environments where you'd like to deploy such agents?
+
+
+[Let’s Create an Agentic Multimodal Chatbot from Scratch. | by Arthur Lagacherie | Aug, 2024 | Towards AI](https://pub.towardsai.net/lets-create-an-agentic-multimodal-chatbot-from-scratch-7087e3ae8ace?ref=dailydev)
+[Building Smarter Chatbots With Advanced Language Models - The New Stack](https://thenewstack.io/building-smarter-chatbots-with-advanced-language-models/?ref=dailydev)

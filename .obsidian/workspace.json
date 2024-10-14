@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8eac65d781664ade",
+        "id": "072056f1c34c106c",
         "type": "tabs",
         "children": [
           {
-            "id": "7edb62798779b30c",
+            "id": "3797c5f27968c496",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
+                "file": "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
+                "file": "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
+                "file": "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SystemDesign/Kinh Nghiệm Code Chuẩn.md"
+                "file": "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md"
               }
             }
           },
@@ -156,15 +155,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b6b6e1d46d09ac1",
+  "active": "743e8c34ace83558",
   "lastOpenFiles": [
+    "README.md",
+    "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
+    "AI Engineering/LLMFullStack",
+    "CheckPoints/quy-dinh (1).pdf",
+    "Java.md",
+    "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
+    "AI Engineering/AI Agent/AI Agent note.md",
     "Data Science/Big Data.md",
     "Quy tắc code chuẩn/Untitled.md",
     "Quy tắc code chuẩn",
     "AI Engineering/Math/GITHUB CƠ BẢN.md",
     "AI Engineering/MLOPs/Các link MLOPs.md",
     "Data Science/Untitled.md",
-    "AI Engineering/AI Agent/AI Agent note.md",
     "AI Engineering/GENAI/GenAI.md",
     "image/Pasted image 20241004112525.png",
     "image/Pasted image 20241004112621.png",
@@ -181,16 +186,11 @@
     "cuong test thui nha.md",
     "index.md",
     "Hello.md",
-    "Java.md",
-    "README.md",
     "TEST 1 2 3 4 5 6 7 8 9.md",
     "image/Pasted image 20241004134751.png",
     "smart-chats/UNTITLED CHAT 2024-10-06 10 02 21.md",
-    "CheckPoints/quy-dinh (1).pdf",
     "AI Engineering/DeepLearning/NLP/Prompting/Tổng quan.md",
     "_posts/2024-07-27-Bai-viet-1-Image-Prompting-P1.md",
-    "AI Engineering/DeepLearning/NLP/RAG/Tổng quát.md.md",
-    "AI Engineering/DeepLearning/NLP/General NLP.md",
     "image/Pasted image 20241013181142.png",
     "image/Pasted image 20241013180157.png",
     "image/Pasted image 20241013175653.png",
@@ -203,7 +203,6 @@
     "AI Engineering/DeepLearning",
     "AI Engineering/GENAI",
     "image/Pasted image 20241012093327.png",
-    "image",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "AI Engineering/DeepLearning/NLP/RAG/RAG 1/Search/Untitled.canvas",
