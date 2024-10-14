@@ -6,4 +6,5 @@ Free full stack: [Free Full Stack LLM Bootcamp - KDnuggets](https://www.kdnugget
 
 Fullstacj Connector in Pathway:[Connectors in Pathway](https://pathway.com/developers/user-guide/connect/pathway-connectors)
 
+MLOPs All you need to know: [MLOps All You Need To Know. What is MLOps ? | by Aashish Naik | Aug, 2024 | GoPenAI](https://blog.gopenai.com/mlops-all-you-need-to-know-8fe55a2772b0)
 

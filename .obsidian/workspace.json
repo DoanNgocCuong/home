@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
+                "file": "AI Engineering/4. DeepLearning/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
+                "file": "AI Engineering/4. DeepLearning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
+                "file": "AI Engineering/4. DeepLearning/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md"
+                "file": "AI Engineering/4. DeepLearning/Untitled.md"
               }
             }
           },
@@ -157,8 +157,27 @@
   },
   "active": "743e8c34ace83558",
   "lastOpenFiles": [
-    "README.md",
+    "AI Engineering/4. DeepLearning/4.1 NLP Cơ bản",
+    "AI Engineering/4. DeepLearning/4.1 NLP/Benchmarks/Resources.md",
+    "AI Engineering/4. DeepLearning/Untitled.md",
+    "AI Engineering/3. Machine Learning/Untitled.md",
+    "AI Engineering/3. Machine Learning/Nguồn Học.md",
+    "AI Engineering/Python.md",
+    "AI Engineering/2. Python",
+    "AI Engineering/1. Math/Các link.md",
+    "AI Engineering/LLMFullStack/GITHUB CƠ BẢN.md",
+    "AI Engineering/MLOPs/Các Link MLOPs.md",
+    "AI Engineering/Math/Untitled.md",
+    "AI Engineering/MLOPs/Ghi chú MLOPs.md",
+    "AI Engineering/Roadmap.md",
+    "AI Engineering/Untitled.md",
+    "Pasted image 20241014231129.png",
+    "AI Engineering/MLOPs/Các đường link chưa học.md",
+    "AI Engineering/4. DeepLearning/4.1 NLP/GraphRAG/Tài liệu.md",
+    "AI Engineering/4. DeepLearning/4.1 NLP/RAG/RAG for Math.md",
+    "AI Engineering/4. DeepLearning/4.1 NLP/RAG/RAG for Math",
     "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
+    "README.md",
     "AI Engineering/LLMFullStack",
     "CheckPoints/quy-dinh (1).pdf",
     "Java.md",
@@ -167,30 +186,14 @@
     "Data Science/Big Data.md",
     "Quy tắc code chuẩn/Untitled.md",
     "Quy tắc code chuẩn",
-    "AI Engineering/Math/GITHUB CƠ BẢN.md",
-    "AI Engineering/MLOPs/Các link MLOPs.md",
     "Data Science/Untitled.md",
     "AI Engineering/GENAI/GenAI.md",
     "image/Pasted image 20241004112525.png",
     "image/Pasted image 20241004112621.png",
-    "AI Engineering/Roadmap.md",
     "image/xong.png",
     "image/DoanNgocCuongALL.png",
-    "AI Engineering/MLOPs/Các đường link chưa học.md",
-    "AI Engineering/Machine Learning/Untitled.md",
     "2024-09-12.md",
-    "Untitled.md",
-    "2024-10-13.md",
-    "SystemDesign/git.md",
-    "assert.md",
-    "cuong test thui nha.md",
-    "index.md",
-    "Hello.md",
-    "TEST 1 2 3 4 5 6 7 8 9.md",
     "image/Pasted image 20241004134751.png",
-    "smart-chats/UNTITLED CHAT 2024-10-06 10 02 21.md",
-    "AI Engineering/DeepLearning/NLP/Prompting/Tổng quan.md",
-    "_posts/2024-07-27-Bai-viet-1-Image-Prompting-P1.md",
     "image/Pasted image 20241013181142.png",
     "image/Pasted image 20241013180157.png",
     "image/Pasted image 20241013175653.png",
@@ -199,13 +202,10 @@
     "AI Engineering",
     "CheckPoints/Prompting - Shortcut.lnk",
     "Data Science",
-    "AI Engineering/DeepLearning/RCNN",
-    "AI Engineering/DeepLearning",
-    "AI Engineering/GENAI",
-    "image/Pasted image 20241012093327.png",
+    "AI Engineering/4. DeepLearning/RCNN",
     "Untitled.canvas",
     "Untitled 3.canvas",
-    "AI Engineering/DeepLearning/NLP/RAG/RAG 1/Search/Untitled.canvas",
+    "AI Engineering/4. DeepLearning/4.1 NLP/RAG/RAG 1/Search/Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
