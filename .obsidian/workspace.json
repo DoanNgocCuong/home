@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Database/Larkbase.md",
+                "file": "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "config",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Database/Larkbase.md",
+                "file": "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Database/Larkbase.md",
+                "file": "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Database/Larkbase.md"
+                "file": "SystemDesign/Kinh Nghiệm Code Chuẩn.md"
               }
             }
           },
@@ -170,15 +171,19 @@
   },
   "active": "b15f9122486d569f",
   "lastOpenFiles": [
+    "Data Science/Database/Larkbase.md",
+    "README.md",
+    "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
+    "Google AppsScripts.md",
+    "AI Engineering/LLMFullStack/GITHUB CƠ BẢN.md",
+    "SystemDesign/git.md",
     "Pasted image 20241015200656.png",
     "Pasted image 20241015195202.png",
     "Pasted image 20241015173324.png",
     "Pasted image 20241015172924.png",
     "Pasted image 20241015172920.png",
     "Pasted image 20241015161253.png",
-    "Google AppsScripts.md",
     "Java.md",
-    "Data Science/Database/Larkbase.md",
     "Data Science/Database/Note chung các Database.md",
     "Data Science/Database/MongoDB.md",
     "COMPUTER NETWORK/NETWORK.md",
@@ -202,20 +207,16 @@
     "AI Engineering/4. DeepLearning/4.2 NLP/Benchmarks/Resources.md",
     "AI Engineering/2. Python",
     "AI Engineering/1. Math/Các link.md",
-    "AI Engineering/LLMFullStack/GITHUB CƠ BẢN.md",
     "AI Engineering/MLOPs/Các Link MLOPs.md",
     "AI Engineering/Math/Untitled.md",
     "AI Engineering/MLOPs/Ghi chú MLOPs.md",
     "AI Engineering/Roadmap.md",
     "Pasted image 20241014231129.png",
-    "AI Engineering/4. DeepLearning/4.2 NLP/GraphRAG/Tài liệu.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG for Math.md",
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG for Math",
     "AI Engineering/LLMFullStack",
     "image/Pasted image 20241004112525.png",
     "image/Pasted image 20241004112621.png",
     "image/xong.png",
-    "image/DoanNgocCuongALL.png",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG 1/Search/Untitled.canvas",

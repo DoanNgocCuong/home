@@ -1,6 +1,6 @@
 1. Có gì ko biết cứ gpt ko phải nhớ: 
 - Quay lại commit trước đó: `git reset --hard fff1206`
-- **Gỡ commit gần nhất nhưng giữ lại thay đổi (soft reset)**:
+- **Gỡ commit gần nhất nhưng giữ lại thay đổi (soft reset)**: `git reset --soft HEAD^`
 - **Gỡ commit gần nhất và loại bỏ luôn thay đổi (hard reset)**:
 3. Đánh dấu phiên bản: demo, deploy 1.1, ....
 

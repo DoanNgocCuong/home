@@ -103,3 +103,37 @@ Ussualy:
 - **Python:**
     - Function Names: `snake_case`
     - File Names: `snake_case`
+
+## `config.py` and `.env`: 
+#### **Key Differences**
+
+1. **Sensitivity:**
+    
+    - **Config Files:** Store non-sensitive settings; safe to commit to version control.
+    - **`.env` Files:** Store sensitive information; should **not** be committed to version control.
+2. **Format and Complexity:**
+    
+    - **Config Files:** Support complex data types and nested structures.
+    - **`.env` Files:** Simple flat key-value pairs.
+3. **Access Method:**
+    
+    - **Config Files:** Parsed using appropriate parsers (`configparser`, `json`, `yaml`).
+    - **`.env` Files:** Loaded into environment variables and accessed via `os.environ`.
+4. **Purpose in Development Workflow:**
+    
+    - **Config Files:** Define default or shared configurations across environments.
+    - **`.env` Files:** Customize or override configurations per environment (development, testing, production).
+    ==========================================================
+- **Config Files:**
+    
+    - Used for general, non-sensitive application settings.
+    - Can have complex structures.
+    - Usually committed to version control.
+- **`.env` Files:**
+    
+    - Used for sensitive data and environment-specific settings.
+    - Simple key-value pairs.
+    - Should not be committed to version control.
+- **Separation of Concerns:** Keeps your codebase clean and secure by separating sensitive data from the application logic.
+- **Flexibility:** Allows different settings per environment without changing code.
+- **Security:** Reduces the risk of accidentally exposing sensitive information.
