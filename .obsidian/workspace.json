@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineering/4. DeepLearning/Untitled.md",
+                "file": "Data Science/Database/Larkbase.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Engineering/4. DeepLearning/Untitled.md",
+                "file": "Data Science/Database/Larkbase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Engineering/4. DeepLearning/Untitled.md",
+                "file": "Data Science/Database/Larkbase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Engineering/4. DeepLearning/Untitled.md"
+                "file": "Data Science/Database/Larkbase.md"
               }
             }
           },
@@ -155,14 +155,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "743e8c34ace83558",
+  "active": "3797c5f27968c496",
   "lastOpenFiles": [
-    "AI Engineering/4. DeepLearning/4.1 NLP Cơ bản",
-    "AI Engineering/4. DeepLearning/4.1 NLP/Benchmarks/Resources.md",
-    "AI Engineering/4. DeepLearning/Untitled.md",
+    "Data Science/Database/Note chung các Database.md",
+    "Data Science/Database/Larkbase.md",
+    "Data Science/Database/MongoDB.md",
+    "COMPUTER NETWORK/NETWORK.md",
+    "Data Science/Database",
+    "Untitled",
+    "AI Engineering/4. DeepLearning/4.1 NLP Cơ bản/NGUỒN HỌC.md",
+    "COMPUTER NETWORK",
+    "AI Engineering/Python.md",
+    "AI Engineering/Untitled.md",
+    "LỘ TRÌNH SỰ TIỀN/Note Lương.md",
+    "AI Engineering/MLOPs/Các đường link chưa học.md",
+    "LỘ TRÌNH SỰ TIỀN",
     "AI Engineering/3. Machine Learning/Untitled.md",
     "AI Engineering/3. Machine Learning/Nguồn Học.md",
-    "AI Engineering/Python.md",
+    "_posts/English/Nguồn học.md",
+    "Senior/Tư duy.md",
+    "_posts/English",
+    "AI Engineering/4. DeepLearning/Untitled.md",
+    "Senior",
+    "AI Engineering/4. DeepLearning/4.1 NLP Cơ bản",
+    "AI Engineering/4. DeepLearning/4.2 NLP/Benchmarks/Resources.md",
     "AI Engineering/2. Python",
     "AI Engineering/1. Math/Các link.md",
     "AI Engineering/LLMFullStack/GITHUB CƠ BẢN.md",
@@ -170,42 +186,26 @@
     "AI Engineering/Math/Untitled.md",
     "AI Engineering/MLOPs/Ghi chú MLOPs.md",
     "AI Engineering/Roadmap.md",
-    "AI Engineering/Untitled.md",
     "Pasted image 20241014231129.png",
-    "AI Engineering/MLOPs/Các đường link chưa học.md",
-    "AI Engineering/4. DeepLearning/4.1 NLP/GraphRAG/Tài liệu.md",
-    "AI Engineering/4. DeepLearning/4.1 NLP/RAG/RAG for Math.md",
-    "AI Engineering/4. DeepLearning/4.1 NLP/RAG/RAG for Math",
+    "AI Engineering/4. DeepLearning/4.2 NLP/GraphRAG/Tài liệu.md",
+    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG for Math.md",
+    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG for Math",
     "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
     "README.md",
     "AI Engineering/LLMFullStack",
-    "CheckPoints/quy-dinh (1).pdf",
     "Java.md",
-    "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
-    "AI Engineering/AI Agent/AI Agent note.md",
-    "Data Science/Big Data.md",
-    "Quy tắc code chuẩn/Untitled.md",
-    "Quy tắc code chuẩn",
-    "Data Science/Untitled.md",
-    "AI Engineering/GENAI/GenAI.md",
     "image/Pasted image 20241004112525.png",
     "image/Pasted image 20241004112621.png",
     "image/xong.png",
     "image/DoanNgocCuongALL.png",
-    "2024-09-12.md",
     "image/Pasted image 20241004134751.png",
     "image/Pasted image 20241013181142.png",
     "image/Pasted image 20241013180157.png",
     "image/Pasted image 20241013175653.png",
     "image/Pasted image 20241013174151.png",
-    "AI Engineering/AI Agent",
-    "AI Engineering",
-    "CheckPoints/Prompting - Shortcut.lnk",
-    "Data Science",
-    "AI Engineering/4. DeepLearning/RCNN",
     "Untitled.canvas",
     "Untitled 3.canvas",
-    "AI Engineering/4. DeepLearning/4.1 NLP/RAG/RAG 1/Search/Untitled.canvas",
+    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG 1/Search/Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
