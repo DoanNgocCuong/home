@@ -1,8 +1,7 @@
 - Đường link read: 
-	- https://lark-base-team.github.io/js-sdk-docs/en/api/guide
+	- API Guide: https://lark-base-team.github.io/js-sdk-docs/en/api/guide
 	
-	- https://www.larksuite.com/hc/en-US/articles/125809335872-use-base-to-automate-the-sending-of-http-requests
-
+	- [Automations (larksuite.com)](https://www.larksuite.com/hc/en-US/category/7187737994626039813-automations)
   
 ```
 
@@ -34,3 +33,39 @@ Như vậy, bạn sử dụng **tenant_access_token** khi không cần truy cậ
 - [Obtain Access Tokens - Lark Developer](https://open.larksuite.com/document/server-docs/getting-started/api-access-token/app-access-token-development-guide)
 
 ```
+
+## Cách để connect: Pipeline: DATA -> API/APP -> DATABASE (MongoDB, Excel sử dụng AppsScripts, Larkbase)
+
+Video hướng dẫn: https://youtu.be/zrJH3xJRzAA?feature=shared
+Playlist: [Hướng dẫn tự động truyền dữ liệu khách hàng trên Ladipage về Base (youtube.com)](https://www.youtube.com/playlist?list=PLLoxrqyIDp4FQTEvBvnoSAKvV4PI8g0I2)
+
+![[Pasted image 20241015161253.png]]
+
+### 2.1 Cách connect App với Larkbase
+1. Create App: [Lark Developer (larksuite.com)](https://open.larksuite.com/app)
+2. Submit release app: [Review custom apps - Developer Guides - Documentation - Lark Developer (larksuite.com)](https://open.larksuite.com/document/best-practices/intro-to-custom-app-review)
+3. Quản lý các app đã tạo: [App Management - Lark Admin Console (larksuite.com)](https://csg2ej4iz2hz.sg.larksuite.com/admin/appCenter/manage)
+(Sau khi submit xong, vào larkbase để import Application mà vẫn chưa được)
+Cuối cùng nhận ra  phần IMPORT QUYỀN ở: `Permissions & Scopes` tích `All` rùi thật ra vẫn chưa được, phải vào `Docs`
+### Define App
+- API of APP: https://open.larksuite.com/api-explorer/
+![[Pasted image 20241015173324.png]]
+- `app_token`: vào từng app để lấy "APP Secret" : để biết bạn dùng app nào? 
+
+[Update a record - Server API - Documentation - Lark Developer (larksuite.com)](https://open.larksuite.com/document/server-docs/docs/bitable-v1/app-table-record/update?appId=cli_a7848edc6b7a9010)
+
+### 2.2 WebHook - Larksuite ? 
+- https://botbuilder.larksuite.com/ - Flow? 
+
+## 2.3 API DIRECTLY TO LARKBASE: 
+- [Create a record - Server API - Documentation - Lark Developer (larksuite.com)](https://open.larksuite.com/document/server-docs/docs/bitable-v1/app-table-record/create)
+	- Access token có thể là `tenant_access_token` (dành cho ứng dụng) hoặc `user_access_token` (dành cho người dùng cụ thể).
+	- CÁI App (KHẢ NĂNG LÀ APP CÓ UI của 2.1) nó hiển thị lên làm mình cứ tìm mãi cái `app_token` của cái app đó. Sau mới nhận ra
+		- `app_token` là mã định danh của ứng dụng Base,  `gpt bảo`
+		- và `table_id` là mã định danh của bảng dữ liệu bạn muốn thêm record. (Cũng đi tìm mã định danh, sau nhận ra nó ở ngay trên cái đường link: `[‍​​﻿﻿​⁠‌​​⁠‌﻿​﻿​‌​​‍​​﻿​⁠﻿‌‍​​‌​​​​​​‍⁠​‍⁠‌​‌‍​‬​​Untitled base - Lark Docs (larksuite.com)](https://csg2ej4iz2hz.sg.larksuite.com/base/HTJ6bPPPfaelL5sKDVglGHHOgCg?table=tblpgKokUDFf7cFn&view=vewoxkJT8q)`
+
+
+![[Pasted image 20241015200656.png]]
+
+
+

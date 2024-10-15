@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google AppsScripts.md",
+                "file": "Data Science/Database/Larkbase.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google AppsScripts.md",
+                "file": "Data Science/Database/Larkbase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google AppsScripts.md",
+                "file": "Data Science/Database/Larkbase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google AppsScripts.md"
+                "file": "Data Science/Database/Larkbase.md"
               }
             }
           },
@@ -170,8 +170,14 @@
   },
   "active": "b15f9122486d569f",
   "lastOpenFiles": [
-    "Java.md",
+    "Pasted image 20241015200656.png",
+    "Pasted image 20241015195202.png",
+    "Pasted image 20241015173324.png",
+    "Pasted image 20241015172924.png",
+    "Pasted image 20241015172920.png",
+    "Pasted image 20241015161253.png",
     "Google AppsScripts.md",
+    "Java.md",
     "Data Science/Database/Larkbase.md",
     "Data Science/Database/Note chung các Database.md",
     "Data Science/Database/MongoDB.md",
@@ -205,17 +211,11 @@
     "AI Engineering/4. DeepLearning/4.2 NLP/GraphRAG/Tài liệu.md",
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG for Math.md",
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG for Math",
-    "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
     "AI Engineering/LLMFullStack",
     "image/Pasted image 20241004112525.png",
     "image/Pasted image 20241004112621.png",
     "image/xong.png",
     "image/DoanNgocCuongALL.png",
-    "image/Pasted image 20241004134751.png",
-    "image/Pasted image 20241013181142.png",
-    "image/Pasted image 20241013180157.png",
-    "image/Pasted image 20241013175653.png",
-    "image/Pasted image 20241013174151.png",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG 1/Search/Untitled.canvas",
