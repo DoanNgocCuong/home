@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Database/Larkbase.md",
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b15f9122486d569f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google AppsScripts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Database/Larkbase.md",
+                "file": "Google AppsScripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Database/Larkbase.md",
+                "file": "Google AppsScripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Database/Larkbase.md"
+                "file": "Google AppsScripts.md"
               }
             }
           },
@@ -155,10 +168,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3797c5f27968c496",
+  "active": "b15f9122486d569f",
   "lastOpenFiles": [
-    "Data Science/Database/Note chung các Database.md",
+    "Java.md",
+    "Google AppsScripts.md",
     "Data Science/Database/Larkbase.md",
+    "Data Science/Database/Note chung các Database.md",
     "Data Science/Database/MongoDB.md",
     "COMPUTER NETWORK/NETWORK.md",
     "Data Science/Database",
@@ -191,9 +206,7 @@
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG for Math.md",
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG for Math",
     "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
-    "README.md",
     "AI Engineering/LLMFullStack",
-    "Java.md",
     "image/Pasted image 20241004112525.png",
     "image/Pasted image 20241004112621.png",
     "image/xong.png",
