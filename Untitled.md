@@ -174,3 +174,4 @@ Product - plan use api - call API - giữ model - ko cần nhiều phần cứng
 
 
 Cách vẽ bản tr
+
