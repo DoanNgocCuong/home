@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
+                "file": "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG 1/CHUNKING.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "config",
+                "query": "RAG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
+                "file": "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG 1/CHUNKING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
+                "file": "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG 1/CHUNKING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SystemDesign/Kinh Nghiệm Code Chuẩn.md"
+                "file": "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG 1/CHUNKING.md"
               }
             }
           },
@@ -171,9 +170,22 @@
   },
   "active": "b15f9122486d569f",
   "lastOpenFiles": [
+    "Pasted image 20241016140959.png",
+    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Search/Untitled.md",
+    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG 1/CHUNKING.md",
+    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Untitled.md",
+    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG for Math.md",
+    "AI Engineering/AI Agent/AI Agent note.md",
+    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Tối ưu.md",
+    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Hello.md",
     "Data Science/Database/Larkbase.md",
-    "README.md",
+    "Pasted image 20241016114305.png",
+    "Pasted image 20241016103259.png",
+    "Data Science/Data Story.md",
+    "Pasted image 20241016093535.png",
+    "Data Science/Untitled.md",
     "SystemDesign/Kinh Nghiệm Code Chuẩn.md",
+    "README.md",
     "Google AppsScripts.md",
     "AI Engineering/LLMFullStack/GITHUB CƠ BẢN.md",
     "SystemDesign/git.md",
@@ -197,26 +209,13 @@
     "AI Engineering/MLOPs/Các đường link chưa học.md",
     "LỘ TRÌNH SỰ TIỀN",
     "AI Engineering/3. Machine Learning/Untitled.md",
-    "AI Engineering/3. Machine Learning/Nguồn Học.md",
-    "_posts/English/Nguồn học.md",
-    "Senior/Tư duy.md",
     "_posts/English",
-    "AI Engineering/4. DeepLearning/Untitled.md",
     "Senior",
     "AI Engineering/4. DeepLearning/4.1 NLP Cơ bản",
-    "AI Engineering/4. DeepLearning/4.2 NLP/Benchmarks/Resources.md",
     "AI Engineering/2. Python",
-    "AI Engineering/1. Math/Các link.md",
-    "AI Engineering/MLOPs/Các Link MLOPs.md",
-    "AI Engineering/Math/Untitled.md",
-    "AI Engineering/MLOPs/Ghi chú MLOPs.md",
-    "AI Engineering/Roadmap.md",
     "Pasted image 20241014231129.png",
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG for Math",
     "AI Engineering/LLMFullStack",
-    "image/Pasted image 20241004112525.png",
-    "image/Pasted image 20241004112621.png",
-    "image/xong.png",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG 1/Search/Untitled.canvas",
