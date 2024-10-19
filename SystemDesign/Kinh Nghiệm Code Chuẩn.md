@@ -139,132 +139,38 @@ Ussualy:
 - **Security:** Reduces the risk of accidentally exposing sensitive information.
 
 
-### Cách import tuyệt đối và tương đối 
-### Tổng kết về Import Tương Đối và Tuyệt Đối trong Python
+### Bảng So Sánh Import Tuyệt Đối và Import Tương Đối trong Python
 
-#### 1. **Import Tuyệt Đối**:
-   - **Khi sử dụng**: Import từ bất kỳ vị trí nào trong project, dựa trên cấu trúc thư mục từ gốc của dự án.
-   - **Ưu điểm**: Rõ ràng, dễ bảo trì, và hoạt động tốt khi chạy file trực tiếp hoặc từ bất kỳ thư mục nào.
-   - **Ví dụ**:
-     ```python
-     from backend_package.ChatAssistant_class import ChatAssistant
-     ```
+|**Tiêu chí**|**Import Tuyệt Đối**|**Import Tương Đối**|
+|---|---|---|
+|**Cách sử dụng**|Import module với đường dẫn đầy đủ từ thư mục gốc của dự án.|Import module bằng cách sử dụng dấu chấm để chỉ định vị trí tương đối trong cùng package.|
+|**Ví dụ**|`from backend_package.ChatAssistant_class import ChatAssistant`|`from .ChatAssistant_class import ChatAssistant`|
+|**Khi nào nên dùng**|- Khi bạn muốn chạy file Python trực tiếp từ dòng lệnh.  <br>- Khi cần rõ ràng về đường dẫn của module trong dự án.|- Khi các file nằm trong cùng một package và không cần chạy file trực tiếp từ dòng lệnh.  <br>- Dùng khi dự án có cấu trúc thư mục gọn gàng và liên kết chặt chẽ.|
+|**Ưu điểm**|- Rõ ràng, dễ bảo trì, dễ sử dụng trong các dự án lớn.  <br>- Hoạt động tốt khi chạy file từ bất kỳ thư mục nào.|- Giữ cho code gọn gàng, không cần hardcode đường dẫn.|
+|**Nhược điểm**|- Có thể dẫn đến import dài dòng nếu cấu trúc thư mục phức tạp.|- Không hoạt động khi chạy trực tiếp file từ dòng lệnh.  <br>- Yêu cầu chạy qua một entry point khác (như `main.py`).|
+|**Hoạt động khi chạy trực tiếp**|Hoạt động tốt khi chạy file trực tiếp từ dòng lệnh.|Không hoạt động khi chạy trực tiếp file từ dòng lệnh.|
+|**Hoạt động qua `main.py`**|Hoạt động tốt khi gọi file qua `main.py` (entry point của dự án).|Hoạt động tốt nếu gọi qua `main.py` với điều kiện file không được chạy trực tiếp.|
+|**Khi nào không nên dùng**|- Không phù hợp nếu cấu trúc thư mục quá dài và cần nhiều import từ các thư mục khác nhau.|- Khi cần chạy file trực tiếp từ dòng lệnh.|
+|**Độ phổ biến**|Được sử dụng phổ biến trong các dự án lớn và khi triển khai ứng dụng.|Ít phổ biến hơn, chỉ phù hợp trong các dự án có cấu trúc đơn giản hoặc khi làm việc trong nội bộ package.|
 
-#### 2. **Import Tương Đối**:
-   - **Khi sử dụng**: Dùng khi bạn làm việc bên trong một package và không chạy trực tiếp file đó mà thông qua một entry point khác (như `main.py`).
-   - **Ưu điểm**: Giữ cho code gọn gàng, tránh phải hardcode đường dẫn nếu các module nằm cùng package.
-   - **Nhược điểm**: Không hoạt động khi bạn chạy module trực tiếp.
-   - **Ví dụ**:
-     ```python
-     from .ChatAssistant_class import ChatAssistant
-     ```
+### Tóm tắt:
 
-### Khi nào sử dụng Import Tương Đối?
-- Khi các file nằm trong cùng package và bạn không chạy file đó trực tiếp từ dòng lệnh mà thông qua một entry point khác (như `main.py`).
-- Import tương đối dùng để tránh phải chỉ rõ đường dẫn tuyệt đối của module trong dự án, nhất là khi bạn làm việc với nhiều module có sự liên quan chặt chẽ trong cùng một thư mục.
+- **Import Tuyệt Đối**: Phù hợp với các dự án lớn, rõ ràng và dễ bảo trì. Sử dụng khi bạn muốn chạy file Python trực tiếp từ dòng lệnh.
+- **Import Tương Đối**: Phù hợp khi các module nằm trong cùng package và bạn không cần chạy file trực tiếp, thường được sử dụng khi chạy qua `main.py`.
+### Về .env, config.py, .yaml
+### So sánh tổng quan
 
-### Khi nào không nên sử dụng Import Tương Đối?
-- Khi bạn muốn chạy trực tiếp một file từ dòng lệnh. Lúc này, Python không nhận diện được cấu trúc package, dẫn đến lỗi.
-- Trong những trường hợp này, bạn nên dùng import tuyệt đối để rõ ràng về đường dẫn của module.
+|**Tiêu chí**|**.env**|**config.py**|**.yaml**|
+|---|---|---|---|
+|**Cách gọi hàm**|`os.getenv()`|`from config import ...`|`yaml.safe_load()`|
+|**Thư viện cần thiết**|`python-dotenv`|Không cần thư viện|`PyYAML`|
+|**Khi nào nên dùng**|Thông tin nhạy cảm, biến môi trường|Cấu hình đơn giản trong mã Python|Cấu hình phức tạp, có nhiều cấp độ|
+|**Ưu điểm**|Độc lập với mã nguồn, dễ thay đổi|Đơn giản, trực tiếp|Định dạng cấu hình dễ đọc, hỗ trợ phức tạp|
+|**Nhược điểm**|Cần thư viện phụ trợ|Lưu trực tiếp cấu hình trong mã|Cần thư viện phụ trợ, hơi phức tạp khi cấu hình nhỏ|
+|**Tương tự trong ngôn ngữ khác**|`.env` file trong Node.js, Ruby|File cấu hình trong nhiều ngôn ngữ|YAML cũng phổ biến trong Node.js, Go, DevOps|
 
-### Ví dụ Cụ Thể
+### Kết luận
 
-#### Cấu trúc dự án:
-```
-APIBasicRAG_chatbot/
-├── backend_package/
-│   ├── ChatAssistant_class.py
-│   └── Threading_ExtendedChatAssistant_class_useCheckTenantAccessToken.py
-├── main.py
-├── .env
-└── config.py
-```
-
-#### 1. **Import Tương Đối**:
-   - Trong file `Threading_ExtendedChatAssistant_class_useCheckTenantAccessToken.py`:
-     ```python
-     from .ChatAssistant_class import ChatAssistant
-     ```
-   - **Cách chạy đúng**:
-     ```bash
-     python main.py
-     ```
-
-#### 2. **Import Tuyệt Đối**:
-   - Trong file `Threading_ExtendedChatAssistant_class_useCheckTenantAccessToken.py`:
-     ```python
-     from backend_package.ChatAssistant_class import ChatAssistant
-     ```
-   - **Cách chạy đúng** (khi chạy trực tiếp file):
-     ```bash
-     python backend_package/Threading_ExtendedChatAssistant_class_useCheckTenantAccessToken.py
-     ```
-
-### Tổng Kết
-- Sử dụng **import tương đối** khi các module nằm trong cùng package và bạn không chạy module trực tiếp từ dòng lệnh.
-- Sử dụng **import tuyệt đối** khi bạn chạy module trực tiếp hoặc cần rõ ràng về đường dẫn module trong dự án.
-
-**Có**, import tuyệt đối **hoàn toàn chạy được** khi bạn sử dụng `main.py` làm entry point để khởi chạy ứng dụng. Thực tế, import tuyệt đối là cách phổ biến và thường được khuyến khích sử dụng trong các dự án Python lớn để đảm bảo rõ ràng và dễ bảo trì.
-
-
-Cách bạn sử dụng import tương đối như `from get_tenantAccessToken_funct import get_tenant_access_token` trong code của bạn sẽ **không hoạt động** đúng cả khi bạn **chạy file trực tiếp** và khi **gọi qua `main.py`**, bởi vì:
-
-1. **Khi chạy file trực tiếp** (`python backend_package/your_file.py`):
-    
-    - Python sẽ coi file đó là một **script độc lập**, không phải là một phần của package `backend_package`. Vì thế, nó sẽ không thể tìm thấy module `get_tenantAccessToken_funct` nằm trong cùng thư mục.
-    - Để làm cho import hoạt động trong trường hợp này, bạn cần sử dụng **import tuyệt đối** với đường dẫn đầy đủ từ thư mục gốc dự án.
-2. **Khi gọi qua `main.py`** (`python main.py`):
-    
-    - Khi `main.py` gọi file của bạn, Python coi file đó là một module của package `backend_package`. Nếu `main.py` nằm ở thư mục gốc và gọi các module bên trong `backend_package`, thì bạn có thể sử dụng import tương đối (nhưng phải dùng cú pháp `.`).
-
-### Cách để import hoạt động trong cả hai trường hợp:
-
-Bạn có hai tùy chọn:
-
-### 1. **Sử dụng import tuyệt đối (nên dùng)**:
-
-- Thay `from get_tenantAccessToken_funct import get_tenant_access_token` bằng:
-    
-    python
-    
-    Copy code
-    
-    `from backend_package.get_tenantAccessToken_funct import get_tenant_access_token`
-    
-- **Lợi ích**: Import tuyệt đối sẽ hoạt động cả khi bạn chạy file trực tiếp và khi gọi từ `main.py`, vì Python sẽ biết chính xác nơi tìm module trong dự án.
-
-### 2. **Sử dụng import tương đối với dấu chấm khi gọi từ `main.py`**:
-
-- Nếu bạn muốn sử dụng import tương đối, bạn phải sử dụng dấu chấm để chỉ ra rằng `get_tenantAccessToken_funct` nằm trong cùng package với file hiện tại. Điều này chỉ hoạt động khi bạn chạy thông qua `main.py` (bạn không thể chạy file trực tiếp):
-    
-    python
-    
-    Copy code
-    
-    `from .get_tenantAccessToken_funct import get_tenant_access_token`
-    
-- **Lưu ý**: Điều này **sẽ không hoạt động** nếu bạn chạy trực tiếp file Python trong `backend_package` mà không thông qua `main.py`.
-
-### Tóm lại:
-
-- **Nếu bạn muốn import hoạt động cả khi chạy trực tiếp và khi gọi từ `main.py`**, hãy sử dụng **import tuyệt đối**:
-    
-    python
-    
-    Copy code
-    
-    `from backend_package.get_tenantAccessToken_funct import get_tenant_access_token`
-    
-- **Nếu bạn chỉ chạy qua `main.py`** và muốn giữ import tương đối, hãy sử dụng dấu chấm:
-    
-    python
-    
-    Copy code
-    
-    `from .get_tenantAccessToken_funct import get_tenant_access_token`
-    
-
-### Kết luận:
-
-- **Import tuyệt đối**: Hoạt động trong mọi trường hợp.
-- **Import tương đối (với dấu chấm)**: Chỉ hoạt động khi gọi từ `main.py`, không khi chạy file trực tiếp.
+- **.env**: Tốt nhất cho các biến môi trường hoặc thông tin nhạy cảm.
+- **config.py**: Dễ dùng, phù hợp cho các dự án nhỏ, nhưng không tốt cho thông tin nhạy cảm.
+- **.yaml**: Phù hợp cho các dự án lớn hoặc khi cần cấu hình phức tạp, dễ quản lý khi dữ liệu phức tạp.

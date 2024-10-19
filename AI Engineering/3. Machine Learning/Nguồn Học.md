@@ -11,3 +11,11 @@ Link tài liệu: Slide, Report: [https://drive.google.com/drive/folders/1FDwvb
 
 All Algorithms in 17 mins: https://www.youtube.com/watch?v=E0Hmnixke2g
 - [Twitter Sentiment Analysis Using Python - Analytics Vidhya](https://courses.analyticsvidhya.com/courses/twitter-sentiment-analysis)
+
+- Sách mới (08-2024) về machine learning từ MIT
+
+- Sách này nặng về lý thuyết (nhiều công thức toán và các phần chứng minh)
+
+- Sách phù hợp cho những bạn đã có kinh nghiệm về machine learning rồi; đọc tiếp sách này để có cái nhìn hệ thống và hiểu chặt chẽ hơn.
+[ltfp_book.pdf (ens.fr)](https://www.di.ens.fr/~fbach/ltfp_book.pdf?fbclid=IwY2xjawF-uJNleHRuA2FlbQIxMAABHXE238-z52pOoe0MwNZirUpEr2IuROpOmvlSTFy2WGo9TUpuH8iE24Vyfg_aem_OeKkOyUcHNFb8i5bTq7H5A
+

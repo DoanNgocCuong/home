@@ -229,3 +229,74 @@ còn api key thì đơn giản hơn, nhưng dễ gặp vấn đề hơn
 ### Vậy hai token này có giống nhau không?
 
 - **Không hoàn toàn giống nhau**: Mặc dù cả hai đều là token để xác thực, nhưng chúng được dùng cho các mục đích khác nhau. **App Access Token** được dùng để gọi các API liên quan đến ứng dụng mà không cần quyền người dùng, còn **Tenant Access Token** được sử dụng khi bạn cần truy cập thông tin liên quan đến tổ chức hoặc tenant trong hệ thống của Lark.
+
+--------------
+Để chuyển chatbot Streamlit của bạn vào Lark, bạn có thể thực hiện theo các bước sau:
+
+### 1. **Đăng ký tài khoản trên Lark Open Platform**:
+
+- Truy cập [Lark Open Platform](https://open.larksuite.com) và đăng ký một tài khoản tổ chức nếu bạn chưa có. Sau đó, tạo một ứng dụng mới và bật tính năng bot cho ứng dụng này.
+
+### 2. **Cấu hình bot trên Lark**:
+
+- **Tạo một bot mới**: Trên Lark Open Platform, chọn mục **Bot** và tạo một bot mới. Điền các thông tin cần thiết như tên bot và hình đại diện.
+- **Cấu hình URL cho bot**: Tại đây, bạn cần cung cấp **URL webhook** để Lark có thể giao tiếp với dịch vụ chatbot của bạn.
+
+### 3. **Kết nối bot với dịch vụ Streamlit**:
+
+- Hiện tại, chatbot của bạn đang chạy trên Streamlit tại URL: `https://cskh-stepupedu-chatbot-deploy2-aiteam.streamlit.app/`. Tuy nhiên, để tích hợp vào Lark, bạn sẽ cần tạo một **API endpoint** cho chatbot thay vì chỉ sử dụng giao diện Streamlit.
+- Bạn có thể tạo một server API (ví dụ bằng Flask, FastAPI) để nhận các yêu cầu từ Lark và xử lý các sự kiện chat. Sau đó, cấu hình URL của API này vào phần "Callback URL" trong bot của Lark.
+
+### 4. **Lập trình giao tiếp giữa Lark và chatbot**:
+
+- Khi Lark gửi các sự kiện chat tới API của bạn, bạn cần xử lý chúng. Điều này có thể bao gồm việc xử lý các tin nhắn, trả lời tự động, và sử dụng mô hình chatbot đã có trong Streamlit để đưa ra phản hồi phù hợp.
+- Đảm bảo rằng bot của bạn có khả năng xử lý các **webhook** từ Lark và gửi phản hồi lại thông qua API của Lark.
+
+### 5. **Cấp quyền cho bot**:
+
+- Trong mục quản lý bot trên Lark, bạn cần bật các quyền liên quan như: **Gửi và nhận tin nhắn**, **Quản lý cuộc trò chuyện nhóm** để bot có thể hoạt động trong các cuộc trò chuyện và nhóm.
+
+### 6. **Kiểm tra và khởi chạy bot**:
+
+- Sau khi hoàn tất việc cấu hình và tích hợp, bạn cần kiểm tra kỹ lưỡng hoạt động của bot trên Lark. Nếu mọi thứ hoạt động ổn định, bạn có thể khởi chạy bot để mọi người trong tổ chức sử dụng.
+
+### 7. **Theo dõi và bảo trì**:
+
+- Bạn có thể theo dõi log và các sự kiện tương tác trên Lark Open Platform để kiểm tra trạng thái hoạt động của bot và cập nhật nếu cần thiết.
+
+Tóm lại, bạn sẽ cần thiết lập một API để giao tiếp giữa chatbot Streamlit và Lark, sau đó cấu hình bot trên Lark để nhận và xử lý tin nhắn thông qua API đó.
+
+4o
+
+##### You said:
+
+URL webhook là cái gì vậy? -
+
+###### ChatGPT said:
+
+ChatGPT
+
+**Webhook URL** là một đường dẫn (URL) mà một dịch vụ (như Lark) sử dụng để gửi dữ liệu hoặc thông báo tự động đến một ứng dụng khác (như chatbot của bạn). Webhook hoạt động như một **cầu nối** giữa hai ứng dụng, giúp chúng giao tiếp với nhau theo thời gian thực.
+
+### Cách hoạt động:
+
+- **Webhook** được cấu hình trong dịch vụ gửi dữ liệu (Lark, trong trường hợp này).
+- Khi có sự kiện xảy ra (ví dụ: người dùng gửi tin nhắn cho bot trên Lark), Lark sẽ gửi một yêu cầu HTTP (thường là POST) đến URL webhook của bạn, cùng với dữ liệu về sự kiện đó (dạng JSON).
+- Server hoặc ứng dụng của bạn nhận yêu cầu này tại URL webhook, xử lý nó (ví dụ, lấy tin nhắn, xử lý qua chatbot, và gửi phản hồi).
+
+### Ví dụ:
+
+1. Người dùng nhắn tin cho chatbot trên Lark.
+2. Lark gửi yêu cầu HTTP POST đến webhook URL (ví dụ: `https://your-server.com/webhook`) kèm dữ liệu về tin nhắn.
+3. Server của bạn xử lý thông tin, sau đó gửi phản hồi ngược lại cho Lark để chatbot trả lời người dùng.
+
+Webhook rất hữu ích vì giúp bạn **xử lý sự kiện ngay lập tức** mà không cần ứng dụng của bạn phải liên tục yêu cầu (polling) dữ liệu từ Lark.
+
+Nếu bạn muốn tích hợp chatbot của mình vào Lark, URL webhook sẽ là nơi Lark "gửi" các sự kiện đến để chatbot của bạn xử lý.
+
+## 2.4 Lark AnyCross: [Build a chatbot via OpenAI connector - Documentation - Lark AnyCross (larksuite.com)](https://anycross-sg.larksuite.com/documentation/template/all/build-a-chatbot-via-open#Guide%20on%20using%20the%20template)
+
+- https://botbuilder.larksuite.com/
+![[Pasted image 20241019190008.png]]
+
+[Build a chatbot via OpenAI connector - Documentation - Lark AnyCross (larksuite.com)](https://anycross-sg.larksuite.com/documentation/template/all/build-a-chatbot-via-open)
