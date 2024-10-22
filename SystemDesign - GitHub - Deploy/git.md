@@ -1,6 +1,6 @@
 - git init 
 - git remote add origin ...
-
+- `git reset --soft HEAD~1`: Lệnh git mình yêu thích nhất. 
 
 - KHI BẠN GIT PUSH trong terminal. Nó sẽ báo lỗi: 
 ```
@@ -66,3 +66,7 @@ Nếu API Key đã bị commit trước đó, bạn cần xóa nó khỏi lịch
 	
 	- **GitHub Secrets** chỉ dùng trong GitHub Actions workflows, và không có liên hệ trực tiếp với quá trình clone mã nguồn.
 	- Để quản lý biến môi trường khi clone dự án xuống, bạn vẫn cần dùng các giải pháp khác như tạo file `.env.example` hoặc cung cấp hướng dẫn về cách thiết lập các biến môi trường.
+
+
+
+Về đường dẫn quá dài: `git config --system core.longpaths true`
