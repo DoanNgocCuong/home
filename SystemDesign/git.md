@@ -40,3 +40,29 @@ Nếu API Key đã bị commit trước đó, bạn cần xóa nó khỏi lịch
     
 ```
 
+### Biến môi trường .env 
+	Khi bạn sử dụng **GitHub Secrets** để lưu trữ các biến môi trường trong phần **Secrets** của repository (dành cho GitHub Actions), những biến môi trường này chỉ được sử dụng khi chạy các workflows của **GitHub Actions** và không có trong repository khi bạn **git clone** xuống.
+	
+	Cụ thể:
+	
+	- **GitHub Secrets** không ảnh hưởng trực tiếp đến mã nguồn trong repository của bạn. Chúng chỉ được sử dụng trong quá trình GitHub Actions chạy (ví dụ: quá trình build, test, deploy) và không được lưu trữ dưới dạng file `.env` hoặc bất kỳ file nào khác trong repository.
+	- Khi bạn **git clone** dự án xuống, những biến môi trường được lưu trong **GitHub Secrets** không tự động được tải về máy của bạn hoặc máy của những người khác. Những secrets này chỉ tồn tại trong môi trường của GitHub Actions khi workflow chạy.
+	
+	### Vậy làm thế nào để quản lý biến môi trường khi clone dự án?
+	
+	1. **File `.env.example`:** Tương tự như cách trước, bạn nên tạo một file `.env.example` và thêm hướng dẫn trong tài liệu dự án (ví dụ: README.md) để người dùng tự tạo file `.env` trên máy của họ khi clone dự án xuống.
+	    
+	2. **Sử dụng các công cụ quản lý secrets khác trong môi trường cục bộ**: Nếu bạn muốn lưu trữ và quản lý các secrets trong môi trường cục bộ (local environment), có thể cân nhắc sử dụng các dịch vụ như:
+	    
+	    - **AWS Secrets Manager**
+	    - **HashiCorp Vault**
+	    - **Azure Key Vault**
+	    - **Docker secrets** (nếu bạn dùng Docker)
+	    
+	    Các công cụ này có thể giúp bạn tự động tải các biến môi trường an toàn vào ứng dụng khi khởi chạy trên môi trường cục bộ hoặc môi trường sản xuất.
+	    
+	
+	### Tóm lại:
+	
+	- **GitHub Secrets** chỉ dùng trong GitHub Actions workflows, và không có liên hệ trực tiếp với quá trình clone mã nguồn.
+	- Để quản lý biến môi trường khi clone dự án xuống, bạn vẫn cần dùng các giải pháp khác như tạo file `.env.example` hoặc cung cấp hướng dẫn về cách thiết lập các biến môi trường.
