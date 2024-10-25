@@ -19,3 +19,6 @@ Test phần tối ưu part 2
 https://docs.google.com/spreadsheets/d/1Hdq8BuYVmGzg4ofPYcq3mqLvtJlXo0_pRrSDnRli2wQ/edit?gid=0#gid=0
 
 Đánh giá sâu hơn về học thuật và nội dung bài học thì em nhờ chị @Thanh Hà Lưu  và bạn @Đào Hạ Vũ  trải nghiệm nhé ạ
+
+
+
