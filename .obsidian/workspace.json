@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineering/MLOPs/Ghi chú MLOPs - venv - Docker - k8s Cloud.md",
+                "file": "AI Engineering/3. Machine Learning/Nguồn Học.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghi chú MLOPs - venv - Docker - k8s Cloud"
+              "title": "Nguồn Học"
             }
           },
           {
@@ -217,8 +217,10 @@
   },
   "active": "cf9eb48e8452dffb",
   "lastOpenFiles": [
-    "AI Engineering/MLOPs/Docker.md",
+    "AI Engineering/3. Machine Learning/Untitled.md",
+    "AI Engineering/3. Machine Learning/Nguồn Học.md",
     "AI Engineering/MLOPs/Ghi chú MLOPs - venv - Docker - k8s Cloud.md",
+    "AI Engineering/MLOPs/Docker.md",
     "AI Engineering/MLOPs/SystemDesign - GitHub - Deploy/git.md",
     "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
     "AI Engineering/LLMFullStack/GITHUB CƠ BẢN.md",
@@ -244,8 +246,6 @@
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/đo đạc.md",
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Benchmark - Dataset.md",
     "AI Engineering/4. DeepLearning/4.2 NLP/Prompting/Tổng quan.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/New Note.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Hello.md",
     "assert/Pasted image 20241019190008.png",
     "assert",
     "Pasted image 20241016140959.png",
