@@ -1,0 +1,1 @@
+1. https://www.marktechpost.com/2024/09/25/microsoft-releases-rd-agent-an-open-source-ai-tool-designed-to-automate-and-optimize-research-and-development-processes/?ref=dailydev

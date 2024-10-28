@@ -4,63 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6216cac14601de3e",
+        "id": "0fa964e877b9a684",
         "type": "tabs",
         "children": [
           {
-            "id": "cf9eb48e8452dffb",
+            "id": "76407b7223727ac2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Engineering/3. Machine Learning/Nguồn Học.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nguồn Học"
-            }
-          },
-          {
-            "id": "256a94b853ec2d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "9c14e0d08d5c487e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Tối ưu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tối ưu"
-            }
-          },
-          {
-            "id": "d70d080acd2f275d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Engineering/AI Agent/AI Agent note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI Agent note"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "web mining",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,37 +169,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf9eb48e8452dffb",
+  "active": "76407b7223727ac2",
   "lastOpenFiles": [
-    "AI Engineering/3. Machine Learning/Untitled.md",
-    "AI Engineering/3. Machine Learning/Nguồn Học.md",
-    "AI Engineering/MLOPs/Ghi chú MLOPs - venv - Docker - k8s Cloud.md",
-    "AI Engineering/MLOPs/Docker.md",
+    "1. Lập trình nói chung/IDE.md",
+    "Web Mining/ALL.md",
+    "1. Lập trình nói chung",
+    "Untitled 2",
+    "Web Mining/__init__.md",
+    "2. Data Science/1. Tổng quan các loại cơ sở dữ liệu.md",
+    "2. Data Science/2. Big Data/Nguồn học Big Data.md",
+    "2. Data Science/2. Big Data/Hệ thống phân tán Distribution System.md",
+    "2. Data Science/2. Big Data/Big Data.md",
+    "AI Engineering/1 số nguồn có vẻ hay chưa đọc.md",
+    "2. Data Science/2. Big Data/Note 28 10 2024.md",
+    "Untitled 1",
+    "2. Data Science/Data Story.md",
+    "2. Data Science/2. Big Data",
     "AI Engineering/MLOPs/SystemDesign - GitHub - Deploy/git.md",
-    "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
     "AI Engineering/LLMFullStack/GITHUB CƠ BẢN.md",
     "AI Engineering/AI Agent/AI Agent note.md",
+    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Tối ưu.md",
+    "Untitled.md",
+    "AI Engineering/3. Machine Learning/Nguồn Học.md",
+    "AI Engineering/3. Machine Learning/Untitled.md",
+    "AI Engineering/MLOPs/Ghi chú MLOPs - venv - Docker - k8s Cloud.md",
+    "AI Engineering/MLOPs/Docker.md",
+    "AI Engineering/LLMFullStack/OpenSource pull về build FullStack.md",
     "Tester_TheCoach/Tester_TheCoach.md",
     "Tester_TheCoach",
     "smart-chats/UNTITLED CHAT 2024-10-06 10 02 21.md",
-    "Web Mining/All - Note.md",
     "assert/Pasted image 20241022112012.png",
     "Web Mining.md",
     "Web Mining",
-    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Tối ưu.md",
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Search/Untitled.md",
     "Untitled 1.md",
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/tạo câu h.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Sản phẩm đã có.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Reference.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Intro.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/HitRate and Mrr.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Tổng quát.md.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Untitled.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/General NLP.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/đo đạc.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/RAG/Benchmark - Dataset.md",
-    "AI Engineering/4. DeepLearning/4.2 NLP/Prompting/Tổng quan.md",
     "assert/Pasted image 20241019190008.png",
     "assert",
     "Pasted image 20241016140959.png",
@@ -256,13 +214,9 @@
     "Pasted image 20241015195202.png",
     "Pasted image 20241015173324.png",
     "Pasted image 20241015172924.png",
-    "Data Science/Database",
+    "2. Data Science/Database",
     "Untitled",
     "COMPUTER NETWORK",
-    "LỘ TRÌNH SỰ TIỀN",
-    "_posts/English",
-    "Senior",
-    "AI Engineering/4. DeepLearning/4.1 NLP Cơ bản",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "AI Engineering/4. DeepLearning/4.2 NLP/RAG/RAG 1/Search/Untitled.canvas",

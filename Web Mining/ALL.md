@@ -68,3 +68,14 @@ VỀ TOÁN:
 - **Tại sao tính PMI lại là công thức kia, tại sao lại là P(t) * P(?) và tại sao lúc tính P lại phải count + 1/ tổng số lần xuất hiện + V, V là gì ? **   => GPT for detail. 
 	- **P(t)⋅P(?)P(t) \cdot P(?)P(t)⋅P(?)** chính là cách đo **mức độ ngẫu nhiên**: Nếu từ ttt và từ ??? xuất hiện ngẫu nhiên, không liên quan đến nhau, thì xác suất chúng xuất hiện cùng nhau chỉ đơn giản là tích của xác suất từng từ xuất hiện riêng lẻ.
 	- P(t,?), tức là xác suất đồng xuất hiện thực tế,
+
+## 6.2 SOT - Sentinment Ontology Tree
+
+1. explain for child: 
+- Hãy nghĩ về SOT như một **cây gia đình** cho ý kiến về sản phẩm.
+- **Gốc cây** là sản phẩm bạn quan tâm, ví dụ như điện thoại.
+- **Các nhánh cây** là các đặc điểm của sản phẩm, ví dụ như màn hình, pin, camera.
+- **Lá cây** là ý kiến ​​của mọi người về những đặc điểm đó.
+    - **Lá xanh:** Ý kiến ​​tích cực, ví dụ như "màn hình đẹp", "pin lâu".
+    - **Lá đỏ:** Ý kiến ​​tiêu cực, ví dụ như "camera mờ", "giá cao".
+2. While SOT offers a robust solution for fine-grained sentiment analysis and is well-regarded for certain research purposes, its broader adoption is limited by its complexity and lack of widespread tool support.
