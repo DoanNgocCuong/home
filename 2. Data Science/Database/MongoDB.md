@@ -260,3 +260,6 @@ collection.insert_one(message)  # Dữ liệu được chèn vào sẽ tạo da
 ## từ MONGODB đi tiếp ?
 
 - https://www.mongodb.com/products/platform/atlas-product-tour
+- [MongoDB Student Pack](https://www.mongodb.com/students) - Có mã để kết nối vào Billing => enter Code - 
+- [MongoDB Python Developer Learning Path | MongoDB University](https://learn.mongodb.com/learning-paths/mongodb-python-developer-path)
+- [MongoDB](https://learn.mongodb.com/learn/learning-path/mongodb-python-developer-path?learningPathId=617e41ad-bb46-4e88-b084-fc55864ca796)
