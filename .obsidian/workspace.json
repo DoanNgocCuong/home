@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Lập trình nói chung/Tool Code ....md",
+                "file": "4_MLOPs/1. git, SOLID, Code chuẩn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tool Code ..."
+              "title": "1. git, SOLID, Code chuẩn"
             }
           }
         ]
@@ -175,11 +175,11 @@
   },
   "active": "8c47a01ecc95b14c",
   "lastOpenFiles": [
-    "1. Lập trình nói chung/IDE.md",
-    "4_MLOPs/1. git, SOLID, Code chuẩn.md",
     "4_MLOPs/UI/UI for backend Developer.md",
-    "4_MLOPs/UI/Gradio.md",
+    "4_MLOPs/1. git, SOLID, Code chuẩn.md",
     "1. Lập trình nói chung/Tool Code ....md",
+    "1. Lập trình nói chung/IDE.md",
+    "4_MLOPs/UI/Gradio.md",
     "0. ĐÔI DÒNG KINH NGHIỆM VỌC/Vọc.md",
     "3_AI Engineering/1. Math/Các link.md",
     "2024-10-31.md",
