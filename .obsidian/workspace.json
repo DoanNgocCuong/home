@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs/2.2 Free web hosting.md",
+                "file": "3_AI Engineering/1 số nguồn có vẻ hay chưa đọc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Free web hosting"
+              "title": "1 số nguồn có vẻ hay chưa đọc"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ob",
+                "query": "obgit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,10 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c47a01ecc95b14c",
+  "active": "9b6b6e1d46d09ac1",
   "lastOpenFiles": [
-    "4_MLOPs/SystemDesign - GitHub - Deploy/UML.md",
+    "4_MLOPs/Các Link MLOPs.md",
+    "4_MLOPs/GITHUB CƠ BẢN.md",
     "4_MLOPs/2.2 Free web hosting.md",
+    "4_MLOPs/SystemDesign - GitHub - Deploy/UML.md",
     "4_MLOPs/SystemDesign - GitHub - Deploy/Kinh Nghiệm Code Chuẩn.md",
     "3_AI Engineering/4. DeepLearning/4.0 NLP - Foundation + Ngách + Actual Problem/Takenote from Learning.md",
     "3_AI Engineering/4. DeepLearning/4.0 NLP - Foundation + Ngách + Actual Problem/NGUỒN HỌC - YOU SHOULD START WITH FOUNDATION + NGÁCH + ACTUAL PROJECT.md",
@@ -204,9 +207,7 @@
     "2024-10-31.md",
     "4.. Data Science/Database/MongoDB.md",
     "3_AI Engineering/4. DeepLearning/4.2 NLP/RAG/1. Các chiến lược tối ưu.md",
-    "4_MLOPs/2. venv - Docker - k8s Cloud.md",
     "0. ĐÔI DÒNG KINH NGHIỆM VỌC",
-    "4_MLOPs/2.1 Docker - Docker Hub.md",
     "assert/Pasted image 20241028231928.png",
     "assert/Pasted image 20241028231903.png",
     "assert/Pasted image 20241028231838.png",
