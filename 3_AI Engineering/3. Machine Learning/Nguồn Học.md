@@ -23,5 +23,6 @@ Machine Learning in 2024 – Beginner's Course: https://youtu.be/bmmQA8A-yUA?fea
 2. Dive Coding and Math; 
 - Sách mới (08-2024) về machine learning từ MIT. Sách này nặng về lý thuyết (nhiều công thức toán và các phần chứng minh). Sách phù hợp cho những bạn đã có kinh nghiệm về machine learning rồi; đọc tiếp sách này để có cái nhìn hệ thống và hiểu chặt chẽ hơn.
 [ltfp_book.pdf (ens.fr)](https://www.di.ens.fr/~fbach/ltfp_book.pdf?fbclid=IwY2xjawF-uJNleHRuA2FlbQIxMAABHXE238-z52pOoe0MwNZirUpEr2IuROpOmvlSTFy2WGo9TUpuH8iE24Vyfg_aem_OeKkOyUcHNFb8i5bTq7H5A
+- Sách mới 2024, tổng quan các chủ đề 256 trang: [Introduction to Machine Learning Lecture Notes for COS 324 at Princeton University](https://princeton-introml.github.io/files/COS324_Course_Notes.pdf?fbclid=IwY2xjawGUS_5leHRuA2FlbQIxMAABHeXr3hYtEV_YerEp_i6yqRF3aNAZLcd9w4BIt8RSRz1LVJI4vOkBygl3jA_aem_WW4fpfj9eBqcAXPdenzGlA)
 
 - Coding: Luyện thuật toán: ML AI: [ML Code Challenges - Deep-ML](https://www.deep-ml.com/?page=3&difficulty=&category=&solved=)
