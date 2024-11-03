@@ -3,6 +3,7 @@
 - [https://machinelearningcoban.com/](https://machinelearningcoban.com/)
 - Notebook to bự về Machine Learning: [PythonDataScienceHandbook/notebooks_v1/05.00-Machine-Learning.ipynb at master · jakevdp/PythonDataScienceHandbook (github.com)](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks_v1/05.00-Machine-Learning.ipynb)
 - All Algorithms in 17 mins: https://www.youtube.com/watch?v=E0Hmnixke2g
+- 15 Machine Learning Lessons I Wish I Knew Earlier: in REAL PROMBLEM: https://youtu.be/espQDESe07w?feature=shared
 
 - Link tài liệu: Slide, Report: [https://drive.google.com/drive/folders/1FDwvbiKHpUBM1DNJNWkLjOW19pjegAuY?usp=sharing](https://drive.google.com/drive/folders/1FDwvbiKHpUBM1DNJNWkLjOW19pjegAuY?usp=sharing)
 
