@@ -1,6 +1,6 @@
 
-1. example using spaCy for 1 sample sentence and for 1 sample paragraph using sends property
-
+## 1. example using spaCy 
+for 1 sample sentence and for 1 sample paragraph using sends property
 
 | Method   | Purpose                                                                                | Example Output                             |
 | -------- | -------------------------------------------------------------------------------------- | ------------------------------------------ |
@@ -9,7 +9,7 @@
 | `sents`  | we retrieve each complete sentence from the paragraph, separated based on punctuation. | `"SpaCy is designed specifically...", ...` |
 
 
-## Bag of words: 
+## 2. Bag of words: 
 
 - Bag of Words is just the first step. Although it doesn’t understand word meanings, it’s helpful when combined with other techniques to let computers "understand" text better.
 
