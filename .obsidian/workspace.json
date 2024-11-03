@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. ĐÔI DÒNG KINH NGHIỆM VỌC/Vọc.md",
+                "file": "3_AI Engineering/4. DeepLearning/4.1 NLP Cơ bản/NGUỒN HỌC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vọc"
+              "title": "NGUỒN HỌC"
             }
           }
         ]
@@ -175,9 +175,12 @@
   },
   "active": "8c47a01ecc95b14c",
   "lastOpenFiles": [
+    "4_MLOPs/LLMFullStack/OpenSource pull về build FullStack.md",
+    "3_AI Engineering/4. DeepLearning/4.2 NLP/RAG/Intro.md",
+    "3_AI Engineering/4. DeepLearning/4.2 NLP/RAG/Tổng quát.md.md",
+    "0. ĐÔI DÒNG KINH NGHIỆM VỌC/Vọc.md",
     "1. Lập trình nói chung/Tool Code ....md",
     "1. Lập trình nói chung/IDE.md",
-    "0. ĐÔI DÒNG KINH NGHIỆM VỌC/Vọc.md",
     "4_MLOPs/1. git, SOLID, Code chuẩn.md",
     "4_MLOPs/UI/UI for backend Developer.md",
     "4_MLOPs/UI/Gradio.md",
@@ -192,7 +195,6 @@
     "4_MLOPs/2. Docker.md",
     "4_MLOPs/1. Git cơ bản.md",
     "4_MLOPs/GITHUB CƠ BẢN.md",
-    "4_MLOPs/LLMFullStack/OpenSource pull về build FullStack.md",
     "4_MLOPs/SystemDesign - GitHub - Deploy/Kinh Nghiệm Code Chuẩn.md",
     "4_MLOPs/SystemDesign - GitHub - Deploy/Parralel.md",
     "2. Data Science/Database/Larkbase.md",
@@ -206,8 +208,6 @@
     "3_AI Engineering/1 số nguồn có vẻ hay chưa đọc.md",
     "1. Lập trình nói chung",
     "Untitled 2",
-    "Web Mining/__init__.md",
-    "2. Data Science/1. Tổng quan các loại cơ sở dữ liệu.md",
     "Untitled 1",
     "2. Data Science/2. Big Data",
     "Tester_TheCoach",
