@@ -6,6 +6,8 @@
 
 2.1 FOUNDATION:
 - [NLP Demystified 1: Introduction (youtube.com)](https://www.youtube.com/watch?v=diOXCK7I2wA&list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS&index=1) - 15 video ngắn - Có github Notebook: [futuremojo/nlp-demystified: Code and data for Natural Language Processing Demystified](https://github.com/futuremojo/nlp-demystified)
+and start learning with web: https://www.nlpdemystified.org/
+
 - Pytorch PyTorch for Deep Learning & Machine Learning – Full Course - FreeCodeCamp: https://youtu.be/V_xro1bcAuA?feature=shared
 
 2.2 ACTUAL PROJECT: 
