@@ -7,7 +7,9 @@
 
 - Link tài liệu: Slide, Report: [https://drive.google.com/drive/folders/1FDwvbiKHpUBM1DNJNWkLjOW19pjegAuY?usp=sharing](https://drive.google.com/drive/folders/1FDwvbiKHpUBM1DNJNWkLjOW19pjegAuY?usp=sharing)
 
+End-to-End Machine Learning Project – AI, MLOps: https://youtu.be/o6vbe5G7xNo?feature=shared
 
+Kaggle Machine Learning; https://youtu.be/BV03sQ0srcU?feature=shared
 2. Other: 
 - Coursera: [https://www.coursera.org/programs/veterans-job-training-program-h5rnn/professional-certificates/ibm-machine-learning/](https://www.coursera.org/programs/veterans-job-training-program-h5rnn/professional-certificates/ibm-machine-learning/)
 - 180 CUỐN ML: [https://github.com/ahammadmejbah/Machine-Learning-Book-Collections/](https://github.com/ahammadmejbah/Machine-Learning-Book-Collections/)
