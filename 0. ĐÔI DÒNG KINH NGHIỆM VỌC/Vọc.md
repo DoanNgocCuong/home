@@ -15,8 +15,6 @@
 
 ###### ĐỂ TRỞ THÀNH MỘT "HARDCORE PROGRAMMER" THỰC THỤ!
 
-> Trong ngành lập trình, có một nhóm những người được coi là “hardcore programmer” – những lập trình viên với niềm đam mê mãnh liệt, thái độ làm việc nghiêm túc, và khả năng xử lý các vấn đề kỹ thuật khó khăn. Đây không chỉ là về kỹ năng code, mà còn là tư duy và thói quen giúp họ nổi bật. Bài viết từ Codemotion giúp chúng ta nhận diện các phẩm chất của một lập trình viên “hardcore” và cách họ tiếp cận công việc hàng ngày.
-
 ###### **1. Tính Cầu Toàn và Kỹ Lưỡng Từng Dòng Code**
 
 - Một “hardcore programmer” không chấp nhận sự qua loa trong công việc. Họ chú ý từng chi tiết nhỏ trong mã nguồn, cố gắng làm cho mã của mình ngắn gọn, hiệu quả và dễ bảo trì nhất có thể.
