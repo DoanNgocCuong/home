@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/4. DeepLearning/4.0 NLP - Foundation + Ngách + Actual Problem/Takenote from Learning.md",
+                "file": "4_MLOPs/SystemDesign - GitHub - Deploy/UML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Takenote from Learning"
+              "title": "UML"
             }
           }
         ]
@@ -175,8 +175,9 @@
   },
   "active": "8c47a01ecc95b14c",
   "lastOpenFiles": [
-    "3_AI Engineering/4. DeepLearning/4.0 NLP - Foundation + Ngách + Actual Problem/NGUỒN HỌC - YOU SHOULD START WITH FOUNDATION + NGÁCH + ACTUAL PROJECT.md",
+    "4_MLOPs/SystemDesign - GitHub - Deploy/Kinh Nghiệm Code Chuẩn.md",
     "3_AI Engineering/4. DeepLearning/4.0 NLP - Foundation + Ngách + Actual Problem/Takenote from Learning.md",
+    "3_AI Engineering/4. DeepLearning/4.0 NLP - Foundation + Ngách + Actual Problem/NGUỒN HỌC - YOU SHOULD START WITH FOUNDATION + NGÁCH + ACTUAL PROJECT.md",
     "2_English/1. Listening Foundation.md",
     "0. ĐÔI DÒNG KINH NGHIỆM VỌC/Vọc.md",
     "1. Math for C1, C2, C3",
@@ -206,7 +207,6 @@
     "4_MLOPs/2.1 Docker - Docker Hub.md",
     "4_MLOPs/2. Docker.md",
     "4_MLOPs/1. Git cơ bản.md",
-    "4_MLOPs/GITHUB CƠ BẢN.md",
     "assert/Pasted image 20241028231928.png",
     "assert/Pasted image 20241028231903.png",
     "assert/Pasted image 20241028231838.png",

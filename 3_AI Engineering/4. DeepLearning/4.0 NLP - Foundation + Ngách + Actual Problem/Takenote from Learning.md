@@ -44,3 +44,16 @@ for 1 sample sentence and for 1 sample paragraph using sends property
 | **Information Retrieval** | Improves search results by recognizing important words.       | In search engines, frequent keywords help identify relevant webpages.                         |
 | **Topic Analysis**        | Detects main topics in large collections of texts.            | Words like "y tế" or "bệnh viện" in a document might indicate the topic is healthcare.        |
 
+
+## 3. Training Model: 
+Here’s an overview of how you can use some of these frameworks—spaCy, NLTK, and Hugging Face's Transformers—to train models on a corpus.
+
+ Comparison of Frameworks
+
+| Framework    | Best for                          | Pros                                        | Cons                                |
+|--------------|-----------------------------------|---------------------------------------------|-------------------------------------|
+| **spaCy**    | NLP tasks (NER, POS, classification) | Fast, efficient, easy for production       | Limited pre-trained deep models    |
+| **NLTK**     | Basic NLP and education           | Great for beginners, simple preprocessing   | Not optimized for deep learning    |
+| **Transformers** | Fine-tuning large models        | Supports many state-of-the-art models       | Requires GPU for efficient training |
+
+Each framework serves different needs, so the choice depends on the complexity of the task and available computational resources. Let me know if you’d like help with any specific part!
