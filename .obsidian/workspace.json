@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2.4 Docker Hub với Server"
             }
+          },
+          {
+            "id": "183b2b086b315e4a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c47a01ecc95b14c",
+  "active": "183b2b086b315e4a",
   "lastOpenFiles": [
     "1. Lập trình nói chung/1. Python.md",
     "4_MLOPs/UI/2.4 Docker Hub với Server.md",
