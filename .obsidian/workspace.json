@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Lập trình nói chung/1. Python.md",
+                "file": "4_MLOPs/UI/2.4 Docker Hub với Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Python"
+              "title": "2.4 Docker Hub với Server"
             }
           }
         ]
@@ -175,8 +175,9 @@
   },
   "active": "8c47a01ecc95b14c",
   "lastOpenFiles": [
-    "1. Lập trình nói chung/Ngôn ngữ lập trình.md",
     "1. Lập trình nói chung/1. Python.md",
+    "4_MLOPs/UI/2.4 Docker Hub với Server.md",
+    "1. Lập trình nói chung/Ngôn ngữ lập trình.md",
     "1. Lập trình nói chung/Productive.md",
     "1. Lập trình nói chung/IDE.md",
     "4_MLOPs/1. git, SOLID, Code chuẩn.md",
@@ -210,7 +211,6 @@
     "3_AI Engineering/4. DeepLearning/Deep Learning Foundation.md",
     "3_AI Engineering/4. DeepLearning/4.6",
     "3_AI Engineering/4. DeepLearning/4.0 NLP - Foundation + Ngách + Actual Problem",
-    "4_MLOPs/LLMFullStack/OpenSource pull về build FullStack.md",
     "0. ĐÔI DÒNG KINH NGHIỆM VỌC",
     "assert/Pasted image 20241028231928.png",
     "assert/Pasted image 20241028231903.png",
