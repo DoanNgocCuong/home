@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Software E/Tài liệu.md",
+                "file": "4_MLOPs/2. Nửa Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tài liệu"
+              "title": "2. Nửa Docker"
             }
           }
         ]
@@ -173,15 +173,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "743e8c34ace83558",
+  "active": "4595add56a1ab996",
   "lastOpenFiles": [
+    "4_MLOPs/SystemDesign - GitHub - Deploy/2.md",
+    "4_MLOPs/2. Nửa Docker.md",
+    "4_MLOPs/1. git, SOLID, Code chuẩn.md",
+    "4_MLOPs/UI/2..md",
+    "4_MLOPs/UI/Untitled.md",
+    "1. Lập trình nói chung/Tool Code ....md",
+    "1. Lập trình nói chung/Untitled.md",
+    "5. Software E/Tài liệu.md",
     "4_MLOPs/UI/2.4 Docker Hub với Server.md",
     "3_AI Engineering/GENAI/Nguồn học.md",
     "3_AI Engineering/GENAI/GenAI.md",
-    "4_MLOPs/1. git, SOLID, Code chuẩn.md",
     "assert/Pasted image 20241106122454.png",
     "3_AI Engineering/3. Machine Learning/Nguồn Học.md",
-    "5. Software E/Tài liệu.md",
     "4_MLOPs/2. venv - Docker - k8s Cloud.md",
     "4_MLOPs/2.1 Docker - Docker Hub.md",
     "1. Lập trình nói chung/1. Python.md",
@@ -194,7 +200,6 @@
     "assert/Pasted image 20241104091510.png",
     "3_AI Engineering/4. DeepLearning/4.3 LangChain",
     "3_AI Engineering/4. DeepLearning/4.1 PlayGround - OpenAI - Prompting - Real Work",
-    "1. Lập trình nói chung/Tool Code ....md",
     "5. Software E/Untitled.md",
     "4.. Data Science/2. Big Data/Big Data.md",
     "5. Software E",
@@ -202,11 +207,6 @@
     "3_AI Engineering/4. DeepLearning/4.0 NLP - Foundation + Ngách + Actual Problem/NGUỒN HỌC - YOU SHOULD START WITH FOUNDATION + NGÁCH + ACTUAL PROJECT.md",
     "3_AI Engineering/4. DeepLearning/4.0 NLP - Foundation + Ngách + Actual Problem/Takenote from Learning.md",
     "3_AI Engineering/1 số nguồn có vẻ hay chưa đọc.md",
-    "4_MLOPs/Các Link MLOPs.md",
-    "4_MLOPs/GITHUB CƠ BẢN.md",
-    "4_MLOPs/2.2 Free web hosting.md",
-    "4_MLOPs/SystemDesign - GitHub - Deploy/UML.md",
-    "4_MLOPs/SystemDesign - GitHub - Deploy/Kinh Nghiệm Code Chuẩn.md",
     "1. Math for C1, C2, C3",
     "2_English",
     "3_AI Engineering/4. DeepLearning/Untitled",
