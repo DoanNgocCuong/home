@@ -11,10 +11,14 @@
             "id": "4595add56a1ab996",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5. Software E/Tài liệu.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tài liệu"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "genAI",
+                "query": "software",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4595add56a1ab996",
+  "active": "743e8c34ace83558",
   "lastOpenFiles": [
     "4_MLOPs/UI/2.4 Docker Hub với Server.md",
     "3_AI Engineering/GENAI/Nguồn học.md",
