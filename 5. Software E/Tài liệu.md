@@ -89,17 +89,19 @@ v. Nhóm trưởng . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sequence Diagram
 ```mermaid
+%%{init: {'theme': 'neutral', 'themeVariables': { 'primaryColor': '#F0F0F0', 'primaryTextColor': '#000000', 'lineColor': '#000000', 'actorBorderColor': '#333333', 'actorTextColor': '#000000' }}}%%
 sequenceDiagram
-    participant Guest as Khách
+    participant Guest as Guest
     participant WebClient as Web Client
-    participant System as Hệ thống
+    participant System as System
 
-    Guest ->> WebClient: Chọn chức năng đăng nhập
-    WebClient -->> Guest: Hiển thị giao diện đăng nhập
-    Guest ->> WebClient: Nhập Email và mật khẩu
-    WebClient ->> System: Yêu cầu đăng nhập
-    System ->> System: Kiểm tra thông tin đăng nhập
-    System -->> WebClient: Trả về kết quả kiểm tra
-    WebClient -->> Guest: Hiển thị thông báo
+    Guest ->> WebClient: Select login function
+    WebClient -->> Guest: Display login interface
+    Guest ->> WebClient: Enter email and password
+    WebClient ->> System: Send login request
+    System ->> System: Verify login information
+    System -->> WebClient: Return verification result
+    WebClient -->> Guest: Display notification
+
 
 ```
