@@ -13,14 +13,17 @@ Kaggle Machine Learning; https://youtu.be/BV03sQ0srcU?feature=shared
 
 Machine Learning in 2024 – Beginner's Course: https://youtu.be/bmmQA8A-yUA?feature=shared
 
-2. Other: 
+2. PROJECT: 
+- [nkloi/ML231](https://github.com/nkloi/ML231/tree/main)
+
+4. Other: 
 - Coursera: [https://www.coursera.org/programs/veterans-job-training-program-h5rnn/professional-certificates/ibm-machine-learning/](https://www.coursera.org/programs/veterans-job-training-program-h5rnn/professional-certificates/ibm-machine-learning/)
 - 180 CUỐN ML: [https://github.com/ahammadmejbah/Machine-Learning-Book-Collections/](https://github.com/ahammadmejbah/Machine-Learning-Book-Collections/)
 
 
 - [Twitter Sentiment Analysis Using Python - Analytics Vidhya](https://courses.analyticsvidhya.com/courses/twitter-sentiment-analysis)
 
-2. Dive Coding and Math; 
+5. Dive Coding and Math; 
 - Sách mới (08-2024) về machine learning từ MIT. Sách này nặng về lý thuyết (nhiều công thức toán và các phần chứng minh). Sách phù hợp cho những bạn đã có kinh nghiệm về machine learning rồi; đọc tiếp sách này để có cái nhìn hệ thống và hiểu chặt chẽ hơn.
 [ltfp_book.pdf (ens.fr)](https://www.di.ens.fr/~fbach/ltfp_book.pdf?fbclid=IwY2xjawF-uJNleHRuA2FlbQIxMAABHXE238-z52pOoe0MwNZirUpEr2IuROpOmvlSTFy2WGo9TUpuH8iE24Vyfg_aem_OeKkOyUcHNFb8i5bTq7H5A
 - Sách mới 2024, tổng quan các chủ đề 256 trang: [Introduction to Machine Learning Lecture Notes for COS 324 at Princeton University](https://princeton-introml.github.io/files/COS324_Course_Notes.pdf?fbclid=IwY2xjawGUS_5leHRuA2FlbQIxMAABHeXr3hYtEV_YerEp_i6yqRF3aNAZLcd9w4BIt8RSRz1LVJI4vOkBygl3jA_aem_WW4fpfj9eBqcAXPdenzGlA)
