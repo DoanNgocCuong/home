@@ -87,7 +87,10 @@ v. Nhóm trưởng . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 
 
-Sequence Diagram
+### Sequence Diagram
+Tool 1: [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/)
+
+
 ```mermaid
 %%{init: {'theme': 'neutral', 'themeVariables': { 'primaryColor': '#F0F0F0', 'primaryTextColor': '#000000', 'lineColor': '#000000', 'actorBorderColor': '#333333', 'actorTextColor': '#000000' }}}%%
 sequenceDiagram
@@ -103,5 +106,30 @@ sequenceDiagram
     System -->> WebClient: Return verification result
     WebClient -->> Guest: Display notification
 
+
+```
+	
+Tool 2: [Untitled - WebSequenceDiagrams](https://www.websequencediagrams.com/app)
+```[Học sinh nộp bài luận - WebSequenceDiagrams](https://www.websequencediagrams.com/app)
+title Học sinh nộp bài luận
+
+actor Học sinh
+participant Giao diện
+participant Hệ thống
+participant Cơ sở dữ liệu
+
+Học sinh -> Giao diện: Click vào textbox
+Giao diện -> Giao diện: Hiển thị textbox để soạn thảo
+Học sinh -> Giao diện: Soạn thảo câu trả lời rồi chọn nút "Nộp bài luận"
+Giao diện -> Hệ thống: Hiển thị hộp thoại xác nhận nộp bài luận
+alt [Chọn từ chối]
+  Học sinh -> Giao diện: Chọn từ chối
+else [Chọn đồng ý]
+  Học sinh -> Giao diện: Chọn đồng ý
+  Giao diện -> Hệ thống: Lưu thông tin và câu trả lời của học sinh
+  Hệ thống -> Cơ sở dữ liệu: Lưu câu trả lời
+  Cơ sở dữ liệu -> Hệ thống: Thông báo lưu thành công
+  Hệ thống -> Giao diện: Thông báo: Nộp bài luận thành công
+end
 
 ```
