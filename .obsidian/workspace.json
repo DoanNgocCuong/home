@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs/2. Nửa Docker.md",
+                "file": "4_MLOPs/2. Nửa Docker - Package.json, pyproject.toml.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Nửa Docker"
+              "title": "2. Nửa Docker - Package.json, pyproject.toml"
             }
           }
         ]
@@ -173,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4595add56a1ab996",
+  "active": "b0eb5b2678aa1cf3",
   "lastOpenFiles": [
     "4_MLOPs/SystemDesign - GitHub - Deploy/2.md",
-    "4_MLOPs/2. Nửa Docker.md",
+    "4_MLOPs/2. Nửa Docker - Package.json, pyproject.toml.md",
     "4_MLOPs/1. git, SOLID, Code chuẩn.md",
     "4_MLOPs/UI/2..md",
     "4_MLOPs/UI/Untitled.md",
