@@ -17,3 +17,4 @@ and start learning with web: https://www.nlpdemystified.org/
 -  [Course Preview (Natural Language Processing at UT Austin) (youtube.com)](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) - hơn 30 video ngắn 
 -  [Stanford XCS224U: NLU I Intro & Evolution of Natural Language Understanding, Pt. 1 I Spring 2023 (youtube.com)](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) - hơn 30 video dài
 - https://github.com/JUSTSUJAY/nlp-zero-to-hero 
+- Other: https://www.heyvaldemar.com/machine-learning-and-deep-learning-courses-on-youtube/?ref=dailydev
