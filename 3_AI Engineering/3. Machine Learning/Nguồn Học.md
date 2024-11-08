@@ -29,3 +29,4 @@ Machine Learning in 2024 – Beginner's Course: https://youtu.be/bmmQA8A-yUA?fea
 - Sách mới 2024, tổng quan các chủ đề 256 trang: [Introduction to Machine Learning Lecture Notes for COS 324 at Princeton University](https://princeton-introml.github.io/files/COS324_Course_Notes.pdf?fbclid=IwY2xjawGUS_5leHRuA2FlbQIxMAABHeXr3hYtEV_YerEp_i6yqRF3aNAZLcd9w4BIt8RSRz1LVJI4vOkBygl3jA_aem_WW4fpfj9eBqcAXPdenzGlA)
 
 - Coding: Luyện thuật toán: ML AI: [ML Code Challenges - Deep-ML](https://www.deep-ml.com/?page=3&difficulty=&category=&solved=)
+- [Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/crash-course)
