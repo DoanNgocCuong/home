@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Deep",
+                "query": "DeepM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4595add56a1ab996",
+  "active": "9b6b6e1d46d09ac1",
   "lastOpenFiles": [
     "3_AI Engineering/4. DeepLearning/Deep Learning Foundation.md",
     "4_MLOPs/1. git, SOLID, Code chuẩn.md",
