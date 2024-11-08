@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/3. Machine Learning/Nguồn Học.md",
+                "file": "1. Lập trình nói chung/IDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nguồn Học"
+              "title": "IDE"
             }
           }
         ]
@@ -175,6 +175,8 @@
   },
   "active": "4595add56a1ab996",
   "lastOpenFiles": [
+    "1. Lập trình nói chung/Ngôn ngữ lập trình.md",
+    "3_AI Engineering/3. Machine Learning/Nguồn Học.md",
     "3_AI Engineering/4. DeepLearning/4.0 NLP - Foundation + Ngách + Actual Problem/NGUỒN HỌC - YOU SHOULD START WITH FOUNDATION + NGÁCH + ACTUAL PROJECT.md",
     "3_AI Engineering/4. DeepLearning/Deep Learning Foundation.md",
     "4_MLOPs/1. git, SOLID, Code chuẩn.md",
@@ -190,11 +192,9 @@
     "3_AI Engineering/GENAI/Nguồn học.md",
     "3_AI Engineering/GENAI/GenAI.md",
     "assert/Pasted image 20241106122454.png",
-    "3_AI Engineering/3. Machine Learning/Nguồn Học.md",
     "4_MLOPs/2. venv - Docker - k8s Cloud.md",
     "4_MLOPs/2.1 Docker - Docker Hub.md",
     "1. Lập trình nói chung/1. Python.md",
-    "1. Lập trình nói chung/Ngôn ngữ lập trình.md",
     "1. Lập trình nói chung/Productive.md",
     "1. Lập trình nói chung/IDE.md",
     "3_AI Engineering/4. DeepLearning/4.3 LangChain/Note nguồn học.md",

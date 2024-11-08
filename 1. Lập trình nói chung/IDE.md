@@ -9,3 +9,11 @@ Dựa trên danh sách các IDE mà Tabnine hỗ trợ, ngoài **VS Code** và *
 7. **Eclipse** - Phổ biến cho phát triển Java, nhưng cũng có thể hỗ trợ nhiều ngôn ngữ khác.
 
 Tuỳ thuộc vào ngôn ngữ bạn thường sử dụng, bạn có thể chọn một trong các IDE trên để tăng năng suất công việc.
+
+Top 3 IDE tích hợp AI tốt nhất hiện nay:
+
+1. **VS Code + GitHub Copilot**: Tự động gợi ý mã, giảm lỗi và tăng tốc viết mã.
+2. **IntelliJ IDEA + Tabnine**: Hỗ trợ Java, AI đề xuất mã dựa trên ngữ cảnh.
+3. **PyCharm + Kite**: Chuyên Python, gợi ý mã theo thời gian thực.
+
+Tích hợp AI giúp tăng năng suất và chất lượng mã nguồn.
