@@ -397,3 +397,45 @@ passed over in favor of other attributed that are less discriminating.
 
 - **Ưu điểm:** Dễ dùng, nhanh, thân thiện với dữ liệu không hoàn hảo.
 - **Nhược điểm:** Hạn chế trong việc xử lý thuộc tính phức tạp và tương tác.
+
+
+
+### **Giải thích siêu đơn giản về hai hình ảnh**
+
+#### **Hình ảnh đầu tiên: "Handling Interactions"**
+
+1. **Ý chính:**
+    
+    - Hai thuộc tính XX và YY **tương tác với nhau** để phân biệt giữa các điểm xanh (+) và đỏ (o).
+    - Nhưng nếu xét riêng XX hoặc YY, chúng đều có entropy cao (0.99) → Không giúp phân biệt rõ giữa hai lớp.
+2. **Vấn đề:**
+    
+    - Quyết định dựa trên từng thuộc tính riêng lẻ (XX hoặc YY) không hiệu quả vì chúng chỉ có ý nghĩa khi kết hợp với nhau.
+3. **Kết luận:**
+    
+    - Decision Tree gặp khó khăn trong việc xử lý các thuộc tính có sự tương tác phức tạp mà không phân biệt tốt nếu xét riêng rẽ.
+
+---
+
+#### **Hình ảnh thứ hai: "Handling Interactions Given Irrelevant Attributes"**
+
+1. **Ý chính:**
+    
+    - Một thuộc tính mới ZZ được thêm vào (ngẫu nhiên và không liên quan).
+    - ZZ có entropy thấp hơn (0.980.98) so với XX và YY (0.990.99).
+    - Do đó, thuật toán cây quyết định sẽ chọn ZZ làm thuộc tính để chia, dù nó **không liên quan đến bài toán**.
+2. **Vấn đề:**
+    
+    - Cây quyết định bị "lừa" bởi ZZ, chọn thuộc tính kém liên quan hơn chỉ vì entropy của ZZ thấp hơn.
+3. **Kết luận:**
+    
+    - Thuật toán cây quyết định có thể **chọn sai thuộc tính** khi có thuộc tính nhiễu (không liên quan).
+
+---
+
+### **Tóm lại:**
+
+- Hình 1: Cây quyết định khó xử lý các thuộc tính có tương tác phức tạp (X,YX, Y).
+- Hình 2: Cây quyết định dễ bị ảnh hưởng bởi thuộc tính nhiễu (ZZ) vì không phân biệt được thuộc tính thực sự hữu ích.
+
+Đây là hạn chế của Decision Trees khi xử lý các bài toán phức tạp hoặc có nhiều dữ liệu không liên quan.
