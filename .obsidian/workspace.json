@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4595add56a1ab996",
+  "active": "b0eb5b2678aa1cf3",
   "lastOpenFiles": [
     "1. Lập trình nói chung/OpenSource.md",
     "1. Lập trình nói chung/Untitled.md",
