@@ -439,3 +439,84 @@ passed over in favor of other attributed that are less discriminating.
 - Hình 2: Cây quyết định dễ bị ảnh hưởng bởi thuộc tính nhiễu (ZZ) vì không phân biệt được thuộc tính thực sự hữu ích.
 
 Đây là hạn chế của Decision Trees khi xử lý các bài toán phức tạp hoặc có nhiều dữ liệu không liên quan.
+
+
+===========
+
+
+### **Giải pháp cho vấn đề của Decision Tree**
+
+#### **1. Sử dụng Ensemble Methods (Phương pháp tập hợp nhiều cây)**
+
+Thay vì dựa vào **một cây quyết định duy nhất**, các phương pháp **ensemble** kết hợp nhiều cây để cải thiện hiệu suất và giảm các vấn đề liên quan đến nhiễu hoặc tương tác thuộc tính.
+
+- **Random Forest:**
+    
+    - Kết hợp nhiều cây quyết định bằng cách huấn luyện chúng trên các tập dữ liệu ngẫu nhiên.
+    - Mỗi cây chỉ xem xét một tập con của các thuộc tính → giảm tác động của thuộc tính nhiễu.
+    - Kết quả cuối cùng được lấy trung bình (cho hồi quy) hoặc dựa trên số phiếu (cho phân loại).
+- **Gradient Boosting (e.g., XGBoost, LightGBM):**
+    
+    - Xây dựng các cây liên tiếp, mỗi cây tập trung sửa lỗi từ cây trước đó.
+    - Hiệu quả cao khi xử lý thuộc tính nhiễu và tương tác phức tạp.
+
+---
+
+#### **2. Feature Engineering (Xử lý thuộc tính thủ công trước khi dùng cây)**
+
+- **Tạo thuộc tính kết hợp:**
+    
+    - Nếu XX và YY tương tác với nhau, hãy tạo một thuộc tính mới, ví dụ: X×YX \times Y hoặc X+YX + Y. Điều này giúp cây hiểu được tương tác giữa các thuộc tính.
+- **Loại bỏ thuộc tính nhiễu:**
+    
+    - Sử dụng các kỹ thuật lọc thuộc tính (feature selection) để loại bỏ ZZ hoặc các thuộc tính không liên quan trước khi xây dựng cây.
+
+---
+
+#### **3. Regularization (Phân nhánh hợp lý hơn)**
+
+- **Giảm overfitting bằng pruning (tỉa cây):**
+    
+    - Loại bỏ các nhánh dư thừa hoặc kém quan trọng sau khi cây được xây dựng.
+    - Ví dụ: Tỉa những nhánh mà thuộc tính như ZZ được chọn nhưng không đóng góp nhiều vào việc giảm lỗi.
+- **Giới hạn độ sâu của cây (max depth):**
+    
+    - Đặt giới hạn cho số lượng cấp của cây để giảm tác động của các thuộc tính nhiễu.
+
+---
+
+#### **4. Chọn Splitting Criteria Tốt Hơn**
+
+- **Use CART (Classification and Regression Trees):**
+    
+    - CART không chỉ sử dụng Gini Index mà còn tối ưu cách chia dữ liệu để giảm độ lộn xộn và tăng tính hữu ích của thuộc tính.
+- **Consider Feature Importance Metrics:**
+    
+    - Sử dụng các chỉ số như **Information Gain Ratio** (từ C4.5) để cân nhắc thuộc tính nào thực sự hữu ích hơn.
+
+---
+
+#### **5. Dùng Phương pháp khác thay cho Decision Tree**
+
+Trong các bài toán phức tạp hoặc có nhiều thuộc tính tương tác, bạn có thể thay thế Decision Tree bằng các mô hình phức tạp hơn:
+
+- **Support Vector Machines (SVM):**
+    - Xử lý tốt các thuộc tính tương tác nhờ siêu phẳng (hyperplane) phi tuyến.
+- **Neural Networks:**
+    - Đặc biệt hiệu quả khi có nhiều thuộc tính phức tạp và nhiễu.
+
+---
+
+### **Kết luận:**
+
+Vấn đề của Decision Tree liên quan đến nhiễu hoặc thuộc tính tương tác có thể được giải quyết bằng:
+
+1. Kết hợp nhiều cây với Random Forest hoặc Boosting.
+2. Tạo thuộc tính mới và loại bỏ thuộc tính nhiễu.
+3. Dùng các phương pháp tỉa cây hoặc điều chỉnh độ sâu.
+4. Chuyển sang các mô hình mạnh mẽ hơn như SVM hoặc Neural Networks.
+
+Cách chọn giải pháp tùy thuộc vào bài toán, dữ liệu và độ phức tạp bạn muốn xử lý.
+
+
+![[Pasted image 20241127104908.png]]
