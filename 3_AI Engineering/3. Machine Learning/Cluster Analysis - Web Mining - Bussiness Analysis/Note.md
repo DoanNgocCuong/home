@@ -173,3 +173,74 @@ Cluster analysis is a versatile tool used in a variety of fields like market seg
 
 - The choice of **clustering approach** and **criteria** depends on the dataset, application, and computational resources.
 - Clustering is iterative and often requires validation and refinement to ensure useful and interpretable results.
+
+
+### **So sánh chi tiết các phương pháp Clustering**
+
+|**Phương pháp**|**Mô tả**|**Các thuật toán tiêu biểu**|**Ưu điểm**|**Nhược điểm**|
+|---|---|---|---|---|
+|**Partitioning Approach**|Chia dữ liệu thành các cụm không chồng lấn, tối ưu một tiêu chí (ví dụ: giảm thiểu khoảng cách trong cụm).|K-Means, K-Medoids, CLARANS|- Nhanh và đơn giản.- Hiệu quả với dữ liệu nhỏ hoặc cụm có hình dạng đơn giản (spherical).|- Yêu cầu số cụm trước (k).- Không hiệu quả với cụm phức tạp hoặc dữ liệu nhiễu.- Nhạy cảm với giá trị ban đầu.|
+|**Hierarchical Approach**|Xây dựng cấu trúc cây (dendrogram) bằng cách hợp nhất hoặc tách dần các cụm dựa trên tiêu chí nào đó.|Diana, Agnes, BIRCH, CAMELEON|- Không cần số cụm trước.- Có thể phân tích cụm ở nhiều cấp độ (hierarchical).|- Tốn thời gian với dữ liệu lớn.- Khó điều chỉnh sau khi đã chia cụm.|
+|**Density-Based Approach**|Phát hiện cụm dựa trên mật độ điểm dữ liệu; phù hợp với các cụm có hình dạng bất kỳ.|DBSCAN, OPTICS, DenClue|- Tìm được cụm với hình dạng phức tạp.- Xử lý tốt dữ liệu nhiễu.- Không cần số cụm trước.|- Hiệu suất giảm với dữ liệu có mật độ không đồng đều.- Cần chọn tham số như ε và MinPts cẩn thận.|
+|**Grid-Based Approach**|Chia không gian dữ liệu thành các lưới nhỏ, sau đó gom cụm dựa trên mật độ của các lưới.|STING, WaveCluster, CLIQUE|- Tốc độ nhanh với dữ liệu lớn.- Phù hợp với không gian đa cấp độ.|- Kém hiệu quả nếu cụm không đồng nhất hoặc kích thước lưới không phù hợp.|
+|**Model-Based Approach**|Giả định mỗi cụm có một mô hình riêng, sau đó tối ưu để tìm cụm tốt nhất dựa trên mô hình.|EM (Expectation Maximization), SOM, COBWEB|- Mô hình linh hoạt hơn (hỗ trợ cụm hình elip, phức tạp).- Tích hợp thống kê.|- Tốn thời gian hơn do phải tối ưu mô hình.- Nhạy cảm với giá trị ban đầu và giả định mô hình.|
+|**Frequent Pattern-Based**|Tìm cụm dựa trên các mẫu xuất hiện thường xuyên trong dữ liệu.|p-Cluster|- Tìm được các mối quan hệ mạnh mẽ giữa các đối tượng.|- Chỉ phù hợp với dữ liệu có cấu trúc đặc biệt (mẫu lặp lại).|
+|**User-Guided/Constraint-Based**|Sử dụng các ràng buộc do người dùng chỉ định hoặc dựa vào đặc thù của ứng dụng.|COD (Clustering with Obstacles), Constrained Clustering|- Tận dụng kiến thức chuyên môn để cải thiện chất lượng cụm.- Linh hoạt với các ứng dụng cụ thể.|- Phụ thuộc vào ràng buộc của người dùng.- Khó áp dụng với dữ liệu không có nhiều thông tin bổ sung.|
+|**Link-Based Clustering**|Dựa trên các liên kết giữa các đối tượng để tạo cụm, thường dùng trong mạng xã hội hoặc dữ liệu đồ thị.|SimRank, LinkClus|- Phù hợp với dữ liệu liên kết (như mạng xã hội, đồ thị).- Xử lý dữ liệu phi cấu trúc tốt.|- Yêu cầu dữ liệu có liên kết rõ ràng.- Hiệu quả giảm với đồ thị lớn và phức tạp.|
+
+---
+
+### **Chi tiết từng phương pháp:**
+
+#### **1. Partitioning Approach (Phân hoạch dữ liệu):**
+
+- **Ưu điểm:** Đơn giản, dễ triển khai, hiệu quả với cụm dạng cầu (spherical).
+- **Nhược điểm:** Nhạy cảm với nhiễu, không xử lý tốt cụm phi tuyến, yêu cầu biết số cụm trước.
+
+#### **2. Hierarchical Approach (Phân cấp dữ liệu):**
+
+- **Ưu điểm:** Cung cấp phân cụm ở nhiều cấp độ, không yêu cầu số cụm trước.
+- **Nhược điểm:** Tốn tài nguyên, không hiệu quả với dữ liệu lớn.
+
+#### **3. Density-Based Approach (Dựa trên mật độ):**
+
+- **Ưu điểm:** Tìm cụm có hình dạng bất kỳ, phát hiện nhiễu tốt.
+- **Nhược điểm:** Hiệu quả phụ thuộc vào tham số ε (bán kính cụm) và MinPts (số điểm tối thiểu).
+
+#### **4. Grid-Based Approach (Dựa trên lưới):**
+
+- **Ưu điểm:** Tốc độ cao, hiệu quả với dữ liệu lớn.
+- **Nhược điểm:** Khó khăn với cụm phức tạp, phụ thuộc vào kích thước lưới.
+
+#### **5. Model-Based Approach (Dựa trên mô hình):**
+
+- **Ưu điểm:** Linh hoạt, hỗ trợ các cụm phức tạp hơn.
+- **Nhược điểm:** Chậm hơn, yêu cầu giả định mô hình chính xác.
+
+#### **6. Frequent Pattern-Based (Dựa trên mẫu thường xuyên):**
+
+- **Ưu điểm:** Tìm các mối quan hệ mạnh mẽ, hữu ích với dữ liệu lặp lại.
+- **Nhược điểm:** Hạn chế với dữ liệu không có mẫu lặp đặc trưng.
+
+#### **7. User-Guided/Constraint-Based (Ràng buộc người dùng):**
+
+- **Ưu điểm:** Linh hoạt, tận dụng kiến thức chuyên môn.
+- **Nhược điểm:** Phụ thuộc vào thông tin ràng buộc.
+
+#### **8. Link-Based Clustering (Dựa trên liên kết):**
+
+- **Ưu điểm:** Hiệu quả với dữ liệu liên kết (mạng xã hội, đồ thị).
+- **Nhược điểm:** Phức tạp khi áp dụng trên dữ liệu đồ thị lớn.
+
+---
+
+### **Tóm gọn:**
+
+- **Phương pháp nào nên chọn?** Tùy vào loại dữ liệu:
+    - **Dữ liệu nhỏ, dễ xử lý:** Partitioning (K-Means).
+    - **Cụm phức tạp, có nhiễu:** Density-Based (DBSCAN).
+    - **Quan hệ thứ bậc hoặc nhiều cấp độ:** Hierarchical (Diana, BIRCH).
+    - **Mạng xã hội, đồ thị:** Link-Based (SimRank, LinkClus).
+- **Hạn chế:** Tất cả phương pháp đều có nhược điểm riêng, nên lựa chọn phụ thuộc vào đặc điểm dữ liệu và ứng dụng cụ thể.
+
+![[Pasted image 20241127113028.png]]
