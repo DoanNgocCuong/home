@@ -315,3 +315,21 @@ Cả **Gini Index** và **Entropy** đều dùng để đo "độ lộn xộn" (
 ### **4. Kết luận**
 
 Gini Index thường **nhanh hơn và dễ tính toán**, nhưng Entropy có ý nghĩa **toán học sâu sắc hơn** trong các bài toán về thông tin. Vì vậy, tùy vào bài toán và thuật toán, chúng ta có thể chọn cái phù hợp. **Cả hai đều không thay thế nhau hoàn toàn, mà hỗ trợ nhau trong các ngữ cảnh khác nhau.**
+
+
+
+Decision Tree Based
+Classification
+!Advantages:
+– Relatively inexpensive to construct
+– Extremely fast at classifying unknown records
+– Easy to interpret for small-sized trees
+– Robust to noise (especially when methods to avoid overfitting are
+employed)
+– Can easily handle redundant attributes
+– Can easily handle irrelevant attributes (unless the attributes are interacting)
+!Disadvantages: .
+– Due to the greedy nature of splitting criterion, interacting attributes (that
+can distinguish between classes together but not individually) may be
+passed over in favor of other attributed that are less discriminating.
+– Each decision boundary involves only a single attribute
