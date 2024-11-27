@@ -261,3 +261,57 @@ Chọn cách nào tùy vào yêu cầu thuật toán (nhanh, chính xác hay d�
     - Tính Gini Index cho mỗi cách chia.
     - Chọn ngưỡng tốt nhất (nhóm càng "sạch" càng tốt).
 - Đây là một bước trong thuật toán để tạo ra cây quyết định hiệu quả!
+
+### **Câu hỏi: Nếu đã có Gini, tại sao cần Entropy?**
+
+Cả **Gini Index** và **Entropy** đều dùng để đo "độ lộn xộn" (impurity) trong dữ liệu, giúp cây quyết định (Decision Tree) biết cách chia dữ liệu sao cho các nhóm trở nên "sạch" nhất. Nhưng hai phương pháp này có **sự khác biệt** trong cách tính toán và ứng dụng. Dưới đây là lý do tại sao chúng ta vẫn cần Entropy:
+
+---
+
+### **1. Khác biệt chính giữa Gini và Entropy**
+
+|**Đặc điểm**|**Gini Index**|**Entropy**|
+|---|---|---|
+|**Cách tính**|Dễ tính hơn, công thức đơn giản hơn|Phức tạp hơn, dùng logarit|
+|**Ý nghĩa**|Đo lường sự không đồng nhất trực tiếp|Đo lường mức độ "hỗn loạn" trong dữ liệu|
+|**Phạm vi giá trị**|Luôn từ 0 đến 0.5 (với 2 lớp cân bằng)|Luôn từ 0 đến 1|
+|**Tốc độ tính toán**|Nhanh hơn|Chậm hơn do sử dụng logarit|
+
+---
+
+### **2. Tại sao vẫn cần Entropy?**
+
+#### **a) Trong một số bài toán, Entropy có ý nghĩa logic hơn:**
+
+- Entropy không chỉ đo mức độ lộn xộn mà còn thể hiện lượng thông tin cần để giảm sự hỗn loạn đó.
+- **Ví dụ:** Trong truyền thông (Information Theory), Entropy được dùng để đo lượng thông tin trong một hệ thống. Nếu bài toán có liên quan đến việc **giảm bớt sự không chắc chắn** (uncertainty), Entropy phù hợp hơn.
+
+#### **b) Tùy vào thuật toán học máy:**
+
+- **C4.5** (một thuật toán cây quyết định phổ biến) sử dụng Entropy thay vì Gini Index để chọn thuộc tính, vì nó muốn tối đa hóa "thông tin đạt được" (Information Gain), vốn được tính từ Entropy.
+
+#### **c) Gini và Entropy có kết quả khác nhau trong một số trường hợp:**
+
+- **Gini Index** tối ưu hóa việc phân loại ngay lập tức (quick split), phù hợp khi bạn cần tốc độ.
+- **Entropy** lại quan tâm nhiều hơn đến chất lượng của thông tin, phù hợp trong các bài toán phức tạp.
+
+---
+
+### **3. Khi nào nên dùng Gini? Khi nào nên dùng Entropy?**
+
+#### **Dùng Gini khi:**
+
+- Cần thuật toán nhanh, ít tính toán (như trong **CART**).
+- Không cần giải thích sâu về lượng thông tin, chỉ quan tâm đến việc giảm độ lộn xộn.
+
+#### **Dùng Entropy khi:**
+
+- Cần đánh giá kỹ lưỡng mức độ "thông tin đạt được" của từng bước chia.
+- Thuật toán cụ thể yêu cầu (như **ID3**, **C4.5**).
+- Bài toán liên quan đến giảm sự không chắc chắn, cần sự chính xác cao hơn về logic thông tin.
+
+---
+
+### **4. Kết luận**
+
+Gini Index thường **nhanh hơn và dễ tính toán**, nhưng Entropy có ý nghĩa **toán học sâu sắc hơn** trong các bài toán về thông tin. Vì vậy, tùy vào bài toán và thuật toán, chúng ta có thể chọn cái phù hợp. **Cả hai đều không thay thế nhau hoàn toàn, mà hỗ trợ nhau trong các ngữ cảnh khác nhau.**
