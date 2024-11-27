@@ -333,3 +333,67 @@ employed)
 can distinguish between classes together but not individually) may be
 passed over in favor of other attributed that are less discriminating.
 – Each decision boundary involves only a single attribute
+
+
+
+### **Decision Tree Based Classification: Advantages and Disadvantages**
+
+#### **Advantages (Điểm mạnh):**
+
+1. **Relatively inexpensive to construct:**
+    
+    - Xây dựng cây quyết định không tốn quá nhiều tài nguyên hoặc thời gian.
+    - **Lợi ích:** Nhanh chóng triển khai, đặc biệt với dữ liệu vừa và nhỏ.
+2. **Extremely fast at classifying unknown records:**
+    
+    - Khi đã xây xong cây, việc phân loại (classification) rất nhanh vì chỉ cần đi theo các nhánh.
+    - **Lợi ích:** Lý tưởng cho ứng dụng thời gian thực.
+3. **Easy to interpret for small-sized trees:**
+    
+    - Cây nhỏ dễ hiểu, giống như một loạt các câu hỏi “có/không” giúp giải thích quyết định.
+    - **Lợi ích:** Phù hợp khi cần giải thích rõ ràng cho con người (giáo dục, kinh doanh).
+4. **Robust to noise (khi có kỹ thuật chống overfitting):**
+    
+    - Cây quyết định có thể chịu được dữ liệu nhiễu, đặc biệt khi sử dụng các biện pháp giảm overfitting (như pruning - tỉa cây).
+    - **Lợi ích:** Tăng độ tin cậy khi dữ liệu không hoàn hảo.
+5. **Can easily handle redundant attributes:**
+    
+    - Nếu có thuộc tính dư thừa (lặp lại), cây vẫn hoạt động tốt và tự động loại bỏ những thuộc tính không cần thiết.
+    - **Lợi ích:** Không cần xử lý trước quá nhiều.
+6. **Can easily handle irrelevant attributes:**
+    
+    - Các thuộc tính không liên quan (irrelevant attributes) thường không ảnh hưởng nhiều vì cây chỉ chọn những thuộc tính hữu ích nhất.
+
+---
+
+#### **Disadvantages (Điểm yếu):**
+
+1. **Greedy nature of splitting criterion:**
+    
+    - Do thuật toán chia nhánh (splitting) theo phương pháp "tham lam" (greedy), cây có thể **bỏ qua các thuộc tính tương tác**.
+        - Ví dụ: Hai thuộc tính AA và BB không phân loại tốt khi xem riêng lẻ, nhưng kết hợp lại thì mạnh mẽ. Cây có thể không chọn chúng.
+2. **Each decision boundary involves only a single attribute:**
+    
+    - Các quyết định phân chia chỉ dựa trên **một thuộc tính tại một thời điểm** (mỗi đường biên là 1 chiều).
+    - **Hạn chế:** Với dữ liệu phức tạp (đa chiều, cần kết hợp nhiều thuộc tính cùng lúc), cây có thể không đủ mạnh để phân biệt các lớp.
+
+---
+
+### **Khi nào nên dùng Decision Trees?**
+
+- **Dùng khi:**
+    
+    - Dữ liệu đơn giản hoặc trung bình.
+    - Cần giải thích rõ ràng cách đưa ra quyết định.
+    - Có nhiều thuộc tính dư thừa hoặc không liên quan.
+- **Không nên dùng khi:**
+    
+    - Dữ liệu có mối quan hệ phức tạp giữa các thuộc tính (như tương tác giữa các chiều).
+    - Muốn một mô hình phức tạp hơn với độ chính xác cao hơn (khi đó có thể dùng Random Forest, XGBoost).
+
+---
+
+### **Tóm gọn:**
+
+- **Ưu điểm:** Dễ dùng, nhanh, thân thiện với dữ liệu không hoàn hảo.
+- **Nhược điểm:** Hạn chế trong việc xử lý thuộc tính phức tạp và tương tác.
