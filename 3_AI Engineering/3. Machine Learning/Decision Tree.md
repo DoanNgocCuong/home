@@ -156,3 +156,51 @@ Chọn cách nào tùy vào yêu cầu thuật toán (nhanh, chính xác hay d�
 
 
 ![[Pasted image 20241127102159.png]]
+
+
+### **Bức ảnh trên nói về gì và đang làm gì?**
+
+#### **Bức ảnh nói về:**
+
+- **Cách tính Gini Index**: Đây là một chỉ số được dùng để đo "độ lộn xộn" (impurity) của dữ liệu trong một nút (node) của cây quyết định (Decision Tree).
+- **Mục tiêu:** Giúp chọn thuộc tính nào sẽ được dùng để chia dữ liệu tiếp theo.
+
+---
+
+#### **Bức ảnh đang làm task gì?**
+
+- **Task:** **Tính Gini Index** cho các nút khác nhau, dựa trên tần suất dữ liệu thuộc từng lớp (C1 và C2) trong nút đó.
+- **Mục đích:** So sánh Gini Index của các nút để biết nút nào "sạch" hơn (ít lộn xộn hơn). Điều này giúp cây quyết định biết nên dừng hay tiếp tục chia dữ liệu.
+
+---
+
+### **Cách dễ hiểu hơn:**
+
+1. **Hiểu Gini Index như "độ lộn xộn":**
+    
+    - Gini Index = 0: Dữ liệu sạch, tức tất cả đều thuộc về một lớp duy nhất. (Ví dụ: Tất cả đều là C2, không có C1).
+    - Gini Index càng cao: Dữ liệu lộn xộn hơn, nhiều lớp pha trộn lẫn nhau.
+2. **Task đang thực hiện:**
+    
+    - Bước 1: Đếm số lượng dữ liệu trong mỗi lớp C1,C2C1, C2 của từng nút.
+    - Bước 2: Tính Gini Index cho từng nút theo công thức.
+    - Bước 3: So sánh các Gini Index để biết nút nào tốt hơn (ít lộn xộn hơn).
+
+---
+
+### **Ví dụ giải thích từ bức ảnh:**
+
+- **Nút 1 (C1 = 0, C2 = 6):**
+    - Tất cả dữ liệu đều thuộc lớp C2 → Không lộn xộn → Gini = 0 (hoàn hảo).
+- **Nút 2 (C1 = 1, C2 = 5):**
+    - Một chút lộn xộn: Có 1 dữ liệu thuộc lớp C1, 5 dữ liệu thuộc lớp C2 → Gini = 0.278.
+- **Nút 3 (C1 = 2, C2 = 4):**
+    - Lộn xộn hơn: Có 2 dữ liệu thuộc lớp C1 và 4 dữ liệu thuộc lớp C2 → Gini = 0.444.
+
+**Kết luận:** Nút 1 sạch nhất (Gini = 0), nút 3 lộn xộn nhất (Gini = 0.444).
+
+---
+
+#### **Mục đích cuối cùng:**
+
+- **Dùng Gini Index** để quyết định xem nên chia nút như thế nào sao cho cây quyết định "thông minh" nhất, tức là các nhóm sau khi chia càng đồng nhất (ít lộn xộn) càng tốt.
