@@ -1,0 +1,1 @@
+[circlemind-ai/fast-graphrag: RAG that intelligently adapts to your use case, data, and queries](https://github.com/circlemind-ai/fast-graphrag)
