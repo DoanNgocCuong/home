@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs/2.1 Docker - Docker Hub.md",
+                "file": "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 Docker - Docker Hub"
+              "title": "Resources"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "rag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,6 +175,9 @@
   },
   "active": "4595add56a1ab996",
   "lastOpenFiles": [
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/1. Các chiến lược tối ưu.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Resources.md",
+    "4_MLOPs/2.1 Docker - Docker Hub.md",
     "4_MLOPs/1. git, SOLID, Code chuẩn.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.7_CV/OCR.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/__init__.md",
@@ -206,9 +209,6 @@
     "4_MLOPs/SystemDesign - GitHub - Deploy/2.md",
     "4_MLOPs/UI/2..md",
     "4_MLOPs/UI/Untitled.md",
-    "1. Lập trình nói chung/Tool Code ....md",
-    "5. Software E/Tài liệu.md",
-    "4_MLOPs/UI/2.4 Docker Hub với Server.md",
     "assert/Pasted image 20241106122454.png",
     "3_AI Engineering/4. DeepLearning/4.8 Multimodal",
     "assert/Pasted image 20241104091510.png",
