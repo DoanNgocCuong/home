@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-27.md",
+                "file": "2_English/1. Listening Foundation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-27"
+              "title": "1. Listening Foundation"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-11-27.md"
+                "file": "2_English/1. Listening Foundation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-27"
+              "title": "Outline of 1. Listening Foundation"
             }
           },
           {
@@ -175,8 +175,8 @@
   },
   "active": "4595add56a1ab996",
   "lastOpenFiles": [
-    "Pasted image 20241015172920.png",
     "2024-11-27.md",
+    "Pasted image 20241015172920.png",
     "Pasted image 20241014231129.png",
     "3_AI Engineering/3. Machine Learning/Decision Tree.md",
     "assert/Pasted image 20241127104908.png",
@@ -220,7 +220,6 @@
     "assert/Pasted image 20241028231838.png",
     "assert/Pasted image 20241022112012.png",
     "assert/Pasted image 20241019190008.png",
-    "Pasted image 20241016140959.png",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "3_AI Engineering/4. DeepLearning/4.2 RAG/RAG/RAG 1/Search/Untitled.canvas",
