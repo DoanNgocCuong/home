@@ -204,3 +204,60 @@ Chọn cách nào tùy vào yêu cầu thuật toán (nhanh, chính xác hay d�
 #### **Mục đích cuối cùng:**
 
 - **Dùng Gini Index** để quyết định xem nên chia nút như thế nào sao cho cây quyết định "thông minh" nhất, tức là các nhóm sau khi chia càng đồng nhất (ít lộn xộn) càng tốt.
+
+
+==========
+
+### **Bức ảnh trên nói về việc tính Gini Index cho dữ liệu liên tục**
+
+#### **1. Ý chính của bức ảnh:**
+
+- Khi có **dữ liệu liên tục** (ví dụ: Thu nhập hàng năm), ta phải tìm giá trị tối ưu để chia dữ liệu thành hai nhóm (nhánh) dựa trên **Gini Index**.
+- Task: Tìm giá trị vv tốt nhất để chia dữ liệu sao cho Gini Index nhỏ nhất (nhóm càng "sạch" càng tốt).
+
+---
+
+#### **2. Dữ liệu liên tục xử lý như thế nào?**
+
+- **Dữ liệu liên tục** không thể chia thẳng thành nhóm rời rạc, nên cần tạo ngưỡng (threshold) vv.
+- Mỗi giá trị vv sẽ tạo hai nhóm:
+    - Nhóm 1: A≤vA \leq v
+    - Nhóm 2: A>vA > v
+- Ví dụ: **Annual Income (Thu nhập hàng năm)** với ngưỡng v=80v = 80:
+    - Nhóm 1: Thu nhập ≤80\leq 80
+    - Nhóm 2: Thu nhập >80> 80
+
+---
+
+#### **3. Task cụ thể trong ảnh:**
+
+- Bức ảnh đang xét **thu nhập hàng năm** và chia nhóm theo giá trị v=80v = 80.
+    
+- **Bảng dữ liệu ví dụ:**
+    
+    - Các cột: ID, Thu nhập, Đã vỡ nợ (Defaulted: Yes/No).
+    - Hàng 7-10 được chia làm 2 nhóm:
+        - A≤80A \leq 80: 0 người vỡ nợ, 3 người không vỡ nợ.
+        - A>80A > 80: 3 người vỡ nợ, 4 người không vỡ nợ.
+- **Gini Index** được tính cho từng cách chia vv, sau đó chọn vv sao cho Gini Index nhỏ nhất.
+    
+
+---
+
+#### **4. Các ý quan trọng:**
+
+1. **Số lượng giá trị vv:** Số giá trị chia có thể = số giá trị duy nhất của thuộc tính.
+2. **Quét toàn bộ dữ liệu:** Với mỗi vv, tính Gini Index, rồi chọn vv tốt nhất (Gini nhỏ nhất).
+3. **Nhược điểm:**
+    - Cần nhiều phép tính (scan qua tất cả giá trị vv).
+    - Tốn thời gian nếu dữ liệu lớn hoặc nhiều thuộc tính.
+
+---
+
+#### **5. Kết luận dễ hiểu:**
+
+- Bức ảnh minh họa cách **xử lý thuộc tính liên tục** trong cây quyết định:
+    - Chia dữ liệu thành hai nhóm dựa trên ngưỡng vv.
+    - Tính Gini Index cho mỗi cách chia.
+    - Chọn ngưỡng tốt nhất (nhóm càng "sạch" càng tốt).
+- Đây là một bước trong thuật toán để tạo ra cây quyết định hiệu quả!
