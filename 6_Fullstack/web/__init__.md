@@ -84,3 +84,74 @@ networks:
 ```
 
 thì 1 bản `docker-compose -f docker-compose.prod.yml up --build` như này cũng chạy được ngon trên local
+
+```
+const getEnvironment = () => {  
+if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {  
+return 'development';  
+}  
+return 'production';  
+};  
+  
+export const getConfig = () => {  
+const env = getEnvironment();  
+return config[env];  
+};  
+  
+
+```
+  
+cÓ PHẢI NHỜ CƠ CHẾ NÀY MÀ @docker-compose.prod.yml chạy được trên cả local
+
+
+Đúng rồi! Cơ chế này giúp ứng dụng tự động chuyển đổi giữa môi trường development và production dựa trên hostname. Hãy phân tích cách nó hoạt động:
+
+1. **Cơ chế phát hiện môi trường:**
+````javascript:deploy1.3_streamingHardCode/frontend/config.js
+const getEnvironment = () => {
+    // Kiểm tra nếu đang chạy trên localhost
+    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+        return 'development';
+    }
+    // Nếu không phải localhost thì là production
+    return 'production';
+};
+````
+
+2. **Config cho từng môi trường:**
+````javascript
+const config = {
+    development: {
+        frontendUrl: 'http://localhost:25040',
+        backendUrl: 'http://localhost:25039',
+        apiUrl: 'http://localhost:5011'
+    },
+    production: {
+        frontendUrl: 'http://103.253.20.13:25040',
+        backendUrl: 'http://103.253.20.13:25039',
+        apiUrl: 'http://103.253.20.13:5011'
+    }
+};
+````
+
+3. **Cách nó làm việc với docker-compose.prod.yml:**
+````yaml
+frontend:
+    environment:
+      - NODE_ENV=production  # Mặc dù set production
+    ports:
+      - "25040:5000"        # Nhưng vẫn map port local
+````
+
+**Ưu điểm của cơ chế này:**
+1. Tự động detect môi trường
+2. Không cần thay đổi code khi deploy
+3. Có thể test production config trên local
+4. Dễ dàng switch giữa các môi trường
+
+**Flow hoạt động:**
+1. Local access: `localhost:25040` → `development config`
+2. Production access: `103.253.20.13:25040` → `production config`
+3. Docker container vẫn chạy bình thường ở cả 2 môi trường
+
+Đây là pattern rất hữu ích cho development và testing!
