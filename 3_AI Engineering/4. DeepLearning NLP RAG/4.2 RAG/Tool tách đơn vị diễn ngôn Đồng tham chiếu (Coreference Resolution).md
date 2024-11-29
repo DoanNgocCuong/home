@@ -136,3 +136,6 @@ Cho đoạn:
 
 
 xử lý đồng tham chiếu trước xong rồi mới sử dụng semantic embeding để BERT nó hiểu được (nếu ko thì nó sẽ ko hiểu tốt đoạn chunk)
+
+
+## semantic segmentation 
