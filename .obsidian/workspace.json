@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/BM25.md",
+                "file": "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Soft Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BM25"
+              "title": "Soft Prompt"
             }
           }
         ]
@@ -176,6 +176,7 @@
   "active": "4595add56a1ab996",
   "lastOpenFiles": [
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Tool tách đơn vị diễn ngôn Đồng tham chiếu (Coreference Resolution).md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Soft Prompt.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/BM25.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/1. Các chiến lược tối ưu.md",
     "4_MLOPs/1. git, SOLID, Code chuẩn.md",
@@ -206,7 +207,6 @@
     "4_MLOPs/AWS/1. Nguồn.md",
     "1. Lập trình nói chung/OpenSource.md",
     "1. Lập trình nói chung/Untitled.md",
-    "6_Fullstack/Cấu trúc thư mục.md",
     "4_MLOPs/AWS",
     "6_Fullstack",
     "assert/Pasted image 20241106122454.png",
