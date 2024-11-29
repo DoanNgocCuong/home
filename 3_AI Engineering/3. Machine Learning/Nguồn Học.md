@@ -1,7 +1,7 @@
 1. FOUNDATION: 
 - Youtube Tiếng Việt: https://youtube.com/playlist?list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11_&feature=shared
 - [https://machinelearningcoban.com/](https://machinelearningcoban.com/)
-- Notebook to bự về Machine Learning: [PythonDataScienceHandbook/notebooks_v1/05.00-Machine-Learning.ipynb at master · jakevdp/PythonDataScienceHandbook (github.com)](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks_v1/05.00-Machine-Learning.ipynb)
+- Notebook to bự về Machine Learning từ cơ bản được thầy Kiên Web Mining gửi: [PythonDataScienceHandbook/notebooks_v1/05.00-Machine-Learning.ipynb at master · jakevdp/PythonDataScienceHandbook (github.com)](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks_v1/05.00-Machine-Learning.ipynb)
 - All Algorithms in 17 mins: https://www.youtube.com/watch?v=E0Hmnixke2g
 - 15 Machine Learning Lessons I Wish I Knew Earlier: in REAL PROMBLEM: https://youtu.be/espQDESe07w?feature=shared
 
