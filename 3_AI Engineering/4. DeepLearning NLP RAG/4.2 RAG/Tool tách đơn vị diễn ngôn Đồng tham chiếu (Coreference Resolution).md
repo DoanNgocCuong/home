@@ -237,3 +237,14 @@ Nếu bạn muốn tìm hiểu thêm về:
 - **Lỗi hoặc cải tiến cụ thể trong code**.
 
 Hãy chia sẻ thêm chi tiết để tôi hỗ trợ sâu hơn!
+
+
+
+## FINETUNE
+- positive, negative
+- cặp question, paragraph, 
+- Học biểu diễn, nhúng vào không gian cho gần question 
+- paragraph bỏ đi các từ ko liên quan --- trọng số weight với question
+- negative (bm25 có từ -- mà ko đúng)
+- nên fine tune RERANK ??? (ko retrieval)
+- 
