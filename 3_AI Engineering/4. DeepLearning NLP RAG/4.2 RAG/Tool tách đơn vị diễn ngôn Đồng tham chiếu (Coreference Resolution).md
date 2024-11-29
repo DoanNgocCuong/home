@@ -247,4 +247,14 @@ Hãy chia sẻ thêm chi tiết để tôi hỗ trợ sâu hơn!
 - paragraph bỏ đi các từ ko liên quan --- trọng số weight với question
 - negative (bm25 có từ -- mà ko đúng)
 - nên fine tune RERANK ??? (ko retrieval)
-- 
+
+====
+
+Model: 
+- fineturn, rerank 
+- [xhluca/bm25s: Fast lexical search implementing BM25 in Python using Numpy, Numba and Scipy](https://github.com/xhluca/bm25s)
+- [linear-adapter-embedding/Linear_Adapter.ipynb at main · ALucek/linear-adapter-embedding](https://github.com/ALucek/linear-adapter-embedding/blob/main/Linear_Adapter.ipynb)
+
+-----
+Retrieval Combine (embedding, BM25 cách kết hợp nào cũng oke, lấy 100 lấy 10 hoặc lấy %) -- quăng vào rerank. 
+
