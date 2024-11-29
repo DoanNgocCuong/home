@@ -139,3 +139,101 @@ xử lý đồng tham chiếu trước xong rồi mới sử dụng semantic emb
 
 
 ## semantic segmentation 
+
+BLEU 4(response dài mà câu trả lời chuẩn đúng => score thấp). 
+
+
+
+Phương pháp **Retrieval** trong ngữ cảnh này có thể được hiểu là cách mà hệ thống tìm kiếm và lấy thông tin từ cơ sở dữ liệu hoặc tài liệu khi có một truy vấn đầu vào (query). Dựa trên thông tin từ tệp `SERVER_v2.3_Done_fixRetrieval.ipynb`, đây có vẻ là một ứng dụng chatbot kết hợp công nghệ Retrieval-Augmented Generation (RAG) để cung cấp câu trả lời.
+
+### **Retrieval trong hệ thống RAG**
+
+RAG là một framework kết hợp giữa **Retrieval** (truy xuất thông tin) và **Generation** (tạo câu trả lời). Trong RAG, phương pháp Retrieval đóng vai trò quan trọng để:
+
+1. **Truy xuất thông tin có liên quan** từ cơ sở dữ liệu hoặc tập tài liệu lớn.
+2. Đưa thông tin này làm ngữ cảnh cho mô hình ngôn ngữ (ví dụ: GPT hoặc BERT) để tạo câu trả lời.
+
+---
+
+### **Các phương pháp Retrieval phổ biến**
+
+1. **Dense Retrieval (Vector Search)**:
+    
+    - **Cách hoạt động**: Sử dụng các mô hình nhúng (embedding) như Sentence-BERT hoặc OpenAI Embeddings để ánh xạ văn bản truy vấn và tài liệu vào không gian vector. Sau đó, sử dụng các phương pháp như cosine similarity để tìm các tài liệu có liên quan.
+    - **Ưu điểm**: Hiệu quả cao với ngữ nghĩa, đặc biệt phù hợp với ngữ cảnh pháp lý, tài liệu kỹ thuật.
+    - **Thư viện**: FAISS, Pinecone, Weaviate.
+2. **Sparse Retrieval (TF-IDF, BM25)**:
+    
+    - **Cách hoạt động**: Sử dụng phương pháp dựa trên tần suất từ khóa trong tài liệu. TF-IDF và BM25 là hai thuật toán phổ biến.
+    - **Ưu điểm**: Đơn giản, nhanh, phù hợp với dữ liệu nhỏ hoặc không yêu cầu nhiều ngữ nghĩa.
+3. **Hybrid Retrieval**:
+    
+    - **Cách hoạt động**: Kết hợp Dense Retrieval và Sparse Retrieval để tận dụng ưu điểm của cả hai phương pháp.
+    - **Ưu điểm**: Tăng độ chính xác và khả năng xử lý ngữ nghĩa phức tạp.
+4. **Graph-based Retrieval**:
+    
+    - **Cách hoạt động**: Xây dựng các đồ thị biểu diễn quan hệ giữa các tài liệu hoặc đoạn văn bản. Truy vấn được khớp dựa trên các kết nối trong đồ thị.
+    - **Ứng dụng**: Tốt cho dữ liệu có cấu trúc hoặc tài liệu có tính liên kết cao.
+
+---
+
+### **Cách triển khai Retrieval trong hệ thống của bạn**
+
+1. **Chuẩn bị dữ liệu**:
+    
+    - Dữ liệu phải được làm sạch và tổ chức tốt, ví dụ: văn bản pháp lý, tài liệu hợp đồng.
+    - Chuyển dữ liệu thành vector nếu sử dụng Dense Retrieval.
+2. **Chọn công cụ phù hợp**:
+    
+    - Sử dụng **FAISS** để xây dựng và tìm kiếm trên cơ sở vector.
+    - Nếu sử dụng Sparse Retrieval, áp dụng **BM25** từ thư viện `whoosh` hoặc `elasticsearch`.
+3. **Tích hợp vào pipeline**:
+    
+    - Query → Tìm tài liệu liên quan → Đưa tài liệu này làm ngữ cảnh cho mô hình tạo sinh.
+
+---
+
+### **Code mẫu Dense Retrieval (FAISS)**
+
+Dưới đây là ví dụ về cách sử dụng FAISS để triển khai Dense Retrieval:
+
+```python
+import faiss
+from sentence_transformers import SentenceTransformer
+
+# 1. Load pre-trained embedding model
+model = SentenceTransformer('all-MiniLM-L6-v2')
+
+# 2. Prepare data (list of documents)
+documents = [
+    "Circle K at Hồ Tùng Mậu provides great service.",
+    "The contract was signed on 28/11/2024.",
+    "Legal documents require careful analysis."
+]
+doc_embeddings = model.encode(documents)
+
+# 3. Build FAISS index
+index = faiss.IndexFlatL2(doc_embeddings.shape[1])  # L2 distance
+index.add(doc_embeddings)
+
+# 4. Query the system
+query = "Where is Circle K?"
+query_embedding = model.encode([query])
+D, I = index.search(query_embedding, k=2)  # Retrieve top-2 matches
+
+# 5. Show results
+for i in I[0]:
+    print(f"Matched document: {documents[i]}")
+```
+
+---
+
+### **Bạn cần làm rõ điều gì?**
+
+Nếu bạn muốn tìm hiểu thêm về:
+
+- **Triển khai cụ thể** (Dense Retrieval hoặc Hybrid).
+- **Mô hình RAG đầy đủ** (Retrieval + Generation).
+- **Lỗi hoặc cải tiến cụ thể trong code**.
+
+Hãy chia sẻ thêm chi tiết để tôi hỗ trợ sâu hơn!
