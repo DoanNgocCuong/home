@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "356e2c34ba55f050",
+  "active": "b0eb5b2678aa1cf3",
   "lastOpenFiles": [
     "4_MLOPs và Full Stack/6_Fullstack/Nguồn.md",
     "4_MLOPs và Full Stack/6_Fullstack/Untitled.md",
