@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/4. DeepLearning NLP RAG/4.5_Agent/Agent_Rag.md",
+                "file": "1. Lập trình nói chung/2. Bảo mật Keys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agent_Rag"
+              "title": "2. Bảo mật Keys"
             }
           }
         ],
@@ -190,8 +190,9 @@
   },
   "active": "356e2c34ba55f050",
   "lastOpenFiles": [
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.5_Agent/__init__.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.5_Agent/Agent_Rag.md",
+    "1. Lập trình nói chung/2. Bảo mật Keys.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.5_Agent/__init__.md",
     "4_MLOPs và Full Stack/1. Git/1. git, SOLID, Code chuẩn.md",
     "4_MLOPs và Full Stack/6_Fullstack/web/__init__.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/1. Metrics Precision vs Recall.md",
@@ -219,7 +220,6 @@
     "4_MLOPs và Full Stack/Dockerrr.md",
     "4_MLOPs và Full Stack/6_Fullstack/Untitled 1.md",
     "4_MLOPs và Full Stack/UI/2.4 Docker Hub với Server.md",
-    "4_MLOPs và Full Stack/UI/Gradio.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.5_Agent",
     "NOTE NHANH CÔNG VIỆC",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.7_CV",
