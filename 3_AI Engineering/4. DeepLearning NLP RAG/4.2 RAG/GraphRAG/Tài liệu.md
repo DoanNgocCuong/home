@@ -18,3 +18,5 @@ Toàn bộ các bước trong quy trình: [https://arxiv.org/pdf/2404.16130](htt
 GraphRAG: [Harnessing LLMs for Knowledge Graph Construction on Indian Healthcare: Extracting Concepts and Visualizing Relationships with LangChain, OpenAI and NetworkX | by Kshitij Kutumbe | Aug, 2024 | GoPenAI](https://blog.gopenai.com/harnessing-llms-for-knowledge-graph-construction-on-indian-healthcare-extracting-concepts-and-a580de674171)
 
 -------------------------
+
+
