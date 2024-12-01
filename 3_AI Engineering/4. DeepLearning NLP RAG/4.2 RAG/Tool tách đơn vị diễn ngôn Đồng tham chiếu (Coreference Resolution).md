@@ -258,3 +258,5 @@ Model:
 -----
 Retrieval Combine (embedding, BM25 cách kết hợp nào cũng oke, lấy 100 lấy 10 hoặc lấy %) -- quăng vào rerank. 
 
+
+
