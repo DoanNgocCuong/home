@@ -19,3 +19,5 @@ https://fleuret.org/dlc/?fbclid=IwAR3nFPRRxCur9fTRDW4gq1GhSCqa9I3DArjvJ9_m3WjPOQ
 
 
 [IBM-AI-Engineering-Specialization/Course_5 at main · 11a55an/IBM-AI-Engineering-Specialization (github.com)](https://github.com/11a55an/IBM-AI-Engineering-Specialization/tree/main/Course_5)
+
+![[Pasted image 20241202180522.png]]
