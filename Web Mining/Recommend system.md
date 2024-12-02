@@ -1,3 +1,5 @@
+LEARN FROM BEST PRACTICES AND MANY SUMMARY OF PEOPLE 
+
 - movie: LightGCN, BPR, DeepFM, BiVAE, NCF, MF baseline 
 - RMSE, Pricision@10, Recall@10, NDCG@10
 
@@ -62,3 +64,24 @@ Grading Boosting decision tree:
 
 
 --------------------------------
+Group 8: Extract opinions about specific aspects, obtaining deeper and more details. 
+3 Main subtassk: 
+- MATE Multimodel Aspect Sentiment Classification MASC : MABSSC, MCBSC. 
+	- mcbsc : USE , ....
+- MASC Multimode 
+- ASPE PEpect S Pairs
+
+Method: Text : RNN< LSTM, Bert 
+Image : Cnn, Resnet 
+Cross model attention mechainis ,; Focus on inô, extract content form text or image, 
+
+Fusion Techiniques : 
+	-  Earrly fusion (Feature layer fusion) - Late fusion - Immedate ... 
+Dataset;ViMACSA, ... 
+
+Textual Data: Tokenize, Stemming Normalize remove stipss , Image : Normalize, Augmentation, .. 
+
+
+3.3 Models: FCMF (main model, show in the papper, ) 
+MIMN: Feature Extraction, Multimodel Memory Network, Multi, ... 
+tomBERT?? 
