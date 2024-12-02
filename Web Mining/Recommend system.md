@@ -29,3 +29,14 @@ Approach2 : Author Network-Based Search
 4. Final: Choose top 10 for the relationship 
 
 Dataset: Kaggle: metadataa: id, submitter, authors, ... 
+
+
+
+-------------------------------------
+
+Methods Semantic Analysis 
+- mẹthod: Hỉeachical Graph Convolutions network HIER - GCN (bert encode the review sentence and gen re)
+- Domain:Hotel, Resuatl, 
+- 4 sentiment: none, pos, neg, neutral
+- VNCorenlp, ... 
+- Method 3; 
