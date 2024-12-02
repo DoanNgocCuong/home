@@ -40,3 +40,23 @@ Methods Semantic Analysis
 - 4 sentiment: none, pos, neg, neutral
 - VNCorenlp, ... 
 - Method 3; 
+
+-----------------
+
+Group 7: Film: 
+Dataset: Netlfix 2006, 5600 ratings/users, 200 rating/1 films . 
+User ID, Fil,, Date, Rading 
+
+Trying to predict the ratings in the test set when given User ID, filmID, and dataset. 
+(In other words: Given)
+
+Method ; 
+
+SVD : soimplest solutoion 
+
+- A is the rating matrics, all missing values 
+- A = U * Xích ma V_T 
+- Either learn a function R'_ij directly 
+Method: Time-aware rating predction from assumption that theré tesceits a shift in ủe preferrence s
+
+Grading Boosting decision tree: 
