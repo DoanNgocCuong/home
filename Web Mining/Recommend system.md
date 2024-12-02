@@ -58,5 +58,7 @@ SVD : soimplest solutoion
 - A = U * Xích ma V_T 
 - Either learn a function R'_ij directly 
 Method: Time-aware rating predction from assumption that theré tesceits a shift in ủe preferrence s
-
 Grading Boosting decision tree: 
+
+
+--------------------------------
