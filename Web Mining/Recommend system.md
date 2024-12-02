@@ -1,4 +1,4 @@
-LEARN FROM BEST PRACTICES AND MANY SUMMARY OF PEOPLE 
+LEARN FROM BEST PRACTICES AND MANY SUMMARY&PRACTICES OF PEOPLE 
 
 - movie: LightGCN, BPR, DeepFM, BiVAE, NCF, MF baseline 
 - RMSE, Pricision@10, Recall@10, NDCG@10
@@ -85,3 +85,16 @@ Textual Data: Tokenize, Stemming Normalize remove stipss , Image : Normalize, Au
 3.3 Models: FCMF (main model, show in the papper, ) 
 MIMN: Feature Extraction, Multimodel Memory Network, Multi, ... 
 tomBERT?? 
+
+-------------------
+
+GROUP 8-
+Machine learning: TF-IDF, Word Frequency, N-gram models, word couting 
+
+- SVM for multi class finication : One-Rest  (1 class vs others classes)---- One vs One (classifier for every pair of classes : 20*19/2
+)- Decision Tree, LSTM, Bi-LSTM
+- Finetunging báes methofs: Finetuning the pretrained RoBERTa model (a new traing strategfy for the BERT MODEL). 
+
+dATASET: 510.000 twết, each contain 1 emoji that servers as the classifi cation 
+
+Metrics : Macro-averate F1 Score ??
