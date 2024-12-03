@@ -125,3 +125,22 @@ Evaluation
 
 HR Hir Ratio: HR = U_hit/U_all
 
+
+
+======
+group 11 : 
+- GNN to capture  food recommendation 
+Data: Inputs: User data, restaurant data, graph structure (user - item releations híp : review,s , purchased)
+-> output: recommend list: ranks food 
+
+- Matrix factoriaxz e 
+- Neighborhood based collaborative filtering
+
+GNNs: implemment deep learning, GNNS capture complex
+
+CKAN: 
+KGNN-LS : 
+
+Dataset : Dianping-Food, - 10 milliojjn interractins *click, purchasesm add ing* (user, item, interactions, inter-avg, entities, relationship, ..)
+
+Metrics : RMSE< F1 score 
