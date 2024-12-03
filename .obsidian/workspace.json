@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Mining/Report các nhóm.md",
+                "file": "3_AI Engineering/4. DeepLearning NLP RAG/4.7_CV/OCR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Report các nhóm"
+              "title": "OCR"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "web mining",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,6 +204,7 @@
   },
   "active": "cc7914fa29a34695",
   "lastOpenFiles": [
+    "Web Mining/Report các nhóm.md",
     "Web Mining/ALL.md",
     "Web Mining/__init__.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/1. Nhìn tổng quan 10 chủ đề Foundation của NLP.md",
@@ -224,7 +225,6 @@
     "2024-12-02.md",
     "Untitled 1.canvas",
     "2024-12-01.md",
-    "Web Mining/Report các nhóm.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/Embedding.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/MRR - Hit Rate - Rerank.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/HyDRE.md",
