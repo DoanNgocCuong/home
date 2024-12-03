@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/1. Nhìn tổng quan 10 chủ đề Foundation của NLP.md",
+                "file": "Web Mining/Report các nhóm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Nhìn tổng quan 10 chủ đề Foundation của NLP"
+              "title": "Report các nhóm"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "web mining",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,8 +204,10 @@
   },
   "active": "cc7914fa29a34695",
   "lastOpenFiles": [
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/2. Pytorch - Hunggingface - Transformer.md",
+    "Web Mining/ALL.md",
+    "Web Mining/__init__.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/1. Nhìn tổng quan 10 chủ đề Foundation của NLP.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/2. Pytorch - Hunggingface - Transformer.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/1. Mạng Neural giải thích cơ bản.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/Bi-Encoder Cross-Encoder.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/NGUỒN HỌC - YOU SHOULD START WITH FOUNDATION + NGÁCH + ACTUAL PROJECT.md",
@@ -222,12 +224,10 @@
     "2024-12-02.md",
     "Untitled 1.canvas",
     "2024-12-01.md",
-    "Web Mining/Recommend system.md",
-    "Web Mining/__init__.md",
+    "Web Mining/Report các nhóm.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/Embedding.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/MRR - Hit Rate - Rerank.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/HyDRE.md",
-    "Web Mining/ALL.md",
     "Web Mining.md",
     "4_MLOPs và Full Stack/1. Git/1. git, SOLID, Code chuẩn.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Tool tách đơn vị diễn ngôn Đồng tham chiếu (Coreference Resolution).md",

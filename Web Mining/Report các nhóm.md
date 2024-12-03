@@ -98,3 +98,15 @@ Machine learning: TF-IDF, Word Frequency, N-gram models, word couting
 dATASET: 510.000 twết, each contain 1 emoji that servers as the classifi cation 
 
 Metrics : Macro-averate F1 Score ??
+
+
+
+-----------------
+
+IGROUP 10
+
+userID, ProductID of a related product 
+ouput: top N products 
+
+Dataset: Amazon Reviews 18
+- 
