@@ -155,3 +155,19 @@ frontend:
 3. Docker container vẫn chạy bình thường ở cả 2 môi trường
 
 Đây là pattern rất hữu ích cho development và testing!
+
+
+
+Cách set log cho docker 
+```
+# Set console output encoding to UTF-8
+sys.stdout.reconfigure(encoding='utf-8')
+
+# Set up detailed logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[logging.StreamHandler(sys.stdout)]
+)
+logger = logging.getLogger(__name__)
+```
