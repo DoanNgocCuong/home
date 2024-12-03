@@ -109,4 +109,19 @@ userID, ProductID of a related product
 ouput: top N products 
 
 Dataset: Amazon Reviews 18
-- 
+
+Methods: content-basé recommend TD-IDF, 
+Collaborative Filtering: 
+	- Item baed recommend with KNN
+	- Single Value Decomposition
+	- Nẻual 
+
+User_item Interaction Graph, High-order Connectity 
+
+Hybrid Approach: Combine, lessen the impact of item Cold Start Project
+
+
+Evaluation 
+
+HR Hir Ratio: HR = U_hit/U_all
+
