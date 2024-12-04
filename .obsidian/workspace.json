@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cluster",
+                "query": "clusterrag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81f3d602e2e26bc2",
+  "active": "9b6b6e1d46d09ac1",
   "lastOpenFiles": [
     "3_AI Engineering/3. Machine Learning/1. Linear Regression.md",
     "3_AI Engineering/3. Machine Learning/5. Clustering.md",
