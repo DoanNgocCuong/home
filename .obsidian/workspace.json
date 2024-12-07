@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,11 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87a1a8025f2c1bb1",
+  "active": "49387fd020a68256",
   "lastOpenFiles": [
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/5. Ngôn ngữ lập trình.md",
     "8_Project/dify/11_TurnOffSuggestion/Turn off suggestion into chat node.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.1.2 Docker - Docker Hub.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/5. Ngôn ngữ lập trình.md",
     "1. Lập trình nói chung/Untitled.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.3 docker compose.md",
     "8_Project/dify/11_TurnOffSuggestion",

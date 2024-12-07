@@ -121,3 +121,52 @@ Vì vậy cần `setIsResponding(false)` để:
 - Reset loading state sau khi xử lý xong
 - Enable lại UI cho user tương tác tiếp
 - Báo hiệu rằng chatbot đã sẵn sàng nhận input mới
+
+
+
+
+
+
+// Because we need to show the loading state of the chatbot widget  
+setIsResponding(false)  
+  
+là của chatbotWidget qua await window.chatbot?.sendMessageWindow(suggestion, fullContext)  
+  
+hay là của node INPUT - CHAT trong @chat-input.tsx
+
+
+
+`setIsResponding` được sử dụng ở cả 2 nơi nhưng với mục đích khác nhau:
+
+1. **Trong ChatInput.tsx:**
+```typescript
+const onSubmit = async ({ query }: ChatModelForm) => {
+  if (query?.trim().length) {
+    setIsResponding(true)  // Start loading
+    
+    // Gọi API và xử lý
+    const response = await mindpalChatUserInputNodeExecution(...)
+    setNodeExecutions(...)
+    
+    setIsResponding(false) // End loading sau khi có response
+  }
+}
+```
+- Điều khiển loading state của INPUT-CHAT node
+- Disable input và nút gửi khi đang xử lý
+
+2. **Trong Suggestions.tsx:**
+```typescript:web/app/components/mindpal/recommendQ/recommendQ.tsx
+const onSend = async (suggestion: string) => {
+  setIsResponding(true)  // Start loading
+  
+  // Gửi đến chatbot widget
+  await window.chatbot?.sendMessageWindow(suggestion, fullContext)
+  
+  setIsResponding(false) // End loading sau khi chatbot xử lý xong
+}
+```
+- Điều khiển loading state của chatbot widget 
+- Hiển thị trạng thái đang xử lý trong widget
+
+Comment "Because we need to show the loading state of the chatbot widget" là chính xác - `setIsResponding` trong `suggestions.tsx` là dành cho chatbot widget, không phải cho INPUT-CHAT node.
