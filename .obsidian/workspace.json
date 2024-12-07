@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.3 docker compose.md",
+                "file": "COMPUTER NETWORK/NETWORK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2.3 docker compose"
+              "title": "NETWORK"
             }
           }
         ],
@@ -216,10 +216,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49387fd020a68256",
+  "active": "743e8c34ace83558",
   "lastOpenFiles": [
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__.md",
+    "8_Project/dify/1_docker_dev/SetUpCOPYRIENGthayvicaCuc.ipynb",
+    "8_Project/dify/1_docker_dev/note5_HoiMentor.ipynb",
+    "8_Project/dify/1_docker_dev/note3_dockercomposeImage_and_dockercomposeBuild.ipynb",
+    "8_Project/dify/1_docker_dev/note4_OpenPORT.ipynb",
+    "8_Project/dify/1_docker_dev/note1_dockerRun.ipynb",
+    "8_Project/dify/1_docker_dev/note1_.ipynb",
+    "8_Project/dify/1_docker_dev/note1_devYML.ipynb",
+    "8_Project/dify/1_docker_dev/build_NextJS.ipynb",
+    "8_Project/dify/1_docker_dev/Bug2RunMiddleware_note1.ipynb",
+    "8_Project/dify/1_docker_dev/bug_Docker.ipynb",
+    "8_Project/dify/1_docker_dev/Bug1KoThayRunMindPal_bugDockerBuild]note1.ipynb",
+    "8_Project/dify/HowRun.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.3 docker compose.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. venv - Docker - k8s Cloud.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2. Nửa Docker - Package.json, pyproject.toml.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.1.2 Docker - Docker Hub.md",
@@ -228,7 +240,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/1. Template Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/1 số tool Docker.md",
     "4_MLOPs và Full Stack Docker/2.2 Free web hosting.md",
-    "4_MLOPs và Full Stack Docker/Untitled",
     "1. Lập trình nói chung/Run đóng gói.md",
     "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "1. Lập trình nói chung/1. Python.md",
@@ -243,21 +254,10 @@
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/0. Resources.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.5 Fine Tuning/Note.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/MRR - Hit Rate - Rerank.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/HyDRE.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/1. Mạng Neural giải thích cơ bản.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.5 Fine Tuning/Untitled",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.5 Fine Tuning",
     "assert/Pasted image 20241202180522.png",
     "Untitled 1.canvas",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Metrics",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.7_Chatbot",
     "Untitled.canvas",
-    "4_MLOPs và Full Stack Docker/1. Git",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.5_Agent",
-    "NOTE NHANH CÔNG VIỆC",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.7_CV",
     "assert/Pasted image 20241127113028.png",
-    "3_AI Engineering/3. Machine Learning/Cluster Analysis - Web Mining - Bussiness Analysis",
     "Pasted image 20241015172920.png",
     "Pasted image 20241014231129.png",
     "assert/Pasted image 20241127104908.png",

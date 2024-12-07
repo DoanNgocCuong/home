@@ -1,0 +1,176 @@
+app:
+  description: ''
+  icon: 🤖
+  icon_background: '#FFEAD5'
+  mode: workflow
+  name: 1.2 - PS/Define scope (Custom Framework)
+  use_icon_as_answer_icon: false
+kind: app
+version: 0.1.2
+workflow:
+  conversation_variables: []
+  environment_variables: []
+  features:
+    file_upload:
+      image:
+        enabled: false
+        number_limits: 3
+        transfer_methods:
+        - local_file
+        - remote_url
+    opening_statement: ''
+    retriever_resource:
+      enabled: false
+    sensitive_word_avoidance:
+      enabled: false
+    speech_to_text:
+      enabled: false
+    suggested_questions: []
+    suggested_questions_after_answer:
+      enabled: false
+    text_to_speech:
+      enabled: false
+      language: ''
+      voice: ''
+  graph:
+    edges:
+    - data:
+        isInIteration: false
+        sourceType: llm
+        targetType: end
+      id: 1730800027670-source-1729352608137-target
+      source: '1730800027670'
+      sourceHandle: source
+      target: '1729352608137'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: start
+        targetType: llm
+      id: 1729351853681-source-1730800027670-target
+      source: '1729351853681'
+      sourceHandle: source
+      target: '1730800027670'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    nodes:
+    - data:
+        desc: ''
+        selected: false
+        title: Start
+        type: start
+        variables:
+        - label: Cùng tôi làm rõ vấn đề của bạn
+          max_length: null
+          options: []
+          required: false
+          type: paragraph
+          variable: chat_user_input_a1
+        - label: Vấn đề của bạn
+          max_length: null
+          options: []
+          required: true
+          type: paragraph
+          variable: problem_statement
+        - label: context
+          max_length: null
+          options: []
+          required: true
+          type: paragraph
+          variable: context
+      height: 141
+      id: '1729351853681'
+      position:
+        x: 30
+        y: 274
+      positionAbsolute:
+        x: 30
+        y: 274
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 243
+    - data:
+        desc: ''
+        outputs:
+        - value_selector:
+          - '1730800027670'
+          - text
+          variable: text
+        selected: false
+        title: End
+        type: end
+      height: 89
+      id: '1729352608137'
+      position:
+        x: 942
+        y: 274
+      positionAbsolute:
+        x: 942
+        y: 274
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 243
+    - data:
+        context:
+          enabled: true
+          variable_selector:
+          - '1729351853681'
+          - context
+        desc: ''
+        model:
+          completion_params:
+            temperature: 0.7
+          mode: chat
+          name: gpt-4o
+          provider: openai
+        prompt_template:
+        - id: f6517c7e-212a-4509-a13e-9f2004aa974f
+          role: system
+          text: "**Step 1:** Là 1 chuyên gia trong lĩnh vực của vấn đề, dựa vào problem\
+            \ statement và thông tin đã được cung cấp trong {{#context#}}, hãy đặt\
+            \ thêm các các câu hỏi lần lượt kèm link guideline trả lời để làm rõ scope,\
+            \ khó khăn khi giải quyết vấn đề {{#1729351853681.problem_statement#}}.\
+            \ \n\nNOTE: \n- Mỗi lần chỉ hỏi 1 câu thôi\n- Đợi tôi trả lời xong câu\
+            \ trước mới hỏi tiếp câu sau. Max là 5 câu hỏi, tinh chỉnh để câu hỏi\
+            \ đơn giản, hỏi đúng trọng tâm. \n- Tuỳ vào vấn đề của phòng ban nào để\
+            \ đưa link guideline tương ứng:\n     + Phòng sale: https://chatgpt.com/g/g-6736a6d046bc8190bb240690ada02c96-jira-ai-chuyen-gia-sale\n\
+            \     + Phòng marketing: https://chatgpt.com/g/g-6736a9b61be481908b6964e2cc6385d3-jira-ai-chuyen-gia-marketing\n\
+            \     + Phòng tech, develop: https://chatgpt.com/g/g-6737088b787c8190803b4876247ba39e-jira-ai-chuyen-gia-tech\n\
+            \n**Step 2:** Sau đó tổng hợp lại thành 1 bản problem scope gồm có vấn\
+            \ đề, khó khăn đang gặp, 1 số tiêu chí bạn nghĩ là quan trọng và hỏi thêm\
+            \ 1 số câu hỏi đào sâu thêm để tìm nguyên nhân gốc rễ. \n\nLặp lại step\
+            \ 2 liên tục sau mỗi lần người dùng trả lời câu hỏi, sẽ tổng hợp lại 1\
+            \ bản problem scope mới.\n\n<problem_statement>\n{{#1729351853681.problem_statement#}}\n\
+            </problem_statement>\n"
+        selected: true
+        title: LLM
+        type: llm
+        variables: []
+        vision:
+          configs:
+            detail: high
+          enabled: true
+      height: 97
+      id: '1730800027670'
+      position:
+        x: 458.96023486068214
+        y: 274
+      positionAbsolute:
+        x: 458.96023486068214
+        y: 274
+      selected: true
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 243
+    viewport:
+      x: 11.444266481878799
+      y: 91.95355914305824
+      zoom: 0.7093396257595417

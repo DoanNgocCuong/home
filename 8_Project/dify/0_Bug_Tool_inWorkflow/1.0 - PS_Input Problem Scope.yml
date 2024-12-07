@@ -1,0 +1,153 @@
+app:
+  description: ''
+  icon: 🤖
+  icon_background: '#FFEAD5'
+  mode: workflow
+  name: 1.0 - PS/Input Problem Scope
+  use_icon_as_answer_icon: false
+kind: app
+version: 0.1.2
+workflow:
+  conversation_variables: []
+  environment_variables: []
+  features:
+    file_upload:
+      image:
+        enabled: false
+        number_limits: 3
+        transfer_methods:
+        - local_file
+        - remote_url
+    opening_statement: ''
+    retriever_resource:
+      enabled: false
+    sensitive_word_avoidance:
+      enabled: false
+    speech_to_text:
+      enabled: false
+    suggested_questions: []
+    suggested_questions_after_answer:
+      enabled: false
+    text_to_speech:
+      enabled: false
+      language: ''
+      voice: ''
+  graph:
+    edges:
+    - data:
+        isInIteration: false
+        sourceType: start
+        targetType: llm
+      id: 1729665074999-source-1730865726583-target
+      source: '1729665074999'
+      sourceHandle: source
+      target: '1730865726583'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: llm
+        targetType: end
+      id: 1730865726583-source-1729680326164-target
+      source: '1730865726583'
+      sourceHandle: source
+      target: '1729680326164'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    nodes:
+    - data:
+        desc: ''
+        selected: false
+        title: Start
+        type: start
+        variables:
+        - label: problem_statement
+          max_length: 5000
+          options: []
+          required: false
+          type: paragraph
+          variable: problem_statement
+      height: 90
+      id: '1729665074999'
+      position:
+        x: -122.02133727870108
+        y: 282
+      positionAbsolute:
+        x: -122.02133727870108
+        y: 282
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        outputs:
+        - value_selector:
+          - '1730865726583'
+          - text
+          variable: text
+        selected: false
+        title: End
+        type: end
+      height: 90
+      id: '1729680326164'
+      position:
+        x: 678.6036470386958
+        y: 282
+      positionAbsolute:
+        x: 678.6036470386958
+        y: 282
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        desc: ''
+        model:
+          completion_params:
+            temperature: 0.7
+          mode: chat
+          name: gpt-4o-mini
+          provider: openai
+        prompt_template:
+        - id: 7ed6f97c-5af6-4dbb-882f-bd1318d0f39f
+          role: system
+          text: "Là 1 chuyên gia giải quyết vấn đề, dựa vào problem được cung cấp\
+            \ {{#1729665074999.problem_statement#}}, hãy đánh giá sự đầy đủ của vấn\
+            \ đề theo 3 tiêu chí bên dưới, nếu ko có thì ghi không có, nếu có thì\
+            \ điền theo {{#1729665074999.problem_statement#}}. \n\nTrả về theo format:\n\
+            Chúng tôi hiểu vấn đề của bạn như sau:\nWho:\nProblem:\nTarget:\n\nKết\
+            \ thúc bằng \"Hãy cùng tôi làm rõ vấn đề của bạn bằng cách chat ở bước\
+            \ sau nhé!\"\n"
+        selected: false
+        title: LLM
+        type: llm
+        variables: []
+        vision:
+          configs:
+            detail: high
+          enabled: true
+      height: 98
+      id: '1730865726583'
+      position:
+        x: 274.0921403610987
+        y: 282
+      positionAbsolute:
+        x: 274.0921403610987
+        y: 282
+      selected: true
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    viewport:
+      x: 188.83123490919536
+      y: 279.3225128065489
+      zoom: 0.5785244256680462
