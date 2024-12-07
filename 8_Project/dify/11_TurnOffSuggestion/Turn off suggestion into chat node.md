@@ -170,3 +170,50 @@ const onSend = async (suggestion: string) => {
 - Hiển thị trạng thái đang xử lý trong widget
 
 Comment "Because we need to show the loading state of the chatbot widget" là chính xác - `setIsResponding` trong `suggestions.tsx` là dành cho chatbot widget, không phải cho INPUT-CHAT node.
+
+
+
+### setIsResponding(true) và false trên UI hiển thị như nào
+
+
+
+
+`setIsResponding` ảnh hưởng đến UI theo 2 cách:
+
+1. **Disable Input và Send Button:**
+```typescript:web/app/components/mindpal/workflow/visualizer/item/collapse-children-user-input/chat/chat-model/chat-input.tsx
+<div
+  className={`${
+    (isResponding || loadingChat) && 'pointer-events-none open:'  // Disable khi isResponding = true
+  }group flex items-center justify-center w-8 h-8 rounded-lg hover:bg-[#EBF5FF] cursor-pointer`}
+  onClick={handleSubmit(onSubmit)}
+>
+  <Send03 
+    className={`w-5 h-5 text-gray-300 group-hover:text-primary-600 ${
+      !!query?.trim() && 'text-primary-600'
+    }`}
+  />
+</div>
+```
+
+Khi `isResponding = true`:
+- Send button bị disable (pointer-events-none)
+- Không thể click để gửi message mới
+- Button có visual feedback là disabled
+
+2. **Loading Indicator trong Chat:**
+```typescript
+// Thường sẽ có component hiển thị loading
+{isResponding && (
+  <div className="loading-indicator">
+    <LoadingDots /> {/* hoặc loading animation khác */}
+  </div>
+)}
+```
+
+Khi `isResponding = true`:
+- Hiển thị loading indicator 
+- Thường là 3 dots (...) hoặc spinner
+- Báo hiệu đang xử lý message
+
+Đây là cách thông thường để hiển thị loading state trong chat UI. Bạn có muốn tôi tìm chính xác phần code hiển thị loading indicator trong project không?
