@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPUTER NETWORK/NETWORK.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.3 docker compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NETWORK"
+              "title": "2.2.3 docker compose"
             }
           }
         ],
@@ -216,8 +216,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "743e8c34ace83558",
+  "active": "49387fd020a68256",
   "lastOpenFiles": [
+    "COMPUTER NETWORK/NETWORK.md",
     "8_Project/dify/1_docker_dev/SetUpCOPYRIENGthayvicaCuc.ipynb",
     "8_Project/dify/1_docker_dev/note5_HoiMentor.ipynb",
     "8_Project/dify/1_docker_dev/note3_dockercomposeImage_and_dockercomposeBuild.ipynb",
@@ -228,7 +229,6 @@
     "8_Project/dify/1_docker_dev/build_NextJS.ipynb",
     "8_Project/dify/1_docker_dev/Bug2RunMiddleware_note1.ipynb",
     "8_Project/dify/1_docker_dev/bug_Docker.ipynb",
-    "8_Project/dify/1_docker_dev/Bug1KoThayRunMindPal_bugDockerBuild]note1.ipynb",
     "8_Project/dify/HowRun.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.3 docker compose.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__.md",
