@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.3 docker compose.md",
+                "file": "8_Project/dify/11_TurnOffSuggestion/Turn off suggestion into chat node.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2.3 docker compose"
+              "title": "Turn off suggestion into chat node"
             }
           }
         ],
@@ -216,8 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "743e8c34ace83558",
+  "active": "49387fd020a68256",
   "lastOpenFiles": [
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.3 docker compose.md",
+    "8_Project/dify/11_TurnOffSuggestion/Turn off suggestion into chat node.md",
     "8_Project/dify/11_TurnOffSuggestion",
     "COMPUTER NETWORK/NETWORK.md",
     "8_Project/dify/1_docker_dev/SetUpCOPYRIENGthayvicaCuc.ipynb",
@@ -229,9 +231,7 @@
     "8_Project/dify/1_docker_dev/note1_devYML.ipynb",
     "8_Project/dify/1_docker_dev/build_NextJS.ipynb",
     "8_Project/dify/1_docker_dev/Bug2RunMiddleware_note1.ipynb",
-    "8_Project/dify/1_docker_dev/bug_Docker.ipynb",
     "8_Project/dify/HowRun.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.3 docker compose.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. venv - Docker - k8s Cloud.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2. Nửa Docker - Package.json, pyproject.toml.md",
