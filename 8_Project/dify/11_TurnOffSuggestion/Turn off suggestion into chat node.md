@@ -52,3 +52,38 @@ Luồng xử lý khi click suggestion:
 4. API này xử lý giống như khi người dùng nhập message qua ChatInput
 
 Vì vậy, suggestion được xử lý như một message bình thường, đi qua cùng một endpoint API như ChatInput, chỉ khác là không hiển thị trong input box.
+
+
+
+
+
+Khi click vào suggestion, chúng ta vẫn cần update chat history vì:
+
+1. **Đồng bộ State:**
+   - Chat history trong `nodeExecution` cần phản ánh đầy đủ cuộc hội thoại
+   - Bao gồm cả messages từ input và từ suggestions
+   - Giúp maintain context của cuộc hội thoại
+
+2. **Context cho Chatbot:**
+   ```typescript
+   // Get chat history for context
+   const chatHistory = nodeExecution.execution_metadata[variable] || []
+   const fullContext = chatHistory
+     .map(msg => `${msg.role}: ${msg.text}`)
+     .join('\n')
+   
+   // Send to chatbot with context
+   await window.chatbot?.sendMessageWindow(suggestion, fullContext)
+   ```
+   - Chatbot cần context từ chat history để trả lời chính xác
+   - Nếu không update history, các câu hỏi tiếp theo sẽ thiếu context
+
+3. **UI/UX:**
+   - User cần thấy toàn bộ lịch sử chat
+   - Bao gồm cả câu hỏi từ suggestions họ đã click
+   - Giúp theo dõi flow của cuộc hội thoại
+
+Nếu không update chat history:
+- Chatbot sẽ thiếu context
+- UI sẽ không hiển thị đầy đủ cuộc hội thoại
+- Khó debug và track conversation flow
