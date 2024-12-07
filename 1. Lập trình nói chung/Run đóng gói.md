@@ -112,3 +112,39 @@ Lưu ý: Đừng nhập "poetry add streamlit" làm tên package hay version. Đ
 - Run `poetry install` để cài đặt các dependencies sẽ có file `poetry.lock`
 - Run `poetry shell` để kích hoạt môi trường
 - Run `poetry run streamlit run src/main.py` để chạy ứng dụng
+
+
+
+
+
+Bạn có thể thêm trực tiếp vào file `pyproject.toml`, nhưng sau đó vẫn cần chạy `poetry install` để cài đặt các dependencies. Đây là cách thêm trực tiếp:
+
+```toml:src/pyproject.toml
+[tool.poetry]
+name = "llm-rag-chatbot"
+version = "0.1.0"
+description = "A LLM RAG Chatbot"
+authors = ["Doan Ngoc Cuong"]
+license = "n"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.12"
+streamlit = "^1.40.2"
+langchain = "^0.3.10"
+python-dotenv = "^1.0.1"
+langchain-openai = "^0.2.11"
+openai = "^1.57.0"
+langchain-community = "^0.0.27"  # Thêm dòng này
+pymilvus = "^2.4.0"  # Thêm dòng này
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+```
+
+Sau khi thêm xong, chạy:
+```bash
+poetry install
+```
+
+Cả hai cách (thêm trực tiếp vào file hoặc dùng lệnh `poetry add`) đều cho kết quả giống nhau. Lệnh `poetry add` thuận tiện hơn vì nó tự động xử lý version constraints và cập nhật cả `pyproject.toml` và `poetry.lock`.
