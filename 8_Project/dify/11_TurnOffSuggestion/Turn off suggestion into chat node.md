@@ -87,3 +87,37 @@ Nếu không update chat history:
 - Chatbot sẽ thiếu context
 - UI sẽ không hiển thị đầy đủ cuộc hội thoại
 - Khó debug và track conversation flow
+
+
+
+
+`setIsResponding(false)` trong suggestions.tsx có 2 mục đích:
+
+1. **UI Loading State:**
+```typescript
+// Khi bắt đầu xử lý suggestion
+setIsResponding(true)   // Show loading state
+await window.chatbot?.sendMessageWindow(suggestion, fullContext)
+setIsResponding(false)  // Hide loading state
+```
+- `isResponding` được dùng để hiển thị trạng thái loading trong chatbot widget
+- Khi `true`: Hiển thị loading indicator
+- Khi `false`: Ẩn loading indicator
+
+2. **Prevent Double Click:**
+```typescript
+// Trong ChatInput component
+<div
+  className={`${
+    (isResponding || loadingChat) && 'pointer-events-none open:'
+  }group flex items-center justify-center...`}
+>
+```
+- Khi `isResponding` là `true`, UI elements bị disable
+- Ngăn user click nhiều lần trong khi đang xử lý
+- Tránh duplicate requests
+
+Vì vậy cần `setIsResponding(false)` để:
+- Reset loading state sau khi xử lý xong
+- Enable lại UI cho user tương tác tiếp
+- Báo hiệu rằng chatbot đã sẵn sàng nhận input mới
