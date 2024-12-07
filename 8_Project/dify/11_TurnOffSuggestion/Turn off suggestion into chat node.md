@@ -2,6 +2,10 @@
 http://localhost:5011/console/api/mindpal/app/7368471d-77ae-4d6b-8987-2821a6515797/provider/d22767ad-677a-4520-9bf7-8111dde7a303/node/1733498679897/node-execution/0902744e-55d4-4aba-adb1-52e4337b8951/variable/chat_user_input_a1/chat
 
 
+Muốn chỉ khi nào người dùng chat trong INPUT-CHAT thì mới cập nhật suggest question.  
+Còn khi click vào suggestion thì suggest question chỉ gửi đến chatbot. (Không tác động gì đến INPUT-CHAT
+
+
 Ah, bạn nói đúng! Khi click vào suggestion, nó thực sự gọi API endpoint này thông qua hàm `mindpalChatUserInputNodeExecution`:
 
 ```typescript:web/app/components/mindpal/workflow/visualizer/item/collapse-children-user-input/chat/chat-model/suggestions.tsx
