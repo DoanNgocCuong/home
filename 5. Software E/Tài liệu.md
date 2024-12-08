@@ -87,7 +87,7 @@ v. Nhóm trưởng . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 
 
-### Sequence Diagram
+### 1. Sequence Diagram
 Tool 1: [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/)
 
 
@@ -133,3 +133,14 @@ else [Chọn đồng ý]
 end
 
 ```
+
+### 2. Thiết kế chi tiết gói
+
+```
+
+```
+
+
+Chi tiết hơn thì 
+
+![[Pasted image 20241209001709.png]]
