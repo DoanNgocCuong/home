@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.. Data Science/2. Big Data/1.2 Airflow - Kafka - Spark.md",
+                "file": "3_AI Engineering/5. LLMs/1..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Airflow - Kafka - Spark"
+              "title": "1."
             }
           },
           {
@@ -218,9 +218,11 @@
   },
   "active": "1ef6015ff106bd15",
   "lastOpenFiles": [
+    "4.. Data Science/2. Big Data/1.2 Airflow - Kafka - Spark.md",
+    "3_AI Engineering/5. LLMs/1..md",
+    "3_AI Engineering/5. LLMs",
     "assert/Pasted image 20241208160143.png",
     "4.. Data Science/2. Big Data/1.1 Công nghệ Kafka - Spark - Caannaa.md",
-    "4.. Data Science/2. Big Data/1.2 Airflow - Kafka - Spark.md",
     "4.. Data Science/2. Big Data/1. Project - Dự án thực.md",
     "4.. Data Science/2. Big Data/3..md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.1.2 Docker - Docker Hub.md",
@@ -245,7 +247,6 @@
     "8_Project/dify/1_docker_dev/note4_OpenPORT.ipynb",
     "8_Project/dify/1_docker_dev/note1_dockerRun.ipynb",
     "8_Project/dify/1_docker_dev/note1_.ipynb",
-    "8_Project/dify/1_docker_dev/note1_devYML.ipynb",
     "8_Project/dify/HowRun.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. venv - Docker - k8s Cloud.md",
@@ -266,7 +267,6 @@
     "assert/Pasted image 20241104091510.png",
     "assert/Pasted image 20241028231928.png",
     "assert/Pasted image 20241028231903.png",
-    "assert/Pasted image 20241028231838.png",
     "Untitled 3.canvas",
     "3_AI Engineering/4. DeepLearning/4.2 RAG/RAG/RAG 1/Search/Untitled.canvas"
   ]
