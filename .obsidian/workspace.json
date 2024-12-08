@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
+                "file": "4.. Data Science/2. Big Data/1. Project - Dự án thực.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. git, SOLID, Code chuẩn"
+              "title": "1. Project - Dự án thực"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Big ",
+                "query": "Big Data",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,8 +130,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,8 +230,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b6b6e1d46d09ac1",
+  "active": "49387fd020a68256",
   "lastOpenFiles": [
+    "4.. Data Science/2. Big Data/0. Nguồn học Big Data và Syllabus.md",
+    "4.. Data Science/2. Big Data/1. Project - Dự án thực.md",
+    "4.. Data Science/2. Big Data/Hệ thống phân tán Distribution System.md",
+    "4.. Data Science/2. Big Data/1. Lộ trình và tài liệu.md",
+    "4.. Data Science/2. Big Data/Big Data.md",
+    "4.. Data Science/1. Tổng quan các loại cơ sở dữ liệu.md",
+    "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "8_Project/dify/11_TurnOffSuggestion/Turn off suggestion into chat node.md",
     "8_Project/ChatbotEmbed/xulyMarkdown.ipynb",
     "8_Project/ChatbotEmbed",
@@ -259,15 +265,9 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/1 số tool Docker.md",
     "4_MLOPs và Full Stack Docker/2.2 Free web hosting.md",
     "1. Lập trình nói chung/Run đóng gói.md",
-    "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "1. Lập trình nói chung/1. Python.md",
     "1. Lập trình nói chung/Tool Code ....md",
     "4_MLOPs và Full Stack Docker/GITHUB CƠ BẢN.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.5_Agent/__init__.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/Bi-Encoder Cross-Encoder.md",
-    "1. Lập trình nói chung/Ngôn ngữ lập trình.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/25 type of RAG.md",
-    "3_AI Engineering/3. Machine Learning/5. Clustering.md",
     "assert/Pasted image 20241202180522.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
