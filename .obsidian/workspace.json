@@ -230,8 +230,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49387fd020a68256",
+  "active": "b0eb5b2678aa1cf3",
   "lastOpenFiles": [
+    "8_Project/ChatbotEmbed/xulyMarkdown.ipynb",
+    "8_Project/ChatbotEmbed",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/5. Ngôn ngữ lập trình.md",
     "8_Project/dify/11_TurnOffSuggestion/Turn off suggestion into chat node.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.1.2 Docker - Docker Hub.md",
@@ -247,7 +249,6 @@
     "8_Project/dify/1_docker_dev/note1_.ipynb",
     "8_Project/dify/1_docker_dev/note1_devYML.ipynb",
     "8_Project/dify/1_docker_dev/build_NextJS.ipynb",
-    "8_Project/dify/1_docker_dev/Bug2RunMiddleware_note1.ipynb",
     "8_Project/dify/HowRun.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. venv - Docker - k8s Cloud.md",
@@ -267,7 +268,6 @@
     "1. Lập trình nói chung/Ngôn ngữ lập trình.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/25 type of RAG.md",
     "3_AI Engineering/3. Machine Learning/5. Clustering.md",
-    "3_AI Engineering/3. Machine Learning/1. Linear Regression.md",
     "assert/Pasted image 20241202180522.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
