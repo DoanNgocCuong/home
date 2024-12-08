@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "Big ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49387fd020a68256",
+  "active": "9b6b6e1d46d09ac1",
   "lastOpenFiles": [
     "8_Project/dify/11_TurnOffSuggestion/Turn off suggestion into chat node.md",
     "8_Project/ChatbotEmbed/xulyMarkdown.ipynb",
