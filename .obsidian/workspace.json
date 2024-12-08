@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/5. LLMs/1..md",
+                "file": "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/2. Pytorch - Hunggingface - Transformer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1."
+              "title": "2. Pytorch - Hunggingface - Transformer"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Big Datahug",
+                "query": "hugg",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +116,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,10 +216,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b6b6e1d46d09ac1",
+  "active": "1ef6015ff106bd15",
   "lastOpenFiles": [
-    "4.. Data Science/2. Big Data/1.2 Airflow - Kafka - Spark.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/3. Cách dùng huggingface.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/2. Pytorch - Hunggingface - Transformer.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/Benchmark - Dataset.md",
     "3_AI Engineering/5. LLMs/1..md",
+    "4.. Data Science/2. Big Data/1.2 Airflow - Kafka - Spark.md",
     "3_AI Engineering/5. LLMs",
     "assert/Pasted image 20241208160143.png",
     "4.. Data Science/2. Big Data/1.1 Công nghệ Kafka - Spark - Caannaa.md",
@@ -254,9 +256,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2. Nửa Docker - Package.json, pyproject.toml.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2 Đóng gói package.json, pyproject.toml - NỬA DOCKER.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.1 Docker cơ bản.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/1. Template Web.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/1 số tool Docker.md",
-    "4_MLOPs và Full Stack Docker/2.2 Free web hosting.md",
     "assert/Pasted image 20241202180522.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
