@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8_Project/dify/Module2_Database/1. Phân tích kỹ Requirements.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.4 Docker chạy ngầm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Phân tích kỹ Requirements"
+              "title": "2.2.4 Docker chạy ngầm"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Database",
+                "query": "ocker",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,8 +216,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "743e8c34ace83558",
+  "active": "1ef6015ff106bd15",
   "lastOpenFiles": [
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/Docker/Untitled.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.4 Docker chạy ngầm.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/Docker",
+    "8_Project/dify/Module2_Database/1. Phân tích kỹ Requirements.md",
     "8_Project/4_IELTSAppContent/note_deploy1.2_/note2.5_bugReact_APIKey.ipynb",
     "8_Project/4_IELTSAppContent/note_deploy1.2_/note2.4_DelOUTPUT_FOLDER_whenDown.ipynb",
     "8_Project/4_IELTSAppContent/note_deploy1.2_/note2.3_fixBugCORS_part3.ipynb",
@@ -227,17 +232,13 @@
     "8_Project/4_IELTSAppContent/note_deploy1.2_/note2.2.2_week_thenBug_columnInGenerateStory.ipynb",
     "8_Project/4_IELTSAppContent/note_deploy1.2_/note2.2.2_update_week.ipynb",
     "8_Project/4_IELTSAppContent/note_deploy1.2_/Note2.2.1_updateRunScriptsHaveAudio_Call25307ThenNo.ipynb",
-    "8_Project/4_IELTSAppContent/note_deploy1.2_/note2.1_bugCORS_part1.ipynb",
-    "8_Project/4_IELTSAppContent/note_deploy1.2_",
     "8_Project/dify/Module2_Database/__init__ Project Dify Module2_Database.md",
-    "8_Project/dify/Module2_Database/1. Phân tích kỹ Requirements.md",
     "4.. Data Science/1. Database/1. SQL.md",
     "8_Project/dify/Module1_ChatbotEmbed/HowRun.md",
     "8_Project/dify/Module1_ChatbotEmbed/11_TurnOffSuggestion/Turn off suggestion into chat node.md",
     "4.. Data Science/2. Big Data/Big Data.md",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/2. Deploy Vercel.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/__init__ Deploy Docker Web.md",
     "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/0. Resources.md",
@@ -254,7 +255,6 @@
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/2. Pytorch - Hunggingface - Transformer.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/Benchmark - Dataset.md",
     "3_AI Engineering/5. LLMs/1..md",
-    "4.. Data Science/2. Big Data/1.2 Airflow - Kafka - Spark.md",
     "assert/Pasted image 20241208160143.png",
     "Untitled 2.canvas",
     "assert/Pasted image 20241202180522.png",
