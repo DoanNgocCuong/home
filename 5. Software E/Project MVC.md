@@ -617,37 +617,34 @@ classDiagram
 
 #### **3.3.3.2 Class: Question**
 
-##### **UML Diagram**
+#### **UML Diagram**
 
-```mermaid
-classDiagram
-    class Question {
-        - id: int
-        - content: String
-        - options: List<String>
-        - answer: String
-        + validateAnswer(answer: String): boolean
-    }
-```
+mermaid
+
+Copy code
+
+`classDiagram     class Question {         - id: int         - content: String         - maxScore: float         - rubric: String         + evaluateAnswer(answer: String): String         + calculateScore(answer: String): float     }`
 
 ---
 
-##### **Attributes**
+#### **Attributes**
 
 |**Attribute**|**Datatype**|**Access Modifiers**|**Description**|
 |---|---|---|---|
 |`id`|`int`|`private`|Unique identifier for the question.|
-|`content`|`String`|`private`|Text content of the question.|
-|`options`|`List<String>`|`private`|List of multiple-choice options (if applicable).|
-|`answer`|`String`|`private`|Correct answer for the question.|
+|`content`|`String`|`private`|Text content of the essay question.|
+|`maxScore`|`float`|`private`|Maximum score achievable for the question.|
+|`rubric`|`String`|`private`|Grading rubric or guidelines for evaluating the answer.|
 
 ---
 
-##### **Methods**
+#### **Methods**
 
 |**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
 |---|---|---|---|---|
-|`validateAnswer`|`boolean`|`answer: String`|`public`|Validates if the provided answer is correct.|
+|`evaluateAnswer`|`String`|`answer: String`|`public`|Provides feedback or evaluation based on the answer.|
+|`calculateScore`|`float`|`answer: String`|`public`|Calculates the score based on the given answer.|
+
 
 ---
 
