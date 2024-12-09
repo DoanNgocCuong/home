@@ -183,6 +183,532 @@ C4. Sequence diagram
  
 ```
 
+
+Certainly! Below is the **4. Interaction Analysis** section presented in English. It includes a comprehensive mapping of Use Cases to their respective Model (Entity Classes), View (Boundary Classes), and Controller (Control Classes) classes. Additionally, each Use Case is accompanied by a Sequence Diagram to illustrate the interactions between classes during the execution of the Use Case.
+
+---
+
+## 4. Interaction Analysis
+
+### 4.1 Use Case Mapping
+
+The table below maps each Use Case to the corresponding Model (Entity Classes), View (Boundary Classes), and Controller (Control Classes) that are involved in its execution.
+
+|**Use Case**|**Model Classes**|**View Classes**|**Controller Classes**|
+|---|---|---|---|
+|**Guest**||||
+|- Login|User|V_User|C_User|
+|**General**||||
+|- Change Password|User|V_User|C_User|
+|- Forgot Password|User|V_User|C_User|
+|- Update Personal Information|User|V_User|C_User|
+|**Admin**||||
+|- Delete User|User|V_User|C_User|
+|- Add User|User|V_User|C_User|
+|- View User|User|V_User|C_User|
+|- Edit User|User|V_User|C_User|
+|- Search User|User|V_User|C_User|
+|**Group Leader**||||
+|- Question Bank Management|QuestionBank, Question|V_QuestionBank|C_GroupLeader, C_QuestionBank|
+|- Create Scoring Criteria|Criteria, CriteriaDetail|V_Criteria|C_GroupLeader, C_Criteria|
+|**Teacher**||||
+|- Exam Management|Exam, Question|V_Exam|C_Teacher, C_Exam|
+|- View Exam History|Exam, ExamResult|V_ExamHistory|C_Teacher, C_ExamResult|
+|- Exam Grading|Essay, ExamResult|V_GradeEssay|C_Teacher, C_Essay, C_ExamResult|
+|**Student**||||
+|- Student Search and Register Exam Code|Exam, Student|V_StudentExamRegistration|C_Student, C_Exam|
+|- Student Submit Essay|Essay|V_EssaySubmission|C_Student, C_Essay|
+|- View Results|ExamResult, Essay|V_ExamResults|C_Student, C_ExamResult|
+|- View Previous Essays|Essay|V_PreviousEssays|C_Student, C_Essay|
+
+---
+
+### 4.2 Sequence Diagrams for Each Use Case
+
+Below are the Sequence Diagrams for each Use Case, illustrating the interactions between the involved classes.
+
+#### **4.2.1 Use Case: Login**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Guest as User
+    participant V_User as LoginView
+    participant C_User as LoginController
+    participant UserModel as User
+
+    Guest ->> V_User: Select Login Functionality
+    V_User -->> Guest: Display Login Interface
+    Guest ->> V_User: Enter Username and Password
+    V_User ->> C_User: Send Login Request
+    C_User ->> UserModel: Authenticate Credentials
+    UserModel -->> C_User: Authentication Result
+    C_User -->> V_User: Respond with Success/Failure
+    V_User -->> Guest: Display Success or Error Message
+```
+
+---
+
+#### **4.2.2 Use Case: Change Password**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant User as User
+    participant V_User as ChangePasswordView
+    participant C_User as ChangePasswordController
+    participant UserModel as User
+
+    User ->> V_User: Select Change Password Functionality
+    V_User -->> User: Display Change Password Form
+    User ->> V_User: Enter Old and New Passwords
+    V_User ->> C_User: Send Change Password Request
+    C_User ->> UserModel: Verify Old Password
+    UserModel -->> C_User: Verification Result
+    alt If Old Password is Correct
+        C_User ->> UserModel: Update to New Password
+        UserModel -->> C_User: Confirmation of Update
+        C_User -->> V_User: Respond with Success
+        V_User -->> User: Display Success Message
+    else
+        C_User -->> V_User: Respond with Failure
+        V_User -->> User: Display Error Message
+    end
+```
+
+---
+
+#### **4.2.3 Use Case: Forgot Password**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Guest as User
+    participant V_User as ForgotPasswordView
+    participant C_User as ForgotPasswordController
+    participant UserModel as User
+    participant EmailService as EmailService
+
+    Guest ->> V_User: Select Forgot Password Functionality
+    V_User -->> Guest: Display Forgot Password Form
+    Guest ->> V_User: Enter Registered Email
+    V_User ->> C_User: Send Forgot Password Request
+    C_User ->> UserModel: Validate Email
+    UserModel -->> C_User: Validation Result
+    alt If Email Exists
+        C_User ->> EmailService: Send Password Recovery Email
+        EmailService -->> C_User: Confirmation of Email Sent
+        C_User -->> V_User: Respond with Success
+        V_User -->> Guest: Display Email Sent Confirmation
+    else
+        C_User -->> V_User: Respond with Failure
+        V_User -->> Guest: Display Error Message
+    end
+```
+
+---
+
+#### **4.2.4 Use Case: Update Personal Information**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant User as User
+    participant V_User as UpdatePersonalInfoView
+    participant C_User as UpdatePersonalInfoController
+    participant UserModel as User
+
+    User ->> V_User: Select Update Personal Information
+    V_User -->> User: Display Update Information Form
+    User ->> V_User: Enter New Personal Information
+    V_User ->> C_User: Send Update Information Request
+    C_User ->> UserModel: Update User Information in Database
+    UserModel -->> C_User: Confirmation of Update
+    C_User -->> V_User: Respond with Success
+    V_User -->> User: Display Success Message
+```
+
+---
+
+#### **4.2.5 Use Case: Delete User**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Admin as Admin
+    participant V_User as ManageUserView
+    participant C_User as UserManagementController
+    participant UserModel as User
+
+    Admin ->> V_User: Select Delete User Functionality
+    V_User -->> Admin: Display User List
+    Admin ->> V_User: Select User to Delete
+    V_User ->> C_User: Send Delete User Request
+    C_User ->> UserModel: Delete User from Database
+    UserModel -->> C_User: Confirmation of Deletion
+    C_User -->> V_User: Respond with Success
+    V_User -->> Admin: Display Deletion Success Message
+```
+
+---
+
+#### **4.2.6 Use Case: Add User**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Admin as Admin
+    participant V_User as ManageUserView
+    participant C_User as UserManagementController
+    participant UserModel as User
+
+    Admin ->> V_User: Select Add User Functionality
+    V_User -->> Admin: Display Add User Form
+    Admin ->> V_User: Enter New User Information
+    V_User ->> C_User: Send Add User Request
+    C_User ->> UserModel: Create New User in Database
+    UserModel -->> C_User: Confirmation of User Creation
+    C_User -->> V_User: Respond with Success
+    V_User -->> Admin: Display User Addition Success Message
+```
+
+---
+
+#### **4.2.7 Use Case: View User**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Admin as Admin
+    participant V_User as ManageUserView
+    participant C_User as UserManagementController
+    participant UserModel as User
+
+    Admin ->> V_User: Select View User Functionality
+    V_User ->> C_User: Request User List
+    C_User ->> UserModel: Retrieve List of Users
+    UserModel -->> C_User: Return User List
+    C_User -->> V_User: Send User List
+    V_User -->> Admin: Display User List
+```
+
+---
+
+#### **4.2.8 Use Case: Edit User**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Admin as Admin
+    participant V_User as ManageUserView
+    participant C_User as UserManagementController
+    participant UserModel as User
+
+    Admin ->> V_User: Select Edit User Functionality
+    V_User ->> C_User: Request User Information for Editing
+    C_User ->> UserModel: Retrieve User Information
+    UserModel -->> C_User: Return User Information
+    C_User -->> V_User: Send User Information
+    V_User -->> Admin: Display Edit User Form with Current Information
+    Admin ->> V_User: Enter Updated User Information
+    V_User ->> C_User: Send Update User Request
+    C_User ->> UserModel: Update User Information in Database
+    UserModel -->> C_User: Confirmation of Update
+    C_User -->> V_User: Respond with Success
+    V_User -->> Admin: Display Update Success Message
+```
+
+---
+
+#### **4.2.9 Use Case: Search User**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Admin as Admin
+    participant V_User as ManageUserView
+    participant C_User as UserManagementController
+    participant UserModel as User
+
+    Admin ->> V_User: Select Search User Functionality
+    V_User -->> Admin: Display Search User Interface
+    Admin ->> V_User: Enter Search Criteria and Submit
+    V_User ->> C_User: Send Search Request with Criteria
+    C_User ->> UserModel: Query Users Based on Criteria
+    UserModel -->> C_User: Return Matching Users
+    C_User -->> V_User: Send Matching Users
+    V_User -->> Admin: Display Search Results
+```
+
+---
+
+#### **4.2.10 Use Case: Question Bank Management**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant GroupLeader as Group Leader
+    participant V_QuestionBank as QuestionBankManagementView
+    participant C_GroupLeader as GroupLeaderController
+    participant C_QuestionBank as QuestionBankController
+    participant QuestionBankModel as QuestionBank
+    participant QuestionModel as Question
+
+    GroupLeader ->> V_QuestionBank: Select Question Bank Management
+    V_QuestionBank -->> GroupLeader: Display Question Bank Interface
+    GroupLeader ->> V_QuestionBank: Add New Question
+    V_QuestionBank ->> C_GroupLeader: Send Add Question Request
+    C_GroupLeader ->> C_QuestionBank: Handle Add Question
+    C_QuestionBank ->> QuestionBankModel: Create New Question
+    QuestionBankModel -->> C_QuestionBank: Confirmation of Question Creation
+    C_QuestionBank ->> C_GroupLeader: Return Confirmation
+    C_GroupLeader ->> V_QuestionBank: Respond with Success
+    V_QuestionBank -->> GroupLeader: Display Success Message
+```
+
+---
+
+#### **4.2.11 Use Case: Create Scoring Criteria**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant GroupLeader as Group Leader
+    participant V_Criteria as CreateScoringCriteriaView
+    participant C_Criteria as ScoringCriteriaController
+    participant CriteriaModel as Criteria
+    participant CriteriaDetailModel as CriteriaDetail
+
+    GroupLeader ->> V_Criteria: Select Create Scoring Criteria
+    V_Criteria -->> GroupLeader: Display Create Scoring Criteria Form
+    GroupLeader ->> V_Criteria: Enter Criteria Information and Details
+    V_Criteria ->> C_Criteria: Send Create Scoring Criteria Request
+    C_Criteria ->> CriteriaModel: Create New Criteria
+    CriteriaModel -->> C_Criteria: Confirmation of Criteria Creation
+    C_Criteria ->> CriteriaDetailModel: Create Criteria Details
+    CriteriaDetailModel -->> C_Criteria: Confirmation of Criteria Details Creation
+    C_Criteria ->> V_Criteria: Respond with Success
+    V_Criteria -->> GroupLeader: Display Success Message
+```
+
+---
+
+#### **4.2.12 Use Case: Exam Management**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Teacher as Teacher
+    participant V_Exam as ExamManagementView
+    participant C_Exam as ExamController
+    participant ExamModel as Exam
+    participant QuestionModel as Question
+
+    Teacher ->> V_Exam: Select Exam Management
+    V_Exam -->> Teacher: Display Exam Management Interface
+    Teacher ->> V_Exam: Create New Exam
+    V_Exam ->> C_Exam: Send Create Exam Request
+    C_Exam ->> ExamModel: Create New Exam
+    ExamModel -->> C_Exam: Confirmation of Exam Creation
+    C_Exam ->> QuestionModel: Add Questions to Exam
+    QuestionModel -->> C_Exam: Confirmation of Question Addition
+    C_Exam ->> V_Exam: Respond with Success
+    V_Exam -->> Teacher: Display Success Message
+```
+
+---
+
+#### **4.2.13 Use Case: View Exam History**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Teacher as Teacher
+    participant V_ExamHistory as ExamHistoryView
+    participant C_ExamResult as ExamResultController
+    participant ExamResultModel as ExamResult
+    participant ExamModel as Exam
+
+    Teacher ->> V_ExamHistory: Select View Exam History
+    V_ExamHistory ->> C_ExamResult: Request Exam History
+    C_ExamResult ->> ExamResultModel: Retrieve Exam Results
+    ExamResultModel -->> C_ExamResult: Return Exam Results
+    C_ExamResult ->> ExamModel: Retrieve Exam Information
+    ExamModel -->> C_ExamResult: Return Exam Information
+    C_ExamResult ->> V_ExamHistory: Send Exam Results and Information
+    V_ExamHistory -->> Teacher: Display Exam History
+```
+
+---
+
+#### **4.2.14 Use Case: Exam Grading**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Teacher as Teacher
+    participant V_GradeEssay as GradeEssayView
+    participant C_Essay as EssayController
+    participant C_ExamResult as ExamResultController
+    participant EssayModel as Essay
+    participant ExamResultModel as ExamResult
+    participant CriteriaModel as Criteria
+    participant CriteriaDetailModel as CriteriaDetail
+
+    Teacher ->> V_GradeEssay: Select Exam Grading Functionality
+    V_GradeEssay ->> C_Essay: Request Essays to Grade
+    C_Essay ->> EssayModel: Retrieve Essays for Grading
+    EssayModel -->> C_Essay: Return Essays
+    C_Essay ->> V_GradeEssay: Send Essays to View
+    Teacher ->> V_GradeEssay: Enter Scores and Feedback
+    V_GradeEssay ->> C_ExamResult: Send Grading Information
+    C_ExamResult ->> ExamResultModel: Save Grading Information
+    ExamResultModel -->> C_ExamResult: Confirmation of Grading Save
+    C_ExamResult ->> CriteriaModel: Retrieve Scoring Criteria
+    CriteriaModel -->> C_ExamResult: Return Scoring Criteria
+    C_ExamResult ->> CriteriaDetailModel: Apply Scoring Criteria to Calculate Score
+    CriteriaDetailModel -->> C_ExamResult: Return Calculated Score
+    C_ExamResult ->> V_GradeEssay: Respond with Success
+    V_GradeEssay -->> Teacher: Display Grading Success Message
+```
+
+---
+
+#### **4.2.15 Use Case: Student Search and Register Exam Code**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Student as Student
+    participant V_StudentExamRegistration as StudentExamRegistrationView
+    participant C_Exam as ExamController
+    participant C_Student as StudentController
+    participant ExamModel as Exam
+    participant StudentExamModel as StudentExam
+
+    Student ->> V_StudentExamRegistration: Select Search and Register Exam Code
+    V_StudentExamRegistration -->> Student: Display Search and Register Form
+    Student ->> V_StudentExamRegistration: Enter Exam Code and Submit
+    V_StudentExamRegistration ->> C_Exam: Send Search Exam Request with Code
+    C_Exam ->> ExamModel: Query Exam by Code
+    ExamModel -->> C_Exam: Return Exam Information
+    C_Exam ->> V_StudentExamRegistration: Send Exam Information
+    V_StudentExamRegistration -->> Student: Display Exam Details and Registration Option
+    Student ->> V_StudentExamRegistration: Confirm Registration
+    V_StudentExamRegistration ->> C_Student: Send Register Exam Request
+    C_Student ->> StudentExamModel: Create Exam Registration Record
+    StudentExamModel -->> C_Student: Confirmation of Registration
+    C_Student ->> V_StudentExamRegistration: Respond with Success
+    V_StudentExamRegistration -->> Student: Display Registration Success Message
+```
+
+---
+
+#### **4.2.16 Use Case: Student Submit Essay**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Student as Student
+    participant V_EssaySubmission as EssaySubmissionView
+    participant C_Essay as EssayController
+    participant EssayModel as Essay
+
+    Student ->> V_EssaySubmission: Select Submit Essay Functionality
+    V_EssaySubmission -->> Student: Display Essay Submission Form
+    Student ->> V_EssaySubmission: Compose and Enter Essay Content
+    V_EssaySubmission ->> C_Essay: Send Essay Submission Request
+    C_Essay ->> EssayModel: Create and Save Essay
+    EssayModel -->> C_Essay: Confirmation of Essay Save
+    C_Essay ->> V_EssaySubmission: Respond with Success
+    V_EssaySubmission -->> Student: Display Submission Success Message
+```
+
+---
+
+#### **4.2.17 Use Case: View Results**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Student as Student
+    participant V_ExamResults as ExamResultsView
+    participant C_ExamResult as ExamResultController
+    participant ExamResultModel as ExamResult
+
+    Student ->> V_ExamResults: Select View Results Functionality
+    V_ExamResults ->> C_ExamResult: Send Request to Retrieve Results
+    C_ExamResult ->> ExamResultModel: Query Exam Results for Student
+    ExamResultModel -->> C_ExamResult: Return Exam Results
+    C_ExamResult ->> V_ExamResults: Send Exam Results
+    V_ExamResults -->> Student: Display Exam Results
+```
+
+---
+
+#### **4.2.18 Use Case: View Previous Essays**
+
+##### **Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+    participant Student as Student
+    participant V_PreviousEssays as PreviousEssaysView
+    participant C_Essay as EssayController
+    participant EssayModel as Essay
+
+    Student ->> V_PreviousEssays: Select View Previous Essays Functionality
+    V_PreviousEssays ->> C_Essay: Send Request to Retrieve Previous Essays
+    C_Essay ->> EssayModel: Query Essays Submitted by Student
+    EssayModel -->> C_Essay: Return List of Essays
+    C_Essay ->> V_PreviousEssays: Send List of Essays
+    V_PreviousEssays -->> Student: Display List of Submitted Essays
+```
+
+---
+
+### 4.3 Summary
+
+The **Interaction Analysis** section provides a comprehensive overview of how each Use Case interacts with the system's classes. The **Use Case Mapping** table clearly identifies the Model, View, and Controller classes involved in each Use Case, ensuring a structured and organized approach to system design. The accompanying **Sequence Diagrams** visually depict the flow of interactions between these classes during the execution of each Use Case.
+
+**Key Features:**
+
+1. **Comprehensive Functionality:**
+    
+    - Ensures that all essential functionalities, such as user management, exam administration, essay submission, and grading, are thoroughly supported by the system design.
+2. **Clear Relationships:**
+    
+    - Establishes clear associations between Use Cases and the corresponding classes, promoting maintainability and scalability.
+3. **Enhanced Clarity:**
+    
+    - The inclusion of detailed Sequence Diagrams provides a clear understanding of the interactions and workflows within each Use Case, facilitating easier implementation and debugging.
+4. **Adherence to MVC Principles:**
+    
+    - The structured mapping of Model, View, and Controller classes maintains a clear separation of concerns, which is crucial for scalable and maintainable software architecture.
+
+By following this detailed Interaction Analysis, developers and stakeholders can ensure that the system's design aligns with the functional requirements, enabling efficient development and seamless user experiences.
+
+---
+
+If you require further details or additional Use Cases to be analyzed, please let me know!
+
 =============================================================================================================================================================================================
 # 3. Class diagram
 
