@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.4 Docker chạy ngầm.md",
+                "file": "4_MLOPs và Full Stack Docker/1. Git/3. commit, deploy, release Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2.4 Docker chạy ngầm"
+              "title": "3. commit, deploy, release Note"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ocker",
+                "query": "Git",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,8 +218,10 @@
   },
   "active": "1ef6015ff106bd15",
   "lastOpenFiles": [
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/Docker/Untitled.md",
+    "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
+    "4_MLOPs và Full Stack Docker/1. Git/3. commit, deploy, release Note.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.4 Docker chạy ngầm.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/Docker/Untitled.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/Docker",
     "8_Project/dify/Module2_Database/1. Phân tích kỹ Requirements.md",
@@ -240,7 +242,6 @@
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/2. Deploy Vercel.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/__init__ Deploy Docker Web.md",
-    "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/0. Resources.md",
     "4.. Data Science/2. Big Data/0. Nguồn học Big Data và Syllabus.md",
     "5. Software E/Project MVC.md",
@@ -254,7 +255,6 @@
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/3. Cách dùng huggingface.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/2. Pytorch - Hunggingface - Transformer.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/Benchmark - Dataset.md",
-    "3_AI Engineering/5. LLMs/1..md",
     "assert/Pasted image 20241208160143.png",
     "Untitled 2.canvas",
     "assert/Pasted image 20241202180522.png",
