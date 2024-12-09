@@ -363,3 +363,52 @@ Bạn có thể sao chép đoạn mã này vào [Mermaid Live Editor](https://me
 Chi tiết hơn thì 
 
 ![[Pasted image 20241209001709.png]]
+
+
+
+```
+3.3 Detailed Class Design
+21
+3.3.1 Class User
+Attributes (for all users): username, password, role, fullName, birthday, gender. Methods:
+• createUser(): Creates a new user.
+• getUserById(): Retrieves user information by ID.
+• updateUser(): Updates user information.
+• deleteUser(): Deletes a user.
+• hashPassword(): Hashes the password.
+22
+3.3.2 Class GroupLeader, Teacher, Student
+GroupLeader
+• Inherits from the User class.
+• Methods:
+– createQuestionBank(): Creates a question bank.
+– getQuestionBankById(): Retrieves a question bank by ID.
+– updateQuestionBank(): Updates a question bank.
+– deleteQuestionBank(): Deletes a question bank.
+Teacher
+• Inherits from the User class.
+• Methods:
+– createExam(): Creates an exam.
+– getExamById(): Retrieves an exam by ID.
+– updateExam(): Updates an exam.
+– deleteExam(): Deletes an exam.
+– gradeEssay(): Grades an essay.
+23
+Student
+• Inherits from the User class.
+• Methods:
+– submitEssay(): Submits an essay.
+– getExamResults(): Retrieves exam results.
+3.3.3 Other Classes
+• QuestionBank: Stores question bank information.
+• Question: Stores question information.
+• Exam: Stores exam information.
+• Essay: Stores essay information.
+• ExamResult: Stores exam result information.
+• ExamResultCriteria: Stores grading criteria information for an exam result. (This implies a many-
+to-many relationship between ExamResult and Criteria, facilitated by this class)
+• Criteria: Stores grading criteria types.
+• CriteriaDetail: Stores details for each graded criterion according to the rules. (This likely holds
+specific scoring details against a specific Criteria for a given ExamResultCriteria)
+```
+
