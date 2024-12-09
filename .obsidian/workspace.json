@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Software E/Project MVC.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/2. Deploy Vercel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project MVC"
+              "title": "2. Deploy Vercel"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "web",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +116,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,13 +216,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b6b6e1d46d09ac1",
+  "active": "1ef6015ff106bd15",
   "lastOpenFiles": [
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/2. Deploy Vercel.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/__init__ Deploy Docker Web.md",
+    "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/0. Resources.md",
+    "4.. Data Science/2. Big Data/0. Nguồn học Big Data và Syllabus.md",
+    "5. Software E/Project MVC.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.7_Chatbot/Memory.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. venv - Docker - k8s Cloud.md",
     "3_AI Engineering/Python.md",
     "2024-10-31.md",
-    "5. Software E/Project MVC.md",
     "assert/Pasted image 20241209001709.png",
     "5. Software E/Tool vẽ Software.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/4. Prompting cho model nhỏ.md",
@@ -239,18 +244,12 @@
     "4.. Data Science/2. Big Data/3..md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.1.2 Docker - Docker Hub.md",
     "Untitled 2.canvas",
-    "4.. Data Science/2. Big Data/0. Nguồn học Big Data và Syllabus.md",
     "4.. Data Science/2. Big Data/Hệ thống phân tán Distribution System.md",
     "4.. Data Science/2. Big Data/1. Lộ trình và tài liệu.md",
     "4.. Data Science/2. Big Data/Big Data.md",
     "4.. Data Science/1. Tổng quan các loại cơ sở dữ liệu.md",
-    "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
-    "8_Project/dify/11_TurnOffSuggestion/Turn off suggestion into chat node.md",
     "8_Project/ChatbotEmbed/xulyMarkdown.ipynb",
     "8_Project/ChatbotEmbed",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/5. Ngôn ngữ lập trình.md",
-    "1. Lập trình nói chung/Untitled.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.3 docker compose.md",
     "8_Project/dify/11_TurnOffSuggestion",
     "8_Project/dify/1_docker_dev/SetUpCOPYRIENGthayvicaCuc.ipynb",
     "8_Project/dify/1_docker_dev/note5_HoiMentor.ipynb",
