@@ -136,10 +136,45 @@ end
 
 ### 2. Thiết kế chi tiết gói
 
+
+Dưới đây là phiên bản chi tiết biểu diễn các gói Module (M_...) với các mũi tên và quan hệ đã được sửa đúng:
+
+```mermaid
+classDiagram
+    M_User <|-- M_Student
+    M_User <|-- M_GroupLeader
+    M_User <|-- M_Teacher
+
+    M_GroupLeader --> M_QuestionBank : manageQuestionBank
+    M_QuestionBank --> M_Question : contains
+    M_Exam --> M_ExamQuestion : contains
+    M_ExamQuestion --> M_Question : partOf
+    M_Student --> M_Essay : submitEssay
+    M_Teacher --> M_ExamResult : gradeEssay
+    M_ExamResult --> M_ExamResultCriteria : associatedWith
+    M_ExamResult --> M_Essay : gradeEssay
 ```
 
-```
+### Giải thích các thay đổi:
 
+1. **Prefix `M_`**:
+    
+    - Đã thêm prefix `M_` để biểu diễn các module (ví dụ: `M_User`, `M_Student`,...).
+2. **Quan hệ**:
+    
+    - Được điều chỉnh theo logic từ sơ đồ gốc:
+        - `M_User` là lớp cha của các module `M_Student`, `M_GroupLeader`, và `M_Teacher`.
+        - `M_GroupLeader` quản lý `M_QuestionBank`.
+        - `M_QuestionBank` chứa `M_Question`.
+        - `M_Exam` chứa `M_ExamQuestion`.
+        - `M_ExamQuestion` là một phần của `M_Question`.
+        - `M_Student` gửi bài luận (`M_Essay`).
+        - `M_Teacher` chấm điểm và quản lý `M_ExamResult`.
+        - `M_ExamResult` liên quan đến các tiêu chí (`M_ExamResultCriteria`) và bài luận (`M_Essay`).
+
+### Hướng dẫn sử dụng:
+
+Bạn có thể sao chép đoạn mã này vào [Mermaid Live Editor](https://mermaid.live/) để kiểm tra hoặc hiển thị sơ đồ. Nếu cần thêm chỉnh sửa hoặc chi tiết khác, hãy cho mình biết!
 
 Chi tiết hơn thì 
 
