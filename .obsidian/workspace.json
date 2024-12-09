@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Software E/Project MVC.md",
+                "file": "5. Software E/v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project MVC"
+              "title": "v2"
             }
           }
         ]
@@ -175,6 +175,8 @@
   },
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
+    "5. Software E/Project MVC.md",
+    "5. Software E/v2.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/5. Ngôn ngữ lập trình.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/1 số tool Docker.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. venv - Docker - k8s Cloud.md",
@@ -206,12 +208,10 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/__init__ Deploy Docker Web.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/0. Resources.md",
     "4.. Data Science/2. Big Data/0. Nguồn học Big Data và Syllabus.md",
-    "5. Software E/Project MVC.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.7_Chatbot/Memory.md",
     "3_AI Engineering/Python.md",
     "2024-10-31.md",
     "assert/Pasted image 20241209001709.png",
-    "5. Software E/Tool vẽ Software.md",
     "assert/Pasted image 20241208160143.png",
     "Untitled 2.canvas",
     "assert/Pasted image 20241202180522.png",
