@@ -619,12 +619,19 @@ classDiagram
 
 #### **UML Diagram**
 
-mermaid
 
-Copy code
+```mermaid
+classDiagram
+    class Question {
+        - id: int
+        - content: String
+        - maxScore: float
+        - rubric: String
+        + evaluateAnswer(answer: String): String
+        + calculateScore(answer: String): float
+    }
 
-`classDiagram     class Question {         - id: int         - content: String         - maxScore: float         - rubric: String         + evaluateAnswer(answer: String): String         + calculateScore(answer: String): float     }`
-
+```
 ---
 
 #### **Attributes**
