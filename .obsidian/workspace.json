@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Software E/Tài liệu.md",
+                "file": "5. Software E/Project MVC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tài liệu"
+              "title": "Project MVC"
             }
           },
           {
@@ -216,11 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ef6015ff106bd15",
+  "active": "743e8c34ace83558",
   "lastOpenFiles": [
     "assert/Pasted image 20241209001709.png",
     "5. Software E/Tool vẽ Software.md",
-    "5. Software E/Tài liệu.md",
+    "5. Software E/Project MVC.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/4. Prompting cho model nhỏ.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/3. Cách dùng huggingface.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/2. Pytorch - Hunggingface - Transformer.md",

@@ -186,43 +186,50 @@ classDiagram
 
 Below is the Mermaid syntax to represent the **Controller package** diagram as shown in the uploaded image:
 
-### Mermaid Syntax:
+### Controller Diagram Syntax (Mermaid)
+
+Here’s the updated **Controller** diagram corresponding to the provided Model structure:
 
 ```mermaid
 classDiagram
-    class C_user
-    class C_order
-    class C_order_product
-    class C_product
-    class C_variant
-    class C_variant_category
-    class C_variant_item
-    class C_auction
-    class C_paid_auction
-    class C_bidder
-    class C_progress
-    class C_addition
-    class C_shipping
-    class C_store
-    class C_category
-    class C_collection
-    class C_review
+    C_User <|-- C_Student
+    C_User <|-- C_GroupLeader
+    C_User <|-- C_Teacher
+
+    C_GroupLeader --> C_QuestionBank : manageQuestionBank
+    C_QuestionBank --> C_Question : contains
+    C_Exam --> C_ExamQuestion : contains
+    C_ExamQuestion --> C_Question : partOf
+    C_Student --> C_Essay : submitEssay
+    C_Teacher --> C_ExamResult : gradeEssay
+    C_ExamResult --> C_ExamResultCriteria : associatedWith
+    C_ExamResult --> C_Essay : gradeEssay
 ```
 
 ### Comments in English:
 
-The diagram illustrates the **Controller package** structure. Each controller class is responsible for managing specific functionalities related to its associated model.
+The **Controller package** diagram represents the logic-handling layer for the corresponding **Model** structure. Each controller class is dedicated to processing specific actions related to its associated model. Here’s a detailed explanation:
 
-- **Key functionalities**:
+1. **Controller Classes**:
     
-    - These controller classes receive requests from the **View** layer, process the requests based on the predefined logic, and interact with the **Model** layer to fetch or update the necessary data.
-    - After interacting with the model, the controllers return the processed data or responses back to the view, ensuring seamless interaction between the layers.
-- **Highlights**:
+    - **C_User**: Acts as the base class for all user-related controllers, handling actions like user login, profile management, and authentication.
+    - **C_Student**: Handles operations specific to students, such as submitting essays (**submitEssay**) and accessing exam results.
+    - **C_GroupLeader**: Manages the question bank operations, including creating, updating, and deleting question banks (**manageQuestionBank**).
+    - **C_Teacher**: Facilitates teacher-specific operations, such as creating exams, grading essays (**gradeEssay**), and reviewing student progress.
+    - **C_QuestionBank**, **C_Question**: Manage question banks and their related questions, with clear relationships for "contains" and "part of."
+    - **C_Exam**: Manages operations related to exams, linking with exam questions (**C_ExamQuestion**) and results.
+    - **C_ExamResult**: Handles the grading and management of exam results, including linking with criteria (**C_ExamResultCriteria**) and essays.
+2. **Responsibilities**:
     
-    - Each controller is designed to handle isolated and specific responsibilities, such as managing users (**C_user**), orders (**C_order**), or products (**C_product**), ensuring clear separation of concerns.
-    - The structure adheres to the **MVC architecture** principles, which enhance maintainability and scalability by modularizing the system into well-defined components.
+    - Each controller receives requests from the **View** layer and uses the **Model** layer to process and fetch data.
+    - Controllers implement the business logic needed for specific tasks, ensuring a clear separation of concerns.
+3. **Highlights**:
+    
+    - **Modular Design**: Each controller class is focused on a single domain, enhancing maintainability and reducing coupling.
+    - **MVC Integration**: The controllers bridge the View and Model layers, maintaining a smooth data flow and interaction.
+    - **Scalability**: Adding new functionality or extending existing ones (e.g., new user types or features for teachers) is straightforward due to the structured controller hierarchy.
 
-This design ensures that each controller is focused on its dedicated task, minimizing dependencies and improving the overall flexibility of the system.
+This design ensures a robust and scalable system that adheres to **MVC principles**, making it easy to maintain, test, and extend over time.
 ### Hướng dẫn sử dụng:
 
 Bạn có thể sao chép đoạn mã này vào [Mermaid Live Editor](https://mermaid.live/) để kiểm tra hoặc hiển thị sơ đồ. Nếu cần thêm chỉnh sửa hoặc chi tiết khác, hãy cho mình biết!
