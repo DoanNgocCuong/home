@@ -412,13 +412,14 @@ to-many relationship between ExamResult and Criteria, facilitated by this class)
 specific scoring details against a specific Criteria for a given ExamResultCriteria)
 ```
 
-Certainly! I'll continue detailing the **3.3 Detailed Class Design** section by elaborating on each class with UML diagrams and comprehensive tables for attributes and methods, following the structure you've provided.
+
+Certainly! Below is the **3.3 Detailed Class Design** section presented as a comprehensive report, encompassing UML diagrams, Attributes tables, and Methods tables for each class. This structured approach ensures clarity and completeness in the system's design.
 
 ---
 
-## 3.3 Detailed Class Design (UML - Attributes - Method)
+## 3.3 Detailed Class Design
 
-This section details the key classes in the system, including their attributes, methods, and relationships.
+This section elaborates on the key classes within the system, detailing their attributes, methods, and interrelationships. Each class is accompanied by a UML diagram to provide a visual representation of its structure and associations.
 
 ---
 
@@ -472,7 +473,7 @@ classDiagram
 
 ### **3.3.2 Classes: GroupLeader, Teacher, Student**
 
-#### **Class: GroupLeader**
+#### **3.3.2.1 Class: GroupLeader**
 
 ##### **UML Diagram**
 
@@ -491,7 +492,7 @@ classDiagram
 
 ##### **Attributes**
 
-_GroupLeader inherits all attributes from the `User` class._
+_GroupLeader_ inherits all attributes from the `User` class.
 
 ---
 
@@ -506,7 +507,7 @@ _GroupLeader inherits all attributes from the `User` class._
 
 ---
 
-#### **Class: Teacher**
+#### **3.3.2.2 Class: Teacher**
 
 ##### **UML Diagram**
 
@@ -526,7 +527,7 @@ classDiagram
 
 ##### **Attributes**
 
-_Teacher inherits all attributes from the `User` class._
+_Teacher_ inherits all attributes from the `User` class.
 
 ---
 
@@ -542,7 +543,7 @@ _Teacher inherits all attributes from the `User` class._
 
 ---
 
-#### **Class: Student**
+#### **3.3.2.3 Class: Student**
 
 ##### **UML Diagram**
 
@@ -552,6 +553,8 @@ classDiagram
     class Student {
         + submitEssay(essay: Essay): void
         + getExamResults(): List<ExamResult>
+        + searchAndRegisterExamCode(code: String): boolean
+        + viewPreviousEssays(): List<Essay>
     }
 ```
 
@@ -559,7 +562,7 @@ classDiagram
 
 ##### **Attributes**
 
-_Student inherits all attributes from the `User` class._
+_Student_ inherits all attributes from the `User` class.
 
 ---
 
@@ -569,12 +572,14 @@ _Student inherits all attributes from the `User` class._
 |---|---|---|---|---|
 |`submitEssay`|`void`|`essay: Essay`|`public`|Submits an essay for evaluation.|
 |`getExamResults`|`List<ExamResult>`|`-`|`public`|Retrieves the results of exams taken by the student.|
+|`searchAndRegisterExamCode`|`boolean`|`code: String`|`public`|Searches for an exam by code and registers the student.|
+|`viewPreviousEssays`|`List<Essay>`|`-`|`public`|Views previously submitted essays by the student.|
 
 ---
 
 ### **3.3.3 Other Classes**
 
-#### **Class: QuestionBank**
+#### **3.3.3.1 Class: QuestionBank**
 
 ##### **UML Diagram**
 
@@ -610,7 +615,7 @@ classDiagram
 
 ---
 
-#### **Class: Question**
+#### **3.3.3.2 Class: Question**
 
 ##### **UML Diagram**
 
@@ -646,7 +651,7 @@ classDiagram
 
 ---
 
-#### **Class: Exam**
+#### **3.3.3.3 Class: Exam**
 
 ##### **UML Diagram**
 
@@ -658,6 +663,7 @@ classDiagram
         - questions: List<Question>
         + addQuestion(question: Question): void
         + removeQuestion(id: int): void
+        + getQuestions(): List<Question>
     }
 ```
 
@@ -665,11 +671,11 @@ classDiagram
 
 ##### **Attributes**
 
-| **Attribute** | **Datatype**     | **Access Modifiers** | **Description**                         |
-| ------------- | ---------------- | -------------------- | --------------------------------------- |
-| `id`          | `int`            | `private`            | Unique identifier for the exam.         |
-| `title`       | `String`         | `private`            | Title or name of the exam.              |
-| `questions`   | `List<Question>` | `private`            | List of questions included in the exam. |
+|**Attribute**|**Datatype**|**Access Modifiers**|**Description**|
+|---|---|---|---|
+|`id`|`int`|`private`|Unique identifier for the exam.|
+|`title`|`String`|`private`|Title or name of the exam.|
+|`questions`|`List<Question>`|`private`|List of questions included in the exam.|
 
 ---
 
@@ -679,10 +685,11 @@ classDiagram
 |---|---|---|---|---|
 |`addQuestion`|`void`|`question: Question`|`public`|Adds a question to the exam.|
 |`removeQuestion`|`void`|`id: int`|`public`|Removes a question from the exam by its ID.|
+|`getQuestions`|`List<Question>`|`-`|`public`|Retrieves all questions in the exam.|
 
 ---
 
-#### **Class: Essay**
+#### **3.3.3.4 Class: Essay**
 
 ##### **UML Diagram**
 
@@ -693,6 +700,7 @@ classDiagram
         - content: String
         - student: Student
         + submit(): void
+        + getContent(): String
     }
 ```
 
@@ -713,10 +721,11 @@ classDiagram
 |**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
 |---|---|---|---|---|
 |`submit`|`void`|`-`|`public`|Submits the essay for evaluation.|
+|`getContent`|`String`|`-`|`public`|Retrieves the content of the essay.|
 
 ---
 
-#### **Class: ExamResult**
+#### **3.3.3.5 Class: ExamResult**
 
 ##### **UML Diagram**
 
@@ -726,7 +735,9 @@ classDiagram
         - id: int
         - score: float
         - student: Student
+        - exam: Exam
         + calculateFinalScore(): void
+        + getScore(): float
     }
 ```
 
@@ -739,6 +750,7 @@ classDiagram
 |`id`|`int`|`private`|Unique identifier for the exam result.|
 |`score`|`float`|`private`|The final score achieved in the exam.|
 |`student`|`Student`|`private`|The student associated with this result.|
+|`exam`|`Exam`|`private`|The exam associated with this result.|
 
 ---
 
@@ -747,10 +759,11 @@ classDiagram
 |**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
 |---|---|---|---|---|
 |`calculateFinalScore`|`void`|`-`|`public`|Calculates the final score based on criteria.|
+|`getScore`|`float`|`-`|`public`|Retrieves the final score of the exam result.|
 
 ---
 
-#### **Class: Criteria**
+#### **3.3.3.6 Class: Criteria**
 
 ##### **UML Diagram**
 
@@ -759,6 +772,7 @@ classDiagram
     class Criteria {
         - id: int
         - description: String
+        + getDescription(): String
     }
 ```
 
@@ -777,11 +791,11 @@ classDiagram
 
 |**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
 |---|---|---|---|---|
-|`-`|`-`|`-`|`-`|No methods defined for this class.|
+|`getDescription`|`String`|`-`|`public`|Retrieves the description of the criteria.|
 
 ---
 
-#### **Class: CriteriaDetail**
+#### **3.3.3.7 Class: CriteriaDetail**
 
 ##### **UML Diagram**
 
@@ -791,6 +805,7 @@ classDiagram
         - id: int
         - details: String
         - criteria: Criteria
+        + getDetails(): String
     }
 ```
 
@@ -810,7 +825,7 @@ classDiagram
 
 |**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
 |---|---|---|---|---|
-|`-`|`-`|`-`|`-`|No methods defined for this class.|
+|`getDetails`|`String`|`-`|`public`|Retrieves the specific details of the criteria.|
 
 ---
 
@@ -828,14 +843,17 @@ To provide a clear understanding of how these classes interact with each other, 
     - `Teacher` creates and manages `Exam`.
     - `Exam` contains multiple `Question` instances.
     - `Student` submits `Essay`.
-    - `Teacher` grades `Essay` resulting in `ExamResult`.
+    - `Student` can search and register for exams using exam codes.
+    - `Student` views exam results and previous essays.
+    - `Teacher` grades `Essay`, resulting in `ExamResult`.
     - `ExamResult` is associated with `Criteria` through `CriteriaDetail`.
+    - `ExamResult` is linked to `Exam`.
 
 ---
 
 ### **3.3.5 Enhanced UML Diagrams with Relationships**
 
-To visualize the relationships, here are combined UML diagrams illustrating the associations and inheritance.
+To visualize the relationships, here is a combined UML diagram illustrating both inheritance and associations.
 
 #### **Combined UML Diagram**
 
@@ -850,15 +868,34 @@ classDiagram
     Teacher "1" --> "many" Exam : creates
     Exam "1" --> "many" Question : includes
     Student "1" --> "many" Essay : submits
+    Student "1" --> "many" ExamResult : receives
     Teacher "1" --> "many" ExamResult : grades
+    ExamResult "1" --> "1" Exam : associatedWith
     ExamResult "1" --> "many" CriteriaDetail : basedOn
     CriteriaDetail "1" --> "1" Criteria : defines
+    Student "1" --> "many" Essay : viewsPrevious
+    Student "1" --> "many" ExamResult : viewsResults
 ```
 
 ---
 
 ### **3.3.6 Summary**
 
-This detailed class design provides a comprehensive blueprint for implementing the system. Each class is meticulously defined with its respective attributes and methods, ensuring clarity in functionality and interaction. The UML diagrams facilitate a visual understanding of the system's architecture, highlighting inheritance and associations that underpin the system's operations.
+This detailed class design serves as a comprehensive blueprint for implementing the system. Each class is meticulously defined with its respective attributes and methods, ensuring clarity in functionality and interaction. The UML diagrams facilitate a visual understanding of the system's architecture, highlighting inheritance and associations that underpin the system's operations.
 
-By adhering to this structured design, developers can ensure consistency, maintainability, and scalability throughout the development lifecycle. If further refinements or additions are needed, feel free to let me know!
+**Key Features:**
+
+1. **Comprehensive Functionality**:
+    
+    - Ensures that all required features, such as exam registration and essay management, are adequately supported.
+2. **Clear Relationships**:
+    
+    - Establishes clear associations between classes, promoting maintainability and scalability.
+3. **Enhanced Clarity**:
+    
+    - The inclusion of methods and attributes provides a clear understanding of each class's responsibilities and interactions within the system.
+4. **Adherence to MVC Principles**:
+    
+    - The structured design maintains a clear separation of concerns, facilitating easier testing, maintenance, and future enhancements.
+
+By adhering to this structured and detailed design, developers can ensure consistency, maintainability, and scalability throughout the development lifecycle.
