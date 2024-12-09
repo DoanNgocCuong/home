@@ -412,3 +412,453 @@ to-many relationship between ExamResult and Criteria, facilitated by this class)
 specific scoring details against a specific Criteria for a given ExamResultCriteria)
 ```
 
+Certainly! I'll continue detailing the **3.3 Detailed Class Design** section by elaborating on each class with UML diagrams and comprehensive tables for attributes and methods, following the structure you've provided.
+
+---
+
+## 3.3 Detailed Class Design
+
+This section details the key classes in the system, including their attributes, methods, and relationships.
+
+---
+
+### **3.3.1 Class: User**
+
+#### **UML Diagram**
+
+```mermaid
+classDiagram
+    class User {
+        - username: String
+        - password: String
+        - role: String
+        - fullName: String
+        - birthday: Date
+        - gender: String
+        + createUser(user: User): void
+        + getUserById(id: int): User
+        + updateUser(user: User): void
+        + deleteUser(id: int): void
+        - hashPassword(password: String): String
+    }
+```
+
+---
+
+#### **Attributes**
+
+|**Attribute**|**Datatype**|**Access Modifiers**|**Description**|
+|---|---|---|---|
+|`username`|`String`|`private`|Unique identifier for the user (login username).|
+|`password`|`String`|`private`|Hashed password for secure authentication.|
+|`role`|`String`|`private`|User role (e.g., GroupLeader, Teacher, Student).|
+|`fullName`|`String`|`private`|Full name of the user.|
+|`birthday`|`Date`|`private`|Date of birth of the user.|
+|`gender`|`String`|`private`|Gender of the user.|
+
+---
+
+#### **Methods**
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`createUser`|`void`|`user: User`|`public`|Creates and stores a new user in the system.|
+|`getUserById`|`User`|`id: int`|`public`|Retrieves user information by their unique ID.|
+|`updateUser`|`void`|`user: User`|`public`|Updates the details of an existing user.|
+|`deleteUser`|`void`|`id: int`|`public`|Deletes a user based on their unique ID.|
+|`hashPassword`|`String`|`password: String`|`private`|Hashes the user's password for secure storage.|
+
+---
+
+### **3.3.2 Classes: GroupLeader, Teacher, Student**
+
+#### **Class: GroupLeader**
+
+##### **UML Diagram**
+
+```mermaid
+classDiagram
+    User <|-- GroupLeader
+    class GroupLeader {
+        + createQuestionBank(questionBank: QuestionBank): void
+        + getQuestionBankById(id: int): QuestionBank
+        + updateQuestionBank(questionBank: QuestionBank): void
+        + deleteQuestionBank(id: int): void
+    }
+```
+
+---
+
+##### **Attributes**
+
+_GroupLeader inherits all attributes from the `User` class._
+
+---
+
+##### **Methods**
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`createQuestionBank`|`void`|`questionBank: QuestionBank`|`public`|Creates a new question bank for the system.|
+|`getQuestionBankById`|`QuestionBank`|`id: int`|`public`|Retrieves a question bank's details by its unique ID.|
+|`updateQuestionBank`|`void`|`questionBank: QuestionBank`|`public`|Updates the details of an existing question bank.|
+|`deleteQuestionBank`|`void`|`id: int`|`public`|Deletes a question bank based on its unique ID.|
+
+---
+
+#### **Class: Teacher**
+
+##### **UML Diagram**
+
+```mermaid
+classDiagram
+    User <|-- Teacher
+    class Teacher {
+        + createExam(exam: Exam): void
+        + getExamById(id: int): Exam
+        + updateExam(exam: Exam): void
+        + deleteExam(id: int): void
+        + gradeEssay(essay: Essay): void
+    }
+```
+
+---
+
+##### **Attributes**
+
+_Teacher inherits all attributes from the `User` class._
+
+---
+
+##### **Methods**
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`createExam`|`void`|`exam: Exam`|`public`|Creates a new exam.|
+|`getExamById`|`Exam`|`id: int`|`public`|Retrieves exam details by its unique ID.|
+|`updateExam`|`void`|`exam: Exam`|`public`|Updates the details of an existing exam.|
+|`deleteExam`|`void`|`id: int`|`public`|Deletes an exam based on its unique ID.|
+|`gradeEssay`|`void`|`essay: Essay`|`public`|Grades a student's submitted essay.|
+
+---
+
+#### **Class: Student**
+
+##### **UML Diagram**
+
+```mermaid
+classDiagram
+    User <|-- Student
+    class Student {
+        + submitEssay(essay: Essay): void
+        + getExamResults(): List<ExamResult>
+    }
+```
+
+---
+
+##### **Attributes**
+
+_Student inherits all attributes from the `User` class._
+
+---
+
+##### **Methods**
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`submitEssay`|`void`|`essay: Essay`|`public`|Submits an essay for evaluation.|
+|`getExamResults`|`List<ExamResult>`|`-`|`public`|Retrieves the results of exams taken by the student.|
+
+---
+
+### **3.3.3 Other Classes**
+
+#### **Class: QuestionBank**
+
+##### **UML Diagram**
+
+```mermaid
+classDiagram
+    class QuestionBank {
+        - id: int
+        - name: String
+        - questions: List<Question>
+        + addQuestion(question: Question): void
+        + removeQuestion(id: int): void
+    }
+```
+
+---
+
+##### **Attributes**
+
+|**Attribute**|**Datatype**|**Access Modifiers**|**Description**|
+|---|---|---|---|
+|`id`|`int`|`private`|Unique identifier for the question bank.|
+|`name`|`String`|`private`|Name of the question bank.|
+|`questions`|`List<Question>`|`private`|List of questions within the bank.|
+
+---
+
+##### **Methods**
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`addQuestion`|`void`|`question: Question`|`public`|Adds a new question to the question bank.|
+|`removeQuestion`|`void`|`id: int`|`public`|Removes a question from the bank by its ID.|
+
+---
+
+#### **Class: Question**
+
+##### **UML Diagram**
+
+```mermaid
+classDiagram
+    class Question {
+        - id: int
+        - content: String
+        - options: List<String>
+        - answer: String
+        + validateAnswer(answer: String): boolean
+    }
+```
+
+---
+
+##### **Attributes**
+
+|**Attribute**|**Datatype**|**Access Modifiers**|**Description**|
+|---|---|---|---|
+|`id`|`int`|`private`|Unique identifier for the question.|
+|`content`|`String`|`private`|Text content of the question.|
+|`options`|`List<String>`|`private`|List of multiple-choice options (if applicable).|
+|`answer`|`String`|`private`|Correct answer for the question.|
+
+---
+
+##### **Methods**
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`validateAnswer`|`boolean`|`answer: String`|`public`|Validates if the provided answer is correct.|
+
+---
+
+#### **Class: Exam**
+
+##### **UML Diagram**
+
+```mermaid
+classDiagram
+    class Exam {
+        - id: int
+        - title: String
+        - questions: List<Question>
+        + addQuestion(question: Question): void
+        + removeQuestion(id: int): void
+    }
+```
+
+---
+
+##### **Attributes**
+
+|**Attribute**|**Datatype**|**Access Modifiers**|**Description**|
+|---|---|---|---|
+|`id`|`int`|`private`|Unique identifier for the exam.|
+|`title`|`String`|`private`|Title or name of the exam.|
+|`questions`|`List<Question>`|`private`|List of questions included in the exam.|
+
+---
+
+##### **Methods**
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`addQuestion`|`void`|`question: Question`|`public`|Adds a question to the exam.|
+|`removeQuestion`|`void`|`id: int`|`public`|Removes a question from the exam by its ID.|
+
+---
+
+#### **Class: Essay**
+
+##### **UML Diagram**
+
+```mermaid
+classDiagram
+    class Essay {
+        - id: int
+        - content: String
+        - student: Student
+        + submit(): void
+    }
+```
+
+---
+
+##### **Attributes**
+
+|**Attribute**|**Datatype**|**Access Modifiers**|**Description**|
+|---|---|---|---|
+|`id`|`int`|`private`|Unique identifier for the essay.|
+|`content`|`String`|`private`|The content of the essay.|
+|`student`|`Student`|`private`|The student who submitted the essay.|
+
+---
+
+##### **Methods**
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`submit`|`void`|`-`|`public`|Submits the essay for evaluation.|
+
+---
+
+#### **Class: ExamResult**
+
+##### **UML Diagram**
+
+```mermaid
+classDiagram
+    class ExamResult {
+        - id: int
+        - score: float
+        - student: Student
+        + calculateFinalScore(): void
+    }
+```
+
+---
+
+##### **Attributes**
+
+|**Attribute**|**Datatype**|**Access Modifiers**|**Description**|
+|---|---|---|---|
+|`id`|`int`|`private`|Unique identifier for the exam result.|
+|`score`|`float`|`private`|The final score achieved in the exam.|
+|`student`|`Student`|`private`|The student associated with this result.|
+
+---
+
+##### **Methods**
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`calculateFinalScore`|`void`|`-`|`public`|Calculates the final score based on criteria.|
+
+---
+
+#### **Class: Criteria**
+
+##### **UML Diagram**
+
+```mermaid
+classDiagram
+    class Criteria {
+        - id: int
+        - description: String
+    }
+```
+
+---
+
+##### **Attributes**
+
+|**Attribute**|**Datatype**|**Access Modifiers**|**Description**|
+|---|---|---|---|
+|`id`|`int`|`private`|Unique identifier for the criteria.|
+|`description`|`String`|`private`|Describes the grading criteria.|
+
+---
+
+##### **Methods**
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`-`|`-`|`-`|`-`|No methods defined for this class.|
+
+---
+
+#### **Class: CriteriaDetail**
+
+##### **UML Diagram**
+
+```mermaid
+classDiagram
+    class CriteriaDetail {
+        - id: int
+        - details: String
+        - criteria: Criteria
+    }
+```
+
+---
+
+##### **Attributes**
+
+|**Attribute**|**Datatype**|**Access Modifiers**|**Description**|
+|---|---|---|---|
+|`id`|`int`|`private`|Unique identifier for the criteria detail.|
+|`details`|`String`|`private`|Holds specific grading rules for the criteria.|
+|`criteria`|`Criteria`|`private`|The associated criteria for this detail.|
+
+---
+
+##### **Methods**
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`-`|`-`|`-`|`-`|No methods defined for this class.|
+
+---
+
+### **3.3.4 Relationships Between Classes**
+
+To provide a clear understanding of how these classes interact with each other, here's an overview of the relationships:
+
+- **Inheritance**:
+    
+    - `GroupLeader`, `Teacher`, and `Student` inherit from the `User` class.
+- **Associations**:
+    
+    - `GroupLeader` manages `QuestionBank`.
+    - `QuestionBank` contains multiple `Question` instances.
+    - `Teacher` creates and manages `Exam`.
+    - `Exam` contains multiple `Question` instances.
+    - `Student` submits `Essay`.
+    - `Teacher` grades `Essay` resulting in `ExamResult`.
+    - `ExamResult` is associated with `Criteria` through `CriteriaDetail`.
+
+---
+
+### **3.3.5 Enhanced UML Diagrams with Relationships**
+
+To visualize the relationships, here are combined UML diagrams illustrating the associations and inheritance.
+
+#### **Combined UML Diagram**
+
+```mermaid
+classDiagram
+    User <|-- GroupLeader
+    User <|-- Teacher
+    User <|-- Student
+
+    GroupLeader "1" --> "many" QuestionBank : manages
+    QuestionBank "1" --> "many" Question : contains
+    Teacher "1" --> "many" Exam : creates
+    Exam "1" --> "many" Question : includes
+    Student "1" --> "many" Essay : submits
+    Teacher "1" --> "many" ExamResult : grades
+    ExamResult "1" --> "many" CriteriaDetail : basedOn
+    CriteriaDetail "1" --> "1" Criteria : defines
+```
+
+---
+
+### **3.3.6 Summary**
+
+This detailed class design provides a comprehensive blueprint for implementing the system. Each class is meticulously defined with its respective attributes and methods, ensuring clarity in functionality and interaction. The UML diagrams facilitate a visual understanding of the system's architecture, highlighting inheritance and associations that underpin the system's operations.
+
+By adhering to this structured design, developers can ensure consistency, maintainability, and scalability throughout the development lifecycle. If further refinements or additions are needed, feel free to let me know!
