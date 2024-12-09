@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Software ",
+                "query": "softwar",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 248.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,9 +218,13 @@
   },
   "active": "743e8c34ace83558",
   "lastOpenFiles": [
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.7_Chatbot/Memory.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. venv - Docker - k8s Cloud.md",
+    "3_AI Engineering/Python.md",
+    "2024-10-31.md",
+    "5. Software E/Project MVC.md",
     "assert/Pasted image 20241209001709.png",
     "5. Software E/Tool vẽ Software.md",
-    "5. Software E/Project MVC.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/4. Prompting cho model nhỏ.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/3. Cách dùng huggingface.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/2. Pytorch - Hunggingface - Transformer.md",
@@ -247,15 +251,12 @@
     "1. Lập trình nói chung/Untitled.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.3 docker compose.md",
     "8_Project/dify/11_TurnOffSuggestion",
-    "COMPUTER NETWORK/NETWORK.md",
     "8_Project/dify/1_docker_dev/SetUpCOPYRIENGthayvicaCuc.ipynb",
     "8_Project/dify/1_docker_dev/note5_HoiMentor.ipynb",
     "8_Project/dify/1_docker_dev/note3_dockercomposeImage_and_dockercomposeBuild.ipynb",
     "8_Project/dify/1_docker_dev/note4_OpenPORT.ipynb",
     "8_Project/dify/1_docker_dev/note1_dockerRun.ipynb",
     "8_Project/dify/1_docker_dev/note1_.ipynb",
-    "8_Project/dify/HowRun.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__.md",
     "assert/Pasted image 20241202180522.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -266,7 +267,6 @@
     "assert/Pasted image 20241106122454.png",
     "assert/Pasted image 20241104091510.png",
     "assert/Pasted image 20241028231928.png",
-    "assert/Pasted image 20241028231903.png",
     "Untitled 3.canvas",
     "3_AI Engineering/4. DeepLearning/4.2 RAG/RAG/RAG 1/Search/Untitled.canvas"
   ]
