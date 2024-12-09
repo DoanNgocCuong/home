@@ -93,7 +93,7 @@ v. Nhóm trưởng . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 # 2. Sequence Diagram - for Use Cases
 Tool 1: [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/)
 
-### Một số biểu đồ trình tự
+### Một số biểu đồ trình tự theo Role (Guest, General, Admin, Group leader, Teacher, Student) - Web Client - System
 ```mermaid
 %%{init: {'theme': 'neutral', 'themeVariables': { 'primaryColor': '#F0F0F0', 'primaryTextColor': '#000000', 'lineColor': '#000000', 'actorBorderColor': '#333333', 'actorTextColor': '#000000' }}}%%
 sequenceDiagram
@@ -137,6 +137,9 @@ end
 
 ```
 
+
+---
+VẼ LẠI SEQUENCE DIAGRAM - THEO VIEW-CONTROLLER-MODEL
 
 ```
 
