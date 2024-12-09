@@ -189,24 +189,7 @@ Below is the Mermaid syntax to represent the **Controller package** diagram as s
 ### Controller Diagram Syntax (Mermaid)
 
 Here’s the updated **Controller** diagram corresponding to the provided Model structure:
-
-```mermaid
-classDiagram
-    C_User <|-- C_Student
-    C_User <|-- C_GroupLeader
-    C_User <|-- C_Teacher
-
-    C_GroupLeader --> C_QuestionBank : manageQuestionBank
-    C_QuestionBank --> C_Question : contains
-    C_Exam --> C_ExamQuestion : contains
-    C_ExamQuestion --> C_Question : partOf
-    C_Student --> C_Essay : submitEssay
-    C_Teacher --> C_ExamResult : gradeEssay
-    C_ExamResult --> C_ExamResultCriteria : associatedWith
-    C_ExamResult --> C_Essay : gradeEssay
-```
-
-### Comments in English:
+ments in English:
 
 The **Controller package** diagram represents the logic-handling layer for the corresponding **Model** structure. Each controller class is dedicated to processing specific actions related to its associated model. Here’s a detailed explanation:
 
@@ -235,22 +218,6 @@ This design ensures a robust and scalable system that adheres to **MVC principle
 
 Here’s the updated **Viewer** diagram corresponding to the provided Model structure:
 
-```mermaid
-classDiagram
-    V_User <|-- V_Student
-    V_User <|-- V_GroupLeader
-    V_User <|-- V_Teacher
-
-    V_GroupLeader --> V_QuestionBank : viewQuestionBank
-    V_QuestionBank --> V_Question : contains
-    V_Exam --> V_ExamQuestion : contains
-    V_ExamQuestion --> V_Question : partOf
-    V_Student --> V_Essay : viewEssay
-    V_Teacher --> V_ExamResult : viewExamResult
-    V_ExamResult --> V_ExamResultCriteria : associatedWith
-    V_ExamResult --> V_Essay : linkedTo
-```
-
 ### Comments in English:
 
 The **Viewer package** diagram illustrates the **View layer** of the application, which is responsible for displaying data and user interfaces to the end users. Each viewer class corresponds to a specific model and controller, facilitating the interaction with users. Below are the details:
@@ -275,6 +242,107 @@ The **Viewer package** diagram illustrates the **View layer** of the application
     - **Scalability**: The structured hierarchy and modular approach make it straightforward to add new views or update existing ones without impacting other components.
 
 This design ensures a seamless and user-friendly experience by adhering to the **MVC architecture principles**, making the system intuitive, efficient, and scalable for future enhancements.
+
+
+Based on further research and confirmation of how the **MVC architecture** operates, the **Controller** and **View** do interact with each other directly, as follows:
+
+Dưới đây là phiên bản đã loại bỏ các dấu mũi tên trong cả Viewer và Controller:
+
+### Viewer Diagram (Mermaid Syntax)
+
+```mermaid
+classDiagram
+    V_User <|-- V_Student
+    V_User <|-- V_GroupLeader
+    V_User <|-- V_Teacher
+
+    V_GroupLeader : viewQuestionBank
+    V_QuestionBank : contains
+    V_Exam : contains
+    V_ExamQuestion : partOf
+    V_Student : viewEssay
+    V_Teacher : viewExamResult
+    V_ExamResult : associatedWith
+    V_ExamResult : linkedTo
+```
+
+### Controller Diagram (Mermaid Syntax)
+
+```mermaid
+classDiagram
+    C_User <|-- C_Student
+    C_User <|-- C_GroupLeader
+    C_User <|-- C_Teacher
+
+    C_GroupLeader : manageQuestionBank
+    C_QuestionBank : contains
+    C_Exam : contains
+    C_ExamQuestion : partOf
+    C_Student : submitEssay
+    C_Teacher : gradeEssay
+    C_ExamResult : associatedWith
+    C_ExamResult : gradeEssay
+```
+
+### Explanation:
+
+- Removed the directional arrows (`-->`) in both Viewer and Controller diagrams because the Viewer and Controller do not directly interact with each other, and the arrows might cause confusion regarding data flow.
+- The relationships (e.g., `viewEssay`, `manageQuestionBank`) now appear as annotations to show the role of each class without indicating direct interaction.
+### Interaction Details:
+
+1. **Controller to View**:
+    
+    - The **Controller** processes user inputs received from the **View** and updates the **View** accordingly.
+    - It sends instructions to the **View** about what data or changes should be reflected on the user interface.
+2. **View to Controller**:
+    
+    - The **View** captures user actions (like clicks, form submissions, etc.) and passes these as requests to the **Controller** to process.
+    - This ensures that the **Controller** is responsible for business logic, while the **View** focuses on presenting information.
+
+### Updated Diagrams with Interaction:
+
+#### Viewer Diagram (with interaction arrows)
+
+```mermaid
+classDiagram
+    V_User <|-- V_Student
+    V_User <|-- V_GroupLeader
+    V_User <|-- V_Teacher
+
+    V_GroupLeader --> C_GroupLeader : interactsWith
+    V_QuestionBank --> C_QuestionBank : interactsWith
+    V_Exam --> C_Exam : interactsWith
+    V_ExamQuestion --> C_ExamQuestion : interactsWith
+    V_Student --> C_Student : interactsWith
+    V_Teacher --> C_Teacher : interactsWith
+    V_ExamResult --> C_ExamResult : interactsWith
+```
+
+#### Controller Diagram (with interaction arrows)
+
+```mermaid
+classDiagram
+    C_User <|-- C_Student
+    C_User <|-- C_GroupLeader
+    C_User <|-- C_Teacher
+
+    C_GroupLeader --> V_GroupLeader : updates
+    C_QuestionBank --> V_QuestionBank : updates
+    C_Exam --> V_Exam : updates
+    C_ExamQuestion --> V_ExamQuestion : updates
+    C_Student --> V_Student : updates
+    C_Teacher --> V_Teacher : updates
+    C_ExamResult --> V_ExamResult : updates
+```
+
+### Explanation:
+
+- **Bidirectional Interaction**: Both the Viewer and Controller have interactions (`interactsWith` or `updates`) because they depend on each other for input (View to Controller) and output (Controller to View).
+- **View Focus**: The **View** is responsible for capturing user interactions and sending them to the Controller.
+- **Controller Focus**: The **Controller** processes these inputs, applies logic, and sends updates or data back to the View to be displayed.
+
+This structure ensures the **MVC architecture** adheres to its principles of separation of concerns while allowing dynamic and responsive communication between layers. Let me know if further refinements are needed!
+
 
 In the Model-View-Controller (MVC) architecture, the **Controller** and **View** components interact directly to facilitate user interface updates and responses to user inputs. Here's how they interact:
 
