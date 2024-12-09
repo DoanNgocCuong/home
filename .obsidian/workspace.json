@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "softwar",
+                "query": "git",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "743e8c34ace83558",
+  "active": "9b6b6e1d46d09ac1",
   "lastOpenFiles": [
     "3_AI Engineering/4. DeepLearning NLP RAG/4.7_Chatbot/Memory.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. venv - Docker - k8s Cloud.md",
