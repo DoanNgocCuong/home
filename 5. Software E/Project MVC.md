@@ -416,7 +416,7 @@ Certainly! I'll continue detailing the **3.3 Detailed Class Design** section by 
 
 ---
 
-## 3.3 Detailed Class Design
+## 3.3 Detailed Class Design (UML - Attributes - Method)
 
 This section details the key classes in the system, including their attributes, methods, and relationships.
 
@@ -665,11 +665,11 @@ classDiagram
 
 ##### **Attributes**
 
-|**Attribute**|**Datatype**|**Access Modifiers**|**Description**|
-|---|---|---|---|
-|`id`|`int`|`private`|Unique identifier for the exam.|
-|`title`|`String`|`private`|Title or name of the exam.|
-|`questions`|`List<Question>`|`private`|List of questions included in the exam.|
+| **Attribute** | **Datatype**     | **Access Modifiers** | **Description**                         |
+| ------------- | ---------------- | -------------------- | --------------------------------------- |
+| `id`          | `int`            | `private`            | Unique identifier for the exam.         |
+| `title`       | `String`         | `private`            | Title or name of the exam.              |
+| `questions`   | `List<Question>` | `private`            | List of questions included in the exam. |
 
 ---
 
