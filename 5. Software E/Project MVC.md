@@ -230,6 +230,64 @@ The **Controller package** diagram represents the logic-handling layer for the c
     - **Scalability**: Adding new functionality or extending existing ones (e.g., new user types or features for teachers) is straightforward due to the structured controller hierarchy.
 
 This design ensures a robust and scalable system that adheres to **MVC principles**, making it easy to maintain, test, and extend over time.
+
+### Viewer Diagram Syntax (Mermaid)
+
+Here’s the updated **Viewer** diagram corresponding to the provided Model structure:
+
+```mermaid
+classDiagram
+    V_User <|-- V_Student
+    V_User <|-- V_GroupLeader
+    V_User <|-- V_Teacher
+
+    V_GroupLeader --> V_QuestionBank : viewQuestionBank
+    V_QuestionBank --> V_Question : contains
+    V_Exam --> V_ExamQuestion : contains
+    V_ExamQuestion --> V_Question : partOf
+    V_Student --> V_Essay : viewEssay
+    V_Teacher --> V_ExamResult : viewExamResult
+    V_ExamResult --> V_ExamResultCriteria : associatedWith
+    V_ExamResult --> V_Essay : linkedTo
+```
+
+### Comments in English:
+
+The **Viewer package** diagram illustrates the **View layer** of the application, which is responsible for displaying data and user interfaces to the end users. Each viewer class corresponds to a specific model and controller, facilitating the interaction with users. Below are the details:
+
+1. **Viewer Classes**:
+    
+    - **V_User**: Serves as the base class for user-related views, managing general UI components for users, such as login screens, user profiles, and dashboard access.
+    - **V_Student**: Handles UI components specific to students, such as essay submission forms (**viewEssay**) and pages for viewing exam results.
+    - **V_GroupLeader**: Provides views for managing question banks (**viewQuestionBank**) and related operations.
+    - **V_Teacher**: Facilitates teacher-specific interfaces, such as grading pages and exam management dashboards (**viewExamResult**).
+    - **V_QuestionBank**, **V_Question**: Displays question banks and their related questions, ensuring clear relationships for "contains" and "part of."
+    - **V_Exam**: Provides interfaces for creating, managing, and viewing exams, linking with exam questions (**V_ExamQuestion**) and results.
+    - **V_ExamResult**: Displays exam results, including linked essays (**linkedTo**) and grading criteria (**associatedWith**).
+2. **Responsibilities**:
+    
+    - Each viewer class focuses on rendering data from the **Controller** layer for the end-user.
+    - The viewers handle UI/UX concerns, ensuring that information is displayed in an accessible and user-friendly manner.
+3. **Highlights**:
+    
+    - **User-Centric Design**: Each viewer class is tailored to a specific user role or functionality, enhancing usability and clarity.
+    - **MVC Integration**: The viewers rely on the **Controller** layer to fetch and process data, ensuring a clean separation of concerns.
+    - **Scalability**: The structured hierarchy and modular approach make it straightforward to add new views or update existing ones without impacting other components.
+
+This design ensures a seamless and user-friendly experience by adhering to the **MVC architecture principles**, making the system intuitive, efficient, and scalable for future enhancements.
+
+In the Model-View-Controller (MVC) architecture, the **Controller** and **View** components interact directly to facilitate user interface updates and responses to user inputs. Here's how they interact:
+
+1. **User Interaction**: When a user interacts with the application (e.g., clicking a button or entering data), these actions are captured by the **View**.
+    
+2. **Controller Processing**: The **View** forwards these user inputs to the **Controller**. The **Controller** processes the inputs, applies the necessary business logic, and may update the **Model** accordingly.
+    
+3. **Updating the View**: After processing, the **Controller** may instruct the **View** to update the user interface to reflect changes, such as displaying new data or altering the UI state.
+    
+
+This direct interaction between the **Controller** and **View** ensures that user inputs are effectively translated into appropriate actions and visual feedback, maintaining a responsive and dynamic user experience.
+
+For a more detailed explanation of the MVC interactions, you can refer to the [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) article on Wikipedia.
 ### Hướng dẫn sử dụng:
 
 Bạn có thể sao chép đoạn mã này vào [Mermaid Live Editor](https://mermaid.live/) để kiểm tra hoặc hiển thị sơ đồ. Nếu cần thêm chỉnh sửa hoặc chi tiết khác, hãy cho mình biết!
