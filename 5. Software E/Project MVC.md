@@ -87,7 +87,7 @@ v. Nhóm trưởng . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 
 
-### 1. Sequence Diagram
+# 1. Sequence Diagram
 Tool 1: [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/)
 
 ### Một số biểu đồ trình tự
@@ -134,7 +134,9 @@ end
 
 ```
 
-### 2. Thiết kế chi tiết gói
+
+=============================================================================================================================================================================================
+# 2. Class diagram
 
 
 Dưới đây là phiên bản chi tiết biểu diễn các gói Module (M_...) với các mũi tên và quan hệ đã được sửa đúng:
