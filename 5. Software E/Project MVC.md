@@ -138,6 +138,51 @@ end
 ```
 
 
+```
+
+Dưới đây là danh sách các use case được trích xuất từ ảnh:
+
+# Use case analysis
+## Guest
+- Login
+
+## General
+- Change password
+- Forgot password 
+- Update personal information
+
+## Admin
+- Delete user
+- Add user
+- View user
+- Edit user
+- Search user
+
+## Group Leader
+- Question Bank Management
+- Create Scoring Criteria
+
+## Teacher
+- Exam management
+- View exam history
+- Exam grading
+
+## Student
+- Student search and register exam code
+- Student Submit essay
+- View Results
+- View previous essays
+
+
+C4. Sequence diagram  
+
+<kẻ một cái bảng Usecase, model (tên khác là entity classes), view (boundary classes), controller (control classes) cho từng usecase phía trên, để liệt kê các class mà usecase sẽ được sử dụng> 
+
+<sau đó chèn các sequential diagram cho từng usecase> 
+
+ 
+```
+
 =============================================================================================================================================================================================
 # 3. Class diagram
 
