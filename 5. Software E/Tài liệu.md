@@ -183,6 +183,46 @@ classDiagram
 - **M_Essay**: Represents student essays, submitted by **M_Student** via the **submitEssay** function and graded by teachers through **M_ExamResult**.
 - **M_ExamResult**: Stores exam results, including scores and related information. These results are linked to evaluation criteria (**M_ExamResultCriteria**) and essays (**M_Essay**) to support grading.
 - **M_ExamResultCriteria**: Stores grading criteria for exam results, linked to **M_ExamResult** to ensure transparency in the grading process.
+
+Below is the Mermaid syntax to represent the **Controller package** diagram as shown in the uploaded image:
+
+### Mermaid Syntax:
+
+```mermaid
+classDiagram
+    class C_user
+    class C_order
+    class C_order_product
+    class C_product
+    class C_variant
+    class C_variant_category
+    class C_variant_item
+    class C_auction
+    class C_paid_auction
+    class C_bidder
+    class C_progress
+    class C_addition
+    class C_shipping
+    class C_store
+    class C_category
+    class C_collection
+    class C_review
+```
+
+### Comments in English:
+
+The diagram illustrates the **Controller package** structure. Each controller class is responsible for managing specific functionalities related to its associated model.
+
+- **Key functionalities**:
+    
+    - These controller classes receive requests from the **View** layer, process the requests based on the predefined logic, and interact with the **Model** layer to fetch or update the necessary data.
+    - After interacting with the model, the controllers return the processed data or responses back to the view, ensuring seamless interaction between the layers.
+- **Highlights**:
+    
+    - Each controller is designed to handle isolated and specific responsibilities, such as managing users (**C_user**), orders (**C_order**), or products (**C_product**), ensuring clear separation of concerns.
+    - The structure adheres to the **MVC architecture** principles, which enhance maintainability and scalability by modularizing the system into well-defined components.
+
+This design ensures that each controller is focused on its dedicated task, minimizing dependencies and improving the overall flexibility of the system.
 ### Hướng dẫn sử dụng:
 
 Bạn có thể sao chép đoạn mã này vào [Mermaid Live Editor](https://mermaid.live/) để kiểm tra hoặc hiển thị sơ đồ. Nếu cần thêm chỉnh sửa hoặc chi tiết khác, hãy cho mình biết!
