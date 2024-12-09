@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "web",
+                "query": "D",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ef6015ff106bd15",
+  "active": "9b6b6e1d46d09ac1",
   "lastOpenFiles": [
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/2. Deploy Vercel.md",
