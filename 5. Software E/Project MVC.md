@@ -1482,3 +1482,397 @@ This detailed class design serves as a comprehensive blueprint for implementing 
     - The structured design maintains a clear separation of concerns, facilitating easier testing, maintenance, and future enhancements.
 
 By adhering to this structured and detailed design, developers can ensure consistency, maintainability, and scalability throughout the development lifecycle.
+
+
+
+
+
+----------------------
+Certainly! Including separate UML Class Diagrams for **Controller** and **View** classes, in addition to the **Model** classes, will provide a more comprehensive and organized overview of the system's architecture. This separation enhances clarity, making it easier to understand the distinct responsibilities and interactions of each component within the Model-View-Controller (MVC) framework.
+
+Below, you'll find:
+
+1. **Separate UML Class Diagrams** for **Controller** and **View** classes.
+2. **Detailed Descriptions** of each Controller and View class, including their attributes and methods.
+
+---
+
+```
+3. Controller class 
+<chèn các UML của controller vào nữa, phía trên chỉ mới model thôi> 
+4. View class 
+<chèn các UML của view vào nữa, phía trên chỉ mới model thôi>
+```
+
+## 4. Interaction Analysis
+
+### 4.1 Use Case Mapping
+
+_(This section remains unchanged and maps each Use Case to the corresponding Model, View, and Controller classes.)_
+
+---
+
+### 4.2 Comprehensive Class Diagrams
+
+To provide a clear and organized view of the system's architecture, we present separate UML Class Diagrams for **Model**, **Controller**, and **View** classes.
+
+#### **4.2.1 Model Classes**
+
+_(Refer to the previously provided Model Classes diagram.)_
+
+#### **4.2.2 Controller Classes**
+
+Below is the UML Class Diagram for all **Controller** classes, detailing their relationships and interactions with **Model** classes.
+
+```mermaid
+classDiagram
+    %% Controller Classes
+    class C_User {
+        +handleLogin(username: String, password: String): void
+        +handleChangePassword(oldPassword: String, newPassword: String): void
+        +handleForgotPassword(email: String): void
+        +handleUpdatePersonalInfo(user: User): void
+        +handleDeleteUser(id: int): void
+        +handleAddUser(user: User): void
+        +handleViewUser(): void
+        +handleEditUser(user: User): void
+        +handleSearchUser(criteria: String): void
+    }
+
+    class C_GroupLeader {
+        +handleAddQuestion(question: Question): void
+        +handleDeleteQuestion(id: int): void
+    }
+
+    class C_QuestionBank {
+        +handleAddQuestion(question: Question): void
+        +handleDeleteQuestion(id: int): void
+    }
+
+    class C_Criteria {
+        +handleCreateCriteria(criteria: Criteria, details: List<CriteriaDetail>): void
+    }
+
+    class C_Teacher {
+        +handleCreateExam(exam: Exam): void
+        +handleGradeEssay(essay: Essay, score: float, feedback: String): void
+    }
+
+    class C_Exam {
+        +handleCreateExam(exam: Exam): void
+        +handleRetrieveExamByCode(code: String): Exam
+    }
+
+    class C_Essay {
+        +handleSubmitEssay(essay: Essay): void
+        +handleRetrieveEssaysForGrading(): List<Essay>
+    }
+
+    class C_ExamResult {
+        +handleRetrieveExamResults(student: Student): List<ExamResult>
+        +handleSaveExamResult(result: ExamResult): void
+    }
+
+    class C_Student {
+        +handleRegisterExam(exam: Exam, student: Student): void
+    }
+
+    %% Relationships
+    C_GroupLeader --> C_QuestionBank : interactsWith
+    C_Teacher --> C_Exam : manages
+    C_Essay --> C_ExamResult : interactsWith
+    C_Student --> C_Exam : interactsWith
+```
+
+#### **4.2.3 View Classes**
+
+Below is the UML Class Diagram for all **View** classes, detailing their interactions and responsibilities within the system.
+
+```mermaid
+classDiagram
+    %% View Classes
+    class V_User {
+        +displayLogin(): void
+        +displayChangePassword(): void
+        +displayForgotPassword(): void
+        +displayUpdatePersonalInfo(): void
+        +displayUserList(users: List<User>): void
+        +displayUserDetails(user: User): void
+        +displaySuccessMessage(message: String): void
+        +displayErrorMessage(message: String): void
+    }
+
+    class V_QuestionBank {
+        +displayQuestionBank(): void
+        +displayAddQuestionForm(): void
+        +displaySuccessMessage(message: String): void
+    }
+
+    class V_Criteria {
+        +displayCreateCriteriaForm(): void
+        +displaySuccessMessage(message: String): void
+    }
+
+    class V_Exam {
+        +displayExamManagement(): void
+        +displaySuccessMessage(message: String): void
+    }
+
+    class V_ExamHistory {
+        +displayExamHistory(examResults: List<ExamResult>): void
+    }
+
+    class V_GradeEssay {
+        +displayEssaysToGrade(essays: List<Essay>): void
+        +displaySuccessMessage(message: String): void
+    }
+
+    class V_StudentExamRegistration {
+        +displayExamDetails(exam: Exam): void
+        +displaySuccessMessage(message: String): void
+    }
+
+    class V_EssaySubmission {
+        +displayEssaySubmissionForm(): void
+        +displaySuccessMessage(message: String): void
+    }
+
+    class V_ExamResults {
+        +displayExamResults(results: List<ExamResult>): void
+    }
+
+    class V_PreviousEssays {
+        +displayPreviousEssays(essays: List<Essay>): void
+    }
+```
+
+---
+
+### 4.3 Detailed Class Descriptions
+
+#### **4.3.1 Controller (Control) Classes**
+
+##### **Class: C_User**
+
+Handles all user-related operations such as login, password changes, and user management.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`handleLogin`|`void`|`username: String, password: String`|`public`|Handles user login requests.|
+|`handleChangePassword`|`void`|`oldPassword: String, newPassword: String`|`public`|Handles password change requests.|
+|`handleForgotPassword`|`void`|`email: String`|`public`|Handles password recovery requests.|
+|`handleUpdatePersonalInfo`|`void`|`user: User`|`public`|Handles updating of personal information.|
+|`handleDeleteUser`|`void`|`id: int`|`public`|Handles deletion of a user.|
+|`handleAddUser`|`void`|`user: User`|`public`|Handles addition of a new user.|
+|`handleViewUser`|`void`|`-`|`public`|Handles retrieval and viewing of users.|
+|`handleEditUser`|`void`|`user: User`|`public`|Handles editing of user information.|
+|`handleSearchUser`|`void`|`criteria: String`|`public`|Handles searching of users based on criteria.|
+
+##### **Class: C_GroupLeader**
+
+Handles operations specific to the Group Leader, such as managing the question bank.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`handleAddQuestion`|`void`|`question: Question`|`public`|Handles adding a new question to the bank.|
+|`handleDeleteQuestion`|`void`|`id: int`|`public`|Handles deletion of a question from the bank.|
+
+##### **Class: C_QuestionBank**
+
+Manages operations related to the question bank.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`handleAddQuestion`|`void`|`question: Question`|`public`|Handles adding a new question to the bank.|
+|`handleDeleteQuestion`|`void`|`id: int`|`public`|Handles deletion of a question from the bank.|
+
+##### **Class: C_Criteria**
+
+Handles creation of scoring criteria.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`handleCreateCriteria`|`void`|`criteria: Criteria, details: List<CriteriaDetail>`|`public`|Handles creation of new scoring criteria and details.|
+
+##### **Class: C_Teacher**
+
+Handles operations specific to Teachers, such as creating exams and grading essays.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`handleCreateExam`|`void`|`exam: Exam`|`public`|Handles creation of a new exam.|
+|`handleGradeEssay`|`void`|`essay: Essay, score: float, feedback: String`|`public`|Handles grading of submitted essays.|
+
+##### **Class: C_Exam**
+
+Handles operations related to Exams.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`handleCreateExam`|`void`|`exam: Exam`|`public`|Handles creation of a new exam.|
+|`handleRetrieveExamByCode`|`Exam`|`code: String`|`public`|Retrieves exam information based on exam code.|
+
+##### **Class: C_Essay**
+
+Handles operations related to Essays, such as submission and retrieval for grading.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`handleSubmitEssay`|`void`|`essay: Essay`|`public`|Handles submission of an essay by a student.|
+|`handleRetrieveEssaysForGrading`|`List<Essay>`|`-`|`public`|Retrieves a list of essays that need grading.|
+
+##### **Class: C_ExamResult**
+
+Handles operations related to Exam Results, such as retrieval and saving after grading.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`handleRetrieveExamResults`|`List<ExamResult>`|`student: Student`|`public`|Retrieves exam results for a specific student.|
+|`handleSaveExamResult`|`void`|`result: ExamResult`|`public`|Saves the exam result after grading.|
+
+##### **Class: C_Student**
+
+Handles operations specific to Students, such as registering for exams.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`handleRegisterExam`|`void`|`exam: Exam, student: Student`|`public`|Handles registration of a student for an exam.|
+
+---
+
+#### **4.3.2 View (Boundary) Classes**
+
+##### **Class: V_User**
+
+Handles the user interface related to user functionalities such as login, password changes, and user management.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`displayLogin`|`void`|`-`|`public`|Displays the login interface.|
+|`displayChangePassword`|`void`|`-`|`public`|Displays the change password form.|
+|`displayForgotPassword`|`void`|`-`|`public`|Displays the forgot password form.|
+|`displayUpdatePersonalInfo`|`void`|`-`|`public`|Displays the update personal information form.|
+|`displayUserList`|`void`|`users: List<User>`|`public`|Displays a list of users.|
+|`displayUserDetails`|`void`|`user: User`|`public`|Displays details of a specific user.|
+|`displaySuccessMessage`|`void`|`message: String`|`public`|Displays a success message.|
+|`displayErrorMessage`|`void`|`message: String`|`public`|Displays an error message.|
+
+##### **Class: V_QuestionBank**
+
+Handles the user interface for managing the question bank.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`displayQuestionBank`|`void`|`-`|`public`|Displays the question bank interface.|
+|`displayAddQuestionForm`|`void`|`-`|`public`|Displays the form to add a new question.|
+|`displaySuccessMessage`|`void`|`message: String`|`public`|Displays a success message.|
+
+##### **Class: V_Criteria**
+
+Handles the user interface for creating scoring criteria.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`displayCreateCriteriaForm`|`void`|`-`|`public`|Displays the form to create scoring criteria.|
+|`displaySuccessMessage`|`void`|`message: String`|`public`|Displays a success message.|
+
+##### **Class: V_Exam**
+
+Handles the user interface for exam management.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`displayExamManagement`|`void`|`-`|`public`|Displays the exam management interface.|
+|`displaySuccessMessage`|`void`|`message: String`|`public`|Displays a success message.|
+
+##### **Class: V_ExamHistory**
+
+Handles the user interface for viewing exam history.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`displayExamHistory`|`void`|`examResults: List<ExamResult>`|`public`|Displays the exam history for a teacher.|
+
+##### **Class: V_GradeEssay**
+
+Handles the user interface for grading essays.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`displayEssaysToGrade`|`void`|`essays: List<Essay>`|`public`|Displays a list of essays to grade.|
+|`displaySuccessMessage`|`void`|`message: String`|`public`|Displays a success message.|
+
+##### **Class: V_StudentExamRegistration**
+
+Handles the user interface for students to search and register for exams using exam codes.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`displayExamDetails`|`void`|`exam: Exam`|`public`|Displays details of the exam for registration.|
+|`displaySuccessMessage`|`void`|`message: String`|`public`|Displays a success message.|
+
+##### **Class: V_EssaySubmission**
+
+Handles the user interface for students to submit essays.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`displayEssaySubmissionForm`|`void`|`-`|`public`|Displays the essay submission form.|
+|`displaySuccessMessage`|`void`|`message: String`|`public`|Displays a success message.|
+
+##### **Class: V_ExamResults**
+
+Handles the user interface for students to view their exam results.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`displayExamResults`|`void`|`results: List<ExamResult>`|`public`|Displays the exam results for a student.|
+
+##### **Class: V_PreviousEssays**
+
+Handles the user interface for students to view their previously submitted essays.
+
+|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
+|---|---|---|---|---|
+|`displayPreviousEssays`|`void`|`essays: List<Essay>`|`public`|Displays a list of previously submitted essays.|
+
+---
+
+### 4.4 Sequence Diagrams for Each Use Case
+
+_(This section remains unchanged and includes Sequence Diagrams for each Use Case.)_
+
+---
+
+### 4.5 Comprehensive Class Descriptions
+
+_(This section includes detailed descriptions of Model, View, and Controller classes as previously provided.)_
+
+---
+
+## 4.6 Summary
+
+The **Interaction Analysis** section now provides a detailed and organized overview of how each Use Case interacts with the system's **Model**, **View**, and **Controller** classes. By separating the UML Class Diagrams for each category, the system's architecture becomes clearer, facilitating better understanding, implementation, and maintenance.
+
+**Key Enhancements:**
+
+1. **Separate UML Diagrams:**
+    
+    - **Controller Classes Diagram:** Illustrates how Controller classes handle user input, interact with Model classes, and update the View.
+    - **View Classes Diagram:** Shows the structure and responsibilities of View classes in presenting data to users and capturing user interactions.
+    - **Model Classes Diagram:** Depicts the core data structures and business logic of the application.
+2. **Detailed Class Descriptions:**
+    
+    - Provides comprehensive information on each class's attributes and methods, ensuring clarity in their roles and functionalities within the system.
+3. **Clear Separation of Concerns:**
+    
+    - Adheres to the MVC architecture by distinctly separating the responsibilities of Model, View, and Controller classes, promoting scalability and maintainability.
+4. **Enhanced Clarity and Organization:**
+    
+    - The structured approach with separate diagrams and detailed descriptions makes the system's design more accessible to developers and stakeholders, facilitating smoother development and troubleshooting processes.
+
+By following this structured **Interaction Analysis**, the system's design aligns seamlessly with the functional requirements, ensuring an efficient development process and a robust, user-friendly application.
+
+---
+
+If you require further details, additional Use Cases to be analyzed, or modifications to the diagrams and mappings, please let me know!
