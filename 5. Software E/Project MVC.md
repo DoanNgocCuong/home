@@ -1780,10 +1780,11 @@ Handles the user interface for creating scoring criteria.
 
 Handles the user interface for exam management.
 
-|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
-|---|---|---|---|---|
-|`displayExamManagement`|`void`|`-`|`public`|Displays the exam management interface.|
-|`displaySuccessMessage`|`void`|`message: String`|`public`|Displays a success message.|
+| **Method**              | **Return Type** | **Arguments**     | **Access Modifiers** | **Description**                         |
+| ----------------------- | --------------- | ----------------- | -------------------- | --------------------------------------- |
+| `displayExamManagement` | `void`          | `-`               | `public`             | Displays the exam management interface. |
+| `displaySuccessMessage` | `void`          | `message: String` | `public`             | Displays a success message.             |
+|                         |                 |                   |                      |                                         |
 
 ##### **Class: V_ExamHistory**
 
