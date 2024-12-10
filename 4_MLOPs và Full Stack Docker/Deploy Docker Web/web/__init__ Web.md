@@ -173,5 +173,47 @@ logger = logging.getLogger(__name__)
 ```
 
 
+---------------
 
+Trong frontend/Dockerfile tại sao vẫn để 103:...:5000 mà vẫn call được (mặc dù mình hiểu nó là call nội bộ trong docker vì nó sẽ auto được link ra ngoài bằng 25037). 
+Có thể là 103: ... 5000 chưa có ai dùng ?? maybe ?? 
+
+```
+# Development stage
+FROM node:18-alpine AS development
+
+WORKDIR /app
+
+COPY package*.json ./
+RUN npm install
+
+COPY . .
+
+# Create environment files
+RUN echo "REACT_APP_API_URL=http://localhost:5000" > .env.development
+
+EXPOSE 3000
+
+CMD ["npm", "start"]
+
+# Production stage
+FROM node:18-alpine AS production
+
+WORKDIR /app
+
+COPY package*.json ./
+RUN npm install --production
+
+COPY . .
+
+# Create production env file
+RUN echo "REACT_APP_API_URL=http://103.253.20.13:5000" > .env.production
+# Tại sao ở đây để 103.253.20.13:5000 mà ko phải 103.253.20.13:25037?
+
+RUN npm run build
+
+EXPOSE 3000
+
+CMD ["npm", "start"] 
+```
 
