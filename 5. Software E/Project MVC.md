@@ -1746,16 +1746,16 @@ Handles operations specific to Students, such as registering for exams.
 
 Handles the user interface related to user functionalities such as login, password changes, and user management.
 
-|**Method**|**Return Type**|**Arguments**|**Access Modifiers**|**Description**|
-|---|---|---|---|---|
-|`displayLogin`|`void`|`-`|`public`|Displays the login interface.|
-|`displayChangePassword`|`void`|`-`|`public`|Displays the change password form.|
-|`displayForgotPassword`|`void`|`-`|`public`|Displays the forgot password form.|
-|`displayUpdatePersonalInfo`|`void`|`-`|`public`|Displays the update personal information form.|
-|`displayUserList`|`void`|`users: List<User>`|`public`|Displays a list of users.|
-|`displayUserDetails`|`void`|`user: User`|`public`|Displays details of a specific user.|
-|`displaySuccessMessage`|`void`|`message: String`|`public`|Displays a success message.|
-|`displayErrorMessage`|`void`|`message: String`|`public`|Displays an error message.|
+| **Method**                  | **Return Type** | **Arguments**       | **Access Modifiers** | **Description**                                |
+| --------------------------- | --------------- | ------------------- | -------------------- | ---------------------------------------------- |
+| `displayLogin`              | `void`          | `-`                 | `public`             | Displays the login interface.                  |
+| `displayChangePassword`     | `void`          | `-`                 | `public`             | Displays the change password form.             |
+| `displayForgotPassword`     | `void`          | `-`                 | `public`             | Displays the forgot password form.             |
+| `displayUpdatePersonalInfo` | `void`          | `-`                 | `public`             | Displays the update personal information form. |
+| `displayUserList`           | `void`          | `users: List<User>` | `public`             | Displays a list of users.                      |
+| `displayUserDetails`        | `void`          | `user: User`        | `public`             | Displays details of a specific user.           |
+| `displaySuccessMessage`     | `void`          | `message: String`   | `public`             | Displays a success message.                    |
+| `displayErrorMessage`       | `void`          | `message: String`   | `public`             | Displays an error message.                     |
 
 ##### **Class: V_QuestionBank**
 
