@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8_Project/dify/Module2_Database/2. Database của Rating ở meta data.md",
+                "file": "8_Project/dify/Module2_Database/__init__ Project Dify Module2_Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Database của Rating ở meta data"
+              "title": "__init__ Project Dify Module2_Database"
             }
           }
         ]
@@ -177,7 +177,7 @@
   "lastOpenFiles": [
     "8_Project/dify/Module2_Database/1. Phân tích kỹ Requirements.md",
     "8_Project/dify/Module2_Database/2. Database của Rating ở meta data.md",
-    "8_Project/dify/Module2_Database/Untitled.md",
+    "8_Project/dify/Module2_Database/3. SSH là gì.md",
     "8_Project/dify/Untitled.md",
     "assert/Pasted image 20241210154001.png",
     "assert/Pasted image 20241210153940.png",
