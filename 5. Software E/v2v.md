@@ -61,16 +61,71 @@ classDiagram
 ```
 
 ```mermaid
-    User <|-- Student
-    User <|-- GroupLeader
-    User <|-- Teacher
+classDiagram
+    userController <|-- studentController
+    userController <|-- groupLeaderController
+    userController <|-- teacherController
 
-    GroupLeader --> QuestionBank : manageQuestionBank
-    QuestionBank --> Question : contains
-    Exam --> ExamQuestion : contains
-    ExamQuestion --> Question : partOf
-    Student --> Essay : submitEssay
-    Teacher --> ExamResult : gradeEssay
-    ExamResult --> ExamResultCriteria : associatedWith
-    ExamResult --> Essay : gradeEssay
+    groupLeaderController : manageQuestionBank
+    questionBank : contains
+    exam : contains
+    examQuestion : partOf
+    studentController : submitEssay
+    teacherController : gradeEssay
+    examResult : associatedWith
+    examResult : gradeEssay
+
+```
+
+
+```mermaid
+classDiagram
+
+    class attendexam {
+
+        Provides UI for attending exams
+
+    }
+
+    class autograde {
+
+        Interface for automatic essay grading
+
+    }
+
+    class changepassword {
+
+        Password change functionality
+
+    }
+
+    class createquestion {
+
+        View for creating questions
+
+    }
+
+    class createtest {
+
+        Test creation interface
+
+    }
+
+    class login {
+
+        Login interface for users
+
+    }
+
+    class login_invalid {
+
+        Displays error for invalid login
+
+    }
+
+    class manualmark {
+
+        Interface for manual grading
+
+    }
 ```

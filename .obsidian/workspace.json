@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Software E/v2.md",
+                "file": "5. Software E/v2v.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "v2"
+              "title": "v2v"
             }
           }
         ]
@@ -175,10 +175,10 @@
   },
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
-    "5. Software E/Project MVC.md",
-    "5. Software E/xong xóa.md",
-    "5. Software E/Tool vẽ Software.md",
     "5. Software E/v2.md",
+    "5. Software E/v2v.md",
+    "5. Software E/Project MVC.md",
+    "5. Software E/Tool vẽ Software.md",
     "8_Project/dify/Module2_Database/__init__ Project Dify Module2_Database.md",
     "8_Project/dify/Module2_Database/1. Phân tích kỹ Requirements.md",
     "8_Project/dify/Module2_Database/2. Database của Rating ở meta data.md",
