@@ -59,3 +59,18 @@ classDiagram
     studentController --> examController : interactsWith
 
 ```
+
+```mermaid
+    User <|-- Student
+    User <|-- GroupLeader
+    User <|-- Teacher
+
+    GroupLeader --> QuestionBank : manageQuestionBank
+    QuestionBank --> Question : contains
+    Exam --> ExamQuestion : contains
+    ExamQuestion --> Question : partOf
+    Student --> Essay : submitEssay
+    Teacher --> ExamResult : gradeEssay
+    ExamResult --> ExamResultCriteria : associatedWith
+    ExamResult --> Essay : gradeEssay
+```
