@@ -228,3 +228,5 @@ RUN echo "REACT_APP_API_URL=http://103.253.20.13:5000" > .env.production
 # => và khi truy cập vào frontend, mình phải dùng port 25037 để truy cập vào backend
 # nên thật ra dòng này vô nghĩa 
 ```
+
+
