@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Software E/Project MVC.md",
+                "file": "5. Software E/xong xóa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project MVC"
+              "title": "xong xóa"
             }
           }
         ]
@@ -73,12 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 379.5
   },
   "right": {
     "id": "d5f65e0d51394045",
@@ -161,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +175,8 @@
   },
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
+    "5. Software E/Project MVC.md",
+    "5. Software E/xong xóa.md",
     "8_Project/dify/Module2_Database/__init__ Project Dify Module2_Database.md",
     "8_Project/dify/Module2_Database/1. Phân tích kỹ Requirements.md",
     "8_Project/dify/Module2_Database/2. Database của Rating ở meta data.md",
@@ -188,7 +189,6 @@
     "assert/Pasted image 20241210153556.png",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
     "assert/Pasted image 20241210143353.png",
-    "5. Software E/Project MVC.md",
     "5. Software E/v2.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/5. Ngôn ngữ lập trình.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/1 số tool Docker.md",
