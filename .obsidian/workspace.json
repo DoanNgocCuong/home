@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 200
   },
   "right": {
     "id": "d5f65e0d51394045",
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,6 +176,7 @@
   },
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
+    "assert/Pasted image 20241211122847.png",
     "assert/Pasted image 20241211121417.png",
     "assert/Pasted image 20241211121104.png",
     "5. Software E/v2v.md",
@@ -223,7 +225,6 @@
     "assert/Pasted image 20241202180522.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "assert/Pasted image 20241127113028.png",
     "Untitled 3.canvas",
     "3_AI Engineering/4. DeepLearning/4.2 RAG/RAG/RAG 1/Search/Untitled.canvas"
   ]

@@ -12,3 +12,6 @@ Viết:
 
 
 ### Nói 2 
+- It is (can be) sutiable/interesting/good/helpful/useful... I love it so much. 
+
+![[Pasted image 20241211122847.png]]
