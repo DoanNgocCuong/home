@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Software E/v2v.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "v2v"
+              "title": "6. Server Deploy"
             }
           }
         ]
@@ -175,10 +175,11 @@
   },
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
+    "5. Software E/v2v.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
     "5. Software E/Project MVC.md",
     "5. Software E/Tool vẽ Software.md",
     "5. Software E/v2.md",
-    "5. Software E/v2v.md",
     "8_Project/dify/Module2_Database/__init__ Project Dify Module2_Database.md",
     "8_Project/dify/Module2_Database/1. Phân tích kỹ Requirements.md",
     "8_Project/dify/Module2_Database/2. Database của Rating ở meta data.md",
@@ -215,7 +216,6 @@
     "4.. Data Science/2. Big Data/Big Data.md",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/2. Deploy Vercel.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/__init__ Deploy Docker Web.md",
     "assert/Pasted image 20241209001709.png",
     "assert/Pasted image 20241208160143.png",
     "Untitled 2.canvas",
