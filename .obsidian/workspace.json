@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "server",
+                "query": "serverData",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87a1a8025f2c1bb1",
+  "active": "9b6b6e1d46d09ac1",
   "lastOpenFiles": [
     "4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
     "9_thi VSTEP/1_Cấu trúc.md",
