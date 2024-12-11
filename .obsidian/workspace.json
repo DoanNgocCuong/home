@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
+                "file": "4.. Data Science/2. Big Data/Link thêm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Server Deploy"
+              "title": "Link thêm"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "serverData",
+                "query": "Data Science",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,8 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b6b6e1d46d09ac1",
+  "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
+    "4.. Data Science/2. Big Data/1. Project - Dự án thực.md",
+    "4.. Data Science/2. Big Data/Link thêm.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
     "4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
     "9_thi VSTEP/1_Cấu trúc.md",
     "assert/Pasted image 20241211125516.png",
@@ -186,7 +188,6 @@
     "5. Software E/v2v.md",
     "9_thi VSTEP",
     "5. Software E/v2.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
     "5. Software E/Project MVC.md",
     "5. Software E/Tool vẽ Software.md",
     "8_Project/dify/Module2_Database/__init__ Project Dify Module2_Database.md",
@@ -220,8 +221,6 @@
     "8_Project/4_IELTSAppContent/note_deploy1.2_/note2.2.2_week_thenBug_columnInGenerateStory.ipynb",
     "4.. Data Science/1. Database/1. SQL.md",
     "8_Project/dify/Module1_ChatbotEmbed/HowRun.md",
-    "8_Project/dify/Module1_ChatbotEmbed/11_TurnOffSuggestion/Turn off suggestion into chat node.md",
-    "4.. Data Science/2. Big Data/Big Data.md",
     "assert/Pasted image 20241209001709.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
