@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9_thi VSTEP/1_Cấu trúc.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1_Cấu trúc"
+              "title": "6. Server Deploy"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "software",
+                "query": "server",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,12 +176,13 @@
   },
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
+    "4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
+    "9_thi VSTEP/1_Cấu trúc.md",
     "assert/Pasted image 20241211125516.png",
     "assert/Pasted image 20241211122847.png",
     "assert/Pasted image 20241211121417.png",
     "assert/Pasted image 20241211121104.png",
     "5. Software E/v2v.md",
-    "9_thi VSTEP/1_Cấu trúc.md",
     "9_thi VSTEP",
     "5. Software E/v2.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
@@ -221,7 +222,6 @@
     "8_Project/dify/Module1_ChatbotEmbed/11_TurnOffSuggestion/Turn off suggestion into chat node.md",
     "4.. Data Science/2. Big Data/Big Data.md",
     "assert/Pasted image 20241209001709.png",
-    "assert/Pasted image 20241208160143.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
