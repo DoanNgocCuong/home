@@ -29,3 +29,6 @@ Viết:
 	8. Besides, I don't like ... because it is ...
 
 9. In conclusion, If I were in this case. I would choose ... because I believe that ... is the best. 
+
+--------
+[Speaking Vstep Part 2 _ Solution Discussion (1 to 5)](https://www.youtube.com/playlist?list=PL3XSOaYozHNPhnI5GGRZWbJ6RVTCjd5jZ)
