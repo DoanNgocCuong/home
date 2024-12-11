@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Software E/v2v.md",
+                "file": "9_thi VSTEP/1_Cấu trúc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "v2v"
+              "title": "1_Cấu trúc"
             }
           }
         ]
@@ -175,8 +175,10 @@
   },
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
-    "5. Software E/v2.md",
     "5. Software E/v2v.md",
+    "9_thi VSTEP/1_Cấu trúc.md",
+    "9_thi VSTEP",
+    "5. Software E/v2.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
     "5. Software E/Project MVC.md",
     "5. Software E/Tool vẽ Software.md",
@@ -209,13 +211,11 @@
     "8_Project/4_IELTSAppContent/note_deploy1.2_/note2.3_.ipynb",
     "8_Project/4_IELTSAppContent/note_deploy1.2_/note2.2_updateReact.ipynb",
     "8_Project/4_IELTSAppContent/note_deploy1.2_/note2.2.2_week_thenBug_columnInGenerateStory.ipynb",
-    "8_Project/4_IELTSAppContent/note_deploy1.2_/note2.2.2_update_week.ipynb",
     "4.. Data Science/1. Database/1. SQL.md",
     "8_Project/dify/Module1_ChatbotEmbed/HowRun.md",
     "8_Project/dify/Module1_ChatbotEmbed/11_TurnOffSuggestion/Turn off suggestion into chat node.md",
     "4.. Data Science/2. Big Data/Big Data.md",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/2. Deploy Vercel.md",
     "assert/Pasted image 20241209001709.png",
     "assert/Pasted image 20241208160143.png",
     "Untitled 2.canvas",
