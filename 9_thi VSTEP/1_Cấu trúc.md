@@ -9,3 +9,6 @@ Nghe 45 min - 10 điểm - 35 Qs.
 
 Viết: 
 ![[Pasted image 20241211121417.png]]
+
+
+### Nói 2 
