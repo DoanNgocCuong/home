@@ -1,3 +1,9 @@
+- Link 1: https://youtube.com/playlist?list=PLQyIFBsiXn10vk7uxYq8ZkPu0dltmWBX_&feature=shared
+- Link 2: (part 2 speaking) https://youtu.be/SQoTTyA1sSE?feature=shared
+
+------------
+
+
 
 ![[Pasted image 20241211121104.png]]
 
@@ -29,6 +35,8 @@ Viết:
 	8. Besides, I don't like ... because it is ...
 
 9. In conclusion, If I were in this case. I would choose ... because I believe that ... is the best. 
+
+![[Pasted image 20241211125516.png]]
 
 --------
 [Speaking Vstep Part 2 _ Solution Discussion (1 to 5)](https://www.youtube.com/playlist?list=PL3XSOaYozHNPhnI5GGRZWbJ6RVTCjd5jZ)
