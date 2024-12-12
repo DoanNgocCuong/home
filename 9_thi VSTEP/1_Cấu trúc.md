@@ -40,3 +40,8 @@ Viết:
 
 --------
 [Speaking Vstep Part 2 _ Solution Discussion (1 to 5)](https://www.youtube.com/playlist?list=PL3XSOaYozHNPhnI5GGRZWbJ6RVTCjd5jZ)
+
+
+### Speaking Part 3 
+
+![[Pasted image 20241212093314.png]]
