@@ -45,3 +45,10 @@ Viết:
 ### Speaking Part 3 
 
 ![[Pasted image 20241212093314.png]]
+
+I would like to tell the topic: Reading habit should be encouraged among teenagers. 
+In this topic, I will support my opinion with examples and reasons. 
+- Firstly< I aggree that reading incresases knowledge. It is useful for teenagers to develop theirself
+- Secondly, I support that reading book help we reduces stress. Because such as cartoon book is very funny. 
+- Thirdly, I think that reading book also help ...
+- Finally, my own ideas, there are many useful when we reading book such as reading habit shoulld be en

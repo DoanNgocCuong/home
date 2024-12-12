@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9_report/1. Đánh Words.md",
+                "file": "9_thi VSTEP/1_Cấu trúc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Đánh Words"
+              "title": "1_Cấu trúc"
             }
           }
         ]
@@ -176,9 +176,9 @@
   },
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
+    "9_report/1. Đánh Words.md",
     "9_thi VSTEP/1_Cấu trúc.md",
     "assert/Pasted image 20241212093314.png",
-    "9_report/1. Đánh Words.md",
     "4.. Data Science/2. Big Data/Link thêm.md",
     "9_report",
     "8_Project/6_ChatbotRAG/Note4_Retrieval.ipynb",
