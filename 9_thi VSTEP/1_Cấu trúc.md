@@ -58,4 +58,9 @@ In this topic, I will support my opinion with examples and reasons.
 -  bad, week, disadvantages, dislike, unhappy, drawback, negative. cause, issue, problem. ----- It is not ... 
 
 Example: 
-- 
+- I would like to tell the topic : It is benificial to have pets at home. 
+- In this topic, I will support my opinion with examples and reasons. 
+	- Firstly I agrees that have pets at home that close faithful friends. Because, we can play with them, that help we chilling after hard work. 
+	- Secondly I agress that have pets at home that help stress reduction. ....It mine that, play with them very happy and chill. 
+	- Thridly, I think have pets at home help we increase ressponsibility. It is reason, when take care of our pets, as such as when we take care of friends and child. 
+	- Finally, my own ideas, there are many useful
