@@ -63,4 +63,5 @@ Example:
 	- Firstly I agrees that have pets at home that close faithful friends. Because, we can play with them, that help we chilling after hard work. 
 	- Secondly I agress that have pets at home that help stress reduction. ....It mine that, play with them very happy and chill. 
 	- Thridly, I think have pets at home help we increase ressponsibility. It is reason, when take care of our pets, as such as when we take care of friends and child. 
-	- Finally, my own ideas, there are many useful
+	- Finally, my own ideas, there are many useful when we have pets at home. 
+	- 
