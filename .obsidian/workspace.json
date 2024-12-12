@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9_thi VSTEP/1_Cấu trúc.md",
+                "file": "9_report/1. Đánh Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1_Cấu trúc"
+              "title": "1. Đánh Words"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
+    "9_thi VSTEP/1_Cấu trúc.md",
     "assert/Pasted image 20241212093314.png",
     "9_report/1. Đánh Words.md",
     "4.. Data Science/2. Big Data/Link thêm.md",
@@ -191,7 +192,6 @@
     "4.. Data Science/2. Big Data/1. Project - Dự án thực.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
     "4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
-    "9_thi VSTEP/1_Cấu trúc.md",
     "assert/Pasted image 20241211125516.png",
     "assert/Pasted image 20241211122847.png",
     "assert/Pasted image 20241211121417.png",
@@ -221,7 +221,6 @@
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/1. Các chiến lược tối ưu.md",
     "4_MLOPs và Full Stack Docker/1. Git/3. commit, deploy, release Note.md",
     "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
-    "assert/Pasted image 20241209001709.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
