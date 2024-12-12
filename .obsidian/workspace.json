@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. Khi cài thư viện thì vào .venv hay docker.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Khi cài thư viện thì vào .venv hay docker"
+              "title": "6. Server Deploy"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/Untitled.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. Khi cài thư viện thì vào .venv hay docker.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/Untitled.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. venv - Docker - k8s Cloud.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
     "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
