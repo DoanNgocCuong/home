@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_English/1_thi VSTEP/1_Cấu trúc.md",
+                "file": "0_English/1_thi VSTEP/Link xem thêm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1_Cấu trúc"
+              "title": "Link xem thêm"
             }
           }
         ]
@@ -176,10 +176,11 @@
   },
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
+    "0_English/1_thi VSTEP/1_Cấu trúc.md",
+    "0_English/1_thi VSTEP/Link xem thêm.md",
     "assert/Pasted image 20241214120823.png",
     "0_English/1_thi VSTEP/2_Speaking - Part 2 - Best Practices.md",
     "2024-12-14.md",
-    "0_English/1_thi VSTEP/1_Cấu trúc.md",
     "0_English/0. Chiến thuật.md",
     "4.. Data Science/2. Big Data/1. Project - Dự án thực.md",
     "4.. Data Science/2. Big Data/1.2 Airflow - Kafka - Spark.md",
@@ -221,7 +222,6 @@
     "assert/Pasted image 20241210153940.png",
     "assert/Pasted image 20241210153601.png",
     "assert/Pasted image 20241210153556.png",
-    "assert/Pasted image 20241210143353.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
