@@ -78,6 +78,11 @@ Example:
       - It is not (can not be) adj 
       - What are the disadvantages of watching TV?
 
+#### Yes/No 
+- tobe: Are you nice> 
+- Have: Have you ever learned E? have ... it is good/...
+- Can/will/would... you? Would you like to drink tea? I would like ... I love it so much/it is ... 
+- do ... do you. Do you like to sing? 
 ### Từ để hỏi: 
 
 #### 1. What??? 
@@ -92,3 +97,15 @@ Example:
 	- There are some N that I ... it is good. 
 Example: What kind of books do you liike to read? 
 	There are some books that I like to read, such as cartoons, history, ... It is 
+
+ ### 4. When 
+ When do you visit your parents? 
+- I visit my parents in spring/at 10 pm 
+## 5. How? 
+- How do you get to HLB. I get to HLB by ...
+- How many/far/long/much .... ? 
+How many hours do you spending learning E? 
+there are 2 hours that I spending learning E
+
+## 6. Which? 
+- Which do you ... ? A or B 
