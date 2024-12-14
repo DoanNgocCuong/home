@@ -109,3 +109,9 @@ there are 2 hours that I spending learning E
 
 ## 6. Which? 
 - Which do you ... ? A or B 
+Which do you like to eat, meat or fish? 
+	- the fish that I like to eat. It is .... 
+	- I like to eat meat, that the meat so much very delisource, ... There aê some things that I like to eat. It is ... 
+
+
+
