@@ -140,3 +140,6 @@ B2C1: Life in the city will improve if we can solve the problems of pollution, t
 
 ![[Pasted image 20241214162800.png]]
 [https://docs.google.com/.../1BcktPsUNYtON1iwPKNNn.../edit...](https://docs.google.com/document/d/1BcktPsUNYtON1iwPKNNnjSHU3TGoWMZG9WpR6dnMyX0/edit?fbclid=IwZXh0bgNhZW0CMTAAAR2Vf5L6AFTg1ya5l4L8GMzqZj8D3uVVXiWCkUYJ6fjw_dIbzjeS-KZa3bI_aem_Ey7DA3Z_ffKcfzVtHPxTdg&tab=t.0)
+
+
+![[Pasted image 20241214170010.png]]
