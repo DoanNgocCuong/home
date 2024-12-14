@@ -74,7 +74,10 @@ Example:
 	- Secondly I agress that have pets at home that help stress reduction. ....It mine that, play with them very happy and chill. 
 	- Thridly, I think have pets at home help we increase ressponsibility. It is reason, when take care of our pets, as such as when we take care of friends and child. 
 	- Finally, my own ideas, there are many useful when we have pets at home. 
-	- 
+
+
+![[Pasted image 20241214180001.png]]
+
 ---
 ## NÓI Part 1 / LUẬN.  
 
