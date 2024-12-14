@@ -66,12 +66,17 @@ Example:
 	- Finally, my own ideas, there are many useful when we have pets at home. 
 	- 
 ---
-Part 1 
+## NÓI Part 1 / LUẬN.  
 
 - Let's = I
 - Chiến thuật từ để hỏi: 
 
 1. Câu TT: 
-- It is (can be) Adj. 
-	- advantages/benefit/positive. 
-	- 
+- It is (can be) Adj (useful/good/interesting/suitable/helpful). I love it so much. 
+	- advantages/benefit/positive/effects/gppfv. 
+      -  cause/issue/problem/dislike/disadvantages/drawbacks/negative effects/weak (bad) point. 
+      - It is not (can not be) adj 
+      - What are the disadvantages of watching TV?
+
+
+- I like to eat fish. It is good. I love it so much. 
