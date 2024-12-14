@@ -2,6 +2,9 @@
 - Link 2: (part 2 speaking) https://youtu.be/SQoTTyA1sSE?feature=shared
 
 ------------
+![[Pasted image 20241214123423.png]]
+
+---
 
 
 
