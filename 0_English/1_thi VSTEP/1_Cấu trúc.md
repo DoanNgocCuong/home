@@ -65,3 +65,13 @@ Example:
 	- Thridly, I think have pets at home help we increase ressponsibility. It is reason, when take care of our pets, as such as when we take care of friends and child. 
 	- Finally, my own ideas, there are many useful when we have pets at home. 
 	- 
+---
+Part 1 
+
+- Let's = I
+- Chiến thuật từ để hỏi: 
+
+1. Câu TT: 
+- It is (can be) Adj. 
+	- advantages/benefit/positive. 
+	- 
