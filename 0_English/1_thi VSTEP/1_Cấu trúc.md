@@ -78,6 +78,17 @@ Example:
       - It is not (can not be) adj 
       - What are the disadvantages of watching TV?
 
+### Từ để hỏi: 
 
+#### 1. What??? 
 - I like to eat fish. It is good. I love it so much. 
 - What do you ... do(ing)... (such as: )
+	- Ví dụ: What do you like doing on Sunday? 
+		- There are somethings that - I like doping on Sunday, such as I go camping, i  cooking, I working at home. 
+- What subject do you like? 
+	- The subject that I like. It is good, it is interesting. 
+	- I like .... 
+- What (sort of N = kind of N = type of N) do you ...?
+	- There are some N that I ... it is good. 
+Example: What kind of books do you liike to read? 
+	There are some books that I like to read, such as cartoons, history, ... It is 

@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "d5f65e0d51394045",
@@ -178,13 +177,14 @@
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
     "0_English/1_thi VSTEP/2_Speaking - Part 2 - Best Practices.md",
+    "2024-12-14.md",
+    "0_English/1_thi VSTEP/1_Cấu trúc.md",
     "0_English/0. Chiến thuật.md",
     "4.. Data Science/2. Big Data/1. Project - Dự án thực.md",
     "4.. Data Science/2. Big Data/1.2 Airflow - Kafka - Spark.md",
     "4.. Data Science/2. Big Data/2.1 Python programming language - Spark Programming (PySpark and Spark API, Dataframe API, Spark SQL).md",
     "4.. Data Science/2. Big Data/Big Data.md",
     "0_English",
-    "0_English/1_thi VSTEP/1_Cấu trúc.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/Nguồn.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/Cấu trúc thư mục.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/Log.md",
@@ -203,7 +203,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/__init__ Deploy Docker Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/1 số tool Docker.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.6 Dùng docker compose quen hơn docker -))).md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.5 Log Docker API vẫn hiển thị log khi run docker.md",
     "assert/Pasted image 20241212093314.png",
     "9_report",
     "8_Project/6_ChatbotRAG/Note4_Retrieval.ipynb",
