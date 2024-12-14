@@ -121,3 +121,16 @@ Which do you like to eat, meat or fish?
 
 
 ![[Pasted image 20241214120823.png]]
+
+---
+Liên kết các ý tưởng với nhau bằng các câu chuyển tiếp như “Moreover” “However”, “Firstly”, “Secondly”,...sẽ giúp bài nói mạch lạc hơn.
+
+=> Mấu chốt ở đây là: tránh liệt kê đơn thuần; thay vào đó, hãy mở rộng và giải thích từng điểm để bài nói của mình thực sự nổi bật và thuyết phục hơn. Áp dụng những điều này sẽ giúp bài nói của các bạn trở nên ấn tượng và có khả năng đạt điểm cao hơn nhé.
+
+Ex: Do you think the quality of life in big cities will be better in the future?
+
+B1: Life in the city will be better in the future if we can solve the problems of pollution, traffic, and social evils. => (THUẦN VỀ LIỆT KÊ VÀ KHÔNG MỞ RỘNG Ý TƯỞNG)
+
+B2C1: Life in the city will improve if we can solve the problems of pollution, traffic, and social issues. Firstly, fixing pollution with clean energy and green technology will make the environment healthier for everyone. Secondly, improving traffic by using smarter systems and better public transport will reduce congestion and make travel easier. Finally, tackling social issues like crime and inequality through education and community support will make cities safer and more welcoming. In summary, solving these problems will greatly enhance life in the city for everyone. => (PHÂN TÍCH VÀ MỞ RỘNG Ý CHO TỪNG VẤN ĐỀ)
+
+[https://docs.google.com/.../1BcktPsUNYtON1iwPKNNn.../edit...](https://docs.google.com/document/d/1BcktPsUNYtON1iwPKNNnjSHU3TGoWMZG9WpR6dnMyX0/edit?fbclid=IwZXh0bgNhZW0CMTAAAR2Vf5L6AFTg1ya5l4L8GMzqZj8D3uVVXiWCkUYJ6fjw_dIbzjeS-KZa3bI_aem_Ey7DA3Z_ffKcfzVtHPxTdg&tab=t.0)
