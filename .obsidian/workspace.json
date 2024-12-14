@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_English/1_thi VSTEP/3.1 Viết Thư (letter or email).md",
+                "file": "1. Lập trình nói chung/Cài C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Viết Thư (letter or email)"
+              "title": "Cài C++"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "d5f65e0d51394045",
@@ -177,9 +176,11 @@
   },
   "active": "87a1a8025f2c1bb1",
   "lastOpenFiles": [
+    "1. Lập trình nói chung/IDE.md",
+    "1. Lập trình nói chung/Cài C++.md",
+    "0_English/1_thi VSTEP/3.1 Viết Thư (letter or email).md",
     "assert/Pasted image 20241214183330.png",
     "0_English/1_thi VSTEP/4. Đề Key.md",
-    "0_English/1_thi VSTEP/3.1 Viết Thư (letter or email).md",
     "0_English/1_thi VSTEP/3.2 Luận.md",
     "0_English/1_thi VSTEP/1_Cấu trúc.md",
     "assert/Pasted image 20241214180001.png",
@@ -211,7 +212,6 @@
     "4_MLOPs và Full Stack Docker/2.2 Free web hosting.md",
     "4_MLOPs và Full Stack Docker/UI/Untitled.md",
     "4_MLOPs và Full Stack Docker/UI/2..md",
-    "4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
     "assert/Pasted image 20241212093314.png",
     "9_report",
     "8_Project/6_ChatbotRAG/Note4_Retrieval.ipynb",
@@ -222,7 +222,6 @@
     "8_Project/6_ChatbotRAG/Note4_UpdateUpTXT2Milvus.ipynb",
     "8_Project/6_ChatbotRAG",
     "assert/Pasted image 20241211125516.png",
-    "assert/Pasted image 20241211122847.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
