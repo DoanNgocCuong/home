@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.. Data Science/2. Big Data/1.2 Stream Layer - Batch Layer.md",
+                "file": "4_MLOPs và Full Stack Docker/Docker và WSL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Stream Layer - Batch Layer"
+              "title": "Docker và WSL"
             }
           }
         ]
@@ -176,12 +176,13 @@
   },
   "active": "0e2805f092b23d6b",
   "lastOpenFiles": [
+    "4.. Data Science/2. Big Data/1.2 Stream Layer - Batch Layer.md",
+    "4_MLOPs và Full Stack Docker/Docker và WSL.md",
     "4.. Data Science/2. Big Data/1.1 Công nghệ Kafka - Spark - Caannaa.md",
     "4.. Data Science/2. Big Data/1. Project - Dự án thực.md",
     "4.. Data Science/2. Big Data/Big Data.md",
     "4.. Data Science/2. Big Data/Hệ thống phân tán Distribution System.md",
     "4.. Data Science/2. Big Data/Link thêm.md",
-    "4.. Data Science/2. Big Data/1.2 Stream Layer - Batch Layer.md",
     "4.. Data Science/2. Big Data/1.2 Airflow - Kafka - Spark.md",
     "4.. Data Science/2. Big Data/2.1 Python programming language - Spark Programming (PySpark and Spark API, Dataframe API, Spark SQL).md",
     "4.. Data Science/2. Big Data/0. Nguồn học Big Data và Syllabus.md",
@@ -212,7 +213,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/Cấu trúc thư mục.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/Log.md",
     "4_MLOPs và Full Stack Docker/LLMFullStack/OpenSource pull về build FullStack.md",
-    "4_MLOPs và Full Stack Docker/SystemDesign - GitHub - Deploy/UML.md",
     "assert/Pasted image 20241212093314.png",
     "9_report",
     "8_Project/6_ChatbotRAG/Note4_Retrieval.ipynb",
