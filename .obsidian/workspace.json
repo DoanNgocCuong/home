@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.. Data Science/2. Big Data/3.1 Learn.md",
+                "file": "4.. Data Science/2. Big Data/1.1 Công nghệ Kafka - Spark - Caannaa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Learn"
+              "title": "1.1 Công nghệ Kafka - Spark - Caannaa"
             }
           }
         ]
@@ -176,9 +176,10 @@
   },
   "active": "0e2805f092b23d6b",
   "lastOpenFiles": [
-    "4.. Data Science/2. Big Data/1.2 Stream Layer - Batch Layer.md",
-    "4.. Data Science/2. Big Data/3.1 Learn.md",
+    "4.. Data Science/2. Big Data/1.1 Kafka - Spark - Apache - Hadoop.md",
     "4.. Data Science/2. Big Data/1.1 Công nghệ Kafka - Spark - Caannaa.md",
+    "4.. Data Science/2. Big Data/3.1 Learn.md",
+    "4.. Data Science/2. Big Data/1.2 Stream Layer - Batch Layer.md",
     "4_MLOPs và Full Stack Docker/Docker và WSL.md",
     "4.. Data Science/2. Big Data/1. Project - Dự án thực.md",
     "4.. Data Science/2. Big Data/Big Data.md",
@@ -212,7 +213,6 @@
     "0_English",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/Nguồn.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/Cấu trúc thư mục.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/Log.md",
     "assert/Pasted image 20241212093314.png",
     "9_report",
     "8_Project/6_ChatbotRAG/Note4_Retrieval.ipynb",
