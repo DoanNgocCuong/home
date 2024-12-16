@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.7 Docker networks bridge và networks và network_mode host.md",
+                "file": "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2.7 Docker networks bridge và networks và network_mode host"
+              "title": "3. Đường dẫn trong lập trình"
             }
           }
         ]
@@ -176,20 +176,20 @@
   },
   "active": "0e2805f092b23d6b",
   "lastOpenFiles": [
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.7 Docker networks bridge và networks và network_mode host.md",
+    "4.. Data Science/2. Big Data/1.2 Stream Layer - Batch Layer.md",
     "4.. Data Science/2. Big Data/1.1 Kafka - Spark - Apache - Hadoop.md",
     "4.. Data Science/2. Big Data/1.1 Công nghệ Kafka - Spark - Caannaa.md",
+    "4.. Data Science/2. Big Data/2.1 Python programming language - Spark Programming (PySpark and Spark API, Dataframe API, Spark SQL).md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.2.7 Docker networks bridge và networks và network_mode host.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
     "4.. Data Science/~$144943 IT4931 3(3-1-0-6) Lưu trữ và xử lý dữ liệu lớn.xlsx",
     "4.. Data Science/2. Big Data/3.1 Learn.md",
-    "4.. Data Science/2. Big Data/1.2 Stream Layer - Batch Layer.md",
     "4_MLOPs và Full Stack Docker/Docker và WSL.md",
     "4.. Data Science/2. Big Data/1. Project - Dự án thực.md",
     "4.. Data Science/2. Big Data/Big Data.md",
     "4.. Data Science/2. Big Data/Hệ thống phân tán Distribution System.md",
     "4.. Data Science/2. Big Data/Link thêm.md",
     "4.. Data Science/2. Big Data/1.2 Airflow - Kafka - Spark.md",
-    "4.. Data Science/2. Big Data/2.1 Python programming language - Spark Programming (PySpark and Spark API, Dataframe API, Spark SQL).md",
     "4.. Data Science/2. Big Data/0. Nguồn học Big Data và Syllabus.md",
     "4.. Data Science/2. Big Data/2.3 Các port.md",
     "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
