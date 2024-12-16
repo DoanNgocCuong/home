@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
+                "file": "4.. Data Science/2. Big Data/2.3 Report nhóm mình.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Đường dẫn trong lập trình"
+              "title": "2.3 Report nhóm mình"
             }
           }
         ]
@@ -176,6 +176,8 @@
   },
   "active": "0e2805f092b23d6b",
   "lastOpenFiles": [
+    "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
+    "4.. Data Science/2. Big Data/2.3 Report nhóm mình.md",
     "4.. Data Science/2. Big Data/1.2 Stream Layer - Batch Layer.md",
     "4.. Data Science/2. Big Data/1.1 Kafka - Spark - Apache - Hadoop.md",
     "4.. Data Science/2. Big Data/1.1 Công nghệ Kafka - Spark - Caannaa.md",
@@ -192,7 +194,6 @@
     "4.. Data Science/2. Big Data/1.2 Airflow - Kafka - Spark.md",
     "4.. Data Science/2. Big Data/0. Nguồn học Big Data và Syllabus.md",
     "4.. Data Science/2. Big Data/2.3 Các port.md",
-    "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
     "assert/Pasted image 20241214232612.png",
     "0_English/1_thi VSTEP/3.1 Viết Thư (letter or email).md",
     "1. Lập trình nói chung/Cài C++.md",
@@ -212,7 +213,6 @@
     "assert/Pasted image 20241214154655.png",
     "assert/Pasted image 20241214123423.png",
     "assert/Pasted image 20241214120823.png",
-    "0_English/0. Chiến thuật.md",
     "0_English",
     "assert/Pasted image 20241212093314.png",
     "9_report",
