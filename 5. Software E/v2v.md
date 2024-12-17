@@ -94,6 +94,11 @@ classDiagram
 ```
 
 
+Vẽ mãi Layer - Package (No method) with Mermaid and have some bug. 
+====> Xài: PlantUML: 
+
+
+
 
 ```mermaid
 classDiagram
