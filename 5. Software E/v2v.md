@@ -247,6 +247,10 @@ ExamResultController --> ExamResult : processes results
 @enduml
 ```
 
+--- 
+vẫn ko được => sau vào: [Untitled Diagram.drawio.png - draw.io](https://app.diagrams.net/) 
+-> Arrange -> Insert -> Advanced -> 
+
 ```mermaid
 classDiagram
     %% Controller Classes
