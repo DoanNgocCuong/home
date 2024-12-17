@@ -537,6 +537,157 @@ Trong UML và các sơ đồ như **Class Diagram**, **Mermaid**, hoặc **Plant
 |**Realization**|`A <|.. B`|
 |**Directed Association**|`A --> B`|Liên kết có hướng|
 
+
+### **Chiều mũi tên của Aggregation và Composition**
+
+Cả **Aggregation** và **Composition** đều thể hiện mối quan hệ "has-a" giữa các lớp trong sơ đồ UML, nhưng chúng có sự khác biệt về **độ phụ thuộc** của đối tượng.
+
+---
+
+### **1. Aggregation (Tổng hợp)**
+
+- **Chiều mũi tên**: Hình thoi **trắng** nằm ở **đầu lớp chứa** (class parent) và mũi tên chỉ về **lớp thành phần** (class child).
+- **Ý nghĩa**:
+    - Đối tượng của lớp chứa có thể chứa đối tượng của lớp thành phần.
+    - Lớp thành phần **có thể tồn tại độc lập** ngoài lớp chứa.
+
+#### **Ví dụ Aggregation:**
+
+Mermaid:
+
+```mermaid
+classDiagram
+    class Department {
+        +String name
+    }
+    class Employee {
+        +String empName
+    }
+
+    Department o--> Employee : has-an Employee
+```
+
+PlantUML:
+
+```plantuml
+@startuml
+class Department {
+    +String name
+}
+class Employee {
+    +String empName
+}
+Department o-- Employee : has-an Employee
+@enduml
+```
+
+- **Hình ảnh minh họa**:
+    - Hình thoi **trắng** ở đầu **Department**.
+    - Mũi tên chỉ đến **Employee**.
+
+---
+
+### **2. Composition (Thành phần)**
+
+- **Chiều mũi tên**: Hình thoi **đen** nằm ở **đầu lớp chứa** (class parent) và mũi tên chỉ về **lớp thành phần** (class child).
+- **Ý nghĩa**:
+    - Lớp thành phần **phụ thuộc hoàn toàn** vào lớp chứa.
+    - Nếu lớp chứa bị xóa, các đối tượng lớp thành phần cũng sẽ bị xóa.
+
+#### **Ví dụ Composition**:
+
+Mermaid:
+
+```mermaid
+classDiagram
+    class House {
+        +String address
+    }
+    class Room {
+        +String roomType
+    }
+
+    House *--> Room : contains Rooms
+```
+
+PlantUML:
+
+```plantuml
+@startuml
+class House {
+    +String address
+}
+class Room {
+    +String roomType
+}
+House *-- Room : contains Rooms
+@enduml
+```
+
+- **Hình ảnh minh họa**:
+    - Hình thoi **đen** ở đầu **House**.
+    - Mũi tên chỉ đến **Room**.
+
+---
+
+### **So sánh Aggregation và Composition**
+
+|Đặc điểm|Aggregation|Composition|
+|---|---|---|
+|**Độ phụ thuộc**|Thành phần có thể tồn tại độc lập.|Thành phần phụ thuộc hoàn toàn vào lớp chứa.|
+|**Ký hiệu**|Hình thoi **trắng**|Hình thoi **đen**|
+|**Ví dụ**|Department o--> Employee|House *--> Room|
+
+---
+
+### **Hình minh họa tổng hợp**:
+
+Mermaid:
+
+```mermaid
+classDiagram
+    class Department {
+        +String name
+    }
+    class Employee {
+        +String empName
+    }
+    class House {
+        +String address
+    }
+    class Room {
+        +String roomType
+    }
+
+    Department o--> Employee : Aggregation
+    House *--> Room : Composition
+```
+
+PlantUML:
+
+```plantuml
+@startuml
+class Department {
+    +String name
+}
+class Employee {
+    +String empName
+}
+class House {
+    +String address
+}
+class Room {
+    +String roomType
+}
+Department o-- Employee : Aggregation
+House *-- Room : Composition
+@enduml
+```
+
+---
+
+Nếu cần thêm hình ảnh minh họa hay ví dụ cụ thể hơn, bạn chỉ cần nói nhé! 😊 🚀
+
 ---
 
 Nếu bạn cần thêm ví dụ hoặc cách triển khai cụ thể trong Mermaid, mình sẵn sàng giúp bạn chỉnh sửa mã! 🚀
