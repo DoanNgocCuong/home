@@ -4,9 +4,17 @@
 ```mermaid
 classDiagram
 
-    %% VIEWER LAYER
+    %% TOP LEVEL LAYERED APPLICATION
 
-    package ViewerLayer {
+    class "Layered Application" {
+
+    }
+
+  
+
+    %% PRESENTATION LAYER
+
+    package "Presentation Layer" {
 
         class AttendExam
 
@@ -30,9 +38,9 @@ classDiagram
 
   
 
-    %% CONTROLLER LAYER
+    %% BUSINESS LAYER
 
-    package ControllerLayer {
+    package "Business Layer" {
 
         class UserController
 
@@ -50,9 +58,9 @@ classDiagram
 
   
 
-    %% MODEL LAYER
+    %% DATA LAYER
 
-    package ModelLayer {
+    package "Data Layer" {
 
         class User
 
@@ -73,6 +81,16 @@ classDiagram
         class Essay
 
     }
+
+  
+
+    %% DEPENDENCIES
+
+    "Presentation Layer" --> "Business Layer" : interacts
+
+    "Business Layer" --> "Data Layer" : uses
+
+    "Presentation Layer" ..> "Data Layer" : indirect dependency
 ```
 
 
