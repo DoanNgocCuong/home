@@ -441,6 +441,108 @@ flowchart LR
 
 
 ----
+Trong UML và các sơ đồ như **Class Diagram**, **Mermaid**, hoặc **PlantUML**, có một số kiểu quan hệ cơ bản để thể hiện các tương tác giữa các lớp, đối tượng hoặc thành phần hệ thống. Dưới đây là danh sách các kiểu quan hệ **phổ biến nhất** và ý nghĩa của chúng:
+
+---
+
+### 1. **Association** (Liên kết)
+
+- **Ý nghĩa**: Mối quan hệ giữa hai lớp cho thấy một lớp có thể biết về lớp kia hoặc tương tác với nhau.
+- **Ký hiệu**: Đường thẳng nối giữa hai lớp.
+- **Cách thể hiện**:
+    - **Mermaid**: `ClassA --> ClassB`
+    - **PlantUML**: `ClassA --> ClassB`
+
+---
+
+### 2. **Aggregation** (Tổng hợp)
+
+- **Ý nghĩa**: Thể hiện mối quan hệ **"has-a"** (có một) giữa các lớp, trong đó một lớp chứa các đối tượng của lớp khác nhưng **không phụ thuộc** hoàn toàn.
+- **Ký hiệu**: Đường nối với **hình thoi trắng** ở đầu lớp chứa.
+- **Cách thể hiện**:
+    - **Mermaid**: `ClassA o--> ClassB`
+    - **PlantUML**: `ClassA o-- ClassB`
+
+**Ví dụ**: `ClassA o--> ClassB : contains`
+
+---
+
+### 3. **Composition** (Thành phần)
+
+- **Ý nghĩa**: Thể hiện mối quan hệ **"part-of"** (một phần của), trong đó **đời sống** của lớp chứa và lớp được chứa phụ thuộc vào nhau. Nếu lớp chứa bị xóa, các lớp con cũng sẽ bị xóa.
+- **Ký hiệu**: Đường nối với **hình thoi đen** ở đầu lớp chứa.
+- **Cách thể hiện**:
+    - **Mermaid**: `ClassA *--> ClassB`
+    - **PlantUML**: `ClassA *-- ClassB`
+
+**Ví dụ**: `ClassA *--> ClassB : part of`
+
+---
+
+### 4. **Inheritance/Generalization** (Kế thừa)
+
+- **Ý nghĩa**: Thể hiện mối quan hệ **"is-a"**, trong đó một lớp con kế thừa các thuộc tính và phương thức từ lớp cha.
+- **Ký hiệu**: Đường nối với **mũi tên rỗng** chỉ từ lớp con đến lớp cha.
+- **Cách thể hiện**:
+    - **Mermaid**: `ClassA <|-- ClassB`
+    - **PlantUML**: `ClassA <|-- ClassB`
+
+**Ví dụ**: `ClassB <|-- ClassA : inherits`
+
+---
+
+### 5. **Dependency** (Phụ thuộc)
+
+- **Ý nghĩa**: Thể hiện mối quan hệ **"uses-a"** hoặc phụ thuộc tạm thời. Một lớp phụ thuộc vào lớp khác để thực hiện chức năng.
+- **Ký hiệu**: Đường **nét đứt** với mũi tên rỗng.
+- **Cách thể hiện**:
+    - **Mermaid**: `ClassA ..> ClassB`
+    - **PlantUML**: `ClassA ..> ClassB`
+
+**Ví dụ**: `ClassA ..> ClassB : depends`
+
+---
+
+### 6. **Realization** (Hiện thực)
+
+- **Ý nghĩa**: Thể hiện một lớp thực hiện các phương thức được định nghĩa trong một **interface**.
+- **Ký hiệu**: Đường **nét đứt** với mũi tên rỗng.
+- **Cách thể hiện**:
+    - **Mermaid**: `InterfaceA <|.. ClassB`
+    - **PlantUML**: `InterfaceA <|.. ClassB`
+
+**Ví dụ**: `InterfaceA <|.. ClassB : implements`
+
+---
+
+### 7. **Directed Association** (Liên kết có hướng)
+
+- **Ý nghĩa**: Giống như Association nhưng có chỉ định hướng cụ thể giữa các lớp.
+- **Ký hiệu**: Đường thẳng với **mũi tên đầy** chỉ hướng.
+- **Cách thể hiện**:
+    - **Mermaid**: `ClassA --> ClassB`
+    - **PlantUML**: `ClassA --> ClassB`
+
+---
+
+### Tóm tắt các kiểu quan hệ trong Mermaid:
+
+|**Kiểu Quan Hệ**|**Mermaid Syntax**|**Ý Nghĩa**|
+|---|---|---|
+|**Association**|`A --> B`|Liên kết|
+|**Aggregation**|`A o--> B`|Tổng hợp (has-a)|
+|**Composition**|`A *--> B`|Thành phần (part-of)|
+|**Inheritance**|`A <|-- B`|
+|**Dependency**|`A ..> B`|Phụ thuộc (uses-a)|
+|**Realization**|`A <|.. B`|
+|**Directed Association**|`A --> B`|Liên kết có hướng|
+
+---
+
+Nếu bạn cần thêm ví dụ hoặc cách triển khai cụ thể trong Mermaid, mình sẵn sàng giúp bạn chỉnh sửa mã! 🚀
+
+
+---
 ```mermaid
 classDiagram
     %% Controller Classes
