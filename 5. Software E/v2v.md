@@ -2,134 +2,77 @@
 
 
 ```mermaid
-
 classDiagram
-    %% VIEWER LAYER (Presentation Layer)
-    package "Viewer Layer" {
-        class AttendExam {
-            + displayAttendExam(): void
-        }
-        class AutoGrade {
-            + displayAutoGrading(): void
-        }
-        class ChangePassword {
-            + displayChangePasswordForm(): void
-        }
-        class CreateQuestion {
-            + displayCreateQuestionForm(): void
-        }
-        class CreateTest {
-            + displayCreateTestInterface(): void
-        }
-        class Login {
-            + displayLoginForm(): void
-        }
-        class LoginInvalid {
-            + displayErrorMessage(): void
-        }
-        class ManualMark {
-            + displayManualGrading(): void
-        }
-        class LayoutsPartials {
-            + renderSharedTemplates(): void
-        }
-    }
 
-    %% CONTROLLER LAYER (Business Layer)
-    package "Controller Layer" {
-        class UserController {
-            + handleLogin(): void
-            + handleChangePassword(): void
-            + handleProfileManagement(): void
-        }
-        class StudentController {
-            + handleEssaySubmission(): void
-            + handleViewResults(): void
-        }
-        class GroupLeaderController {
-            + manageQuestionBank(): void
-            + createQuestion(): void
-        }
-        class TeacherController {
-            + handleExamCreation(): void
-            + handleGradeEssay(): void
-        }
-        class ExamController {
-            + manageExam(): void
-            + linkExamQuestions(): void
-        }
-        class ExamResultController {
-            + handleGrading(): void
-            + calculateScore(): void
-        }
-    }
+    %% VIEWER LAYER
 
-    %% MODEL LAYER (Data Layer)
-    package "Model Layer" {
-        class User {
-            - username: String
-            - password: String
-            - role: String
-            - fullName: String
-            - birthday: Date
-            - gender: String
-        }
-        class GroupLeader {
-            + manageQuestionBank(): void
-        }
-        class Teacher {
-            + createExam(): void
-            + gradeEssay(): void
-        }
-        class Student {
-            + submitEssay(): void
-            + viewResults(): void
-        }
-        class QuestionBank {
-            - id: int
-            - name: String
-            + addQuestion(): void
-        }
-        class Question {
-            - id: int
-            - content: String
-            + evaluateAnswer(): void
-        }
-        class Exam {
-            - id: int
-            - title: String
-            + addQuestion(): void
-        }
-        class ExamResult {
-            - score: float
-            + calculateFinalScore(): void
-        }
-        class Essay {
-            - id: int
-            - content: String
-            + submit(): void
-        }
-    }
+    package ViewerLayer {
 
-    %% DEPENDENCIES
-    AttendExam --> StudentController : interacts
-    AutoGrade --> TeacherController : interacts
-    ChangePassword --> UserController : interacts
-    CreateQuestion --> GroupLeaderController : interacts
-    CreateTest --> TeacherController : interacts
-    Login --> UserController : interacts
-    LoginInvalid --> UserController : handlesError
-    ManualMark --> TeacherController : interacts
+        class AttendExam
 
-    UserController --> User : manages
-    StudentController --> Student : manages
-    StudentController --> Essay : submits
-    TeacherController --> Exam : manages
-    TeacherController --> ExamResult : grades
-    GroupLeaderController --> QuestionBank : manages
-    ExamController --> Exam : linksQuestions
-    ExamResultController --> ExamResult : calculates
+        class AutoGrade
 
+        class ChangePassword
+
+        class CreateQuestion
+
+        class CreateTest
+
+        class Login
+
+        class LoginInvalid
+
+        class ManualMark
+
+        class LayoutsPartials
+
+    }
+
+  
+
+    %% CONTROLLER LAYER
+
+    package ControllerLayer {
+
+        class UserController
+
+        class StudentController
+
+        class GroupLeaderController
+
+        class TeacherController
+
+        class ExamController
+
+        class ExamResultController
+
+    }
+
+  
+
+    %% MODEL LAYER
+
+    package ModelLayer {
+
+        class User
+
+        class Student
+
+        class GroupLeader
+
+        class Teacher
+
+        class QuestionBank
+
+        class Question
+
+        class Exam
+
+        class ExamResult
+
+        class Essay
+
+    }
 ```
 
 
