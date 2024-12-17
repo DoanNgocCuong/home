@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Software E/Project MVC.md",
+                "file": "5. Software E/v2v.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project MVC"
+              "title": "v2v"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "8cfd3d854af7c823",
   "lastOpenFiles": [
+    "5. Software E/Project MVC.md",
     "2_English/1_thi VSTEP/3.2 Luận.md",
     "2_English/1_thi VSTEP/3.1 Viết Thư (letter or email).md",
     "2024-12-16.md",

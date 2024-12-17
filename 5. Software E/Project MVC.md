@@ -719,7 +719,60 @@ If you require further details or additional Use Cases to be analyzed, please le
 
 General Class Diagram:
 
+```mermaid
+classDiagram
+    %% MODEL PACKAGE
+    subgraph Model
+        class User {
+            - username: String
+            - password: String
+            + createUser(): void
+        }
+        class GroupLeader {
+            + createQuestionBank(): void
+        }
+        class Teacher {
+            + createExam(): void
+        }
+        class Student {
+            + submitEssay(): void
+        }
+    end
 
+    %% CONTROLLER PACKAGE
+    subgraph Controller
+        class C_User {
+            + handleLogin(): void
+        }
+        class C_GroupLeader {
+            + manageQuestionBank(): void
+        }
+        class C_Teacher {
+            + handleExamCreation(): void
+        }
+    end
+
+    %% VIEW PACKAGE
+    subgraph View
+        class V_User {
+            + displayLoginForm(): void
+        }
+        class V_GroupLeader {
+            + displayQuestionBank(): void
+        }
+        class V_Teacher {
+            + displayExamCreation(): void
+        }
+    end
+
+    %% RELATIONSHIPS
+    User <|-- GroupLeader
+    User <|-- Teacher
+    C_User --> User : manages
+    C_GroupLeader --> GroupLeader : controls
+    V_User --> C_User : interacts
+
+```
 
 
 
