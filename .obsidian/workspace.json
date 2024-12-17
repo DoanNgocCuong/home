@@ -11,14 +11,12 @@
             "id": "8cfd3d854af7c823",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "0_English/test ảnh.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20241218023008.png"
               },
-              "icon": "lucide-file",
-              "title": "test ảnh"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241218023008"
             }
           }
         ]
@@ -175,11 +173,12 @@
   },
   "active": "8cfd3d854af7c823",
   "lastOpenFiles": [
+    "0_English/test ảnh.md",
+    "Pasted image 20241218023008.png",
     "0_English/Pasted image 20241218022920.png",
     "0_English/attachments/Pasted image 20241218022807.png",
     "0_English/attachments",
     "5. Software E/v2v.md",
-    "0_English/test ảnh.md",
     "5. Software E/attachments/Pasted image 20241218022507.png",
     "5. Software E/attachments",
     "assert/Pasted image 20241218022432.png",
@@ -205,8 +204,6 @@
     "2_English/1. Listening Foundation.md",
     "4.. Data Science/2. Big Data/2.4 Questions.md",
     "assert/Pasted image 20241216131002.png",
-    "assert/Pasted image 20241216104949.png",
-    "assert/Pasted image 20241216091835.png",
     "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
     "4.. Data Science/2. Big Data/1.2 Stream Layer - Batch Layer.md",
     "4.. Data Science/2. Big Data/1.1 Kafka - Spark - Apache - Hadoop.md",
