@@ -249,7 +249,7 @@ ExamResultController --> ExamResult : processes results
 
 --- 
 vẫn ko được => sau vào: [Untitled Diagram.drawio.png - draw.io](https://app.diagrams.net/) 
--> Arrange -> Insert -> Advanced -> 
+-> Arrange -> Insert -> Advanced -> (Mermaid thì sửa được, còn Plant UML thì không)
 
 ```mermaid
 classDiagram
