@@ -712,8 +712,15 @@ By following this detailed Interaction Analysis, developers and stakeholders can
 
 If you require further details or additional Use Cases to be analyzed, please let me know!
 
+
+
 =============================================================================================================================================================================================
 # 3. Class diagram
+
+General Class Diagram:
+
+
+
 
 
 Dưới đây là phiên bản chi tiết biểu diễn các gói Module (M_...) với các mũi tên và quan hệ đã được sửa đúng:
