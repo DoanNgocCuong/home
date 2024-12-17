@@ -251,6 +251,130 @@ ExamResultController --> ExamResult : processes results
 vẫn ko được => sau vào: [Untitled Diagram.drawio.png - draw.io](https://app.diagrams.net/) 
 -> Arrange -> Insert -> Advanced -> (Mermaid thì sửa được, còn Plant UML thì không)
 
+Cố gắng import vào bằng Mermaid. 
+TỰ NHIÊN TRƯỚC ĐÓ PHÂN LAYERS BẰNG MERMAID KHÔNG ĐƯỢC, GIỜ LẠI ĐƯỢC 
+```mermaid
+flowchart TB
+
+    %% MODELS LAYER
+
+    subgraph ModelsLayer["Models Layer"]
+
+        User[User]
+
+        GroupLeader[GroupLeader]
+
+        Teacher[Teacher]
+
+        Student[Student]
+
+        QuestionBank[QuestionBank]
+
+        Question[Question]
+
+        Exam[Exam]
+
+        ExamQuestion[ExamQuestion]
+
+        Criteria[Criteria]
+
+        CriteriaDetail[CriteriaDetail]
+
+        ExamResult[ExamResult]
+
+        Essay[Essay]
+
+    end
+
+  
+
+    %% CONTROLLERS LAYER
+
+    subgraph ControllersLayer["Controllers Layer"]
+
+        UserController[UserController]
+
+        GroupLeaderController[GroupLeaderController]
+
+        TeacherController[TeacherController]
+
+        StudentController[StudentController]
+
+        QuestionBankController[QuestionBankController]
+
+        QuestionController[QuestionController]
+
+        ExamController[ExamController]
+
+        ExamQuestionController[ExamQuestionController]
+
+        ExamResultController[ExamResultController]
+
+        EssayController[EssayController]
+
+    end
+
+  
+
+    %% VIEWS LAYER
+
+    subgraph ViewsLayer["Views Layer"]
+
+        AttendExam[AttendExam]
+
+        AutoGrade[AutoGrade]
+
+        ChangePassword[ChangePassword]
+
+        CreateQuestion[CreateQuestion]
+
+        CreateTest[CreateTest]
+
+        Login[Login]
+
+        LoginInvalid[LoginInvalid]
+
+        ManualMark[ManualMark]
+
+        LayoutsPartials[LayoutsPartials]
+
+    end
+
+  
+
+    %% INTERACTIONS: VIEWS --> CONTROLLERS
+
+    AttendExam -->|interacts| StudentController
+
+    AutoGrade -->|auto grade| TeacherController
+
+    ChangePassword -->|updates password| UserController
+
+    CreateQuestion -->|creates| GroupLeaderController
+
+    CreateTest -->|manages tests| TeacherController
+
+    Login -->|authenticates| UserController
+
+    LoginInvalid -->|error handling| UserController
+
+    ManualMark -->|manual grading| TeacherController
+
+  
+
+    %% INTERACTIONS: CONTROLLERS --> MODELS
+
+    UserController -->|manages| User
+
+    StudentController -->|handles| Student
+
+    GroupLeaderController -->|updates| QuestionBank
+
+    TeacherController -->|creates| Exam
+
+    TeacherController -->|handles| ExamResult
+```
+
 ```mermaid
 classDiagram
     %% Controller Classes
