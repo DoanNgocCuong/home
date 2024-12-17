@@ -97,7 +97,73 @@ classDiagram
 Vẽ mãi Layer - Package (No method) with Mermaid and have some bug. 
 ====> Xài: PlantUML: 
 
+```planuml
+@startuml
+!define RECTANGLE class
+skinparam packageStyle rectangle
+skinparam linetype ortho
 
+' MODELS
+package "Models" {
+    RECTANGLE User
+    RECTANGLE GroupLeader
+    RECTANGLE Teacher
+    RECTANGLE Student
+    RECTANGLE QuestionBank
+    RECTANGLE Question
+    RECTANGLE Exam
+    RECTANGLE ExamQuestion
+    RECTANGLE Criteria
+    RECTANGLE CriteriaDetail
+    RECTANGLE ExamResult
+    RECTANGLE Essay
+}
+
+' CONTROLLERS
+package "Controllers" {
+    RECTANGLE UserController
+    RECTANGLE GroupLeaderController
+    RECTANGLE TeacherController
+    RECTANGLE StudentController
+    RECTANGLE QuestionBankController
+    RECTANGLE QuestionController
+    RECTANGLE ExamController
+    RECTANGLE ExamQuestionController
+    RECTANGLE ExamResultController
+    RECTANGLE EssayController
+}
+
+' VIEWS
+package "Views" {
+    RECTANGLE AttendExam
+    RECTANGLE AutoGrade
+    RECTANGLE ChangePassword
+    RECTANGLE CreateQuestion
+    RECTANGLE CreateTest
+    RECTANGLE Login
+    RECTANGLE LoginInvalid
+    RECTANGLE ManualMark
+    RECTANGLE LayoutsPartials
+}
+
+' INTERACTIONS: VIEWS --> CONTROLLERS
+AttendExam --> StudentController : interacts
+AutoGrade --> TeacherController : auto grade
+ChangePassword --> UserController : updates password
+CreateQuestion --> GroupLeaderController : creates
+CreateTest --> TeacherController : manages tests
+Login --> UserController : authenticates
+LoginInvalid --> UserController : error handling
+ManualMark --> TeacherController : manual grading
+
+' INTERACTIONS: CONTROLLERS --> MODELS
+UserController --> User : manages
+StudentController --> Student : handles
+GroupLeaderController --> QuestionBank : updates
+TeacherController --> Exam : creates
+TeacherController --> ExamResult
+@enduml
+```
 
 
 ```mermaid
