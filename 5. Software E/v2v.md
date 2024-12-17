@@ -166,6 +166,87 @@ TeacherController --> ExamResult
 ```
 
 
+
+```planuml
+@startuml
+!define RECTANGLE class
+skinparam packageStyle rectangle
+skinparam linetype ortho
+skinparam ranksep 50
+skinparam nodesep 30
+
+' 3 MAIN LAYERS
+package "Models Layer" <<Rectangle>> {
+    package "User Management" {
+        RECTANGLE User
+        RECTANGLE Student
+        RECTANGLE Teacher
+    }
+    package "Exam Management" {
+        RECTANGLE Exam
+        RECTANGLE ExamResult
+        RECTANGLE Essay
+    }
+    package "Question Management" {
+        RECTANGLE QuestionBank
+        RECTANGLE Question
+        RECTANGLE ExamQuestion
+    }
+}
+
+package "Controllers Layer" <<Rectangle>> {
+    package "User Controllers" {
+        RECTANGLE UserController
+        RECTANGLE StudentController
+    }
+    package "Exam Controllers" {
+        RECTANGLE ExamController
+        RECTANGLE ExamResultController
+    }
+    package "Question Controllers" {
+        RECTANGLE QuestionBankController
+        RECTANGLE QuestionController
+    }
+    package "Essay Controllers" {
+        RECTANGLE EssayController
+    }
+}
+
+package "Views Layer" <<Rectangle>> {
+    package "User Views" {
+        RECTANGLE Login
+        RECTANGLE ChangePassword
+    }
+    package "Exam Views" {
+        RECTANGLE AttendExam
+        RECTANGLE AutoGrade
+    }
+    package "Question Views" {
+        RECTANGLE CreateQuestion
+        RECTANGLE ManualMark
+    }
+    package "Common Views" {
+        RECTANGLE CreateTest
+        RECTANGLE LayoutsPartials
+    }
+}
+
+' INTERACTIONS: BETWEEN LAYERS
+Login --> UserController : authenticate
+ChangePassword --> UserController : update password
+AttendExam --> StudentController : attend exam
+AutoGrade --> ExamController : auto-grade exam
+CreateQuestion --> QuestionBankController : add question
+ManualMark --> ExamResultController : manual grade
+CreateTest --> ExamController : create tests
+EssayController --> Essay : manages essays
+UserController --> User : manages user
+StudentController --> Student : manages student
+ExamController --> Exam : handles exams
+ExamResultController --> ExamResult : processes results
+@enduml
+```
+
 ```mermaid
 classDiagram
     %% Controller Classes
