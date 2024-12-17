@@ -692,7 +692,11 @@ Nếu cần thêm hình ảnh minh họa hay ví dụ cụ thể hơn, bạn ch�
 
 Nếu bạn cần thêm ví dụ hoặc cách triển khai cụ thể trong Mermaid, mình sẵn sàng giúp bạn chỉnh sửa mã! 🚀
 
+![[Pasted image 20241218022507.png]]
 
+
+![[Pasted image 20241218022432.png]]
+---
 ---
 ```mermaid
 classDiagram

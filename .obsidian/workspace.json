@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cfd3d854af7c823",
+  "active": "b0eb5b2678aa1cf3",
   "lastOpenFiles": [
+    "5. Software E/attachments/Pasted image 20241218022507.png",
+    "5. Software E/attachments",
+    "assert/Pasted image 20241218022432.png",
     "assert/Pasted image 20241218001650.png",
     "5. Software E/Project MVC.md",
     "2_English/1_thi VSTEP/3.2 Luận.md",
@@ -211,8 +213,6 @@
     "4.. Data Science/2. Big Data/3.1 Learn.md",
     "assert/Pasted image 20241214232612.png",
     "assert/Pasted image 20241214183330.png",
-    "assert/Pasted image 20241214180001.png",
-    "assert/Pasted image 20241214170010.png",
     "8_Project/5_Big Data Proj/note1.4.1_kafka_spark_stream_part2.ipynb",
     "0_English",
     "9_report",
@@ -221,7 +221,6 @@
     "8_Project/6_ChatbotRAG/Note3_IPConfigWithMilvus.ipynb",
     "8_Project/6_ChatbotRAG/Note2.ipynb",
     "8_Project/6_ChatbotRAG/Note_FlashRAG.ipynb",
-    "8_Project/6_ChatbotRAG/Note4_UpdateUpTXT2Milvus.ipynb",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
