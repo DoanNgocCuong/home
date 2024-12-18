@@ -11,12 +11,14 @@
             "id": "8cfd3d854af7c823",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241218023008.png"
+                "file": "0_English/test ảnh.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241218023008"
+              "icon": "lucide-file",
+              "title": "test ảnh"
             }
           }
         ]
@@ -50,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Docker",
+                "query": "đường d",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,11 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cfd3d854af7c823",
+  "active": "9b6b6e1d46d09ac1",
   "lastOpenFiles": [
-    "0_English/test ảnh.md",
-    "Pasted image 20241218023008.png",
+    "0_English/oke/Pasted image 20241218023155.png",
+    "0_English/oke",
     "0_English/Pasted image 20241218022920.png",
+    "Pasted image 20241218023008.png",
+    "0_English/test ảnh.md",
     "0_English/attachments/Pasted image 20241218022807.png",
     "0_English/attachments",
     "5. Software E/v2v.md",
@@ -217,7 +222,6 @@
     "8_Project/6_ChatbotRAG/Note4_Retrieval.ipynb",
     "8_Project/6_ChatbotRAG/Note4_model.ipynb",
     "8_Project/6_ChatbotRAG/Note3_IPConfigWithMilvus.ipynb",
-    "8_Project/6_ChatbotRAG/Note2.ipynb",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
