@@ -230,3 +230,46 @@ RUN echo "REACT_APP_API_URL=http://103.253.20.13:5000" > .env.production
 ```
 
 
+## Template Backend
+- sys.stdout để khi mà bạn chạy docker nó vẫn load được log của backend
+```bash
+from flask import Flask, request, jsonify
+import sys
+import logging
+from flask import Flask, request, jsonify, Response
+from flask_cors import CORS
+import sys
+import logging
+
+# Set console output encoding to UTF-8
+sys.stdout.reconfigure(encoding='utf-8')
+
+# Set up detailed logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[logging.StreamHandler(sys.stdout)]
+)
+logger = logging.getLogger(__name__)
+
+app = Flask(__name__)
+CORS(app, resources={
+    r"/*": {
+        "origins": "*",
+        "allow_headers": ["Content-Type"],
+        "expose_headers": ["Content-Type"],
+        "methods": ["GET", "POST", "OPTIONS"]
+    }
+})
+
+# Initialize detector only
+detector = LicensePlateDetector()
+
+@app.route('/detect', methods=['POST'])
+def detect_license_plate():
+
+if __name__ == '__main__':
+    logger.info("🚀 Starting Flask application...")
+    app.run(host='0.0.0.0', port=3001, debug=True)
+```
+
