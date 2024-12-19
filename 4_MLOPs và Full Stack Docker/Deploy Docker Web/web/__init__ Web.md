@@ -241,7 +241,7 @@ from flask_cors import CORS
 import sys
 import logging
 
-# Set console output encoding to UTF-8
+# Set console output encoding to UTF-8 để khi docker compose nó log ra được port 3000
 sys.stdout.reconfigure(encoding='utf-8')
 
 # Set up detailed logging

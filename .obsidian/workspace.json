@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cfd3d854af7c823",
+  "active": "743e8c34ace83558",
   "lastOpenFiles": [
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/__init__ Deploy Docker Web.md",
     "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
