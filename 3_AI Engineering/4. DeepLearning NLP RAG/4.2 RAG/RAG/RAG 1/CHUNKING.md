@@ -5,3 +5,12 @@
 
 
 ---
+![[Pasted image 20241220153048.png]]
+
+
+
+Meta Chunking (LLM so sánh 2 câu cạnh nhau)
+Raptor: gom chunk1, 2, ... n + summary (sau khi cluster nó)
+
+----
+Merger số lượng chunk sau khi Meta Chunking với độ dài tối đa ??? 
