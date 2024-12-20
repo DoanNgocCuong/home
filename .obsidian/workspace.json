@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "6e4d57bb0fe618aa",
+    "id": "af5c90efc594962e",
     "type": "split",
     "children": [
       {
-        "id": "262d04f49b745251",
+        "id": "07b329a19616dcac",
         "type": "tabs",
         "children": [
           {
-            "id": "8cfd3d854af7c823",
+            "id": "de61f18ae3fd0e27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_AI Engineering/5.1 RAG/Kiến trúc RAG.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kiến trúc RAG"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "846dfdc8778efb54",
+    "id": "ca5289793c1402a9",
     "type": "split",
     "children": [
       {
-        "id": "861f65526de07100",
+        "id": "328189242b51da84",
         "type": "tabs",
         "children": [
           {
-            "id": "743e8c34ace83558",
+            "id": "de333728293ea4d4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,13 +43,13 @@
             }
           },
           {
-            "id": "9b6b6e1d46d09ac1",
+            "id": "0cf1f93d49c9ecae",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Big Data",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "421255cfd61b169a",
+            "id": "0d64b8c3816d0f06",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,23 +73,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 300
   },
   "right": {
-    "id": "d5f65e0d51394045",
+    "id": "422b3eaae750cadd",
     "type": "split",
     "children": [
       {
-        "id": "5a2e8f2cfaf3d1ff",
+        "id": "fe1f51b6b193f142",
         "type": "tabs",
         "children": [
           {
-            "id": "8a5f3f6849718c3b",
+            "id": "1c4bd95fd338a435",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SystemDesign/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for git"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "633259fb1033a365",
+            "id": "ef1a509a07b0f5da",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SystemDesign/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from git"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "9b3af5088f638a4c",
+            "id": "3c1eeb43cdda49c0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,33 +128,21 @@
             }
           },
           {
-            "id": "ec8a9ebcfe29ade3",
+            "id": "3f1740ce27ce91d7",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4_MLOPs/2.1 Docker - Docker Hub.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2.1 Docker - Docker Hub"
-            }
-          },
-          {
-            "id": "b0eb5b2678aa1cf3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,58 +155,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "743e8c34ace83558",
-  "lastOpenFiles": [
-    "3_AI Engineering/5.0 Metrics/MRR - Hit Rate - Rerank.md",
-    "3_AI Engineering/5.1 RAG/NOTE RAG PRODUCTION.md",
-    "3_AI Engineering/5.1 RAG/Resources.md",
-    "3_AI Engineering/5.1 RAG/Soft Prompt.md",
-    "3_AI Engineering/5.2 LLMs/1. Open source for fine tuning.md",
-    "3_AI Engineering/5.1 RAG/Tool tách đơn vị diễn ngôn Đồng tham chiếu (Coreference Resolution).md",
-    "3_AI Engineering/5.0 Metrics/BM25.md",
-    "3_AI Engineering/5.1 RAG/LLMs/Untitled.md",
-    "3_AI Engineering/5.0 Metrics",
-    "3_AI Engineering/5.1 RAG/25 type of RAG.md",
-    "3_AI Engineering/5.1 RAG/Untitled 1.md",
-    "3_AI Engineering/5.1 RAG/Untitled.md",
-    "3_AI Engineering/5.3 AI Agent/AI Agent note.md",
-    "3_AI Engineering/GENAI/GenAI.md",
-    "3_AI Engineering/5.1 RAG/đo đạc.md",
-    "3_AI Engineering/5.1 RAG/Benchmark - Dataset.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/Combine.md",
-    "3_AI Engineering/5.1 RAG/1. Các chiến lược tối ưu.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.3 LangChain/Note nguồn học.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.7_CV/OCR.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.7_Chatbot/Blocking và Streaming.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.7_Chatbot/Memory.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/Untitled 2.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/Untitled 1.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/Untitled.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/Embedding.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/Deep Learning Foundation.md",
-    "3_AI Engineering/5.1 RAG/RAG 1/attachments/Pasted image 20241220153048.png",
-    "3_AI Engineering/5.1 RAG/RAG 1/attachments",
-    "3_AI Engineering/5.1 RAG/attachments/Pasted image 20241219220354.png",
-    "3_AI Engineering/5.1 RAG/attachments",
-    "0_English/oke/Pasted image 20241218023155.png",
-    "0_English/oke",
-    "0_English/Pasted image 20241218022920.png",
-    "Pasted image 20241218023008.png",
-    "0_English/attachments/Pasted image 20241218022807.png",
-    "0_English/attachments",
-    "5. Software E/attachments/Pasted image 20241218022507.png",
-    "5. Software E/attachments",
-    "assert/Pasted image 20241218022432.png",
-    "assert/Pasted image 20241218001650.png",
-    "assert/Pasted image 20241216211138.png",
-    "4.. Data Science/~$144943 IT4931 3(3-1-0-6) Lưu trữ và xử lý dữ liệu lớn.xlsx",
-    "8_Project/5_Big Data Proj/note1.4.1_kafka_spark_stream_part2.ipynb",
-    "0_English",
-    "9_report",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled 3.canvas",
-    "3_AI Engineering/4. DeepLearning/4.2 RAG/RAG/RAG 1/Search/Untitled.canvas"
-  ]
+  "active": "de61f18ae3fd0e27",
+  "lastOpenFiles": []
 }
