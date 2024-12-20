@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Kiến trúc RAG.md",
+                "file": "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kiến trúc RAG"
+              "title": "1. git, SOLID, Code chuẩn"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Docker",
+                "query": "git merge",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,10 +176,10 @@
   },
   "active": "8cfd3d854af7c823",
   "lastOpenFiles": [
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Kiến trúc RAG.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/attachments/Pasted image 20241219220354.png",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/attachments",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Kiến trúc RAG.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/__init__ Deploy Docker Web.md",
     "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
     "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
@@ -208,7 +209,6 @@
     "2_English/1_thi VSTEP/4_listening.md",
     "assert/Pasted image 20241216205138.png",
     "2_English/1_thi VSTEP/1_Cấu trúc.md",
-    "assert/Pasted image 20241216203146.png",
     "3_AI Engineering/5. LLMs/1..md",
     "3_AI Engineering/1 số nguồn có vẻ hay chưa đọc.md",
     "3_AI Engineering/GENAI/GenAI.md",
