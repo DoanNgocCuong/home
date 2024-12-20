@@ -1,0 +1,4 @@
+- Combine: Vector Search , Reranking, BM25 --- trong RAG?? 
+	- Vector search: 
+	- Score Rank:  
+	- BM25 : 
