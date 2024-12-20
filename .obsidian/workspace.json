@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Metrics LLMs và RAG.md",
+                "file": "3_AI Engineering/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metrics LLMs và RAG"
+              "title": "Untitled"
             }
           }
         ]
@@ -175,8 +175,15 @@
   },
   "active": "8cfd3d854af7c823",
   "lastOpenFiles": [
-    "3_AI Engineering/AI Agent/AI Agent note.md",
+    "3_AI Engineering/Roadmap.md",
+    "3_AI Engineering/Untitled.md",
+    "3_AI Engineering/1 số nguồn có vẻ hay chưa đọc.md",
+    "3_AI Engineering/Python.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.5_Agent/__init__.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.5_Agent/Agent_Rag.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.5 Fine Tuning/Note.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Metrics LLMs và RAG.md",
+    "3_AI Engineering/AI Agent/AI Agent note.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/RAG 1/CHUNKING.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/RAG 1/attachments/Pasted image 20241220153048.png",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/RAG/RAG 1/attachments",
@@ -198,23 +205,16 @@
     "_posts/2024-07-27-Bai-viet-1-Image-Prompting-P1.md",
     "index.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.2 RAG/Prompting/Tổng quan.md",
-    "3_AI Engineering/Untitled.md",
-    "0_English/test ảnh.md",
     "0_English/oke/Pasted image 20241218023155.png",
     "0_English/oke",
     "0_English/Pasted image 20241218022920.png",
     "Pasted image 20241218023008.png",
     "0_English/attachments/Pasted image 20241218022807.png",
     "0_English/attachments",
-    "5. Software E/v2v.md",
     "5. Software E/attachments/Pasted image 20241218022507.png",
     "5. Software E/attachments",
     "assert/Pasted image 20241218022432.png",
     "assert/Pasted image 20241218001650.png",
-    "5. Software E/Project MVC.md",
-    "2_English/1_thi VSTEP/3.2 Luận.md",
-    "2_English/1_thi VSTEP/3.1 Viết Thư (letter or email).md",
-    "2024-12-16.md",
     "assert/Pasted image 20241216211138.png",
     "4.. Data Science/~$144943 IT4931 3(3-1-0-6) Lưu trữ và xử lý dữ liệu lớn.xlsx",
     "8_Project/5_Big Data Proj/note1.4.1_kafka_spark_stream_part2.ipynb",
