@@ -179,3 +179,7 @@ Are you considering any specific tasks or environments where you'd like to deplo
 
 [Let’s Create an Agentic Multimodal Chatbot from Scratch. | by Arthur Lagacherie | Aug, 2024 | Towards AI](https://pub.towardsai.net/lets-create-an-agentic-multimodal-chatbot-from-scratch-7087e3ae8ace?ref=dailydev)
 [Building Smarter Chatbots With Advanced Language Models - The New Stack](https://thenewstack.io/building-smarter-chatbots-with-advanced-language-models/?ref=dailydev)
+
+---
+Open source frame work: https://www.aitidbits.ai/p/open-source-agents
+
