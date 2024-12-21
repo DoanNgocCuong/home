@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/Prompting/1. Prompting Turning.md",
+                "file": "3_AI Engineering/5.0 Metrics/1 vài metrics khác.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Prompting Turning"
+              "title": "1 vài metrics khác"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "de61f18ae3fd0e27",
   "lastOpenFiles": [
-    "3_AI Engineering/1 số nguồn có vẻ hay chưa đọc.md",
     "3_AI Engineering/Prompting/1. Prompting Turning.md",
+    "3_AI Engineering/5.0 Metrics/1 vài metrics khác.md",
+    "3_AI Engineering/1 số nguồn có vẻ hay chưa đọc.md",
     "3_AI Engineering/Roadmap.md",
     "3_AI Engineering/Untitled.md",
     "3_AI Engineering/5.1 RAG/Soft Prompt.md",
@@ -190,7 +191,6 @@
     "3_AI Engineering/5.1 RAG/HitRate and Mrr.md",
     "3_AI Engineering/5.1 RAG/Dùng LLM mạnh hơn để đánh giá RAG.md",
     "3_AI Engineering/5.1 RAG/Benchmark - Dataset.md",
-    "3_AI Engineering/5.1 RAG/đo đạc.md",
     "3_AI Engineering/5.1 RAG/attachments/Pasted image 20241219220354.png",
     "1. Lập trình nói chung/attachments/Pasted image 20241220193900.png",
     "1. Lập trình nói chung/attachments"
