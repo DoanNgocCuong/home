@@ -1,4 +1,3 @@
-
 1. Đọc giờ 
 - Giờ hơn giờ kém: fif teen to two. Quartor to two. 
 - Tỉnh táo đoạn: today, yesterday, ...
