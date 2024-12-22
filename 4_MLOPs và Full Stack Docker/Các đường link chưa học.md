@@ -12,3 +12,6 @@ MLOPs All you need to know: [MLOps All You Need To Know. What is MLOps ? | by A
 https://mlsysbook.ai/
 
 https://github.com/graviraja/MLOps-Basics - rất đơn giản và giống DEEPLEARNING DEPLOY
+
+-   
+Demo: Dùng Prometheus và Grafana để giám sát và quản lý các ứng dụng ML
