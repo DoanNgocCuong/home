@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_English/1_thi VSTEP/4. Thi lần 1.md",
+                "file": "2_English/1_thi VSTEP/5.1 Listening và Speaking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Thi lần 1"
+              "title": "5.1 Listening và Speaking"
             }
           }
         ]
@@ -165,8 +165,12 @@
   },
   "active": "de61f18ae3fd0e27",
   "lastOpenFiles": [
-    "2_English/1_thi VSTEP/5.1 Listening.md",
-    "2_English/1_thi VSTEP/5. Bộ đề.md",
+    "2_English/1_thi VSTEP/5.2 Writing - vì Reading ko lên trong thời gian ngắn nổi (Reading chỉ có đọc nhanh hơn, cân đối time hơn)..md",
+    "2_English/1_thi VSTEP/5.1 Listening và Speaking.md",
+    "2_English/1_thi VSTEP/1. Link khởi động B1.md",
+    "2_English/1_thi VSTEP/1_Cấu trúc.md",
+    "2_English/1_thi VSTEP/5. Bộ đề và chiến lược.md",
+    "2_English/1_thi VSTEP/4. Thi lần 1.md",
     "2_English/1_thi VSTEP/4. Đề Key.md",
     "2_English/1_thi VSTEP/4_listening.md",
     "4.. Data Science/0. Data Visulization.md",
@@ -175,7 +179,6 @@
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/Beam search in NLP.md",
     "3_AI Engineering/5.1 RAG/Raptor RAG.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/Untitled 3.md",
-    "2_English/1_thi VSTEP/4. Thi lần 1.md",
     "2_English/1_thi VSTEP/attachments/Pasted image 20241222154621.png",
     "2_English/1_thi VSTEP/attachments",
     "0_English/Pasted image 20241218022920.png",
@@ -193,9 +196,6 @@
     "3_AI Engineering/5.1 RAG/Untitled.md",
     "3_AI Engineering/5.1 RAG/25 type of RAG.md",
     "3_AI Engineering/5.2 LLMs/2. 50 câu hỏi thường gặp phỏng vấn AI LLMs.md",
-    "3_AI Engineering/5.2 LLMs/1. Open source for fine tuning.md",
-    "3_AI Engineering/5.1 RAG/Tổng quát.md.md",
-    "3_AI Engineering/5.1 RAG/tạo câu h.md",
     "3_AI Engineering/5.1 RAG/attachments/Pasted image 20241219220354.png",
     "1. Lập trình nói chung/attachments"
   ]
