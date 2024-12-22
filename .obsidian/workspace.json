@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_English/1_thi VSTEP/4_listening.md",
+                "file": "2_English/1_thi VSTEP/4. Thi lần 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4_listening"
+              "title": "4. Thi lần 1"
             }
           }
         ]
@@ -167,6 +167,8 @@
   "lastOpenFiles": [
     "2_English/1_thi VSTEP/5.1 Listening.md",
     "2_English/1_thi VSTEP/5. Bộ đề.md",
+    "2_English/1_thi VSTEP/4. Đề Key.md",
+    "2_English/1_thi VSTEP/4_listening.md",
     "4.. Data Science/0. Data Visulization.md",
     "4.. Data Science/2. Big Data/1. Project - Dự án thực.md",
     "4_MLOPs và Full Stack Docker/Các đường link chưa học.md",
@@ -194,8 +196,6 @@
     "3_AI Engineering/5.2 LLMs/1. Open source for fine tuning.md",
     "3_AI Engineering/5.1 RAG/Tổng quát.md.md",
     "3_AI Engineering/5.1 RAG/tạo câu h.md",
-    "3_AI Engineering/5.1 RAG/Socring.md",
-    "3_AI Engineering/5.1 RAG/Sản phẩm đã có.md",
     "3_AI Engineering/5.1 RAG/attachments/Pasted image 20241219220354.png",
     "1. Lập trình nói chung/attachments"
   ]
