@@ -18,4 +18,7 @@
 Model: LightGCN,   P@10, R@10, P@10, R@10, ... 
 	EmerG 
 Results: inclusing : MF (baseline), BPR, NCF, DeepFM, FM, BiVAE, LightGCN, EmerG. 
+
+- Increase about result: Model: MF -> NCF -> 
+
 ---
