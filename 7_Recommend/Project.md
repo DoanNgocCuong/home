@@ -1,0 +1,12 @@
+- Nhóm 2: ... 
+- Nhóm 3: Book Recommneder system : 
+		- Dataset: User Data: 
+		- Aim to provide user 2 types of ouput : 
+			- Top-K Movie Recommendtions 
+			- Rating 
+	- RMSE: ...
+	- Methods: BPR, LighGCN, 
+	- mETRICS: RMSE, Precision @10, Recall @10 
+		- LightGCN, 
+	- Cold Start Problem: 
+	- 
