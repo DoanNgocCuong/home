@@ -11,14 +11,10 @@
             "id": "0ed7d1db0315ba89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_English/1_thi VSTEP/5.2 Writing - vì Reading ko lên trong thời gian ngắn nổi (Reading chỉ có đọc nhanh hơn, cân đối time hơn)..md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "5.2 Writing - vì Reading ko lên trong thời gian ngắn nổi (Reading chỉ có đọc nhanh hơn, cân đối time hơn)."
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "metrics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,9 +161,16 @@
   },
   "active": "0ed7d1db0315ba89",
   "lastOpenFiles": [
+    "3_AI Engineering/5.0 Metrics/1 vài metrics khác.md",
+    "3_AI Engineering/5.0 Metrics/Cách đánh giá phản hồi LLM.md",
+    "4.. Data Science/2. Big Data/2.3 Report nhóm mình.md",
+    "3_AI Engineering/3. Machine Learning/Decision Tree.md",
+    "3_AI Engineering/3. Machine Learning/1. Linear Regression.md",
+    "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.5_Agent/__init__.md",
+    "2_English/1_thi VSTEP/5.2 Writing - vì Reading ko lên trong thời gian ngắn nổi (Reading chỉ có đọc nhanh hơn, cân đối time hơn)..md",
     "1. Lập trình nói chung/Giải thuật thi đấu.md",
     "1. Lập trình nói chung/attachments/Pasted image 20241223213102.png",
-    "2_English/1_thi VSTEP/5.2 Writing - vì Reading ko lên trong thời gian ngắn nổi (Reading chỉ có đọc nhanh hơn, cân đối time hơn)..md",
     "4_MLOPs và Full Stack Docker/Deploy with GRAFANA.md",
     "4_MLOPs và Full Stack Docker/Các Link MLOPs.md",
     "4_MLOPs và Full Stack Docker/LLMFullStack/OpenSource pull về build FullStack.md",
@@ -185,17 +188,11 @@
     "4.. Data Science/2. Big Data/1. Project - Dự án thực.md",
     "4_MLOPs và Full Stack Docker/Các đường link chưa học.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/Beam search in NLP.md",
-    "3_AI Engineering/5.1 RAG/Raptor RAG.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/Untitled 3.md",
     "2_English/1_thi VSTEP/attachments/Pasted image 20241222154621.png",
     "2_English/1_thi VSTEP/attachments",
     "0_English/Pasted image 20241218022920.png",
     "0_English/attachments/Pasted image 20241218022807.png",
     "1. Lập trình nói chung/attachments/Pasted image 20241220193900.png",
-    "0_English/test ảnh.md",
-    "3_AI Engineering/5.0 Metrics/BM25.md",
-    "3_AI Engineering/5.0 Metrics/1 vài metrics khác.md",
-    "2024-12-22.md",
     "3_AI Engineering/5.1 RAG/attachments/Pasted image 20241219220354.png",
     "1. Lập trình nói chung/attachments"
   ]
