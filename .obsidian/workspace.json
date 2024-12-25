@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.. Data Science/2. Big Data/3.3 Post suggestion for web3.md",
+                "file": "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 Post suggestion for web3"
+              "title": "3. Đường dẫn trong lập trình"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "0ed7d1db0315ba89",
   "lastOpenFiles": [
-    "4.. Data Science/2. Big Data/3.2.md",
     "4.. Data Science/2. Big Data/3.3 Post suggestion for web3.md",
+    "4.. Data Science/2. Big Data/3.2.md",
     "3_AI Engineering/5.1 RAG/RAG Cache.md",
     "3_AI Engineering/5.1 RAG/RAG connect API Google search Eng.md",
     "3_AI Engineering/5.0 Metrics/RAGAS.md",
