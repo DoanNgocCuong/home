@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "524307e06162e8b1",
+        "id": "fe4eac4120300c1f",
         "type": "tabs",
         "children": [
           {
-            "id": "0ed7d1db0315ba89",
+            "id": "b8cd075989d833be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_AI Engineering/5.1 RAG/Chunking cải tiến bằng train Contrative Learning.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chunking cải tiến bằng train Contrative Learning"
+              "title": "New tab"
             }
           }
         ]
@@ -163,10 +159,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ed7d1db0315ba89",
+  "active": "b8cd075989d833be",
   "lastOpenFiles": [
-    "2_English/1_thi VSTEP/5.2 Writing - vì Reading ko lên trong thời gian ngắn nổi (Reading chỉ có đọc nhanh hơn, cân đối time hơn)..md",
+    "1. Lập trình nói chung/1.5 Cách code với tham số Augument.md",
     "3_AI Engineering/5.1 RAG/Chunking cải tiến bằng train Contrative Learning.md",
+    "2_English/1_thi VSTEP/5.2 Writing - vì Reading ko lên trong thời gian ngắn nổi (Reading chỉ có đọc nhanh hơn, cân đối time hơn)..md",
     "2_English/0. Chiến thuật.md",
     "2_English/3. Từ điển.md",
     "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
@@ -191,7 +188,6 @@
     "7_Recommend/Project.md",
     "7_Recommend/Summary.md",
     "7_Recommend/Note.md",
-    "2_English/1_thi VSTEP/5. Bộ đề và chiến lược.md",
     "2_English/1_thi VSTEP/attachments/Pasted image 20241222154621.png",
     "2_English/1_thi VSTEP/attachments",
     "0_English/Pasted image 20241218022920.png",
