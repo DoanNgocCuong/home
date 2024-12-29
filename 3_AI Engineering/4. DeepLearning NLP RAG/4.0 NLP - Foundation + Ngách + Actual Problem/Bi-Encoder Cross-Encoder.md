@@ -224,3 +224,5 @@ nếu bạn cần **độ chính xác cao** và có thể tính toán mối quan
 Link đọc thêm: 
 1. [Cross-Encoders — Sentence Transformers documentation](https://www.sbert.net/examples/applications/cross-encoder/README.html)
 2. [7: Difference between Bi-Encoder and Cross-Encoder architectures. | Download Scientific Diagram](https://www.researchgate.net/figure/Difference-between-Bi-Encoder-and-Cross-Encoder-architectures_fig7_364814907)
+![[Pasted image 20241230000803.png]]
+
