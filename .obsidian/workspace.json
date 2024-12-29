@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,8 +163,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8cd075989d833be",
+  "active": "de333728293ea4d4",
   "lastOpenFiles": [
+    "3_AI Engineering/5.1 RAG/Các phương pháp RAG/1. Raptor",
+    "3_AI Engineering/5.1 RAG/Các phương pháp RAG",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/attachments/Pasted image 20241230000803.png",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/attachments",
     "_posts/2024-07-27-Bai-viet-1-Image-Prompting-P1.md",
