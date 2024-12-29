@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/1.2 Bun - JavaScript.md",
+                "file": "9_report/1. Đánh Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Bun - JavaScript"
+              "title": "1. Đánh Words"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "web",
+                "query": "words",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,10 +163,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8cd075989d833be",
+  "active": "de333728293ea4d4",
   "lastOpenFiles": [
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/1.2 Bun - JavaScript.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
     "1. Lập trình nói chung/1.5 Cách code với tham số Augument.md",
     "3_AI Engineering/5.1 RAG/Chunking cải tiến bằng train Contrative Learning.md",
     "2_English/1_thi VSTEP/5.2 Writing - vì Reading ko lên trong thời gian ngắn nổi (Reading chỉ có đọc nhanh hơn, cân đối time hơn)..md",
