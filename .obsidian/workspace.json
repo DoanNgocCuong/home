@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8_Blockchain/1. Course.md",
+                "file": "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/Bi-Encoder Cross-Encoder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Course"
+              "title": "Bi-Encoder Cross-Encoder"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "words",
+                "query": "encoder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,8 +166,9 @@
   },
   "active": "b8cd075989d833be",
   "lastOpenFiles": [
-    "9_report/1. Đánh Words.md",
+    "_posts/2024-07-27-Bai-viet-1-Image-Prompting-P1.md",
     "8_Blockchain/1. Course.md",
+    "9_report/1. Đánh Words.md",
     "8_Blockchain",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/1.2 Bun - JavaScript.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
@@ -192,7 +194,6 @@
     "1. Lập trình nói chung/Giải thuật thi đấu.md",
     "1. Lập trình nói chung/attachments/Pasted image 20241223213102.png",
     "4_MLOPs và Full Stack Docker/Deploy with GRAFANA.md",
-    "4_MLOPs và Full Stack Docker/Các Link MLOPs.md",
     "2_English/1_thi VSTEP/attachments/Pasted image 20241222154621.png",
     "2_English/1_thi VSTEP/attachments",
     "0_English/Pasted image 20241218022920.png",

@@ -218,3 +218,9 @@ Cross-encoder sử dụng mô hình encoder duy nhất để mã hóa một chu�
 - **Cross-encoder** là lựa chọn tốt
 
 nếu bạn cần **độ chính xác cao** và có thể tính toán mối quan hệ chi tiết giữa câu hỏi và câu trả lời, đặc biệt khi làm task reranking hoặc phân loại câu trả lời.
+
+
+----
+Link đọc thêm: 
+1. [Cross-Encoders — Sentence Transformers documentation](https://www.sbert.net/examples/applications/cross-encoder/README.html)
+2. [7: Difference between Bi-Encoder and Cross-Encoder architectures. | Download Scientific Diagram](https://www.researchgate.net/figure/Difference-between-Bi-Encoder-and-Cross-Encoder-architectures_fig7_364814907)
