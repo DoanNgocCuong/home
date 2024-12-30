@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de333728293ea4d4",
+  "active": "0cf1f93d49c9ecae",
   "lastOpenFiles": [
     "3_AI Engineering/5.1 RAG/Các phương pháp RAG/1. Raptor",
     "3_AI Engineering/5.1 RAG/Các phương pháp RAG",
