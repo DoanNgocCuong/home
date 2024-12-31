@@ -21,7 +21,8 @@
               "title": "2.1.2 Docker - Docker Hub"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -73,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8cd075989d833be",
+  "active": "3f1740ce27ce91d7",
   "lastOpenFiles": [
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/__init__ Deploy Docker Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
