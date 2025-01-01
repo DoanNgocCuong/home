@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Summary/1..md",
+                "file": "3_AI Engineering/5.1 RAG/GRAPH_RAG/Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1."
+              "title": "Note"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Summary/1..md"
+                "file": "3_AI Engineering/5.1 RAG/GRAPH_RAG/Note.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1."
+              "title": "Outline of Note"
             }
           }
         ],
@@ -166,8 +166,8 @@
   },
   "active": "b8cd075989d833be",
   "lastOpenFiles": [
-    "3_AI Engineering/5.1 RAG/GRAPH_RAG/Note.md",
     "0. Summary/1..md",
+    "3_AI Engineering/5.1 RAG/GRAPH_RAG/Note.md",
     "0. Summary",
     "4.. Data Science/2. Big Data/2.3 Report nhóm mình.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.1.2 Docker - Docker Hub.md",
