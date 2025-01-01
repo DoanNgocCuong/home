@@ -1,0 +1,1 @@
+- Go, java, bun cho backend né python
