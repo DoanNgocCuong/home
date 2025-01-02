@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/Backend.md",
+                "file": "3_AI Engineering/5.1 RAG/1. Raptor RAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend"
+              "title": "1. Raptor RAG"
             }
           }
         ],
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "web",
+                "query": "RAPTOR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/Backend.md"
+                "file": "3_AI Engineering/5.1 RAG/1. Raptor RAG.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Backend"
+              "title": "Outline of 1. Raptor RAG"
             }
           }
         ],
@@ -164,10 +164,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8cd075989d833be",
+  "active": "de333728293ea4d4",
   "lastOpenFiles": [
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/1.2 Bun - JavaScript.md",
+    "3_AI Engineering/5.1 RAG/Benchmark - Dataset.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/Backend.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/1.2 Bun - JavaScript.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
     "3_AI Engineering/5.1 RAG/GRAPH_RAG/Note.md",
     "0. Summary/1..md",
@@ -197,7 +198,6 @@
     "4.. Data Science/2. Big Data/3.2.md",
     "3_AI Engineering/5.1 RAG/RAG Cache.md",
     "3_AI Engineering/5.1 RAG/RAG connect API Google search Eng.md",
-    "3_AI Engineering/5.0 Metrics/RAGAS.md",
     "1. Lập trình nói chung/attachments/Pasted image 20241223213102.png",
     "2_English/1_thi VSTEP/attachments/Pasted image 20241222154621.png",
     "2_English/1_thi VSTEP/attachments",
