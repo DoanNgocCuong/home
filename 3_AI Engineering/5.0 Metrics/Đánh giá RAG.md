@@ -34,3 +34,6 @@ The generated answer is regarded as faithful if all the claims made in the answe
 
 
 ![[Pasted image 20250103155417.png]]
+# Đánh giá: 
+- Độ chính xác 
+- 
