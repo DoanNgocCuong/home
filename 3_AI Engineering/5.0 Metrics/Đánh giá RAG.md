@@ -26,3 +26,14 @@ Bash
 1. Các chỉ 
 2. Đánh giá: Faithfulness, Answer Relevancy (BLEU, ROUGH), Context Relevancy (LLM) . 
 3. LLM mạnh hơn, hoặc người. 
+
+
+- [Faithfulness - Ragas](https://docs.ragas.io/en/latest/concepts/metrics/available_metrics/faithfulness/#faithfullness-with-hhem-21-open)   []
+## Faithfulness
+
+`Faithfulness` metric measures the factual consistency of the generated answer against the given context. It is calculated from answer and retrieved context. The answer is scaled to (0,1) range. Higher the better.
+
+The generated answer is regarded as faithful if all the claims made in the answer can be inferred from the given context. To calculate this, a set of claims from the generated answer is first identified. Then each of these claims is cross-checked with the given context to determine if it can be inferred from the context. The faithfulness score is given by:
+
+
+![[Pasted image 20250103155417.png]]
