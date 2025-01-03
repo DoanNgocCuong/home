@@ -17,16 +17,13 @@ Bash
 +, Metrics Logic: BLEU Score, ROUGE Scor
     - BLEU Score: Đo lường mức độ trùng khớp giữa văn bản mô hình tạo ra và văn bản tham chiếu. Lý do: Đánh giá khả năng tạo ra câu trả lời tương đồng với dữ liệu mẫu.
     - ROUGE Score: Tập trung vào khả năng hồi tưởng, so sánh số lượng n-gram, từ hoặc câu từ văn bản tham chiếu có trong phản hồi của mô hình. Lý do: Đo lường khả năng mô hình nắm bắt thông tin chính xác từ câu hỏi.
-    - Context Retention: Đánh giá khả năng duy trì ngữ cảnh qua các câu hỏi liên tiếp. Lý do: Kiểm tra tính mạch lạc và hiểu ngữ cảnh trong hội thoại dài.
     - F1-score: Kết hợp giữa Precision (độ chính xác) và Recall (khả năng hồi tưởng) để đo lường hiệu quả mô hình. Lý do: Đánh giá khả năng trả lời đúng cho các câu hỏi có đáp án cụ thể.
-	- 
-	- Judge: LLM  , 
+	- Judge: LLM Scoring. 
 
 
-1. Các chỉ 
+1. LLM mạnh hơn, hoặc người. 
 2. Đánh giá: Faithfulness, Answer Relevancy (BLEU, ROUGH), Context Relevancy (LLM) . 
-3. LLM mạnh hơn, hoặc người. 
-
+3. Bổ sung: Context Retention: Đánh giá khả năng duy trì ngữ cảnh qua các câu hỏi liên tiếp. Lý do: Kiểm tra tính mạch lạc và hiểu ngữ cảnh trong hội thoại dài.
 
 - [Faithfulness - Ragas](https://docs.ragas.io/en/latest/concepts/metrics/available_metrics/faithfulness/#faithfullness-with-hhem-21-open)   []
 ## Faithfulness
