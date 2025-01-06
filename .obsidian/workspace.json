@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
+                "file": "7_Recommend/Report các nhóm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. git, SOLID, Code chuẩn"
+              "title": "Report các nhóm"
             }
           }
         ],
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "web",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md"
+                "file": "7_Recommend/Report các nhóm.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. git, SOLID, Code chuẩn"
+              "title": "Outline of Report các nhóm"
             }
           }
         ],
@@ -166,6 +166,11 @@
   },
   "active": "b8cd075989d833be",
   "lastOpenFiles": [
+    "7_Recommend/__init__.md",
+    "7_Recommend/Project.md",
+    "7_Recommend/Note.md",
+    "7_Recommend/Summary.md",
+    "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.5_Agent/__init__.md",
     "3_AI Engineering/3. Machine Learning/KNN.md",
     "3_AI Engineering/3. Machine Learning/1. Linear regression Link.md",
@@ -190,15 +195,10 @@
     "4.. Data Science/2. Big Data/2.3 Report nhóm mình.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.1.2 Docker - Docker Hub.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/__init__ Deploy Docker Web.md",
-    "3_AI Engineering/5.0 Metrics/1 vài metrics khác.md",
-    "3_AI Engineering/5.1 RAG/3. Metrics.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/Bi-Encoder Cross-Encoder.md",
     "3_AI Engineering/5.1 RAG/Các phương pháp RAG/1. Raptor",
     "3_AI Engineering/5.1 RAG/Các phương pháp RAG",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/attachments/Pasted image 20241230000803.png",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/attachments",
-    "_posts/2024-07-27-Bai-viet-1-Image-Prompting-P1.md",
-    "8_Blockchain/1. Course.md",
     "8_Blockchain",
     "1. Lập trình nói chung/attachments/Pasted image 20241223213102.png",
     "2_English/1_thi VSTEP/attachments/Pasted image 20241222154621.png",
