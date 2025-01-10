@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
+                "file": "3_AI Engineering/5.3 AI Agent/AI Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Đường dẫn trong lập trình"
+              "title": "AI Agent"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md"
+                "file": "3_AI Engineering/5.3 AI Agent/AI Agent.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Đường dẫn trong lập trình"
+              "title": "Outline of AI Agent"
             }
           }
         ],
@@ -166,6 +166,8 @@
   },
   "active": "b8cd075989d833be",
   "lastOpenFiles": [
+    "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
+    "3_AI Engineering/5.3 AI Agent/AI Agent.md",
     "10_aLaptop/1. Dọn file.md",
     "3_AI Engineering/5.2 LLMs/3. 4o, 4o mini.md",
     "10_aLaptop",
@@ -197,8 +199,6 @@
     "3_AI Engineering/3. Machine Learning/1. Linear regression Link.md",
     "3_AI Engineering/3. Machine Learning/1. Linear Regression.md",
     "9_report/1. Đánh Words.md",
-    "3_AI Engineering/Prompting/2. Prompt o1.md",
-    "3_AI Engineering/Prompting/1. Prompting Turning.md",
     "3_AI Engineering/5.0 Metrics/attachments/Pasted image 20250103155417.png",
     "3_AI Engineering/5.0 Metrics/attachments",
     "0. Summary",
