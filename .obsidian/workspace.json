@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_aLaptop/1. Dọn file.md",
+                "file": "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Dọn file"
+              "title": "3. Đường dẫn trong lập trình"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_aLaptop/1. Dọn file.md"
+                "file": "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Dọn file"
+              "title": "Outline of 3. Đường dẫn trong lập trình"
             }
           }
         ],
@@ -166,8 +166,8 @@
   },
   "active": "b8cd075989d833be",
   "lastOpenFiles": [
-    "3_AI Engineering/5.2 LLMs/3. 4o, 4o mini.md",
     "10_aLaptop/1. Dọn file.md",
+    "3_AI Engineering/5.2 LLMs/3. 4o, 4o mini.md",
     "10_aLaptop",
     "Excel/1.1 Percentile.md",
     "Excel/excel.md",
