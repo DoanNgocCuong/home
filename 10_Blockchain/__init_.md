@@ -9,4 +9,7 @@
 
 -- code mì ăn liền, code khó chịu -- 
 
-web 3: web 3 
+web 3: web 3 web thế hệ thứ 3. 
+- blockchain 2014 
+- [Web3 là gì? Tất tần tật kiến thức về Web 3.0 nên biết](https://cellphones.com.vn/sforum/web3-la-gi)
+- 10 k trên điện thoại của Viet
