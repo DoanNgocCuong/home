@@ -11,14 +11,10 @@
             "id": "b8cd075989d833be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6. Server Deploy -"
+              "title": "New tab"
             }
           }
         ],
@@ -95,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.1.2 Docker - Docker Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. Server Deploy -"
+              "title": "Backlinks for 2.1.2 Docker - Docker Hub"
             }
           },
           {
@@ -114,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.1.2 Docker - Docker Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6. Server Deploy -"
+              "title": "Outgoing links from 2.1.2 Docker - Docker Hub"
             }
           },
           {
@@ -140,19 +136,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 6. Server Deploy -"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,15 +155,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c1eeb43cdda49c0",
+  "active": "b8cd075989d833be",
   "lastOpenFiles": [
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
     "4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
     "8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
     "4_MLOPs và Full Stack Docker/5. API - Python.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
     "10_Blockchain/__init_.md",
     "11_Deep RF Learning/__init__.md",
     "10_Blockchain",
@@ -200,7 +196,6 @@
     "8_Project/1_dify/Module2_Database/__init__ Project Dify Module2_Database.md",
     "7_Recommend/Report các nhóm.md",
     "7_Recommend/__init__.md",
-    "7_Recommend/Project.md",
     "3_AI Engineering/5.0 Metrics/attachments/Pasted image 20250103155417.png",
     "3_AI Engineering/5.0 Metrics/attachments",
     "0. Summary",
