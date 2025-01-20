@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
+                "file": "3_AI Engineering/5.1 RAG/Kiến trúc RAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Server Deploy -"
+              "title": "Kiến trúc RAG"
             }
           }
         ],
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "103",
+                "query": "NLP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md"
+                "file": "3_AI Engineering/5.1 RAG/Kiến trúc RAG.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Server Deploy -"
+              "title": "Outline of Kiến trúc RAG"
             }
           }
         ],
@@ -167,36 +166,36 @@
   },
   "active": "b8cd075989d833be",
   "lastOpenFiles": [
+    "3_AI Engineering/5.1 RAG/NOTE RAG PRODUCTION.md",
+    "3_AI Engineering/5.1 RAG/RAG Cache.md",
+    "3_AI Engineering/5.1 RAG/RAG connect API Google search Eng.md",
+    "3_AI Engineering/5.1 RAG/RAG for Math.md",
+    "3_AI Engineering/5.1 RAG/Reference.md",
+    "3_AI Engineering/5.1 RAG/Resources.md",
+    "3_AI Engineering/5.1 RAG/Sản phẩm đã có.md",
+    "3_AI Engineering/5.1 RAG/Socring.md",
+    "3_AI Engineering/5.1 RAG/Soft Prompt.md",
+    "3_AI Engineering/5.1 RAG/Tổng quát.md.md",
+    "3_AI Engineering/5.1 RAG/Untitled.md",
+    "3_AI Engineering/1 số nguồn có vẻ hay chưa đọc.md",
+    "3_AI Engineering/Roadmap.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/General NLP.md",
+    "3_AI Engineering/5.1 RAG/Chunking cải tiến bằng train Contrative Learning.md",
+    "2_English/1. Listening Foundation.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. venv - Docker - k8s Cloud.md",
     "8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
-    "2_English/1. Listening Foundation.md",
     "2_English/1_thi VSTEP/6. Thi lần 2.md",
     "2_English/1_thi VSTEP/attachments/Pasted image 20250119110320.png",
     "2_English/2. Mở rộng câu.md",
     "2_English/0. Chiến thuật.md",
     "2_English/1_thi VSTEP/Link xem thêm.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
     "4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
     "4_MLOPs và Full Stack Docker/5. API - Python.md",
-    "10_Blockchain/__init_.md",
-    "11_Deep RF Learning/__init__.md",
     "10_Blockchain",
-    "3_AI Engineering/3. Machine Learning/6. Tabular Data with XGBoost and Update Transformer.md",
     "11_Deep RF Learning",
-    "3_AI Engineering/3. Machine Learning/__init__ MACHINE LEARNING.md",
-    "3_AI Engineering/5.3 AI Agent/AI Agent.md",
-    "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
-    "10_aLaptop/1. Dọn file.md",
-    "3_AI Engineering/5.2 LLMs/3. 4o, 4o mini.md",
     "10_aLaptop",
-    "Excel/1.1 Percentile.md",
-    "Excel/excel.md",
-    "Excel/__init__.md",
-    "1. Lập trình nói chung/1.5 Cách code với tham số Augument.md",
-    "1. Lập trình nói chung/1. Python.md",
-    "3_AI Engineering/Embedding model/__init__ Embedding model.md",
-    "Moxie/Moxie.md",
     "3_AI Engineering/Embedding model",
     "Moxie/attachments/Pasted image 20250107182234.png",
     "Moxie/attachments",
