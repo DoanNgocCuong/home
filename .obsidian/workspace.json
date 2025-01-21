@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/2. MLOps.md",
+                "file": "4_MLOPs và Full Stack Docker/tài liệu MLOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. MLOps"
+              "title": "tài liệu MLOps"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/2. MLOps.md"
+                "file": "4_MLOPs và Full Stack Docker/tài liệu MLOps.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. MLOps"
+              "title": "Outline of tài liệu MLOps"
             }
           }
         ],
@@ -166,8 +166,8 @@
   },
   "active": "b8cd075989d833be",
   "lastOpenFiles": [
-    "4_MLOPs và Full Stack Docker/Các đường link chưa học.md",
     "4_MLOPs và Full Stack Docker/2. MLOps.md",
+    "4_MLOPs và Full Stack Docker/Các đường link chưa học.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/3. venv - Docker - k8s Cloud.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/1.2 Bun - JavaScript.md",
