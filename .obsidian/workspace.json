@@ -25,12 +25,14 @@
             "id": "ad39b164200a1e4e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Bài tập/Bài 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Bài 1"
             }
           }
         ],
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_English/1_thi VSTEP/6. Thi lần 2.md",
+                "file": "Bài tập/Bài 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Thi lần 2"
+              "title": "Outline of Bài 1"
             }
           }
         ],
@@ -183,6 +185,8 @@
   },
   "active": "ad39b164200a1e4e",
   "lastOpenFiles": [
+    "Bài tập/Bài 1.md",
+    "Bài tập",
     "0_English/test ảnh.md",
     "0_English/attachments/Pasted image 20241218022807.png",
     "0_English/Pasted image 20241218022920.png",
@@ -222,7 +226,6 @@
     "Excel",
     "3_AI Engineering/5.0 Metrics/attachments/Pasted image 20250103155417.png",
     "3_AI Engineering/5.0 Metrics/attachments",
-    "0. Summary",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/attachments/Pasted image 20241230000803.png",
     "1. Lập trình nói chung/attachments/Pasted image 20241223213102.png",
     "2_English/1_thi VSTEP/attachments/Pasted image 20241222154621.png",
