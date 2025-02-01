@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "6. Thi lần 2"
             }
+          },
+          {
+            "id": "ad39b164200a1e4e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -41,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -140,7 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_English/1_thi VSTEP/6. Thi lần 2.md"
+                "file": "2_English/1_thi VSTEP/6. Thi lần 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of 6. Thi lần 2"
@@ -164,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55504d0779c13f3e",
+  "active": "ad39b164200a1e4e",
   "lastOpenFiles": [
     "0_English/test ảnh.md",
     "0_English/attachments/Pasted image 20241218022807.png",
