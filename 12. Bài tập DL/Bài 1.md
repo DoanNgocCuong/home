@@ -77,3 +77,6 @@ w2(new)=w2(old) + alpha * (1 - -0.3) = 0.1 + 0.05 * 1.3 =
 - w1(new)=0.7
 - w2(new)=0.3
 - w3(new)=−0.5
+
+---
+5 features, 4 categories, 4 hidden layers, 5*7 + 7*7 + 7*7 + 7*7 + 7*4 = 210 weights. 
