@@ -56,6 +56,7 @@ y = 1 if net_input >= 0 else -1  # Activation function (sign)
 
 # Perceptron update rule: w_k(new) = w_k(old) + alpha * x_k * (t - y)
 w_new = [w_old[0] + alpha * (t - y)]  # Start with w0 update
+									 # t: goundtruth, y: predict
 for i in range(3):
     w_new.append(w_old[i+1] + alpha * x[i] * (t - y))
 
