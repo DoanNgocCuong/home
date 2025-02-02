@@ -69,6 +69,6 @@ The updated weights after applying the perceptron learning rule are:
 - w2(new)=0.3
 - w3(new)=−0.5
 
-(w0, w1, w2,w3)old = (-0.5, 0.6, 0.1, -0.6)
+(w0, w1, w2, w3)old = (-0.5, 0.6, 0.1, -0.6)
 
 w2(new)=w2(old) + alpha * ()
