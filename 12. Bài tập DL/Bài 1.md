@@ -80,3 +80,44 @@ w2(new)=w2(old) + alpha * (1 - -0.3) = 0.1 + 0.05 * 1.3 =
 
 ---
 5 features, 4 categories, 4 hidden layers, 5*7 + 7*7 + 7*7 + 7*7 + 7*4 = 210 weights. 
+
+---
+### **Cách xây dựng ma trận nhầm lẫn (Confusion Matrix):**
+
+**Ma trận nhầm lẫn** là công cụ quan trọng trong học máy để đánh giá hiệu suất của mô hình phân loại.
+
+---
+
+### **Ý nghĩa của từng thành phần:**
+
+- **P (Positive)**: Là trường hợp **malign (ác tính)**.
+- **N (Negative)**: Là trường hợp **benign (lành tính)**.
+
+|Dự đoán / Thực tế|Positive (malign)|Negative (benign)|
+|---|---|---|
+|**Positive (malign)**|True Positive (TP)|False Positive (FP)|
+|**Negative (benign)**|False Negative (FN)|True Negative (TN)|
+
+---
+
+### **Giải thích các thành phần:**
+
+1. **TP (True Positive)**:
+    
+    - Mô hình **dự đoán đúng** trường hợp ác tính (malign).
+    - Ví dụ: Nếu bệnh nhân thật sự mắc bệnh (malign) và mô hình cũng dự đoán là mắc bệnh.
+2. **FP (False Positive)**:
+    
+    - Mô hình **dự đoán sai** trường hợp ác tính khi thực tế là lành tính.
+    - Ví dụ: Bệnh nhân không mắc bệnh (benign) nhưng mô hình dự đoán nhầm là mắc bệnh.
+3. **FN (False Negative)**:
+    
+    - Mô hình **dự đoán sai** trường hợp lành tính khi thực tế là ác tính.
+    - Ví dụ: Bệnh nhân thật sự mắc bệnh (malign) nhưng mô hình dự đoán nhầm là không mắc bệnh (benign).
+4. **TN (True Negative)**:
+    
+    - Mô hình **dự đoán đúng** trường hợp lành tính (benign).
+    - Ví dụ: Bệnh nhân không mắc bệnh (benign) và mô hình cũng dự đoán là không mắc bệnh.
+
+---
+
