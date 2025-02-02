@@ -63,13 +63,17 @@ for i in range(3):
 w_new
 ```
 
-The updated weights after applying the perceptron learning rule are:
+Câu 1.b 
+
+(w0, w1, w2, w3)old = (-0.5, 0.6, 0.1, -0.6)
+
+y = -0.5 + 0.6 * 1 + 0.1 * 2 + -0.6 *1 = -0.3
+
+w0(new)=w0(old) + alpha * (1 - -0.3) = -0.5 + 0.05 * 1.3 = 
+w1(new)=w1(old) + alpha * (1 - -0.3) = 0.6 + 0.05 * 1.3 = 
+w2(new)=w2(old) + alpha * (1 - -0.3) = 0.1 + 0.05 * 1.3 = 
 
 - w0(new)=−0.4
 - w1(new)=0.7
 - w2(new)=0.3
 - w3(new)=−0.5
-
-(w0, w1, w2, w3)old = (-0.5, 0.6, 0.1, -0.6)
-
-w2(new)=w2(old) + alpha * ()
