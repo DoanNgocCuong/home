@@ -38,3 +38,37 @@ Kết quả −0.3≤0-0.3 \leq 0, nên y=−1y = -1 (Does not go sailing).
 
 - **Example 1:** Does not go sailing.
 - **Example 2:** Does not go sailing.
+
+## Bài 1.b: 
+
+![[Pasted image 20250202194724.png]]
+
+```python
+# Given values
+alpha = 0.05  # Learning rate
+t = 1  # Target output for the second example
+x = [1, 2, 1]  # Inputs (x1, x2, x3)
+w_old = [-0.5, 0.6, 0.1, -0.6]  # (w0, w1, w2, w3) old values
+
+# Calculate current prediction y = sign(w0 + w1 * x1 + w2 * x2 + w3 * x3)
+net_input = w_old[0] + w_old[1] * x[0] + w_old[2] * x[1] + w_old[3] * x[2]
+y = 1 if net_input >= 0 else -1  # Activation function (sign)
+
+# Perceptron update rule: w_k(new) = w_k(old) + alpha * x_k * (t - y)
+w_new = [w_old[0] + alpha * (t - y)]  # Start with w0 update
+for i in range(3):
+    w_new.append(w_old[i+1] + alpha * x[i] * (t - y))
+
+w_new
+```
+
+The updated weights after applying the perceptron learning rule are:
+
+- w0(new)=−0.4
+- w1(new)=0.7
+- w2(new)=0.3
+- w3(new)=−0.5
+
+(w0, w1, w2,w3)old = (-0.5, 0.6, 0.1, -0.6)
+
+w2(new)=w2(old) + alpha * ()
