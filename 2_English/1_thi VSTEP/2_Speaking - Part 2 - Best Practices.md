@@ -1,4 +1,13 @@
 
+### Speaking Part 1: 
+
+
+![[Pasted image 20241214120823.png]]
+
+
+### Speaking Part 2: 
+
+
 ```
 1. **I would like to tell the situation:** A group of people is planning a trip from Da Nang to Ha Noi. Three means of transport are suggested: by train, by plane, by coach. 
 

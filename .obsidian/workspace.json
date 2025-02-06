@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
+                "file": "2_English/1_thi VSTEP/2_Speaking - Part 2 - Best Practices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Server Deploy -"
+              "title": "2_Speaking - Part 2 - Best Practices"
             }
           }
         ],
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
+                "file": "2_English/1_thi VSTEP/2_Speaking - Part 2 - Best Practices.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Server Deploy -"
+              "title": "Outline of 2_Speaking - Part 2 - Best Practices"
             }
           }
         ],
@@ -171,6 +170,11 @@
   },
   "active": "ad39b164200a1e4e",
   "lastOpenFiles": [
+    "2_English/1_thi VSTEP/1_Cấu trúc.md",
+    "2_English/1_thi VSTEP/1. Link khởi động B1.md",
+    "2_English/1_thi VSTEP/2_Speaking - Part 2 - Best Practices.md",
+    "2_English/1_thi VSTEP/6. Thi lần 2.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "4_MLOPs và Full Stack Docker/1. Git/5. Thêm.md",
     "4_MLOPs và Full Stack Docker/1. Git/4. git convention - chuẩn.md",
@@ -187,7 +191,6 @@
     "0_English/attachments/Pasted image 20241218022807.png",
     "0_English/Pasted image 20241218022920.png",
     "4.. Data Science/2. Big Data/2.3 Report nhóm mình.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
     "Excel/1.1 Percentile.md",
     "3_AI Engineering/5.0 Metrics/Metrics LLMs và RAG.md",
@@ -199,10 +202,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/1.2 Bun - JavaScript.md",
     "3_AI Engineering/5.1 RAG/Kiến trúc RAG.md",
     "3_AI Engineering/5.1 RAG/NOTE RAG PRODUCTION.md",
-    "3_AI Engineering/5.1 RAG/RAG Cache.md",
-    "3_AI Engineering/5.1 RAG/RAG connect API Google search Eng.md",
-    "3_AI Engineering/5.1 RAG/RAG for Math.md",
-    "3_AI Engineering/5.1 RAG/Reference.md",
     "2_English/1_thi VSTEP/attachments/Pasted image 20250119110320.png",
     "10_Blockchain",
     "11_Deep RF Learning",
