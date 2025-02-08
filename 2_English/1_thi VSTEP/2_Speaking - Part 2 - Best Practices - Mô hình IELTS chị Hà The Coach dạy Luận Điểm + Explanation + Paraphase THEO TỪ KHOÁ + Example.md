@@ -1,12 +1,23 @@
 Link: 
 - [Hướng dẫn giải đề VSTEP Speaking (Đề số 1)](https://www.youtube.com/watch?v=3LvobG4vI0c)
-# Speaking Part 1: 
+# Speaking Part 1: - 17/12/2024
 
 
 ![[Pasted image 20241214120823.png]]
 
 ![[Pasted image 20250209012155.png]]
 ![[Pasted image 20250209012433.png]]
+```
+Yes, I enjoy listening to music because it’s really beneficial to my mental health. Listening to different kinds of music like pop, R&B, and rock helps me reduce stress after work and boost my energy. Thanks to this, I can always stay positive.
+
+Yes, I do, I love commuting by public transport because it’s really beneficial to the environment. Using means of transportation like buses and trains helps decrease the number of private vehicles on the road, which, in turn, reduces CO2. Thanks to this, air quality could be greatly improved.
+```
+
+## Summary Part 1:
+B1: Yes/No, I [verb] because it’s [adjective] to [topic/area].  
+B2: (Bảng các từ khóa chính và cụ thể hóa)  
+B3: Using [examples] helps [benefit/effect]. Thanks to this, [positive result].  
+
 # Speaking Part 2: 
 
 
@@ -41,7 +52,7 @@ Hoặc:
 
 
 ---
-## Summary Part 2: 
+## Summary Part 2: - 09/02/2025
 ### 1. Describe the Situation
 
 **Purpose:** Set the context and list the available options.
