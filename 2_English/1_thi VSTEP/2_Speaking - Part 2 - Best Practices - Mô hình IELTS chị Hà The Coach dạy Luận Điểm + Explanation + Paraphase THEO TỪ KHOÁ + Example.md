@@ -5,9 +5,8 @@ Link:
 
 ![[Pasted image 20241214120823.png]]
 
-![[Pasted image 20250209011103.png]]
-
-1. When I was in hi
+![[Pasted image 20250209012155.png]]
+![[Pasted image 20250209012433.png]]
 # Speaking Part 2: 
 
 
