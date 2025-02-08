@@ -1,5 +1,6 @@
 Link: 
 - [Hướng dẫn giải đề VSTEP Speaking (Đề số 1)](https://www.youtube.com/watch?v=3LvobG4vI0c)
+- [Thay Đổi Hoàn Toàn Tư Duy Học Tiếng Anh Qua Câu Chuyện Của Một Chiếc Ly Rỗng](https://www.youtube.com/playlist?list=PLK5zomhlgk5pn3f1uRkU2tRI1YQ5Qb-Q5)
 # Speaking Part 1: - 17/12/2024
 
 
@@ -18,6 +19,8 @@ B1: Yes/No, I [verb] because it’s [adjective] to [topic/area].
 B2: (Bảng các từ khóa chính và cụ thể hóa)  
 B3: Using [examples] helps [benefit/effect]. Thanks to this, [positive result].  
 
+My favorite sport is football, because it helps me to improve my health. 
+We usually play 2-3 times in a week. It helps to connect everyone and loss weight. Thanks to this, I can confident when do learning and working in the life. 
 # Speaking Part 2: 
 
 

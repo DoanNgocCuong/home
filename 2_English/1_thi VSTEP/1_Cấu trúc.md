@@ -1,5 +1,9 @@
 - Link 1: https://youtube.com/playlist?list=PLQyIFBsiXn10vk7uxYq8ZkPu0dltmWBX_&feature=shared
 - Link 2: (part 2 speaking) https://youtu.be/SQoTTyA1sSE?feature=shared
+- Link 3: Update bài Speaking ngon hơn
+[Hướng dẫn giải đề VSTEP Speaking (Đề số 1)](https://www.youtube.com/watch?v=3LvobG4vI0c)
+- [Thay Đổi Hoàn Toàn Tư Duy Học Tiếng Anh Qua Câu Chuyện Của Một Chiếc Ly Rỗng](https://www.youtube.com/playlist?list=PLK5zomhlgk5pn3f1uRkU2tRI1YQ5Qb-Q5)
+
 
 ------------
 ![[Pasted image 20241214123423.png]]

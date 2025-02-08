@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_English/1_thi VSTEP/2_Speaking - Part 2 - Best Practices - Mô hình IELTS chị Hà The Coach dạy Luận Điểm + Explanation (because - helps, thanks to)  + Paraphase THEO TỪ KHOÁ + Example.md",
+                "file": "2_English/1_thi VSTEP/1_Cấu trúc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2_Speaking - Part 2 - Best Practices - Mô hình IELTS chị Hà The Coach dạy Luận Điểm + Explanation (because - helps, thanks to)  + Paraphase THEO TỪ KHOÁ + Example"
+              "title": "1_Cấu trúc"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_English/1_thi VSTEP/2_Speaking - Part 2 - Best Practices - Mô hình IELTS chị Hà The Coach dạy Luận Điểm + Explanation (because - helps, thanks to)  + Paraphase THEO TỪ KHOÁ + Example.md",
+                "file": "2_English/1_thi VSTEP/1_Cấu trúc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2_Speaking - Part 2 - Best Practices - Mô hình IELTS chị Hà The Coach dạy Luận Điểm + Explanation (because - helps, thanks to)  + Paraphase THEO TỪ KHOÁ + Example"
+              "title": "Outline of 1_Cấu trúc"
             }
           }
         ],
@@ -170,18 +170,19 @@
   },
   "active": "ad39b164200a1e4e",
   "lastOpenFiles": [
+    "2_English/1_thi VSTEP/Link xem thêm.md",
+    "2_English/1_thi VSTEP/1_Cấu trúc.md",
+    "2_English/1_thi VSTEP/2_Speaking - Part 1+2 - Best Practices - Mô hình IELTS chị Hà The Coach dạy Luận Điểm + Explanation (because - helps, thanks to)  + Paraphase THEO TỪ KHOÁ + Example.md",
+    "2_English/1_thi VSTEP/3.1 Viết Thư (letter or email).md",
+    "2_English/1_thi VSTEP/3.2 Luận + Speaking part 3.md",
     "2_English/1_thi VSTEP/attachments/Pasted image 20250209012433.png",
     "2_English/1_thi VSTEP/attachments/Pasted image 20250209012155.png",
     "2_English/1_thi VSTEP/attachments/Pasted image 20250209011103.png",
     "2_English/1_thi VSTEP/1. Link khởi động B1.md",
-    "2_English/1_thi VSTEP/Link xem thêm.md",
-    "2_English/1_thi VSTEP/2_Speaking - Part 2 - Best Practices - Mô hình IELTS chị Hà The Coach dạy Luận Điểm + Explanation (because - helps, thanks to)  + Paraphase THEO TỪ KHOÁ + Example.md",
-    "2_English/1_thi VSTEP/3.1 Viết Thư (letter or email).md",
     "2_English/1_thi VSTEP/attachments/Pasted image 20250209004903.png",
     "2_English/1_thi VSTEP/6. Thi lần 2.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
-    "2_English/1_thi VSTEP/1_Cấu trúc.md",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "4_MLOPs và Full Stack Docker/1. Git/5. Thêm.md",
     "4_MLOPs và Full Stack Docker/1. Git/4. git convention - chuẩn.md",
@@ -214,7 +215,6 @@
     "Moxie/attachments",
     "Moxie",
     "Excel/Untitled",
-    "3_AI Engineering/5.0 Metrics/attachments/Pasted image 20250103155417.png",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/attachments/Pasted image 20241230000803.png"
+    "3_AI Engineering/5.0 Metrics/attachments/Pasted image 20250103155417.png"
   ]
 }
