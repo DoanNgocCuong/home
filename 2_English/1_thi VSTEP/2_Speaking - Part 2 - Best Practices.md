@@ -25,10 +25,11 @@
 
 ![[Pasted image 20250209004903.png]]
 ### 3. Family: 
-1. I am thinking about an activity for my parents 's wedding anniversary among three options: a party at a restaurant, going on holiday and a party at home. 
-		-> I would like to tell the situation: my family are choosing an activity for my parents's wedding anniversary. There are 3 options: a party at a restaurant, going on holiday, a party at home. 
-2. I suppose that a party at home would be the best choice because of some following reasons: / I think I will choose option 3. We celebrate aniversary for my parents at home. For some reasons: 
-		- Fristly: atmosphere
-		- Secondary: save money
-		- Finally/Moreover: freedom to decore and setting 
-	Another option: 
+1. I am thinking about/ My situation is that ... There are 3 options: opt1, opt2, opt3. I think I will choose option 3 / I think ... is the best choice because ... Moreover, ... because - example. Also ..., because - example
+Hoặc: 
+- Fristly: atmosphere
+-  Secondary: save money
+-  Finally/Moreover: freedom to decore and setting 
+	
+	
+2. Another option: 
