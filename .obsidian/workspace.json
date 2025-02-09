@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/1. Git/5. Thêm.md",
+                "file": "4_MLOPs và Full Stack Docker/1. Git/7. Extension.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Thêm"
+              "title": "7. Extension"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/1. Git/5. Thêm.md",
+                "file": "4_MLOPs và Full Stack Docker/1. Git/7. Extension.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Thêm"
+              "title": "Outline of 7. Extension"
             }
           }
         ],
@@ -170,6 +170,9 @@
   },
   "active": "ad39b164200a1e4e",
   "lastOpenFiles": [
+    "4_MLOPs và Full Stack Docker/1. Git/attachments/Pasted image 20250209222134.png",
+    "4_MLOPs và Full Stack Docker/1. Git/5. Thêm - a Đậu Văn Nam.md",
+    "4_MLOPs và Full Stack Docker/1. Git/7. Extension.md",
     "4_MLOPs và Full Stack Docker/1. Git/attachments/Pasted image 20250209220910.png",
     "4_MLOPs và Full Stack Docker/1. Git/attachments/Pasted image 20250209215752.png",
     "4_MLOPs và Full Stack Docker/1. Git/attachments/Pasted image 20250209213336.png",
@@ -200,13 +203,10 @@
     "2_English/1_thi VSTEP/attachments/Pasted image 20250209012155.png",
     "2_English/1_thi VSTEP/attachments/Pasted image 20250209011103.png",
     "2_English/1_thi VSTEP/1. Link khởi động B1.md",
-    "2_English/1_thi VSTEP/attachments/Pasted image 20250209004903.png",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/6. Server Deploy -.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
-    "4_MLOPs và Full Stack Docker/1. Git/5. Thêm.md",
     "4_MLOPs và Full Stack Docker/1. Git/4. git convention - chuẩn.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.5_Agent/__init__.md",
     "13. Lộ trình",
     "12. Bài tập DL/attachments",
     "12. Bài tập DL",
