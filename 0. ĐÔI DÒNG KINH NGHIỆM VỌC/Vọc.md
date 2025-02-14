@@ -40,4 +40,4 @@ Building Personal:
 2. Cultivate Proper Understanding: Does the presence of one thing imply the presence of another? Is there anything else? => Optimization, Problem Solving 3. Networking: Mentor and collaborate with teammates.
 ```
 
-![[Streak7 1.png]]
+![[Streak7.png]]
