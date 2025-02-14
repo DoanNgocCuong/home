@@ -26,16 +26,17 @@
 
 - Họ có khả năng "debug" sâu, tìm ra các nguyên nhân gốc rễ của vấn đề thay vì sửa chữa tạm thời. Thậm chí, họ sẵn sàng học những công nghệ mới hoặc viết lại phần mã để đảm bảo hệ thống hoạt động tối ưu. Tư duy giải quyết vấn đề của họ là không ngừng, kiên nhẫn và sáng tạo.
 
-###### TO BECOME A TRUE "HARDCORE PROGRAMMER"!
+---
+Summary: 
+```
+1. Phẩm chất cá nhân: Học và Làm điều đúng đắn: TUẦN TỰ, LIÊN TỤC và KO BAO GIỜ DỪNG LẠI. 
+2. Vun bồi hiểu biết đúng: Do cái gì có mặt mà cái kia có mặt? Còn gì khác nữa không? 
+=> Optimization, Problem Solving 
+```
 
-###### **1. Perfectionism and Meticulousness in Every Line of Code**
-
-- A “hardcore programmer” does not tolerate carelessness in their work. They pay attention to every little detail in the code, striving to make it as concise, efficient, and maintainable as possible.
-
-- For them, every line of code holds value and potential for improvement. They often revisit and optimize their written code, checking for and eliminating any bugs or weaknesses, because they understand that perfection comes not only from new features but also from performance and stability.
-
-###### **2. Creative and Persistent Problem-Solving Skills**
-
-- In the world of programming, bugs and technical challenges arise constantly. Hardcore programmers view these challenges not as obstacles but as opportunities to learn and grow.
-
-- They have the ability to debug thoroughly, identifying the root causes of issues rather than applying temporary fixes. In fact, they are willing to learn new technologies or rewrite portions of code to ensure the system operates optimally. Their approach to problem-solving is relentless, patient, and creative.
+```
+1. Personal Qualities: Learning and Doing What Is Right — Systematically, Continuously, and Never Stopping.
+2. Cultivate Proper Understanding: Does the presence of one thing imply the presence of another? Is there anything else?
+=> Optimization, Problem Solving
+3. Networking: Mentor and collaborate with teammates.
+```
