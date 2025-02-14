@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.1.2 Docker - Docker Hub.md",
+                "file": "0. ĐÔI DÒNG KINH NGHIỆM VỌC/Vọc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.1.2 Docker - Docker Hub"
+              "title": "Backlinks for Vọc"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/2.1.2 Docker - Docker Hub.md",
+                "file": "0. ĐÔI DÒNG KINH NGHIỆM VỌC/Vọc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2.1.2 Docker - Docker Hub"
+              "title": "Outgoing links from Vọc"
             }
           },
           {
@@ -129,7 +129,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -149,9 +151,19 @@
               "icon": "lucide-list",
               "title": "Outline of Vọc"
             }
+          },
+          {
+            "id": "62c72970cf525bb5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad39b164200a1e4e",
+  "active": "3f1740ce27ce91d7",
   "lastOpenFiles": [
     "0. ĐÔI DÒNG KINH NGHIỆM VỌC/attachments/Streak7 1.png",
     "0. ĐÔI DÒNG KINH NGHIỆM VỌC/attachments/Streak7.png",
