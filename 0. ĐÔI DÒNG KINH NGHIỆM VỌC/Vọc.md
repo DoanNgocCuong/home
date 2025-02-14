@@ -35,8 +35,7 @@ Summary:
 ```
 
 ```
-1. Personal Qualities: Learning and Doing What Is Right — Systematically, Continuously, and Never Stopping.
-2. Cultivate Proper Understanding: Does the presence of one thing imply the presence of another? Is there anything else?
-=> Optimization, Problem Solving
-3. Networking: Mentor and collaborate with teammates.
+Building Personal: 
+1. Personal Qualities: Learning and Doing What Is Right — Systematically, Continuously, and Never Stopping. 
+2. Cultivate Proper Understanding: Does the presence of one thing imply the presence of another? Is there anything else? => Optimization, Problem Solving 3. Networking: Mentor and collaborate with teammates.
 ```
