@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/2. Lựa Chọn Công Nghệ Bun + Golang - npm Javascripts + Python.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/__init__ Web - Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Lựa Chọn Công Nghệ Bun + Golang - npm Javascripts + Python"
+              "title": "__init__ Web - Template"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Deploy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,10 +180,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de333728293ea4d4",
+  "active": "ad39b164200a1e4e",
   "lastOpenFiles": [
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/__init__ Web.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/2. Lựa Chọn Công Nghệ Bun + Golang - npm Javascripts + Python.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. venv - Docker - k8s Cloud.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.5 Log Docker API vẫn hiển thị log khi run docker.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.6 Dùng docker compose quen hơn docker -))).md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/__init__ Web - Template.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/__init__ Deploy Docker Web.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1 số tool Docker.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Untitled.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/npm và yarn.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Note_web.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Microservices.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2. Lựa Chọn Công Nghệ Bun + Golang - npm Javascripts + Python.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/CSS cho typescripts.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Config từ local.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2. Deploy Vercel.md",
+    "4_MLOPs và Full Stack Docker/Dockerrr.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1.2 Bun - JavaScript.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web/Docker/Untitled.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web/web/1. Template Web.md",
     "2025-02-17.md",
     "0. ĐÔI DÒNG KINH NGHIỆM VỌC/Vọc.md",
@@ -196,29 +212,13 @@
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/attachments/Pasted image 20241230000803.png",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Neural Network/0. Resources.md",
     "14. StepUpEnglish/1. Kaizen.md",
-    "4_MLOPs và Full Stack Docker/Untitled.md",
     "14. StepUpEnglish",
     "4_MLOPs và Full Stack Docker/4. Free",
-    "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
-    "4_MLOPs và Full Stack Docker/1. Git/7. Extension_Code.md",
     "4_MLOPs và Full Stack Docker/1. Git/attachments/Pasted image 20250209222134.png",
-    "4_MLOPs và Full Stack Docker/1. Git/5. Thêm - a Đậu Văn Nam.md",
     "4_MLOPs và Full Stack Docker/1. Git/attachments/Pasted image 20250209220910.png",
     "4_MLOPs và Full Stack Docker/1. Git/attachments/Pasted image 20250209215752.png",
     "4_MLOPs và Full Stack Docker/1. Git/attachments/Pasted image 20250209213336.png",
     "4_MLOPs và Full Stack Docker/1. Git/attachments",
-    "4_MLOPs và Full Stack Docker/1. Git/Untitled.md",
-    "2_English/1_thi VSTEP/3.2 Luận + Speaking part 3.md",
-    "2_English/1_thi VSTEP/3.1 Viết Thư (letter or email).md",
-    "2_English/1_thi VSTEP/2_Speaking - Part 1+2 - Best Practices - Mô hình IELTS chị Hà và Thanh Mai The Coach dạy Luận Điểm + Explanation (because - helps, thanks to, Paraphase THEO TỪ KHOÁ) + Example.md",
-    "2_English/1_thi VSTEP/3.3.md",
-    "2_English/1_thi VSTEP/4_listening.md",
-    "2_English/3. Từ điển.md",
-    "2_English/2. Mở rộng câu.md",
-    "2_English/1. Listening Foundation.md",
-    "2_English/0. Chiến thuật.md",
-    "2_English/1_thi VSTEP/6. Thi lần 2.md",
-    "2_English/1_thi VSTEP/5.2 Writing - vì Reading ko lên trong thời gian ngắn nổi (Reading chỉ có đọc nhanh hơn, cân đối time hơn)..md",
     "2_English/1_thi VSTEP/attachments/Pasted image 20250209020302.png",
     "2_English/1_thi VSTEP/attachments/Pasted image 20250209020146.png",
     "2_English/1_thi VSTEP/attachments/Pasted image 20250209020143.png",
