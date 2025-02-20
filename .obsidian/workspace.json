@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -195,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de333728293ea4d4",
+  "active": "ad39b164200a1e4e",
   "lastOpenFiles": [
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/Bi-Encoder Cross-Encoder.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/NGUỒN HỌC - YOU SHOULD START WITH FOUNDATION + NGÁCH + ACTUAL PROJECT.md",
