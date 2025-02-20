@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/5. Ngôn ngữ lập trình.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần"
+              "title": "5. Ngôn ngữ lập trình"
             }
           },
           {
@@ -196,8 +196,18 @@
   },
   "active": "ad39b164200a1e4e",
   "lastOpenFiles": [
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Workflow Web và Debug - Đóng Gói Làm 1 lần xài N lần.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. venv - Docker - k8s Cloud.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. Khi cài thư viện thì vào .venv hay docker.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2 Đóng gói package.json, pyproject.toml - NỬA DOCKER.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.6 Dùng docker compose quen hơn docker -))).md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.5.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.4 Docker chạy ngầm.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.3 docker compose how down build up.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1 Docker cơ bản.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Workflow Web và Debug - Đóng Gói Làm 1 lần xài N lần.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/Bi-Encoder Cross-Encoder.md",
@@ -215,7 +225,6 @@
     "Untitled 2.canvas",
     "Untitled 1.md",
     "Untitled 1.canvas",
-    "README.md",
     "Pasted image 20241218023008.png",
     "Pasted image 20241016140959.png",
     "Pasted image 20241016114305.png",
@@ -226,16 +235,7 @@
     "Pasted image 20241015173324.png",
     "Pasted image 20241015172924.png",
     "Pasted image 20241015172920.png",
-    "Java.md",
-    "index.md",
-    "Google AppsScripts.md",
     "AI.ipynb",
-    "2025-02-17.md",
-    "2024-12-22.md",
-    "2024-12-21.md",
-    "2024-12-16.md",
-    "2024-12-14.md",
-    "2024-12-12.md",
     "_config.yaml",
     "Tester_TheCoach",
     "Senior",
