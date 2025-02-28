@@ -263,6 +263,13 @@ Nếu bạn cần một đề tài **mới, có tính thực tiễn cao** và ph
 ✅ **"AI Agents for Financial Decision Making"** → Nếu bạn muốn ứng dụng AI vào **dự đoán tài chính, chứng khoán**.  
 ✅ **"AI Agents for Mental Health"** → Nếu bạn quan tâm đến **AI trong tâm lý học và sức khỏe tinh thần**.
 
----
-
 💡 **Bạn thích hướng nào nhất?** Tôi có thể giúp bạn tìm tài liệu tham khảo, hướng dẫn cách triển khai và đề xuất phương pháp nghiên cứu cụ thể! 🚀
+
+---
+# 4. CHỌN HƯỚNG ĐỀ TÀI 
+
+✅ "Chain-of-Agents for Long-Context Processing" → Nếu bạn muốn nghiên cứu tác nhân AI trong xử lý văn bản dài.
+
+✅ "Memory-Augmented AI Agents" → Nếu bạn muốn nghiên cứu trí nhớ AI và khả năng tự học theo thời gian.
+
+---
