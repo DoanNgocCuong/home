@@ -156,3 +156,113 @@ Ngoài ra, để đồ án của bạn thêm phần giá trị, bạn có thể 
 - **Tính sáng tạo:** Tìm một hướng đi mới hoặc áp dụng các kỹ thuật AI tiên tiến vào đề tài của mình.
 - **Tính ứng dụng:** Chọn một đề tài có khả năng giải quyết một vấn đề thực tế trong cuộc sống hoặc công việc.
 - **Tính khả thi:** Đảm bảo rằng bạn có đủ kiến thức, kỹ năng và tài nguyên để hoàn thành đề tài trong thời gian cho phép.
+
+Dưới đây là một số **hướng nghiên cứu mới nhất** về **AI Agent** phù hợp cho **đồ án tốt nghiệp** hoặc **nghiên cứu chuyên sâu**. Những hướng này dựa trên các **xu hướng AI 2024–2025**, hội nghị AI hàng đầu (NeurIPS, ICML, AAMAS, ICLR), và các nghiên cứu từ OpenAI, DeepMind, Microsoft, Google Research.
+
+---
+
+## **1. Hệ Thống Đa Tác Nhân (Multi-Agent Systems)**
+
+🔹 **Tổng quan**: Hệ thống **đa tác nhân** (MAS) ngày càng quan trọng trong AI, đặc biệt là trong học tăng cường (MARL), điều phối tác vụ và tự động hóa doanh nghiệp.
+
+### **1.1. Multi-Agent Reinforcement Learning (MARL) với Giao Tiếp Hạn Chế**
+
+- 🔍 **Ý tưởng**: Thiết kế một hệ thống học tăng cường đa tác nhân trong đó các tác nhân chỉ có thể giao tiếp khi thực sự cần thiết. Điều này giúp tối ưu hóa hiệu suất và tránh quá tải thông tin.
+- 🛠 **Ứng dụng**: Điều phối drone giao hàng, tối ưu giao thông, phối hợp robot trong nhà máy.
+- 📌 **Tài liệu tham khảo**: Google DeepMind nghiên cứu về "Sparse Communication in MARL" để giảm tải thông tin trao đổi giữa các agent.
+
+### **1.2. Multi-Agent Collaboration & Role Assignment**
+
+- 🔍 **Ý tưởng**: Xây dựng hệ thống đa tác nhân trong đó mỗi tác nhân có một vai trò cụ thể (Planner, Executor, Evaluator), và tối ưu hóa cách các tác nhân này phối hợp để hoàn thành nhiệm vụ.
+- 🛠 **Ứng dụng**: AI trong logistics, điều phối y tế khẩn cấp, hợp tác giữa trợ lý ảo.
+- 📌 **Tài liệu tham khảo**: Nghiên cứu "Multi-Agent Role Assignment" từ NeurIPS 2024.
+
+---
+
+## **2. Tác Nhân Dựa Trên Mô Hình Ngôn Ngữ Lớn (LLM-Based Agents)**
+
+🔹 **Tổng quan**: LLMs như GPT-4, Gemini, Claude 3 đang được sử dụng để xây dựng **tác nhân AI thông minh**, có khả năng **hiểu, suy luận và thực hiện hành động** dựa trên ngữ cảnh.
+
+### **2.1. Chain-of-Agents (CoA) – Tác nhân AI hợp tác xử lý dữ liệu dài**
+
+- 🔍 **Ý tưởng**: Xây dựng hệ thống **nhiều tác nhân AI** sử dụng mô hình ngôn ngữ lớn (LLM) để **tóm tắt, phân tích và trả lời câu hỏi** từ tài liệu dài (trên 100K tokens).
+- 🛠 **Ứng dụng**: AI hỗ trợ nghiên cứu pháp lý, y khoa, và khoa học.
+- 📌 **Tài liệu tham khảo**: Công bố "Chain-of-Agents" của Google Research tại NeurIPS 2024.
+
+### **2.2. AI Agents for Automated Code Generation & Debugging**
+
+- 🔍 **Ý tưởng**: Phát triển hệ thống tác nhân AI có thể **đọc lỗi, phân tích log và đề xuất cách sửa lỗi** trong các dự án lập trình lớn.
+- 🛠 **Ứng dụng**: Tự động hóa kiểm thử phần mềm, hỗ trợ lập trình viên, tối ưu DevOps.
+- 📌 **Tài liệu tham khảo**: OpenAI đang nghiên cứu "AutoFix Agents" sử dụng GPT-4 để sửa lỗi code.
+
+---
+
+## **3. Tác Nhân Tự Trị (Autonomous AI Agents)**
+
+🔹 **Tổng quan**: Các tác nhân tự trị có thể hoàn thành nhiệm vụ **một cách độc lập**, mà không cần sự can thiệp của con người.
+
+### **3.1. AI Agents with Memory – Hệ thống tác nhân có trí nhớ dài hạn**
+
+- 🔍 **Ý tưởng**: Xây dựng tác nhân có **trí nhớ dài hạn**, có thể lưu trữ và sử dụng thông tin từ quá khứ để tối ưu quyết định hiện tại.
+- 🛠 **Ứng dụng**: Trợ lý AI thông minh, chăm sóc sức khỏe, AI giao tiếp xã hội.
+- 📌 **Tài liệu tham khảo**: Google DeepMind đang phát triển "Memory-Augmented Agents".
+
+### **3.2. AI Agents for Financial Decision Making**
+
+- 🔍 **Ý tưởng**: Xây dựng hệ thống tác nhân AI có thể **dự đoán thị trường chứng khoán, tối ưu danh mục đầu tư và đánh giá rủi ro tài chính**.
+- 🛠 **Ứng dụng**: Phân tích thị trường tài chính, dự đoán khủng hoảng kinh tế.
+- 📌 **Tài liệu tham khảo**: Harvard Research phát triển "FINCON AI Agents".
+
+---
+
+## **4. AI Agent trong Điều Phối Giao Thông & Logistics**
+
+🔹 **Tổng quan**: AI ngày càng được sử dụng trong **tối ưu hóa giao thông và quản lý logistic**, đặc biệt là với tác nhân tự trị.
+
+### **4.1. Multi-Agent AI for Smart Traffic Control**
+
+- 🔍 **Ý tưởng**: Sử dụng tác nhân AI để **dự đoán tắc đường và tự động điều chỉnh tín hiệu giao thông** nhằm tối ưu lưu lượng xe.
+- 🛠 **Ứng dụng**: Thành phố thông minh, hệ thống điều phối xe tự hành.
+- 📌 **Tài liệu tham khảo**: Nghiên cứu từ hội nghị AAMAS 2024 về **AI Traffic Optimization**.
+
+### **4.2. AI Agents for Last-Mile Delivery**
+
+- 🔍 **Ý tưởng**: Phát triển tác nhân AI điều phối đội drone giao hàng, tối ưu quãng đường và thời gian giao hàng.
+- 🛠 **Ứng dụng**: Giao hàng tự động, drone logistics.
+- 📌 **Tài liệu tham khảo**: "Surge Routing" của Google DeepMind.
+
+---
+
+## **5. AI Agents trong Xã Hội & Nhân Văn**
+
+🔹 **Tổng quan**: Các tác nhân AI không chỉ áp dụng trong kỹ thuật, mà còn giúp mô phỏng hành vi con người, hỗ trợ giáo dục và y tế.
+
+### **5.1. AI Agents for Personalized Learning**
+
+- 🔍 **Ý tưởng**: Xây dựng AI agent có thể **tùy chỉnh bài giảng dựa trên phong cách học tập của mỗi học viên**.
+- 🛠 **Ứng dụng**: Hỗ trợ giảng dạy, tạo trợ lý học tập cá nhân hóa.
+- 📌 **Tài liệu tham khảo**: OpenAI đang phát triển "Personalized Learning Agents".
+
+### **5.2. AI Agents for Mental Health Support**
+
+- 🔍 **Ý tưởng**: Xây dựng AI agent có thể **phát hiện dấu hiệu trầm cảm, stress và đề xuất biện pháp hỗ trợ tâm lý**.
+- 🛠 **Ứng dụng**: Chăm sóc sức khỏe tinh thần, hỗ trợ trị liệu từ xa.
+- 📌 **Tài liệu tham khảo**: Stanford đang nghiên cứu "AI Therapy Agents".
+
+---
+
+## **Tóm Tắt & Lựa Chọn Hướng Nghiên Cứu**
+
+Nếu bạn cần một đề tài **mới, có tính thực tiễn cao** và phù hợp với **đồ án tốt nghiệp AI**, dưới đây là một số lựa chọn:
+
+### 🔥 **Đề xuất hàng đầu**
+
+✅ **"Chain-of-Agents for Long-Context Processing"** → Nếu bạn muốn nghiên cứu tác nhân AI trong **xử lý văn bản dài**.  
+✅ **"Memory-Augmented AI Agents"** → Nếu bạn muốn nghiên cứu **trí nhớ AI** và khả năng tự học theo thời gian.  
+✅ **"Multi-Agent AI for Traffic Optimization"** → Nếu bạn quan tâm đến **AI trong giao thông thông minh**.  
+✅ **"AI Agents for Financial Decision Making"** → Nếu bạn muốn ứng dụng AI vào **dự đoán tài chính, chứng khoán**.  
+✅ **"AI Agents for Mental Health"** → Nếu bạn quan tâm đến **AI trong tâm lý học và sức khỏe tinh thần**.
+
+---
+
+💡 **Bạn thích hướng nào nhất?** Tôi có thể giúp bạn tìm tài liệu tham khảo, hướng dẫn cách triển khai và đề xuất phương pháp nghiên cứu cụ thể! 🚀
