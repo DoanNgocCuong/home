@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-27-Bai-viet-1-Image-Prompting-P1.md",
+                "file": "3_AI Engineering/6. Mathematic Modelling/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-07-27-Bai-viet-1-Image-Prompting-P1"
+              "title": "Untitled"
             }
           }
         ],
@@ -182,6 +182,9 @@
   },
   "active": "9b8050dda50d2f92",
   "lastOpenFiles": [
+    "_posts/2024-07-27-Bai-viet-1-Image-Prompting-P1.md",
+    "3_AI Engineering/6. Mathematic Modelling/Untitled.md",
+    "3_AI Engineering/6. Mathematic Modelling",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần.md",
@@ -212,7 +215,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/npm và yarn.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. Khi cài thư viện thì vào .venv hay docker.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.6 Dùng docker compose quen hơn docker -))).md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.5.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -229,7 +231,6 @@
     "NOTE NHANH CÔNG VIỆC",
     "Moxie/attachments",
     "Moxie",
-    "LỘ TRÌNH SỰ TIỀN",
     "3_AI Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas"
   ]
 }
