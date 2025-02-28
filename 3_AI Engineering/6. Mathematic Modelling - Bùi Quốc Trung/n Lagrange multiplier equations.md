@@ -168,3 +168,7 @@ $$
 ![[Pasted image 20250228110453.png]]
 
 ![[Pasted image 20250228110505.png]]
+
+
+- https://chatgpt.com/share/e/67c13709-fbc0-800b-ba1f-ffaacb365a7a
+- 
