@@ -162,3 +162,9 @@ or equivalently at
 
 $$\left(\sqrt{\frac{3}{14}},\, 2\sqrt{\frac{3}{14}},\, 3\sqrt{\frac{3}{14}}\right)
 $$
+---
+![[Pasted image 20250228110443.png]]
+
+![[Pasted image 20250228110453.png]]
+
+![[Pasted image 20250228110505.png]]
