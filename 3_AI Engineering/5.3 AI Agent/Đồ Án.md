@@ -69,6 +69,52 @@ Về mặt công nghệ, các hướng nghiên cứu tương lai có thể bao g
 
 
 ---
+# 2. Phân biệt: Sự khác biệt giữa Agent LLMs và LLMs thông thường
+#### **Điểm khác biệt chính**
+
+| Đặc điểm                     | LLMs thông thường                                       | Agent LLMs                                                                                         |
+| ---------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Tính chủ động**            | Bị động, chỉ phản hồi đầu vào                           | Chủ động lên kế hoạch, hành động mà không cần liên tục nhận lệnh từ người dùng                     |
+| **Kiến trúc**                | Một mô hình LLM đơn lẻ                                  | Một hệ thống gồm LLM + bộ nhớ + khả năng lập kế hoạch + công cụ thực thi                           |
+| **Khả năng tương tác**       | Chỉ trả lời câu hỏi theo lượt hội thoại                 | Có thể thực hiện các bước đa nhiệm, giao tiếp với nhiều tác nhân khác, tự động hoàn thành nhiệm vụ |
+| **Khả năng ghi nhớ**         | Thường bị giới hạn bởi cửa sổ ngữ cảnh (context window) | Tích hợp bộ nhớ dài hạn để theo dõi trạng thái và thích nghi theo thời gian                        |
+| **Khả năng sử dụng công cụ** | Giới hạn trong khả năng sinh văn bản                    | Có thể gọi API, thực thi mã, tìm kiếm web, kiểm soát phần mềm/hệ thống bên ngoài                   |
+| **Ứng dụng chính**           | Chatbot, hỗ trợ viết nội dung, tìm kiếm thông tin       | Trợ lý AI tự động hóa công việc, lập kế hoạch, tác nhân trong hệ thống đa tác nhân                 |
+
+---
+
+#### **3. Cơ chế hoạt động của Agent LLMs**
+
+Agent LLMs có khả năng thực hiện các bước như:
+
+1. **Lập kế hoạch (Planning):** Xác định các bước cần thực hiện để hoàn thành nhiệm vụ.
+2. **Gọi công cụ (Tool Use):** Sử dụng API, thực thi mã, tìm kiếm web để thu thập hoặc thao tác dữ liệu.
+3. **Nhớ và phản hồi theo ngữ cảnh dài (Memory):** Ghi nhớ trạng thái của tác vụ để phản hồi có tính nhất quán.
+4. **Tự giám sát và học hỏi (Self-Reflection):** Đánh giá đầu ra của chính nó để cải thiện phản hồi hoặc sửa lỗi.
+
+Ví dụ về một Agent LLM:
+
+- **AutoGPT, BabyAGI, Microsoft AutoGen:** Các hệ thống sử dụng GPT-4 nhưng có khả năng lên kế hoạch dài hạn và hành động tự động.
+- **Chain-of-Agents (CoA):** Mô hình sử dụng nhiều LLM cộng tác để giải quyết bài toán dài, chia nhỏ nhiệm vụ thành các bước tuần tự.
+
+---
+
+### **4. Ứng dụng của Agent LLMs**
+
+- **Trợ lý AI thông minh:** Lên kế hoạch công việc, đặt lịch, tự động xử lý email.
+- **Tự động hóa phần mềm:** Điều hướng ứng dụng, thực hiện thao tác trong giao diện đồ họa.
+- **Tác nhân nghiên cứu:** Tự động tìm kiếm, đọc và tóm tắt tài liệu.
+- **Tác nhân đa tác nhân:** Các agent có thể làm việc nhóm để giải quyết nhiệm vụ lớn hơn.
+
+### **5. Tổng kết**
+
+- LLM thông thường chỉ phản hồi khi được yêu cầu.
+- Agent LLMs có thể **hành động một cách chủ động**, gọi công cụ, lập kế hoạch, có bộ nhớ dài hạn.
+- Sự khác biệt chủ yếu nằm ở **kiến trúc hệ thống** và **mức độ tự chủ** trong thực hiện nhiệm vụ.
+
+
+---
+# 3. Một số hướng nghiên cứu: 
 1. **Phát triển Agent học tăng cường (Reinforcement Learning Agent) cho game:**
 
 - **Mô tả:** Xây dựng một Agent có khả năng tự học và chơi tốt một game cụ thể (ví dụ: game đối kháng, game chiến thuật).
