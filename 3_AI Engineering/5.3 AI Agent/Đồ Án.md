@@ -273,3 +273,8 @@ Nếu bạn cần một đề tài **mới, có tính thực tiễn cao** và ph
 ✅ "Memory-Augmented AI Agents" → Nếu bạn muốn nghiên cứu trí nhớ AI và khả năng tự học theo thời gian.
 
 ---
+# 5. VIẾT PHIẾU 
+
+- Tên đề tài: viết rộng ra, 
+- Multimodal: đa thể thức. Text, Ảnh, Audio, ... -> Text. (Đầu ra đơn giản hơn so ...)
+- 
