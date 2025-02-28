@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/6. Mathematic Modelling - Bùi Quốc Trung/n Lagrange multiplier equations.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "n Lagrange multiplier equations"
+              "title": "7. Về đẩy code thao tác với server"
             }
           }
         ],
@@ -182,18 +182,18 @@
   },
   "active": "9b8050dda50d2f92",
   "lastOpenFiles": [
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2. Ngôn ngữ Code Web.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần.md",
+    "3_AI Engineering/5.3 AI Agent/Đồ Án.md",
+    "3_AI Engineering/6. Mathematic Modelling - Bùi Quốc Trung/n Lagrange multiplier equations.md",
     "3_AI Engineering/6. Mathematic Modelling - Bùi Quốc Trung/attachments/Pasted image 20250228110505.png",
     "3_AI Engineering/6. Mathematic Modelling - Bùi Quốc Trung/attachments/Pasted image 20250228110453.png",
     "3_AI Engineering/6. Mathematic Modelling - Bùi Quốc Trung/attachments/Pasted image 20250228110443.png",
     "3_AI Engineering/6. Mathematic Modelling - Bùi Quốc Trung/attachments",
-    "3_AI Engineering/5.3 AI Agent/Đồ Án.md",
-    "3_AI Engineering/6. Mathematic Modelling - Bùi Quốc Trung/n Lagrange multiplier equations.md",
     "_posts/2024-07-27-Bai-viet-1-Image-Prompting-P1.md",
     "3_AI Engineering/6. Mathematic Modelling - Bùi Quốc Trung",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2. Ngôn ngữ Code Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113315.png",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Các kiến trúc khác nhau.md",
     "2025-02-27.md",
@@ -224,7 +224,6 @@
     "Pasted image 20241218023008.png",
     "Pasted image 20241016140959.png",
     "Pasted image 20241016114305.png",
-    "Pasted image 20241016103259.png",
     "AI.ipynb",
     "_config.yaml",
     "Tester_TheCoach",
