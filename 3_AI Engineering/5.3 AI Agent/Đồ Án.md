@@ -270,6 +270,31 @@ Nếu bạn cần một đề tài **mới, có tính thực tiễn cao** và ph
 
 ✅ "Memory-Augmented AI Agents" → Nếu bạn muốn nghiên cứu trí nhớ AI và khả năng tự học theo thời gian.
 
+## 4.1 Phân biệt MEMORY-AUGMENTED AI AGENTS với RAG 
+
+Dưới đây là bảng so sánh giữa **Tác nhân AI tăng cường trí nhớ (Memory-Augmented AI Agents)** và **Tạo sinh tăng cường truy xuất (Retrieval-Augmented Generation - RAG)**:
+
+| Đặc điểm                     | LLMs thông thường                                       | Agent LLMs                                                                                         |
+| ---------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Tính chủ động**            | Bị động, chỉ phản hồi đầu vào                           | Chủ động lên kế hoạch, hành động mà không cần liên tục nhận lệnh từ người dùng                     |
+| **Kiến trúc**                | Một mô hình LLM đơn lẻ                                  | Một hệ thống gồm LLM + bộ nhớ + khả năng lập kế hoạch + công cụ thực thi                           |
+| **Khả năng tương tác**       | Chỉ trả lời câu hỏi theo lượt hội thoại                 | Có thể thực hiện các bước đa nhiệm, giao tiếp với nhiều tác nhân khác, tự động hoàn thành nhiệm vụ |
+| **Khả năng ghi nhớ**         | Thường bị giới hạn bởi cửa sổ ngữ cảnh (context window) | Tích hợp bộ nhớ dài hạn để theo dõi trạng thái và thích nghi theo thời gian                        |
+| **Khả năng sử dụng công cụ** | Giới hạn trong khả năng sinh văn bản                    | Có thể gọi API, thực thi mã, tìm kiếm web, kiểm soát phần mềm/hệ thống bên ngoài                   |
+| **Ứng dụng chính**           | Chatbot, hỗ trợ viết nội dung, tìm kiếm thông tin       | Trợ lý AI tự động hóa công việc, lập kế hoạch, tác nhân trong hệ thống đa tác nhân                 |
+
+| **Tiêu chí**          | **Tác nhân AI tăng cường trí nhớ**                                                                                                                     | **Tạo sinh tăng cường truy xuất (RAG)**                                                                                                                                                                       |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Khái niệm**         | Tác nhân AI được trang bị khả năng lưu trữ và truy xuất thông tin từ các tương tác trước đó, giúp cải thiện phản hồi dựa trên kinh nghiệm đã tích lũy. | Kỹ thuật kết hợp giữa mô hình ngôn ngữ lớn (LLM) và cơ chế truy xuất thông tin từ nguồn dữ liệu bên ngoài để tạo ra phản hồi chính xác và cập nhật hơn.                                                       |
+| **Nguồn thông tin**   | Dựa vào bộ nhớ nội tại, lưu trữ thông tin từ các tương tác trước đó.                                                                                   | Truy xuất thông tin từ các nguồn dữ liệu bên ngoài tại thời điểm truy vấn.                                                                                                                                    |
+| **Cơ chế hoạt động**  | Lưu trữ và cập nhật thông tin từ các tương tác trước, cho phép phản hồi dựa trên cả ngữ cảnh hiện tại và kinh nghiệm quá khứ.                          | Khi nhận được truy vấn, hệ thống truy xuất thông tin liên quan từ cơ sở dữ liệu hoặc tài liệu, sau đó kết hợp với khả năng sinh văn bản của LLM để tạo ra câu trả lời.                                        |
+| **Ứng dụng**          | Phù hợp trong các lĩnh vực yêu cầu tương tác liên tục và cá nhân hóa, như trợ lý ảo, hệ thống giáo dục thông minh, hoặc chăm sóc sức khỏe tâm lý.      | Thường được sử dụng trong các hệ thống yêu cầu thông tin cập nhật liên tục hoặc kiến thức chuyên sâu, như chatbot hỗ trợ khách hàng, hệ thống hỏi đáp, hoặc các ứng dụng cần truy cập dữ liệu thời gian thực. |
+| **Khả năng cập nhật** | Học hỏi và cập nhật thông tin dựa trên các tương tác mới, giúp cải thiện phản hồi trong tương lai.                                                     | Phản hồi dựa trên thông tin mới nhất từ nguồn dữ liệu bên ngoài mà không cần thay đổi mô hình gốc, cho phép cung cấp thông tin cập nhật và chính xác.                                                         |
+| **Thách thức**        | Quản lý và cập nhật bộ nhớ hiệu quả, đảm bảo bảo mật và quyền riêng tư của thông tin lưu trữ.                                                          | Đảm bảo chất lượng và độ tin cậy của nguồn dữ liệu bên ngoài, cũng như tích hợp mượt mà giữa thông tin truy xuất và mô hình sinh văn bản.                                                                     |
+
+**Tóm lại**, trong khi **Tác nhân AI tăng cường trí nhớ** tập trung vào việc sử dụng kinh nghiệm từ các tương tác trước để cải thiện phản hồi và cá nhân hóa trải nghiệm người dùng, thì **RAG** kết hợp khả năng sinh văn bản của mô hình ngôn ngữ với thông tin truy xuất từ bên ngoài để cung cấp câu trả lời chính xác và cập nhật dựa trên nguồn dữ liệu rộng lớn.
+
+
 ---
 # 5. VIẾT PHIẾU 
 
