@@ -268,13 +268,11 @@ Nếu bạn cần một đề tài **mới, có tính thực tiễn cao** và ph
 ---
 # 4. CHỌN HƯỚNG ĐỀ TÀI 
 
-✅ "Chain-of-Agents for Long-Context Processing" → Nếu bạn muốn nghiên cứu tác nhân AI trong xử lý văn bản dài.
-
 ✅ "Memory-Augmented AI Agents" → Nếu bạn muốn nghiên cứu trí nhớ AI và khả năng tự học theo thời gian.
 
 ---
 # 5. VIẾT PHIẾU 
 
-- Tên đề tài: viết rộng ra, 
+- Tên đề tài: viết rộng ra, -> Hỏi đáp, Cá nhân hóa (trích rút thông tin người dùng, cá nhân hóa) => 
 - Multimodal: đa thể thức. Text, Ảnh, Audio, ... -> Text. (Đầu ra đơn giản hơn so ...)
 - 
