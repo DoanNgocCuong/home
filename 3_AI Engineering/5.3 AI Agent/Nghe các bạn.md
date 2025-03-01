@@ -11,3 +11,9 @@
 - LLMs 
 - Cơ sở tri thức? ()
 - chủ thể vị ngữ đối tượng 
+
+1. 
+2. - Semantic role : trích xuất mối quan hệ giữa các thực thể 
+3. Dịch máy: word by word 
+, - Dịch mức ngữ nghĩa 
+- 
