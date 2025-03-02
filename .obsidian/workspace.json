@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/3. Machine Learning/1. Linear Regression.md",
+                "file": "3_AI Engineering/3. Machine Learning/Wandb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Linear Regression"
+              "title": "Wandb"
             }
           }
         ],
@@ -182,6 +182,10 @@
   },
   "active": "9b8050dda50d2f92",
   "lastOpenFiles": [
+    "3_AI Engineering/3. Machine Learning/Chuẩn hóa.md",
+    "3_AI Engineering/3. Machine Learning/Wandb.md",
+    "3_AI Engineering/3. Machine Learning/Decision Tree.md",
+    "3_AI Engineering/3. Machine Learning/1. Linear Regression.md",
     "3_AI Engineering/5.3 AI Agent/Nghe các bạn.md",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250301091000.png",
     "3_AI Engineering/5.3 AI Agent/Note - 1 số câu hỏi.md",
@@ -215,11 +219,8 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113315.png",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Các kiến trúc khác nhau.md",
     "2025-02-27.md",
-    "4_MLOPs và Full Stack Docker/tài liệu MLOps.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113316.png",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Microservices.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/__init__ Deploy Docker Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250220170805.png",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250220170737.png",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments",

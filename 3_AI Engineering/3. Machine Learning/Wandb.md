@@ -1,0 +1,1 @@
+- Log cả Table Input 
