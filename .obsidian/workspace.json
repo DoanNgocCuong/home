@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/5.3 AI Agent/Nghe các bạn.md",
+                "file": "3_AI Engineering/3. Machine Learning/1. Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nghe các bạn"
+              "title": "1. Linear Regression"
             }
           }
         ],
@@ -182,9 +182,9 @@
   },
   "active": "9b8050dda50d2f92",
   "lastOpenFiles": [
+    "3_AI Engineering/5.3 AI Agent/Nghe các bạn.md",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250301091000.png",
     "3_AI Engineering/5.3 AI Agent/Note - 1 số câu hỏi.md",
-    "3_AI Engineering/5.3 AI Agent/Nghe các bạn.md",
     "3_AI Engineering/5.3 AI Agent/0. Đồ Án.md",
     "3_AI Engineering/5.3 AI Agent/AI Agent.md",
     "3_AI Engineering/Prompting/3. CoD -CoT.md",
@@ -226,7 +226,6 @@
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Pasted image 20241218023008.png",
     "AI.ipynb",
     "_config.yaml",
     "Tester_TheCoach",
