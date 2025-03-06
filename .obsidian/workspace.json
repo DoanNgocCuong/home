@@ -25,16 +25,17 @@
             "id": "11eb7081c1c3ffa7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "6. Server Deploy - mật khẩu vào Server"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -193,12 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11eb7081c1c3ffa7",
+  "active": "9b8050dda50d2f92",
   "lastOpenFiles": [
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "2025-03-05 - Test Personalization.md",
     "2025-03-05.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "4_MLOPs và Full Stack Docker/4.. Data Science/1. Tổng quan các loại cơ sở dữ liệu.md",
     "8_Project/1_dify/Module1_ChatbotEmbed/HowRun.md",
     "8_Project/1_dify/Module2_Database/__init__ Project Dify Module2_Database.md",
