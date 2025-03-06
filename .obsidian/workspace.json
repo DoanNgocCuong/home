@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "4_MLOPs và Full Stack Docker/4.. Data Science/1. Database/1. MySQL.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -42,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
