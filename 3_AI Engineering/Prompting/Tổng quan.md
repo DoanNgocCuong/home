@@ -176,3 +176,6 @@ What would you like ChatGPT to know about you?
  the current topic
  WhenItype “3p” please give me 3 alternative prompts I could use
  to get the results I’m looking for.
+
+---
+![[Pasted image 20250308012453.png]]
