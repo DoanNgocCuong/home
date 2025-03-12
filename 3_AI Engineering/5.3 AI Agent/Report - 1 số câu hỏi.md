@@ -50,4 +50,8 @@ Vấn đề:
 
 ```
 
-Buổi 3: Report về cơ chế 
+Buổi 3: Report 3. 
+
+1. Demo cơ chế Log Memory. 
+2. Ẩn trong cơ chế Log Memory này là gì? 
+
