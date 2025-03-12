@@ -55,3 +55,24 @@ Buổi 3: Report 3.
 1. Demo cơ chế Log Memory. 
 2. Ẩn trong cơ chế Log Memory này là gì? 
 
+```
+1. Câu của AI có được trích rút ko ? 
+2. Các câu của user có được móc nối khi trích rút? 
+???
+
+Đo điểm để trích rút? 
+
+---
+
+3. method trích xuất? (Gán nhãn từ loại: ... 
+- Mối quan hệ giữa các thực thể. 
+- Đồng tham chiếu -> nhận dạng thực thể. 
+-----------
+4. Summary, Extract.
+
+
+--------
+
+Context: history đăng trước + Memory (So embedding). => AI Response.  
+
+```
