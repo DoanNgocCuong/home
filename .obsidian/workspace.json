@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "422b3eaae750cadd",
@@ -183,9 +182,11 @@
   },
   "active": "e03b983b7b2dd1a4",
   "lastOpenFiles": [
-    "3_AI Engineering/5.3 AI Agent/Report - 1 số câu hỏi.md",
-    "3_AI Engineering/5.3 AI Agent/0.2 Đồ án tiếp CƠ CHẾ QUẢN LÝ BỘ NHỚ - report 3_12032025 -.md",
+    "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250312154239.png",
+    "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250312154228.png",
     "3_AI Engineering/5.3 AI Agent/0.1 Đồ Án Tiếp - Long Memory.md",
+    "3_AI Engineering/5.3 AI Agent/0.2 Đồ án tiếp CƠ CHẾ QUẢN LÝ BỘ NHỚ - report 3_12032025 -.md",
+    "3_AI Engineering/5.3 AI Agent/Report - 1 số câu hỏi.md",
     "3_AI Engineering/5.3 AI Agent/Nghe các bạn.md",
     "3_AI Engineering/5.3 AI Agent/AI Agent note.md",
     "3_AI Engineering/5.3 AI Agent/AI Agent.md",
@@ -213,7 +214,6 @@
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250308020334.png",
     "4_MLOPs và Full Stack Docker/4.. Data Science/1. Database/1. MySQL - 06-03-2025.md",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250308015904.png",
-    "3_AI Engineering/Prompting/Tổng quan.md",
     "3_AI Engineering/Prompting/attachments/Pasted image 20250308012453.png",
     "3_AI Engineering/Prompting/attachments",
     "4_MLOPs và Full Stack Docker/4.. Data Science/1. Database/attachments/Pasted image 20250306182356.png",
@@ -221,7 +221,6 @@
     "4_MLOPs và Full Stack Docker/4.. Data Science/1. Database/attachments/Pasted image 20250306153849.png",
     "4_MLOPs và Full Stack Docker/4.. Data Science/1. Database/attachments",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Untitled",
-    "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250301091000.png",
     "3_AI Engineering/5.3 AI Agent/attachments",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Các vấn đề trong Docker",
     "3_AI Engineering/6. Mathematic Modelling - Bùi Quốc Trung/attachments",
