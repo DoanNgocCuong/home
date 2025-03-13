@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Các kiến trúc khác nhau.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Về đẩy code thao tác với server"
+              "title": "Các kiến trúc khác nhau"
             }
           }
         ],
@@ -183,11 +183,11 @@
   "active": "e03b983b7b2dd1a4",
   "lastOpenFiles": [
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "4_MLOPs và Full Stack Docker/Docker và WSL.md",
     "4_MLOPs và Full Stack Docker/tài liệu MLOps.md",
     "3_AI Engineering/5.3 AI Agent/Problem.md",
     "3_AI Engineering/5.3 AI Agent/AI Agent.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
     "3_AI Engineering/1 số nguồn có vẻ hay chưa đọc.md",
     "3_AI Engineering/Untitled 4.md",
