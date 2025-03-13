@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/7. Graph/1. Cô Phản Biện các bạn - Mạng đồng tác giả.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Cô Phản Biện các bạn - Mạng đồng tác giả"
+              "title": "7. Về đẩy code thao tác với server"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "server",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295.5
   },
   "right": {
     "id": "422b3eaae750cadd",
@@ -182,8 +182,9 @@
   },
   "active": "e03b983b7b2dd1a4",
   "lastOpenFiles": [
-    "3_AI Engineering/5.3 AI Agent/Report - 1 số câu hỏi.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "3_AI Engineering/7. Graph/1. Cô Phản Biện các bạn - Mạng đồng tác giả.md",
+    "3_AI Engineering/5.3 AI Agent/Report - 1 số câu hỏi.md",
     "3_AI Engineering/Untitled 2.md",
     "3_AI Engineering/7. Graph",
     "3_AI Engineering/5.3 AI Agent/0. Reference.md",
@@ -195,7 +196,6 @@
     "3_AI Engineering/5.3 AI Agent/0.1 Đồ Án Tiếp - Long Memory.md",
     "3_AI Engineering/5.3 AI Agent/AI Agent.md",
     "3_AI Engineering/5.3 AI Agent/1. Function Calling.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2. Ngôn ngữ Code Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Các kiến trúc khác nhau.md",
