@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/1 số nguồn có vẻ hay chưa đọc.md",
+                "file": "3_AI Engineering/5.3 AI Agent/Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 số nguồn có vẻ hay chưa đọc"
+              "title": "Problem"
             }
           }
         ],
@@ -182,10 +182,14 @@
   },
   "active": "e03b983b7b2dd1a4",
   "lastOpenFiles": [
+    "3_AI Engineering/5.3 AI Agent/AI Agent.md",
+    "3_AI Engineering/5.3 AI Agent/Problem.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
+    "3_AI Engineering/1 số nguồn có vẻ hay chưa đọc.md",
     "3_AI Engineering/Untitled 4.md",
     "3_AI Engineering/Untitled 3.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "3_AI Engineering/7. Graph/1. Cô Phản Biện các bạn - Mạng đồng tác giả.md",
     "3_AI Engineering/5.3 AI Agent/Report - 1 số câu hỏi.md",
     "3_AI Engineering/Untitled 2.md",
@@ -197,20 +201,16 @@
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250312154239.png",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250312154228.png",
     "3_AI Engineering/5.3 AI Agent/0.1 Đồ Án Tiếp - Long Memory.md",
-    "3_AI Engineering/5.3 AI Agent/AI Agent.md",
     "3_AI Engineering/5.3 AI Agent/1. Function Calling.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2. Ngôn ngữ Code Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Các kiến trúc khác nhau.md",
     "4_MLOPs và Full Stack Docker/4.. Data Science/1. Database/Note chung các Database.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Microservices.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. venv - Docker - k8s Cloud.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1 số tool Docker.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/__init__ Deploy Docker Web.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1__1 số bug.md",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250308081701.png",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250308081643.png",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250308081036.png",
