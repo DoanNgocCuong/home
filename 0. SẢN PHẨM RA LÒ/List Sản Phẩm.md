@@ -21,6 +21,7 @@
 2. [DoanNgocCuong/MiniProj_RAG3_chatbot_vietcunaModel_QdantDB_Legal2008Text_ngrokTunneling: NTTU Chatbot - A student support chatbot using LLM + Document Retriever (RAG) in Vietnamese](https://github.com/DoanNgocCuong/MiniProj_RAG3_chatbot_vietcunaModel_QdantDB_Legal2008Text_ngrokTunneling/settings)
 3. Rag
 4. [DoanNgocCuong/MiniProj_RAG4_BusinessAnalysisSchool_ITE10HUST_20231: rag integrate with auto-crawling pipeline](https://github.com/DoanNgocCuong/MiniProj_RAG4_BusinessAnalysisSchool_ITE10HUST_20231)
-5. https://github.com/DoanNgocCuong/MiniProd_RAG5_LegalDocument/
+5. [DoanNgocCuong/pipelines_OpenWebUI_aPartOf_RAG5_LegalRAGChatbot_JobMoney: Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework](https://github.com/DoanNgocCuong/pipelines_OpenWebUI_aPartOf_RAG5_LegalRAGChatbot_JobMoney)
+[DoanNgocCuong/MiniProj_RAG5_OpenWebUI_add_PipelineRAG_LegalRAGChatbot_JobMoney](https://github.com/DoanNgocCuong/MiniProj_RAG5_OpenWebUI_add_PipelineRAG_LegalRAGChatbot_JobMoney)
 ## Awesome: 
 1. [DoanNgocCuong/awesome-llm-apps---AI-Agents: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/DoanNgocCuong/awesome-llm-apps---AI-Agents)
