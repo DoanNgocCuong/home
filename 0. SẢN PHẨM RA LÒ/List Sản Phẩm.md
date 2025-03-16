@@ -1,3 +1,7 @@
+
+## 
+
+LIST SẢN PHẨM: 
 1. [DoanNgocCuong/MiniProd_Web1_AIWebTestScoring](https://github.com/DoanNgocCuong/MiniProd_Web1_AIWebTestScoring)
 2. [DoanNgocCuong/MiniProd_Web2_UIChatbot_throughCallApiRAG](https://github.com/DoanNgocCuong/MiniProd_Web2_UIChatbot_throughCallApiRAG)
 3. [DoanNgocCuong/MiniProd_Web3_GradingVidMentorTeaching_StepUpE_T102024: Chấm điểm video mentor](https://github.com/DoanNgocCuong/MiniProd_Web3_GradingVidMentorTeaching_StepUpE_T102024)
@@ -23,6 +27,7 @@
 4. [DoanNgocCuong/MiniProj_RAG4_BusinessAnalysisSchool_ITE10HUST_20231: rag integrate with auto-crawling pipeline](https://github.com/DoanNgocCuong/MiniProj_RAG4_BusinessAnalysisSchool_ITE10HUST_20231)
 5. [DoanNgocCuong/Research_RAG5_SpProjGraduation_aHuy_T122024: The official implementation of RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://github.com/DoanNgocCuong/Research_RAG5_SpProjGraduation_aHuy_T122024)
 6. [DoanNgocCuong/pipelines_OpenWebUI_aPartOf_RAG5_LegalRAGChatbot_JobMoney: Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework](https://github.com/DoanNgocCuong/pipelines_OpenWebUI_aPartOf_RAG5_LegalRAGChatbot_JobMoney)
-[DoanNgocCuong/MiniProj_RAG5_OpenWebUI_add_PipelineRAG_LegalRAGChatbot_JobMoney](https://github.com/DoanNgocCuong/MiniProj_RAG5_OpenWebUI_add_PipelineRAG_LegalRAGChatbot_JobMoney)
+[DoanNgocCuong/MiniProj_RA
+G5_OpenWebUI_add_PipelineRAG_LegalRAGChatbot_JobMoney](https://github.com/DoanNgocCuong/MiniProj_RAG5_OpenWebUI_add_PipelineRAG_LegalRAGChatbot_JobMoney)
 ## Awesome: 
 1. [DoanNgocCuong/awesome-llm-apps---AI-Agents: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/DoanNgocCuong/awesome-llm-apps---AI-Agents)
