@@ -1,0 +1,7 @@
+1. [DoanNgocCuong/MiniProd_Web1_AIWebTestScoring](https://github.com/DoanNgocCuong/MiniProd_Web1_AIWebTestScoring)
+2. [DoanNgocCuong/MiniProd_Web2_UIChatbot_throughCallApiRAG](https://github.com/DoanNgocCuong/MiniProd_Web2_UIChatbot_throughCallApiRAG)
+3. [DoanNgocCuong/MiniProd_Web3_GradingVidMentorTeaching_StepUpE_T102024: Chấm điểm video mentor](https://github.com/DoanNgocCuong/MiniProd_Web3_GradingVidMentorTeaching_StepUpE_T102024)
+4. [DoanNgocCuong/MiniProd_Web4_ContentEngFlow_StepUpE_T102024](https://github.com/DoanNgocCuong/MiniProd_Web4_ContentEngFlow_StepUpE_T102024)
+5. [DoanNgocCuong/MiniProd_Web5_TemplateWeb_T12_2024_ContentEngFlow_IELTSStepUpE_T102024](https://github.com/DoanNgocCuong/MiniProd_Web5_TemplateWeb_T12_2024_ContentEngFlow_IELTSStepUpE_T102024)
+6. [DoanNgocCuong/MiniProd_Web6_UIChatbot_throughCallApiDIFY](https://github.com/DoanNgocCuong/MiniProd_Web6_UIChatbot_throughCallApiDIFY)
+7. 
