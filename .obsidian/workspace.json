@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 1 - Ở bên ngoài, em call Postman tới được 9404. - Run local, docker compose local được port 25050 để call được 9404 - Nhưng cứ đóng server vào 25050 là lại bị chặn, không call được tới 103... 9404.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP."
+              "title": "Vấn đề 1 - Ở bên ngoài, em call Postman tới được 9404. - Run local, docker compose local được port 25050 để call được 9404 - Nhưng cứ đóng server vào 25050 là lại bị chặn, không call được tới 103... 9404"
             }
           }
         ],
@@ -183,6 +183,9 @@
   },
   "active": "62c4657de5d2cd7a",
   "lastOpenFiles": [
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 1 - Ở bên ngoài, em call Postman tới được 9404. - Run local, docker compose local được port 25050 để call được 9404 - Nhưng cứ đóng server vào 25050 là lại bị chặn, không call được tới 103... 9404.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2. Ngôn ngữ Code Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
@@ -206,11 +209,8 @@
     "3_AI Engineering/5.3 AI Agent/Problem.md",
     "3_AI Engineering/5.3 AI Agent/0.1 Đồ Án Tiếp - Long Memory.md",
     "3_AI Engineering/5.3 AI Agent/Report - 1 số câu hỏi.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2 Đóng gói package.json, pyproject.toml - NỬA DOCKER.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. venv - Docker - k8s Cloud.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/__init__ Deploy Docker Web.md",
     "3_AI Engineering/7. Graph",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250312154239.png",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250312154228.png",
