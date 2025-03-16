@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 1 - Ở bên ngoài, em call Postman tới được 9404. - Run local, docker compose local được port 25050 để call được 9404 - Nhưng cứ đóng server vào 25050 là lại bị chặn, không call được tới 103... 9404.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 10 - Call Postman tới được 9404. - Run docker compose local 25050 call được 9404 - Nhưng cứ đóng server vào là ko được.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vấn đề 1 - Ở bên ngoài, em call Postman tới được 9404. - Run local, docker compose local được port 25050 để call được 9404 - Nhưng cứ đóng server vào 25050 là lại bị chặn, không call được tới 103... 9404"
+              "title": "Vấn đề 10 - Call Postman tới được 9404. - Run docker compose local 25050 call được 9404 - Nhưng cứ đóng server vào là ko được"
             }
           }
         ],
@@ -184,7 +184,7 @@
   "active": "62c4657de5d2cd7a",
   "lastOpenFiles": [
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 1 - Ở bên ngoài, em call Postman tới được 9404. - Run local, docker compose local được port 25050 để call được 9404 - Nhưng cứ đóng server vào 25050 là lại bị chặn, không call được tới 103... 9404.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 10 - Call Postman tới được 9404. - Run docker compose local 25050 call được 9404 - Nhưng cứ đóng server vào là ko được.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2. Ngôn ngữ Code Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",

@@ -279,5 +279,75 @@ Dựa vào thông tin bạn cung cấp, có vẻ như bạn đã fix được bu
 
 Nếu vấn đề đã được giải quyết, tốt nhất là ghi lại giải pháp để tham khảo trong tương lai.
 
+
+
+---
+# Summary : 
+
+
+
+
+
+
+
+
+
+
+
+# Xác thực vấn đề và giải pháp
+
+## 1. Vấn đề là gì?
+
+**Vấn đề kết nối mạng**: Ứng dụng của bạn (chạy trên port 25050) không thể kết nối đến API server (chạy trên port 9404) khi triển khai trên cùng một máy chủ.
+
+Cụ thể:
+- Postman có thể gọi trực tiếp đến port 9404
+- Docker Compose local (port 25050) có thể gọi được 9404 khi chạy ở chế độ local
+- Nhưng khi triển khai server vào port 25050, không thể gọi được tới 103.253.20.13:9404
+
+## 2. Nguyên nhân do đâu?
+
+**Nguyên nhân chính: Cấu hình tường lửa (iptables) trên máy chủ**
+
+Tường lửa chỉ cho phép kết nối đến port 9404 trên hai địa chỉ IP nội bộ cụ thể:
+```
+ACCEPT     tcp  --  0.0.0.0/0            192.168.16.2         tcp dpt:9404
+ACCEPT     tcp  --  0.0.0.0/0            192.168.16.19        tcp dpt:9404
 ```
 
+Điều này có nghĩa là:
+1. Kết nối đến địa chỉ IP công khai (103.253.20.13) trên port 9404 bị chặn
+2. Chỉ cho phép kết nối đến hai địa chỉ IP nội bộ cụ thể (192.168.16.2 và 192.168.16.19)
+
+Khi bạn chạy ứng dụng trong Docker với `network_mode: "host"`, ứng dụng sử dụng network stack của máy chủ và cũng bị ảnh hưởng bởi các quy tắc tường lửa này.
+
+## 3. Giải pháp là gì?
+
+**Giải pháp: Thêm quy tắc tường lửa cho phép kết nối đến port 9404 trên bất kỳ địa chỉ IP nào**
+
+```bash
+sudo iptables -A INPUT -p tcp --dport 9404 -j ACCEPT
+```
+
+Sau khi thêm quy tắc này, tường lửa sẽ cho phép kết nối đến port 9404 trên bất kỳ địa chỉ IP nào, bao gồm cả địa chỉ IP công khai của máy chủ (103.253.20.13).
+
+Kết quả kiểm tra xác nhận giải pháp đã hoạt động:
+```
+ACCEPT     tcp  --  0.0.0.0/0            0.0.0.0/0            tcp dpt:9404
+ACCEPT     tcp  --  0.0.0.0/0            192.168.16.2         tcp dpt:9404
+ACCEPT     tcp  --  0.0.0.0/0            192.168.16.19        tcp dpt:9404
+```
+
+Và container API đang chạy với địa chỉ IP nội bộ 192.168.16.19:
+```
+docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' robot-ai-lesson-server-master
+192.168.16.19
+```
+
+## Kết luận
+
+Vấn đề không phải là CORS như ban đầu nghi ngờ, mà là cấu hình tường lửa trên máy chủ. Tường lửa chỉ cho phép kết nối đến port 9404 trên hai địa chỉ IP nội bộ cụ thể, trong khi chặn kết nối đến địa chỉ IP công khai.
+
+Giải pháp đơn giản là thêm quy tắc tường lửa cho phép kết nối đến port 9404 trên bất kỳ địa chỉ IP nào. Sau khi áp dụng giải pháp này, ứng dụng của bạn có thể kết nối thành công đến API server.
+
+Đây là một ví dụ điển hình về cách cấu hình mạng và tường lửa có thể ảnh hưởng đến khả năng kết nối giữa các dịch vụ, ngay cả khi chúng chạy trên cùng một máy chủ.
