@@ -285,15 +285,6 @@ Nếu vấn đề đã được giải quyết, tốt nhất là ghi lại giả
 # Summary : 
 
 
-
-
-
-
-
-
-
-
-
 # Xác thực vấn đề và giải pháp
 
 ## 1. Vấn đề là gì?
