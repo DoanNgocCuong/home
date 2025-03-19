@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0b6b9edd7a16c228",
+        "id": "4104640667bcc96e",
         "type": "tabs",
         "children": [
           {
-            "id": "62c4657de5d2cd7a",
+            "id": "d3e46b6055269b88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
+                "file": "0. Nhật Ký Calendar/19-03-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Về đẩy code thao tác với server"
+              "title": "19-03-2025"
             }
           }
         ],
@@ -181,8 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62c4657de5d2cd7a",
+  "active": "d3e46b6055269b88",
   "lastOpenFiles": [
+    "0. Nhật Ký Calendar/W3_T3_2025",
+    "0. Nhật Ký Calendar/19-03-2025.md",
+    "0. Nhật Ký Calendar",
+    "2024-12-14.md",
+    "2024-12-02.md",
+    "2024-12-01.md",
+    "2024-11-29.md",
+    "2024-10-31.md",
+    "2024-11-27.md",
+    "Calendar",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 9 Méo hiểu sao docker compose backend chạy ở backend và docker compose ở src (chạy riêng frontend) được ngon  nhưng khi add thêm backend vào file src dokerc mpose thay vì có mỗi frontend.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 11 - 2 FILE DOCKER COMPOSE VÀ 2 ỨNG DỤNG KHÔNG LIÊN QUAN ĐẾN NHAU, nhưng có bị tự động tạo tên container trùng nhau (do container name được tạo dựa vào thư mục).md",
@@ -192,7 +203,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 10 - Call Postman tới được 9404. - Run docker compose local 25050 call được 9404 - Nhưng cứ đóng server vào là ko được.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/8. HTTP Streaming và WebSocket.md",
     "0. SẢN PHẨM RA LÒ/List Sản Phẩm.md",
     "0. SẢN PHẨM RA LÒ",
@@ -203,14 +213,6 @@
     "3_AI Engineering/5.3 AI Agent/1. Function Calling.md",
     "3_AI Engineering/5.3 AI Agent/AI Agent.md",
     "3_AI Engineering/Roadmap.md",
-    "2025-03-15.md",
-    "3_AI Engineering/5.3 AI Agent/0. Reference.md",
-    "3_AI Engineering/5.3 AI Agent/AI Agent note.md",
-    "3_AI Engineering/5.3 AI Agent/Nghe các bạn.md",
-    "3_AI Engineering/5.3 AI Agent/Problem.md",
-    "3_AI Engineering/5.3 AI Agent/0.1 Đồ Án Tiếp - Long Memory.md",
-    "3_AI Engineering/5.3 AI Agent/Report - 1 số câu hỏi.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2 Đóng gói package.json, pyproject.toml - NỬA DOCKER.md",
     "3_AI Engineering/7. Graph",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250312154239.png",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250312154228.png",
@@ -227,8 +229,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Untitled",
     "3_AI Engineering/5.3 AI Agent/attachments",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Các vấn đề trong Docker",
-    "3_AI Engineering/6. Mathematic Modelling - Bùi Quốc Trung/attachments",
-    "3_AI Engineering/6. Mathematic Modelling - Bùi Quốc Trung",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
