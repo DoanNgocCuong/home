@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/5.3 AI Agent/Report - 1 số câu hỏi.md",
+                "file": "3_AI Engineering/5.2 LLMs/5..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Report - 1 số câu hỏi"
+              "title": "5."
             }
           }
         ],
@@ -182,13 +182,14 @@
   },
   "active": "d3e46b6055269b88",
   "lastOpenFiles": [
+    "3_AI Engineering/5.3 AI Agent/Report - 1 số câu hỏi.md",
+    "3_AI Engineering/5.2 LLMs/5..md",
     "3_AI Engineering/5.3 AI Agent/0. Reference.md",
     "3_AI Engineering/5.3 AI Agent/AI Agent.md",
     "3_AI Engineering/5.3 AI Agent/0.2 Đồ án tiếp CƠ CHẾ QUẢN LÝ BỘ NHỚ - report 3_12032025 -.md",
     "3_AI Engineering/5.3 AI Agent/AI Agent note.md",
     "3_AI Engineering/5.3 AI Agent/Nghe các bạn.md",
     "3_AI Engineering/5.3 AI Agent/Problem.md",
-    "3_AI Engineering/5.3 AI Agent/Report - 1 số câu hỏi.md",
     "3_AI Engineering/5.3 AI Agent/0.1 Đồ Án Tiếp - Long Memory.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
@@ -210,7 +211,6 @@
     "2024-12-14.md",
     "2024-12-02.md",
     "2024-12-01.md",
-    "2024-11-29.md",
     "Calendar",
     "0. SẢN PHẨM RA LÒ",
     "Untitled",
