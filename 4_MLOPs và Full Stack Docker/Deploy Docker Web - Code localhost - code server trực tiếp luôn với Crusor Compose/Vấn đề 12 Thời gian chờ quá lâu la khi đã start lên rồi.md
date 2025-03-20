@@ -1,6 +1,13 @@
 
 # Báo cáo: Phân tích lỗi Docker container bị treo
 
+# Vấn đề: 
+- Sau khi container compose build xong được Image, nhưng không up và không run được container (cụ thể là mất quá nhiều thời gian). 1 số cách đã thử fix  [Mặc dù run riêng backend, frontend ở localhost thì được, docker compose lại không được]
+1. Giảm thời gian chờ và thậm chí bỏ bước check health? 
+2. Cho Cursor Composer để sửa cách viết của Dockerfile và cách viết của docker compose 
+3. Bị treo hoài mỗi lần muốn run lại phải xoá terminal hiện tại đi 
+4. Thêm file ngix, .. vẫn không được 
+
 ## Nguyên nhân
 Container Docker bị treo trong quá trình khởi động do xung đột cổng (port conflict). Port 25050 đã bị chiếm bởi các tiến trình đang chạy trên máy host:
 
