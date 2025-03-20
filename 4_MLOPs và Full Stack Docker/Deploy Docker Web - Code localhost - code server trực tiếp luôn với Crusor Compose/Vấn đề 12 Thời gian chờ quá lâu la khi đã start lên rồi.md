@@ -1,6 +1,4 @@
 
-
-
 # Báo cáo: Phân tích lỗi Docker container bị treo
 
 ## Nguyên nhân
