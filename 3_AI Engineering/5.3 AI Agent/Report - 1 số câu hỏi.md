@@ -56,9 +56,13 @@ Buổi 3: Report 3.
 2. Ẩn trong cơ chế Log Memory này là gì? 
 
 ```
-1. Câu của AI có được trích rút ko ? 
+1. Câu của AI có được trích rút ko ? -> ko  
 2. Các câu của user có được móc nối khi trích rút? 
-???
+??? -> ? 
+
+Cơ chế extract như nào? 
+Cơ chế cập nhật 
+? Memory Query như nào?
 
 Đo điểm để trích rút? 
 
@@ -76,3 +80,9 @@ Buổi 3: Report 3.
 Context: history đăng trước + Memory (So embedding). => AI Response.  
 
 ```
+
+```
+- Văn phong của tôi ? 
+```
+
+CƠ CHẾ EXTRACT NHƯ NÀO? 
