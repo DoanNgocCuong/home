@@ -389,3 +389,7 @@ Trong bài, tác giả thử nghiệm ba kiểu “thông tin rút gọn” (ngo
 - **Keyphrase**: chỉ là **cụm từ khóa** chứ không viết thành câu hoàn chỉnh.
 
 Tuỳ mức độ “chi tiết” và “định dạng” mong muốn, ta chọn cách rút gọn khác nhau để **hỗ trợ truy xuất**. Kết quả thực nghiệm cho thấy “fact” thường hiệu quả hơn **summary** và **keyphrase** (theo bảng kết quả), vì nó vừa đủ cụ thể lại vẫn tách gọn thông tin quan trọng.
+
+
+---
+![[Pasted image 20250322063052.png]]
