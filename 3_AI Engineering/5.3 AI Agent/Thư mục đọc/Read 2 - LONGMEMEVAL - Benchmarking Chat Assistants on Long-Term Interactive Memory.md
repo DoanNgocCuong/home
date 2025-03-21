@@ -361,3 +361,31 @@ Nói cách khác:
 4. **Lưu embedding** đó làm “Key” trong chỉ mục. Khi truy vấn, ta sẽ so sánh query embedding với embedding của “Key = (Value + fact)”.
 
 Cách làm này giúp hệ thống tìm kiếm “match” tốt hơn, vì từ khoá cốt lõi (fact) cũng nằm trong chính “Key”, đồng thời vẫn giữ bối cảnh gốc (Value). Ta có thể coi đó là **một dạng “document expansion”** – thêm thông tin tóm lược, facts, keyphrase… vào văn bản gốc trước khi nhúng để tăng độ chính xác truy xuất.
+
+---
+## 2.6 Phân biệt fact với 2 cái summary và keyphrase?
+
+Trong bài, tác giả thử nghiệm ba kiểu “thông tin rút gọn” (ngoài **Value** gốc) để tạo “Key”:
+
+1. **Summary**
+    
+    - Là đoạn **tóm tắt** nội dung chính của phiên/đoạn hội thoại, thường được trình bày dưới dạng **vài câu văn hoàn chỉnh**, nêu ý chung, bối cảnh chung.
+    - Ví dụ: “Người dùng thảo luận về việc chạy bộ 15km, muốn tăng cường độ trong tuần tới, cảm thấy hơi mệt, v.v.”
+2. **Keyphrase**
+    
+    - Là một danh sách **từ khoá hoặc cụm từ ngắn** tách rời nhau (thường phân tách bằng dấu `;`).
+    - Ví dụ: `chạy bộ; 15km; tăng cường độ; mệt mỏi`.
+    - Thường súc tích hơn summary, chỉ tập trung vào keyword cốt lõi để phục vụ tìm kiếm “theo từ khoá”.
+3. **Fact**
+    
+    - Thay vì viết tóm tắt “chung chung,” “fact” là các **phát biểu dạng câu đơn, nêu rõ sự kiện/thông tin cụ thể** về người dùng.
+    - Ví dụ: “Người dùng đã chạy 15km.” “Người dùng cảm thấy mệt.”
+    - Thường ở dạng câu ngắn, liệt kê thông tin dưới dạng “user facts” (đặc biệt cho bài toán cá nhân hoá: sở thích, thói quen, kết quả tập luyện, v.v.).
+
+**Tóm lại**, cả **summary** và **fact** đều có thể coi là “đoạn tóm lược;” nhưng:
+
+- **Summary**: viết thành **đoạn văn mô tả** tổng quan, có độ bao quát cao.
+- **Fact**: chia nhỏ thành **nhiều câu đơn** (mỗi câu là một sự thật riêng).
+- **Keyphrase**: chỉ là **cụm từ khóa** chứ không viết thành câu hoàn chỉnh.
+
+Tuỳ mức độ “chi tiết” và “định dạng” mong muốn, ta chọn cách rút gọn khác nhau để **hỗ trợ truy xuất**. Kết quả thực nghiệm cho thấy “fact” thường hiệu quả hơn **summary** và **keyphrase** (theo bảng kết quả), vì nó vừa đủ cụ thể lại vẫn tách gọn thông tin quan trọng.
