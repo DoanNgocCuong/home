@@ -393,3 +393,79 @@ Tuỳ mức độ “chi tiết” và “định dạng” mong muốn, ta ch�
 
 ---
 ![[Pasted image 20250322063052.png]]
+
+---
+## 2.7 Sự khác nhau giữa fact và summary 
+
+Dưới đây là **một ví dụ ngắn** minh họa sự khác nhau giữa **fact** (các dữ kiện rời) và **summary** (một đoạn tóm tắt) khi trích xuất nội dung:
+
+---
+
+### Đoạn hội thoại gốc
+
+> **User**: “Tôi vừa chuyển từ iPhone 13 sang điện thoại Android, cụ thể là **Samsung Galaxy S23**. Tôi dùng iPhone 13 khoảng **1 năm** rồi, giờ đổi qua S23 thấy **camera đẹp** hơn hẳn.”
+
+---
+
+### **1) Facts**
+
+Facts thường được biểu diễn dưới dạng **các câu thông tin rời rạc, ngắn gọn**, mỗi fact nêu một điểm quan trọng:
+
+1. “Người dùng **đã dùng iPhone 13** trong 1 năm.”
+2. “Người dùng **chuyển sang sử dụng Samsung Galaxy S23** (Android).”
+3. “Người dùng **thấy camera Samsung S23 đẹp hơn**.”
+
+**Đặc trưng**:
+
+- Từng dòng fact là một **thực thể quan hệ** (VD: “User – chuyển sang – Galaxy S23”).
+- Không có câu nối; tránh diễn giải, cảm xúc.
+- Lượng thông tin tối thiểu, dễ “match” khi tìm kiếm.
+
+---
+
+### **2) Summary**
+
+Phần tóm tắt (summary) thường là **một đoạn văn** mô tả chung những điểm chính trong hội thoại:
+
+> “Người dùng cho biết họ đã **sử dụng iPhone 13** khoảng 1 năm trước khi **chuyển sang điện thoại Android**. Họ hiện dùng **Samsung Galaxy S23** và cảm thấy hài lòng, đặc biệt với **chất lượng camera** được đánh giá cao hơn so với iPhone 13.”
+
+**Đặc trưng**:
+
+- Viết thành **đoạn văn liên tục**, tương đối mạch lạc.
+- Có thể lồng ghép các **mối quan hệ**, bối cảnh, và cả đánh giá (cảm xúc).
+- Thích hợp cho việc **tóm gọn** nhiều ý, giúp mô hình đọc dễ hơn, nhưng có thể **lược bớt chi tiết**.
+
+---
+
+### **Tổng quan so sánh**
+
+- **Fact**:
+    
+    - Tách riêng từng ý **cụ thể** (rút gọn, khách quan).
+    - Hữu ích khi cần lưu trữ/tra cứu chính xác hoặc “lập chỉ mục” (index) theo từng quan hệ (VD: “A sở hữu B,” “A sử dụng C,”...).
+- **Summary**:
+    
+    - Đoạn tóm lược **bao quát** nội dung, có tính mạch lạc.
+    - Hữu ích cho **người đọc** hoặc LLM ở bước “đọc/hiểu” (reading), nhưng có thể **bỏ sót các chi tiết nhỏ** mà fact ghi lại.
+
+```
+1. Thay vì chỉ có: K = V + fact/V+ summary/V+keyphrase thì ta dùng cả K = V+fact+summary +keyphrase và sử dụng các method tốt hơn nữa để summary ???
+
+**Áp dụng “hierarchical indexing”**:
+
+- Thay vì key = “(V + fact + summary + keyphrase)” dạng phẳng, ta tách thành 2 tầng:
+    - Tầng 1: Từ khoá/summaries tổng quát (để khoanh vùng).
+    - Tầng 2: Chuẩn hoá fact/câu gốc (để lấy chính xác).
+- Đọc RAG theo hai pha, giảm thời gian “cày” trên hàng chục nghìn “chunk.”
+
+2. fine tuning model, sử dụng các history để fine tuning model làm tăng khả năng extract, 1 model LMa 3 - 3B thay vì llama3.1 8B của tác giả ...
+
+3. ...
+```
+
+Giống cái a Huy 
+```
+- Raptor Chunk 
+- LLMs Chunk 
+-> a Huy kết hợp cả 2 
+```
