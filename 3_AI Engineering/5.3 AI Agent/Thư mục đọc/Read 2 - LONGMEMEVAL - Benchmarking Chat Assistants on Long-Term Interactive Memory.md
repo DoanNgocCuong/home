@@ -83,3 +83,166 @@ Bài báo giới thiệu **LONGMEMEVAL** – một bộ dữ liệu kiểm tra t
 - Bài báo đề xuất một “khung thiết kế” (key, value, query, reading strategy) và chứng minh các kỹ thuật như chia nhỏ session, key expansion, xử lý time-aware, và “Chain-of-Note” đều giúp nâng cao độ chính xác.
 
 **LONGMEMEVAL** là bước tiến lớn trong việc đánh giá khả năng “ghi nhớ dài hạn” của trợ lý hội thoại, tạo tiền đề cho các nghiên cứu sâu hơn về tối ưu hóa chi phí, thời gian, hoặc mở rộng sang nhiều dạng dữ liệu phức tạp hơn.
+
+
+---
+
+![[Pasted image 20250322054315.png]]
+
+
+Hình vẽ trong bài mô tả **quy trình “3 giai đoạn” (Indexing – Retrieval – Reading)** của một hệ thống “trợ lý hội thoại có bộ nhớ dài hạn,” đồng thời chỉ ra **4 điểm điều khiển (CP1–CP4)** quan trọng:
+
+1. **(1) Indexing:**
+    
+    - Toàn bộ lịch sử trò chuyện (hoặc dữ liệu) được phân tách và lưu trữ dưới dạng cặp “Key–Value”.
+    - **CP1: Key** là cách biểu diễn (representations) được dùng để tìm kiếm, ví dụ: câu tóm tắt, keyphrase, embedding, v.v.
+    - **CP2: Value** là nội dung chính mà hệ thống thực sự cần truy hồi (ví dụ: các “đoạn hội thoại” hay “document chunks”).
+    - Ý tưởng: Mỗi “value chunk” có kèm “key” để sau này khi có truy vấn (query), hệ thống dễ lọc và lấy ra đoạn nội dung phù hợp.
+2. **(2) Retrieval:**
+    
+    - Khi người dùng (hoặc hệ thống) đưa ra **query**, ta so sánh query với **key** trong “chỉ mục” (index) để xếp hạng mức độ liên quan.
+    - Lấy ra các “Value Chunk” top-k phù hợp nhất.
+    - **CP3: Query** bao gồm việc xử lý/làm giàu (query expansion) và quản lý thông tin thời gian (time-aware) sao cho việc tìm kiếm chính xác hơn.
+3. **(3) Reading:**
+    
+    - Các “value chunk” lấy được sẽ được đưa vào mô hình LLM cùng với **câu hỏi** để sinh ra câu trả lời cuối cùng.
+    - **CP4: Reading Strategy** đề cập đến cách ta “cho mô hình đọc” những đoạn đã truy xuất. Ví dụ:
+        - Prompt chuẩn bị dạng JSON, hoặc
+        - Kỹ thuật “Chain-of-Note” (chia bước: đầu tiên mô hình tách rút thông tin cốt lõi, sau đó mới lập luận),
+        - v.v.
+
+Nói cách khác, sơ đồ minh hoạ một pipeline kiểu “Retrieval-Augmented Generation” nhưng chia nhỏ rõ ràng thành:
+
+- **Indexing (Key–Value)**: lưu trữ dữ liệu, thiết kế khóa (Key) sao cho dễ tìm,
+- **Retrieval (Query)**: so khớp query với Key để tìm Value liên quan,
+- **Reading (LLM)**: mô hình đọc giá trị trả về và trả lời.
+
+Bốn “điểm điều khiển” (Control Points CP1–CP4) là những khâu quan trọng mà ta có thể tối ưu để hệ thống trả lời chính xác, nhớ lâu, và xử lý dữ liệu lớn hiệu quả.
+
+
+Dưới đây là một **ví dụ giả lập** (rút gọn) về cách hệ thống **Indexing – Retrieval – Reading** hoạt động, đồng thời minh họa 4 điểm điều khiển (CP1–CP4) trong thực tế:
+
+---
+
+## Bối cảnh giả định
+
+- Bạn có một trợ lý AI (dựa trên LLM) hỗ trợ theo dõi quá trình tập luyện thể thao của bạn trong nhiều tuần lễ.
+- Bạn thường xuyên trò chuyện với trợ lý, cung cấp thông tin số km chạy bộ, thời gian nghỉ, cân nặng, v.v.
+
+### Lịch sử hội thoại
+
+1. **Tuần 1**:
+    
+    - **User**: “Tuần này tôi chạy 15km. Tôi muốn tăng dần cường độ.”
+    - **Assistant**: “Ok, vậy tuần sau hãy thử nâng lên 20km.”
+2. **Tuần 2**:
+    
+    - **User**: “Tôi đã chạy được 18km. Nhưng có vẻ hơi mệt.”
+    - **Assistant**: “Có thể bạn cần nghỉ xen kẽ 1 ngày sau mỗi 2 buổi chạy.”
+3. **Tuần 3**:
+    
+    - **User**: “Tôi chạy 21km trong tuần này. Rất tốt!”
+    - **Assistant**: “Chúc mừng! Hãy ghi nhật ký lại để xem tuần tiếp theo thế nào.”
+
+… (và còn tiếp)
+
+---
+
+## 1) Indexing
+
+### CP1: Key
+
+- Mỗi phiên/đoạn hội thoại sẽ được “ghi chỉ mục” (index) sao cho khi cần tìm lại thông tin, hệ thống có thể dựa vào **key**.
+- **Ví dụ**: Ta lấy **câu User** làm “Value” chính cần lưu, còn **key** có thể là:
+    - Embedding (vector) được sinh ra từ toàn bộ nội dung tin nhắn,
+    - hoặc một cụm từ tóm tắt như “User chạy 15km tuần 1” (v.v.).
+
+**Giả sử** với Week 1, ta có:
+
+- **Key** = `"tuần 1, chạy bộ, 15km, cường độ"` (có thể kết hợp vector embedding + từ khóa)
+- **Value** = `"Tuần này tôi chạy 15km. Tôi muốn tăng dần cường độ."`
+
+### CP2: Value
+
+- “Value” là **nội dung gốc** dùng để phục vụ trả lời. Ở đây, mỗi lượt nói của User là một “value chunk.”
+- Có thể chia nhỏ hơn nữa (mỗi câu 1 chunk) hoặc giữ nguyên cả phiên tùy bạn thiết kế.
+- Nếu muốn **tóm gọn** (summarize) hoặc trích xuất “fact” để tiết kiệm dung lượng, ta vẫn phải đảm bảo không làm mất thông tin cần thiết.
+
+**Ví dụ**:
+
+- Tuần 2 → **Value** = “Tôi đã chạy được 18km. Nhưng có vẻ hơi mệt.”
+- Key có thể mở rộng: `"tuần 2, chạy bộ, 18km, mệt mỏi"`
+
+---
+
+## 2) Retrieval
+
+### CP3: Query
+
+- Khi bạn hỏi: “Tôi đã chạy được bao nhiêu km mỗi tuần, và tuần nào tôi chạy nhiều nhất?”
+- Hệ thống sẽ tạo một **truy vấn** (query) dựa trên chính câu hỏi này.
+- Trong **temporal query** (liên quan thời gian), nếu model phát hiện từ khóa “mỗi tuần” và “tuần nào chạy nhiều nhất,” nó có thể chỉ tìm các **key** chứa cụm “chạy bộ” + “km” + “tuần #”.
+
+**Quá trình tìm kiếm**:
+
+1. So sánh **query embedding** với các **key** trong cơ sở dữ liệu.
+2. Lấy top-k Value chunk liên quan, ví dụ:
+    - Week 1 (15km), Week 2 (18km), Week 3 (21km), …
+
+(Chúng ta có thể có thêm bước lọc thời gian, ví dụ: chỉ lấy các tuần <= “tuần hiện tại”)
+
+---
+
+## 3) Reading
+
+### CP4: Reading Strategy
+
+- Bây giờ, hệ thống có được 3 “value chunk” (tuần 1, 2, 3). Nó đưa những chunk này + câu hỏi vào LLM để tổng hợp ra kết quả.
+    
+- **Ví dụ** “Chain-of-Note” (CoN):
+    
+    1. **Bước 1**: Mô hình **trích rút** các con số liên quan từ mỗi chunk:
+        - Tuần 1: 15km, tuần 2: 18km, tuần 3: 21km.
+    2. **Bước 2**: Mô hình **suy luận**: “Tuần 3 có quãng đường dài nhất (21km).”
+    3. **Bước 3**: Trả lời người dùng ngắn gọn: “Bạn đã chạy 15km, 18km, 21km… Nhiều nhất là tuần 3.”
+- Nếu **không** dùng kỹ thuật này, mô hình có thể “lẫn” thông tin hoặc bỏ sót dữ liệu, đặc biệt khi có nhiều chunk.
+    
+
+---
+
+## Tóm tắt:
+
+- **Indexing** (1) & (2):
+    - **CP1** (Key): quyết định dạng khóa (embedding, từ khóa, tóm tắt…).
+    - **CP2** (Value): quyết định mức “chia nhỏ” dữ liệu (theo vòng hội thoại, theo câu, hay tóm tắt).
+- **Retrieval** (3):
+    - **CP3** (Query): mở rộng (query expansion), hiểu thời gian, từ khóa… để tìm chính xác.
+- **Reading** (4):
+    - **CP4** (Reading Strategy): chuỗi prompt hoặc kỹ thuật (Chain-of-Note, JSON format, v.v.) để LLM diễn giải tốt nhiều đoạn.
+
+Qua ví dụ này, ta thấy rõ cách “Key–Value” được lưu và cách “Query–Reading Strategy” can thiệp để tối ưu việc tìm kiếm và tổng hợp thông tin.
+
+---
+```
+Theo tôi hiểu là bạn sử dụng chiến lược Indexing Key - Value trong đó key = embedidng + từ khóa Value = toàn bộ text lúc search là hybrid search đúng chứ
+```
+
+
+**Đúng như bạn nói,** trong bài (và cả nhiều hệ thống RAG tương tự), một **cách phổ biến** là lưu trữ “Key” dưới dạng **kết hợp (embedding + từ khoá)**, rồi **Value** là toàn bộ text.
+
+- **Key** thường gồm:
+    1. **Embedding** (vector) để phục vụ “semantic search” (tìm kiếm theo ngữ nghĩa).
+    2. **Từ khoá** (hoặc tóm tắt, fact...) để phục vụ “keyword / BM25 search” (hoặc hỗn hợp).
+
+Khi hệ thống **tìm kiếm (retrieval)**, nó có thể chạy cả hai cơ chế:
+
+- Tính “độ tương đồng embedding” (cosine similarity, v.v.)
+- Tìm theo từ khoá (BM25 hay từ vựng đặc biệt)  
+    Sau đó ta có thể **gộp** hai danh sách kết quả (thuật toán rank fusion) hoặc chọn lọc top-k phù hợp. Đó chính là **“hybrid search”**.
+
+Tùy nhu cầu, **cách triển khai** có thể là:
+
+1. **“Key merging”**: Trộn thẳng từ khóa/tóm tắt vào text để tạo **một “key” duy nhất** (có embedding + fulltext).
+2. **“Rank merging”**: Lưu song song 2 loại key (embedding key + keyword key), khi cần truy vấn thì trả về 2 list kết quả rồi hợp nhất.
+
+Cả hai chiến lược đều nhằm tăng khả năng tìm được văn bản chính xác (recall) và ưu tiên mức độ liên quan (precision). Nhiều bài thực nghiệm cho thấy cách phối hợp embedding + keyword thường hiệu quả hơn so với chỉ dùng đơn lẻ một trong hai.
