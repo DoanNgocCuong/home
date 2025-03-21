@@ -279,3 +279,85 @@ Tóm lại, **không** phải họ trích xuất từng câu “ngay lập tức
 
 
 ![[Pasted image 20250322060614.png]]
+
+Dưới đây là phần giải thích cụ thể cách đọc **Bảng 2** (Retrieval và End-to-End QA) trong bài báo, cũng như ý nghĩa từng cột:
+
+---
+
+## 1. Các cột về **Retrieval**
+
+- **Metrics@5** và **Metrics@10**: Tác giả báo cáo hai chỉ số:
+    - **Recall**@k: Tỉ lệ mà top-k kết quả trả về (từ bước tìm kiếm) có chứa **đoạn/bản ghi** thực sự cần để trả lời (các “evidence” quan trọng).
+    - **NDCG**@k: Thước đo đánh giá mức độ xếp hạng (nếu “evidence” càng được xếp hạng cao, thì NDCG càng tốt).
+- Bên trái cùng bảng là phần “Key Design” (cách tạo Key trong Indexing) và “Value = Round/Session” (cách chia “Value chunk”).
+
+**Ví dụ**:
+
+- Khi thấy “K = V + fact” có Recall@5 = 0.644 (với **Value = Round**), có nghĩa là nếu ta **key = [Value + facts rút ra]**, thì khi truy vấn, có 64.4% trường hợp hệ thống tìm thấy đúng “chunk” liên quan trong top 5 kết quả.
+
+---
+
+## 2. Các cột về **End-to-End QA**
+
+Sau khi truy xuất (Retrieval), các top-k “chunk” được đưa vào LLM để trả lời. Bảng hiển thị **độ chính xác cuối** (QA accuracy) theo 2 mức k:
+
+- **Top-5**: Chỉ lấy 5 đoạn được xếp hạng cao nhất đưa vào LLM
+- **Top-10**: Lấy 10 đoạn.  
+    Mục đích là so sánh xem đưa thêm chunk (top-10) có cải thiện câu trả lời so với chỉ top-5 hay không.
+
+Ba cột “GPT-4o,” “L3.1 70B,” “L3.1 8B” chính là ba “độc giả” (reader LLM) khác nhau. Mỗi LLM sẽ có khả năng tổng hợp thông tin từ top-k chunk tốt hay kém, dẫn đến kết quả QA khác nhau.
+
+---
+
+## 3. Ý nghĩa từng “Key Design”
+
+- **K = V**: Key trùng với Value. Tức là không tách bạch, dùng luôn toàn bộ nội dung text để làm khóa tìm kiếm.
+- **K = summary, K = fact, K = keyphrase**: Key là phần tóm tắt, facts hay keywords rút gọn (không kèm đoạn gốc).
+- **K = V + summary / V + fact / V + keyphrase**: Kết hợp cả đoạn gốc (Value) và phần tóm tắt/fact/keyword rút ra để mở rộng nội dung Key (document expansion).
+
+---
+
+## 4. Các hàng “Value = Round” và “Value = Session”
+
+- **Value = Round**: Mỗi lượt nói của người dùng (hoặc mỗi câu) được cắt thành một “chunk” riêng.
+- **Value = Session**: Dùng cả phiên hội thoại (gồm nhiều lượt nói) làm một chunk “Value”.
+
+Cột “Value = Round” thường có nhiều chunk hơn (nhưng ngắn), còn “Value = Session” có số chunk ít hơn (nhưng dài).
+
+---
+
+## 5. Rút gọn các nhận xét
+
+1. **Retrieval**:
+    
+    - Thường thấy “K = V + fact” (bôi đậm trong bảng) có Recall và NDCG cao hơn đáng kể so với K = V đơn thuần. Điều này chứng tỏ việc “document expansion” với facts (hoặc tóm tắt) làm Key giúp việc tìm kiếm chính xác hơn.
+2. **End-to-End QA**:
+    
+    - Tương tự, “K = V + fact” có accuracy cao nhất ở hầu hết các cột (so với K = summary/keyphrase riêng lẻ).
+    - Việc so sánh “Top-5” và “Top-10” giúp ta thấy mô hình GPT-4o, Llama-3.1 70B, 8B thay đổi hiệu quả ra sao khi bơm thêm chunk. Ví dụ GPT-4o thường tăng từ ~0.65 lên ~0.70 nếu lấy Top-10 thay vì Top-5.
+3. **Value = Round** vs. **Value = Session**:
+    
+    - Nhìn chung, “Value = Round” có recall thấp hơn do độ ngắn (có nhiều chunk nhỏ, khó match), nhưng đôi khi “Value = Round” hỗ trợ mô hình QA trả lời chính xác hơn vì chunk gọn, mô hình ít bị loãng thông tin.
+    - “Value = Session” thì retrieval recall có thể cao hơn (vì chunk to, dễ dính key), nhưng khi vào QA, có thể mô hình bị “khó tóm gọn” nên kết quả cuối có thể khác nhau.
+
+---
+
+### Kết luận chính từ bảng
+
+- **Document expansion** (K = V + fact) **cải thiện cả retrieval** (Recall/NDCG) **lẫn kết quả QA**.
+- Nếu chia **Value** thành từng **round** nhỏ thì có thể tốt cho giai đoạn tổng hợp, nhưng đòi hỏi key design cẩn thận (vì chunk nhỏ, retrieval cũng khó).
+- Việc chọn top-5 hay top-10 chunk khi đưa vào LLM cũng ảnh hưởng đáng kể đến hiệu suất cuối, và mô hình LLM mạnh như GPT-4o thường tận dụng tốt hơn top-10 so với model nhỏ.
+
+Như vậy, Bảng 2 minh họa chi tiết **các tổ hợp “Key Design” (K) và “Value Granularity”** sẽ ảnh hưởng thế nào đến cả hiệu năng truy xuất (retrieval) lẫn chất lượng trả lời cuối (end-to-end QA).
+
+
+**Đúng vậy**, trong phương án **Key = V + fact** thì ta tạo **một chuỗi “Key”** bằng cách **ghép** (concatenate) phần **nội dung gốc (Value)** với các câu “fact” rút ra, rồi **mang cả chuỗi đó đi nhúng (embedding)** và lưu vào cơ sở dữ liệu để truy xuất.
+
+Nói cách khác:
+
+1. **Value**: nội dung gốc của đoạn (có thể là nguyên phiên hoặc chỉ một lượt).
+2. **Fact**: các câu thông tin cốt lõi trích xuất (ví dụ, tóm tắt “người dùng vừa mua xe, tuần này chạy 15km,…”).
+3. **Ghép (Value + fact)** thành một đoạn text duy nhất, rồi đưa text này qua mô hình embedding (VD: BERT, Stella V5, Contriever...).
+4. **Lưu embedding** đó làm “Key” trong chỉ mục. Khi truy vấn, ta sẽ so sánh query embedding với embedding của “Key = (Value + fact)”.
+
+Cách làm này giúp hệ thống tìm kiếm “match” tốt hơn, vì từ khoá cốt lõi (fact) cũng nằm trong chính “Key”, đồng thời vẫn giữ bối cảnh gốc (Value). Ta có thể coi đó là **một dạng “document expansion”** – thêm thông tin tóm lược, facts, keyphrase… vào văn bản gốc trước khi nhúng để tăng độ chính xác truy xuất.
