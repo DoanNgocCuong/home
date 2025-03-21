@@ -87,6 +87,8 @@ Bài báo giới thiệu **LONGMEMEVAL** – một bộ dữ liệu kiểm tra t
 
 ---
 
+## 2.1 Câu hỏi 1: Đào sâu hơn cách làm 
+
 ![[Pasted image 20250322054315.png]]
 
 
@@ -223,10 +225,7 @@ Dưới đây là một **ví dụ giả lập** (rút gọn) về cách hệ th
 Qua ví dụ này, ta thấy rõ cách “Key–Value” được lưu và cách “Query–Reading Strategy” can thiệp để tối ưu việc tìm kiếm và tổng hợp thông tin.
 
 ---
-```
-Theo tôi hiểu là bạn sử dụng chiến lược Indexing Key - Value trong đó key = embedidng + từ khóa Value = toàn bộ text lúc search là hybrid search đúng chứ
-```
-
+## 2.2 Câu hỏi thêm 2:  Theo tôi hiểu là bạn sử dụng chiến lược Indexing Key - Value trong đó key = embedidng + từ khóa Value = toàn bộ text lúc search là hybrid search đúng chứ
 
 **Đúng như bạn nói,** trong bài (và cả nhiều hệ thống RAG tương tự), một **cách phổ biến** là lưu trữ “Key” dưới dạng **kết hợp (embedding + từ khoá)**, rồi **Value** là toàn bộ text.
 
@@ -246,3 +245,37 @@ Tùy nhu cầu, **cách triển khai** có thể là:
 2. **“Rank merging”**: Lưu song song 2 loại key (embedding key + keyword key), khi cần truy vấn thì trả về 2 list kết quả rồi hợp nhất.
 
 Cả hai chiến lược đều nhằm tăng khả năng tìm được văn bản chính xác (recall) và ưu tiên mức độ liên quan (precision). Nhiều bài thực nghiệm cho thấy cách phối hợp embedding + keyword thường hiệu quả hơn so với chỉ dùng đơn lẻ một trong hai.
+
+--- 
+## 2.3 Câu hỏi 3: Trong bài báo có nói dùng cách nào để extract từ khóa không ?
+
+Trong bài báo, phần **Appendix E** (Implementation Details) có mô tả cách tác giả **extract keyphrase** từ mỗi “chunk” (một phiên hội thoại hoặc một lượt nói). Họ dùng một **prompt zero-shot** với mô hình _Llama 3.1 8B Instruct_, có nội dung như sau (được rút gọn):
+
+```
+Below is a transcript of a conversation between a human user and an AI assistant. 
+Generate a list of keyphrases for the session. Separate each keyphrase with a semicolon. 
+Dialogue content: {session}
+```
+
+Cụ thể:
+
+1. **Mỗi phiên (hoặc lượt) hội thoại** được đưa vào prompt dưới dạng `Dialogue content`.
+2. **Mô hình** Llama 3.1 8B Instruct **trích xuất ra** các **từ khóa nổi bật**, dưới dạng danh sách, ngăn cách bằng dấu chấm phẩy.
+3. Những keyphrases này sau đó được nối (concatenate) vào Value hoặc ghép chung dưới dạng “document expansion” để làm Key.
+
+Tóm lại, tác giả không dùng thuật toán keyword extraction truyền thống (như TF-IDF, TextRank, v.v.) mà **chỉ dùng prompt zero-shot** với mô hình ngôn ngữ lớn để trích xuất từ khóa. Kết quả thu được được họ báo cáo trong bảng ở phần phụ lục.
+
+
+## 2.4 Tức là trích xuất sau khi hội thoại đã kết thúc hả ?
+
+```
+Trong bài, họ chạy **quy trình “extract keyphrase”** cho từng khối hội thoại (chunk) **sau khi** khối đó đã sẵn sàng (tức là sau khi người dùng và trợ lý đã kết thúc phiên hoặc ít nhất là kết thúc một lượt nói). Ta có thể coi đây là quá trình “post-hoc extraction”: khi **đoạn text** của một lượt/phiên đã hoàn chỉnh, họ đưa đoạn đó vào prompt để LLM trích xuất từ khóa.
+
+- Về mặt triển khai, bài báo chủ yếu mô tả **quy trình** dưới góc nhìn “offline benchmark”: họ có toàn bộ dữ liệu hội thoại, sau đó chạy lần lượt các bước Indexing – Retrieval – Reading.
+- Nếu áp dụng vào hệ thống “online memory”, ta cũng thường **chờ** người dùng nói xong (hay trợ lý trả lời xong) rồi mới trích xuất từ khóa/facts để cập nhật vào bộ nhớ.
+
+Tóm lại, **không** phải họ trích xuất từng câu “ngay lập tức khi người dùng gõ”, mà **đợi** cho đoạn/lượt thoại hoàn tất, sau đó mới đưa vào LLM để sinh keyphrase.
+```
+
+
+![[Pasted image 20250322060614.png]]
