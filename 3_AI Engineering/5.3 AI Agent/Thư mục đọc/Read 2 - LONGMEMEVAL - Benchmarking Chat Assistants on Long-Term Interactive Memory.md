@@ -578,3 +578,125 @@ Reading: Đưa top-K’ này vào LLM để sinh câu trả lời.
 
 => Đề xuất: Mỗi loại key có thế mạnh riêng (VD: summary giỏi match ý tổng quát, keyphrase giỏi match keyword cụ thể...). Ta embedding toàn bộ: V+summary, V+fact, V+keyphrase kèm với top K.
 ```
+
+
+
+
+
+
+
+---
+
+## 🚩 Vấn đề với phương pháp cũ (LongMemEval gốc)
+
+1. **Granularity chưa tối ưu**:
+    
+    - Việc trích xuất `summary`, `fact`, `keyphrase` từ **toàn bộ session** hoặc **round riêng lẻ** có thể gặp tình trạng:
+        - Đoạn quá **ngắn** (không đủ ngữ cảnh để LLM trích xuất meaningful facts).
+        - Đoạn quá **dài** (gây nhiễu thông tin, LLM không thể tóm tắt chính xác, dễ mất detail).
+    - Không có cách kiểm soát mức độ coherence hoặc topic shift trong session dài.
+2. **Chỉ dùng 1 loại key duy nhất cho indexing**:
+    
+    - `K = V + fact` hoặc `K = V + summary` là tốt, nhưng mỗi loại key có điểm mạnh khác nhau:
+        - `summary`: tốt cho match semantic tổng thể.
+        - `keyphrase`: bắt cụ thể keyword.
+        - `fact`: truy xuất chính xác các entity, số liệu, mốc thời gian.
+    - Không tận dụng được hiệu ứng **ensemble giữa các loại key**.
+3. **Lacking structure in indexing**:
+    
+    - Indexing hiện tại là **flat** → không tận dụng tính chất "tầng" của văn bản hội thoại: đoạn – session – timeline.
+    - Thiếu khả năng điều hướng mượt mà giữa các mức khái quát (coarse) và chi tiết (fine).
+
+---
+
+## ✅ Giải pháp đề xuất: Kết hợp **LLMs + Raptor + Multi-Key Embedding + Hierarchical Indexing**
+
+### **1. Conversation-Aware Chunking trước khi Extract**
+
+#### ✂️ 1.1. LLM-based Chunking
+
+- Dùng LLM để phân chia session thành các đoạn nhỏ (chunk) theo chuyển chủ đề, mục đích câu hỏi, hoặc hành vi người dùng.
+- Lợi ích:
+    - Tách được các segment theo topic.
+    - Giữ được coherence bên trong mỗi chunk.
+
+#### 🧱 1.2. Raptor Chunking
+
+- Dùng **RAPTOR (recursive abstractive chunking)** để tạo cây phân cấp cho từng session.
+- Mỗi node là một chunk hoặc summary của chunk con → có thể phục vụ **hierarchical retrieval**.
+
+---
+
+### **2. Embedding: Flatten & Index**
+
+#### 🧾 2.1 Raptor Flat Embedding
+
+- Đưa từng chunk (ban đầu + LLM-chunked + summary chunk) vào embedding encoder.
+- Tạo index **dạng phẳng (flat)**, có thể dùng Reranker để chọn top-K chunk có khả năng cao nhất.
+
+#### 🧠 2.2 Hierarchical Indexing (2-phase Retrieval)
+
+**Pha 1: Coarse Retrieval**
+
+- Embed summary / keyphrase của chunk.
+- Dùng query để so sánh, chọn Top-K chunk liên quan.
+
+**Pha 2: Fine Retrieval**
+
+- Với mỗi chunk đã chọn ở coarse stage → đi sâu vào level fine:
+    - Embed lại các câu gốc / facts / sub-chunks.
+    - Lấy top-K’ fine-grained memory units.
+
+=> **Cuối cùng đưa vào LLM để đọc và trả lời (Reading stage).**
+
+---
+
+### **3. Multi-Key Embedding cho Indexing**
+
+- Với mỗi chunk → tạo và embed song song:
+    - `K1 = V + summary`
+    - `K2 = V + fact`
+    - `K3 = V + keyphrase`
+- Kết hợp kết quả truy hồi từ các luồng (voting / weighted fusion / union-rerank).
+- Lý do:
+    - Summary bắt ngữ nghĩa chung.
+    - Fact giúp reasoning logic.
+    - Keyphrase giúp match keyword trong truy vấn cụ thể.
+
+---
+
+## 🔁 Tổng pipeline cải tiến
+
+```
+Session
+  ↓
+Conversation-aware Chunking (LLMs Chunk + Raptor Chunk)
+  ↓
+Chunk-level Value → Extract (summary, fact, keyphrase)
+  ↓
+Embed:
+   - K1 = V + summary
+   - K2 = V + fact
+   - K3 = V + keyphrase
+  ↓
+Phase 1: Coarse Retrieval từ summary/keyphrase
+  ↓
+Phase 2: Fine Retrieval từ facts
+  ↓
+Reading Strategy: CoN + JSON (Chain-of-Note)
+  ↓
+Answer
+```
+
+---
+
+## 📈 Lợi ích chính
+
+- ✅ Giảm nhiễu, tối ưu granularity nhờ LLM chunking.
+- ✅ Tận dụng tốt semantic, factual và keyword-level cues qua multi-key.
+- ✅ Tăng khả năng truy hồi đúng với hierarchical search.
+- ✅ Phù hợp để scale cho 500+ sessions như LongMemEvalM.
+
+---
+
+Nếu bạn cần mình mô phỏng pipeline này bằng sơ đồ (sequence hoặc flowchart), hoặc viết phần giải thích thành văn academic để ghép vào một paper / research blog, mình cũng làm được ngay nhé!
