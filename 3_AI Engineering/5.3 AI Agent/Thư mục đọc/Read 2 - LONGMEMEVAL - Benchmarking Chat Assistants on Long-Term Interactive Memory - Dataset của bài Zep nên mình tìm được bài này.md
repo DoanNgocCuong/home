@@ -823,3 +823,17 @@ Dưới đây là toàn bộ **kịch bản thử nghiệm** (experimental setti
 ---
 
 Nếu bạn cần mình giúp viết script pipeline chạy thử nghiệm hoặc dựng YAML config cho từng scenario để quản lý chạy bằng `Hydra`/`WandB` hoặc hệ thống ML pipeline khác thì cứ nói nhé. Cũng có thể dựng lại bảng này dưới dạng Notion template hoặc Google Sheet để dễ quản lý.
+
+
+---
+# SAU KHI HIỂU GỐC, BÀI BÁO GỐC, QUAY LẠI LANGGRAPH THÌ THẤY Ồ. RA LANGGRAPH NÓ ĐỀ XUẤT KIẾN TRÚC THÔI, CÒN CƠ BẢN THÌ LÀ BÀI BÁO ĐANG SEARCH NÀY 
+
+**LangGraph** là một **framework** được giới thiệu trong khóa học "Long-Term Agentic Memory with LangGraph" do Harrison Chase, Co-Founder và CEO của LangChain, giảng dạy. Khóa học này hướng dẫn cách xây dựng một **agent** với khả năng **ghi nhớ dài hạn**, cụ thể là trong việc quản lý email cá nhân.
+
+**Điểm mới mà LangGraph đề cập đến**:
+
+1. **Tích hợp ba loại memory trong agent**:
+    
+    - **Semantic Memory**: Lưu trữ các **facts** về người dùng, như sở thích, thói quen, để sử dụng trong các tương tác sau này.
+    - **Episodic Memory**: Ghi nhớ các **tình huống cụ thể** đã xảy ra trong quá khứ, giúp agent hiểu ngữ cảnh và cải thiện phản hồi.
+    - **Procedural Memory**: Lưu trữ các **hướng dẫn và quy trình** mà agent cần tuân theo, giúp tối ưu hóa hành vi dựa trên phản hồi.
