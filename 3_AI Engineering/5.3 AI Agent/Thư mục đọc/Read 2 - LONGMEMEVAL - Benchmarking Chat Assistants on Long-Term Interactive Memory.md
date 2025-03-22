@@ -470,6 +470,78 @@ Giống cái a Huy
 -> a Huy kết hợp cả 2 
 ```
 
+## 2.8 Đọc kỹ lại K = value + fact của họ 
+
+Câu hỏi của bạn là về phần:
+
+> **"K = V + fact" – quy trình này được thực hiện như nào trong toàn bộ pipeline? Có phải là V + fact được mang đi embedding không?**
+
+## ✅ Tóm tắt ngắn gọn
+
+**Có, đúng là `V + fact` được mang đi embedding** trong quá trình indexing — đây là kỹ thuật gọi là **Key Expansion (mở rộng khóa)** bằng cách **nối (`concat`) thông tin quan trọng như facts vào chính `value`** và dùng toàn bộ chuỗi đó như **key** trong cặp key-value. Điều này giúp tăng khả năng truy xuất đúng (retrieval) và cải thiện độ chính xác của trả lời câu hỏi.
+
+---
+
+## 🔍 Chi tiết quy trình K = V + fact
+
+### 1. **Giải thích các khái niệm**
+
+- `V`: Giá trị lưu trong memory (ví dụ: một đoạn hội thoại, một vòng chat, hoặc bản tóm tắt).
+- `fact`: Những thông tin cá nhân được trích xuất từ `V` như sở thích, trải nghiệm, con số cụ thể, v.v.
+- `K = V + fact`: Là **Key mở rộng**, được tạo ra bằng cách nối `fact` vào `value` rồi mang toàn bộ đi **embedding** để tạo thành key.
+
+---
+
+### 2. **Trong pipeline của hệ thống memory-augmented chat assistant**
+
+Theo mô hình được mô tả trong Figure 3 (trang 4 của bài), pipeline có 3 bước chính:
+
+#### **(1) Indexing:**
+
+- Mỗi session được chia nhỏ (tốt nhất là theo từng vòng `round`).
+- Từ mỗi vòng, ta tạo ra:
+    - `value` (V): thường là đoạn hội thoại người dùng.
+    - `fact`: trích xuất các thông tin có cấu trúc (user facts).
+- **Sau đó, `key = V + fact`**: nối lại rồi nhúng embedding → lưu vào bộ nhớ key-value.
+
+📌 **Việc này giúp "gợi ý" cho retriever biết cái gì quan trọng trong `V`.**
+
+---
+
+#### **(2) Retrieval:**
+
+- Khi người dùng hỏi một câu (`query`), nó được nhúng thành embedding.
+- Hệ thống tìm top-k `key` gần nhất trong vector space, lấy `value` tương ứng.
+
+> 🧠 Việc mở rộng `K = V + fact` giúp tăng Recall@k và QA accuracy như được chứng minh trong Table 6 và Table 7.
+
+---
+
+#### **(3) Reading:**
+
+- Các `value` được truy xuất sẽ được model đọc lại để suy luận và trả lời.
+- Thường kết hợp với kỹ thuật như **Chain-of-Note** hoặc **JSON format** để tăng độ chính xác.
+
+---
+
+## 🧪 Kết quả thực nghiệm
+
+Trong các bảng kết quả (như Table 6 trang 17):
+
+- `K = V + fact` vượt trội hơn `K = V` hoặc `K = fact` về cả **retrieval** và **QA accuracy**.
+- Đặc biệt hiệu quả khi dùng với value granularity = session hoặc round.
+
+---
+
+## ✅ Kết luận
+
+- ✅ **`K = V + fact` được embedding trong indexing stage.**
+- ✅ Cách này giúp retriever tìm chính xác hơn nhờ có thêm thông tin định hướng.
+- ✅ Thích hợp với cả long context LLMs và memory-augmented agents.
+
+Nếu bạn muốn mình vẽ sơ đồ minh hoạ pipeline "K = V + fact" hay viết lại đoạn code giả lập, mình cũng làm được luôn nhé.
+
+
 ```
 Có 1 ý tưởng nữa là dùng method: LLMs + Raptor =>
 
