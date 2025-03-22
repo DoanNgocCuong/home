@@ -1,3 +1,20 @@
+```
+4. Thực nghiệm và đánh giá
+4.1 Deep Memory Retrieval (DMR)
+DMR (giới thiệu trong MemGPT) có 500 cuộc hội thoại nhiều phiên (multi-session).
+Zep đạt 94.8% độ chính xác khi dùng GPT-4-turbo (và 98.2% khi dùng một biến thể GPT-4o-mini), nhỉnh hơn so với MemGPT (93.4%).
+Tuy nhiên, bộ DMR chỉ có hội thoại khá ngắn (khoảng 60 tin nhắn mỗi cuộc), chưa thực sự kiểm tra khả năng “siêu dài hạn”.
+4.2 LongMemEval (LME)
+LongMemEval có các đoạn hội thoại dài hơn nhiều (trung bình 115.000 tokens), mô phỏng tình huống doanh nghiệp thực tế phức tạp.
+Zep cải thiện kết quả so với baseline (dùng toàn bộ hội thoại) ở hầu hết các loại câu hỏi, đặc biệt:
+Loại câu “multi-session,” “preference,” “temporal reasoning” tăng đáng kể.
+Độ trễ (latency) giảm đến 90% so với việc nhét toàn bộ hội thoại vào prompt (vì prompt của Zep ngắn gọn hơn).
+
+=====
+Search các bài báo liên quan đến dataset này 
+```
+
+
 Dưới đây là tóm tắt nội dung bài báo “LONGMEMEVAL: Benchmarking Chat Assistants on Long-Term Interactive Memory.” Bài báo tập trung đề xuất một bộ dữ liệu và phương pháp đánh giá nhằm kiểm tra khả năng “ghi nhớ dài hạn” của các trợ lý hội thoại (chat assistant) dựa trên mô hình ngôn ngữ lớn (LLM).
 
 ---
