@@ -625,6 +625,10 @@ Reading: Đưa top-K’ này vào LLM để sinh câu trả lời.
 - Dùng **RAPTOR (recursive abstractive chunking)** để tạo cây phân cấp cho từng session.
 - Mỗi node là một chunk hoặc summary của chunk con → có thể phục vụ **hierarchical retrieval**.
 
+
+=> **Sau đó ta thu được: thay vì K = Session + fact thì của ta là: K = Session1.i + Fact (Với i là Session 1.i được Chunking nhỏ ra từ Session to ban đầu).** 
+
+![[Pasted image 20250322071142.png]]
 ---
 
 ### **2. Embedding: Flatten & Index**
