@@ -469,3 +469,40 @@ Giống cái a Huy
 - LLMs Chunk 
 -> a Huy kết hợp cả 2 
 ```
+
+```
+Có 1 ý tưởng nữa là dùng method: LLMs + Raptor =>
+
+Đề xuất cải thiện:
+
+1. Method cũ: Đem từng Round / Session đi Prompt để extract Summary/Fact/Keyphrase thì gặp vấn đề ngắn quá hoặc dài quá => Đề xuất: Chunking cho Session và prompt để lấy fact:
+
+Chunking thì có nhiều method. Kỳ trước a Huy là chunking cho câu hỏi dạng QA. Của mình sẽ cải thiện hội thoại bằng Chunking trong Conversation.
+
+1.1 Chunking theo LLMs chunk
+1.2 Raptor Chunking: Chunk r
+
+- Các Session được sử dụng phương pháp: LLMs Chunking + Raptor Chunking => Flat ra để thành các Embedding.
+
+1.1 Raptor flat: Tức là đem cả Chunk ban đầu + LLMs Chunking + Summary Chunk đi Flat trải rộng ra và Rerank
+
+1.2 Hierarchical Indexing - luồng 2 pha:
+
+- Pha 1 (Coarse Retrieval):
+
+Tạo embedding cho “summary” (hoặc keyphrase) của từng chunk.
+
+Query → so sánh & lấy top-K chunk theo summary.
+
+- Pha 2 (Fine Retrieval):
+
+Với K chunk ở trên, ta đi sâu vào “fine index” (có facts/câu gốc).
+
+- Lấy top-K’ final.
+
+Reading: Đưa top-K’ này vào LLM để sinh câu trả lời.
+
+2. Phương pháp cũ chỉ đề xuất đến việc: K=V+summary / K=V+fact / K=V+keyphrase
+
+=> Đề xuất: Mỗi loại key có thế mạnh riêng (VD: summary giỏi match ý tổng quát, keyphrase giỏi match keyword cụ thể...). Ta embedding toàn bộ: V+summary, V+fact, V+keyphrase kèm với top K.
+```
