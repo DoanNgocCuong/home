@@ -721,3 +721,105 @@ Answer
 ---
 
 Nếu bạn cần mình mô phỏng pipeline này bằng sơ đồ (sequence hoặc flowchart), hoặc viết phần giải thích thành văn academic để ghép vào một paper / research blog, mình cũng làm được ngay nhé!
+
+---
+Dưới đây là toàn bộ **kịch bản thử nghiệm** (experimental settings) tương ứng với từng ý tưởng cải tiến mà Quốc đề xuất — được tổ chức theo dạng **ma trận thí nghiệm** để có thể dễ dàng triển khai thực nghiệm, đánh giá từng thành phần và kết hợp của pipeline.
+
+---
+
+## 🎯 **MỤC TIÊU THỬ NGHIỆM**
+
+> Kiểm chứng các cải tiến về chunking, indexing, embedding, retrieval và reading strategy nhằm cải thiện hiệu quả của hệ thống long-term memory QA (ví dụ trên benchmark như LONGMEMEVAL).
+
+---
+
+## 🧪 **KỊCH BẢN THỬ NGHIỆM CHÍNH**
+
+### 🔹 **I. Chunking Strategy**
+
+|Mã|Tên phương pháp|Mô tả|
+|---|---|---|
+|C1|No Chunking (baseline)|Dùng cả session hoặc round làm value trực tiếp|
+|C2|LLM-based Chunking|Phân chia đoạn theo chủ đề/ngữ nghĩa bằng LLM|
+|C3|RAPTOR Chunking|Chunking dạng cây phân cấp theo RAPTOR|
+|C4|LLM + RAPTOR Hybrid|Chunk theo LLM → dùng RAPTOR để tóm tắt từng chunk|
+
+---
+
+### 🔹 **II. Value Representation**
+
+|Mã|Dạng value đầu vào|Mô tả|
+|---|---|---|
+|V1|Full Session|Không chia nhỏ, để nguyên session|
+|V2|Round-based|Mỗi round là một value|
+|V3|Chunked|Chunk theo chiến lược C2, C3, C4|
+|V4|Summary|Tóm tắt của chunk hoặc session|
+|V5|Fact|Fact trích từ chunk/session|
+
+---
+
+### 🔹 **III. Key Design (Indexing)**
+
+|Mã|Tên thiết kế key|Mô tả|
+|---|---|---|
+|K1|K = V|Dùng raw value làm key|
+|K2|K = fact|Key là facts đã trích|
+|K3|K = summary|Key là summary|
+|K4|K = V + fact|Nối fact vào value để tạo key|
+|K5|K = V + summary|Nối summary vào value|
+|K6|K = V + fact + summary + keyphrase|Multi-key (concat tất cả)|
+|K7|Multi-path index|Tạo nhiều loại key riêng biệt, embed độc lập|
+
+---
+
+### 🔹 **IV. Retrieval Strategy**
+
+|Mã|Phương pháp truy hồi|Mô tả|
+|---|---|---|
+|R1|Flat Retrieval|Retrieval đơn lớp, cosine / FAISS|
+|R2|Coarse → Fine Retrieval (2-phase)|Truy xuất 2 pha: summary → fact|
+|R3|Flat + Reranker|Retrieval sơ cấp rồi rerank bằng LLM|
+|R4|Multi-path Fusion|Truy hồi theo từng key, rồi hợp kết quả (voting / union)|
+
+---
+
+### 🔹 **V. Reading Strategy**
+
+|Mã|Kỹ thuật đọc kết quả|Mô tả|
+|---|---|---|
+|RS1|Direct Answer|Đưa chunk vào, yêu cầu LLM trả lời thẳng|
+|RS2|Chain-of-Note (CoN)|Trích info trước rồi reasoning sau|
+|RS3|JSON + CoN|Đưa input dạng JSON có cấu trúc, dùng CoN|
+|RS4|CoT + CoN|Kết hợp chain-of-thought reasoning với CoN|
+
+---
+
+## ✅ **KẾT HỢP THỬ NGHIỆM GỢI Ý (FULL COMBO)**
+
+|#|Chunking|Value|Key|Retrieval|Reading|
+|---|---|---|---|---|---|
+|1|C1|V1|K1|R1|RS1|
+|2|C2|V3|K4|R2|RS3|
+|3|C3|V3|K6|R2|RS2|
+|4|C4|V3|K7|R4|RS3|
+|5|C3|V5|K2|R3|RS1|
+|6|C2|V3|K5|R1|RS2|
+|7|C4|V3|K6|R3|RS4|
+
+> 💡 _Bạn có thể chọn 3-5 combo để thử nghiệm A/B, đo các metric như:_
+> 
+> - **QA Accuracy (top-K)**
+> - **Recall@K, NDCG@K**
+> - **Inference time / latency**
+> - **Token count (input to reader)**
+
+---
+
+## 📦 **Dữ liệu sử dụng**
+
+- Dataset chính: `LONGMEMEVAL-S` và `LONGMEMEVAL-M`
+- Có thể mở rộng thử nghiệm với `MemoryBank`, `PerLTQA` để kiểm tra độ generalize.
+
+---
+
+Nếu bạn cần mình giúp viết script pipeline chạy thử nghiệm hoặc dựng YAML config cho từng scenario để quản lý chạy bằng `Hydra`/`WandB` hoặc hệ thống ML pipeline khác thì cứ nói nhé. Cũng có thể dựng lại bảng này dưới dạng Notion template hoặc Google Sheet để dễ quản lý.
