@@ -4,4 +4,4 @@
 
 - docker compose up --build -d 
 - docker compose down
-- docker compose -f
+- Xem log realtime: docker -f rag-backend
