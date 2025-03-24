@@ -837,3 +837,7 @@ Nếu bạn cần mình giúp viết script pipeline chạy thử nghiệm hoặ
     - **Semantic Memory**: Lưu trữ các **facts** về người dùng, như sở thích, thói quen, để sử dụng trong các tương tác sau này.
     - **Episodic Memory**: Ghi nhớ các **tình huống cụ thể** đã xảy ra trong quá khứ, giúp agent hiểu ngữ cảnh và cải thiện phản hồi.
     - **Procedural Memory**: Lưu trữ các **hướng dẫn và quy trình** mà agent cần tuân theo, giúp tối ưu hóa hành vi dựa trên phản hồi.
+
+
+---
+https://github.com/DoanNgocCuong/MiniProj_RAG3_RAG6_LegalChatbot_16032025
