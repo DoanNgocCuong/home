@@ -1,4 +1,6 @@
 
+Link: 
+
 Quốc ơi, bài **"In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"** (Tan et al., 2025) là một **base paper cực kỳ tốt** để làm nền tảng viết research về Long-term Memory AI. Mình tóm tắt đơn giản theo kiểu "ghi nhớ như con người" để Quốc tiện triển khai:
 
 ---
