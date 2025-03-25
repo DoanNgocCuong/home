@@ -841,3 +841,94 @@ Nếu bạn cần mình giúp viết script pipeline chạy thử nghiệm hoặ
 
 ---
 https://github.com/DoanNgocCuong/MiniProj_RAG3_RAG6_LegalChatbot_16032025
+
+---
+# Hiểu sâu hơn về Datase: 
+
+
+LongMemEval là một bộ dữ liệu toàn diện, được thiết kế để đánh giá khả năng ghi nhớ dài hạn của các trợ lý trò chuyện. Bộ dữ liệu này bao gồm 500 câu hỏi chất lượng cao, tập trung vào năm khả năng cốt lõi:
+
+1. **Trích xuất thông tin (Information Extraction):** Khả năng nhớ lại thông tin cụ thể từ lịch sử tương tác dài, bao gồm cả chi tiết do người dùng hoặc trợ lý cung cấp.
+    
+2. **Lý luận đa phiên (Multi-Session Reasoning):** Khả năng tổng hợp thông tin từ nhiều phiên trò chuyện để trả lời các câu hỏi phức tạp yêu cầu sự tổng hợp và so sánh.
+    
+3. **Cập nhật kiến thức (Knowledge Updates):** Khả năng nhận biết và cập nhật thông tin cá nhân của người dùng theo thời gian.
+    
+4. **Lý luận thời gian (Temporal Reasoning):** Nhận thức về các khía cạnh thời gian của thông tin người dùng, bao gồm cả thời gian được đề cập rõ ràng và siêu dữ liệu thời gian trong các tương tác.
+    
+5. **Từ chối trả lời (Abstention):** Khả năng từ chối trả lời các câu hỏi liên quan đến thông tin không được đề cập trong lịch sử tương tác.
+    
+
+Lấy cảm hứng từ bài kiểm tra "tìm kim trong đống cỏ khô", LongMemEval sử dụng một quy trình kiểm soát thuộc tính để tạo ra lịch sử trò chuyện mạch lạc, có thể mở rộng và được đánh dấu thời gian cho mỗi câu hỏi. Hệ thống trò chuyện cần phân tích các tương tác động để ghi nhớ và trả lời câu hỏi sau khi tất cả các phiên tương tác đã diễn ra.
+
+**Cấu trúc Bộ Dữ Liệu:**
+
+Bộ dữ liệu bao gồm ba tệp chính:
+
+1. **longmemeval_s.json:** Mỗi lịch sử trò chuyện tiêu thụ khoảng 115.000 token (~40 phiên lịch sử).
+    
+2. **longmemeval_m.json:** Mỗi lịch sử trò chuyện chứa khoảng 500 phiên.
+    
+3. **longmemeval_oracle.json:** Chỉ bao gồm các phiên chứa bằng chứng cần thiết.
+    
+
+Mỗi tệp chứa 500 trường hợp đánh giá, mỗi trường hợp bao gồm các trường:
+
+- **question_id:** ID duy nhất cho mỗi câu hỏi.
+    
+- **question_type:** Loại câu hỏi, như single-session-user, single-session-assistant, single-session-preference, temporal-reasoning, knowledge-update, và multi-session. Nếu question_id kết thúc bằng _abs, đó là câu hỏi từ chối trả lời.
+    
+- **question:** Nội dung câu hỏi.
+    
+- **answer:** Câu trả lời mong đợi từ mô hình.
+    
+- **question_date:** Ngày của câu hỏi.
+    
+- **haystack_session_ids:** Danh sách ID của các phiên lịch sử (sắp xếp theo thời gian).
+    
+- **haystack_dates:** Danh sách các mốc thời gian của các phiên lịch sử.
+    
+- **haystack_sessions:** Danh sách nội dung thực tế của các phiên trò chuyện giữa người dùng và trợ lý. Mỗi phiên là một danh sách các lượt trao đổi, mỗi lượt có định dạng {"role": user/assistant, "content": nội dung tin nhắn}. Đối với các lượt chứa bằng chứng cần thiết, có thêm trường has_answer: true.
+    
+- **answer_session_ids:** Danh sách ID của các phiên chứa bằng chứng, dùng để đánh giá độ chính xác của việc nhớ lại ở cấp độ phiên.
+    
+
+**Thiết lập Môi Trường:**
+
+Để sử dụng bộ dữ liệu, bạn có thể tải xuống từ [Hugging Face](https://huggingface.co/datasets/xiaowu0162/longmemeval) và giải nén vào thư mục `data/`. Khuyến nghị sử dụng môi trường conda để cài đặt các yêu cầu cần thiết:
+
+```bash
+conda create -n longmemeval python=3.9
+conda activate longmemeval
+pip install -r requirements-full.txt
+```
+
+
+
+**Đánh Giá Hệ Thống:**
+
+Để kiểm tra hệ thống của bạn trên LongMemEval, bạn có thể sử dụng các tập lệnh đánh giá được cung cấp. Lưu đầu ra của hệ thống vào tệp JSONL với mỗi dòng chứa hai trường: `question_id` và `hypothesis`. Sau đó, chạy tập lệnh đánh giá:
+
+```bash
+export OPENAI_API_KEY=YOUR_API_KEY
+cd src/evaluation
+python3 evaluate_qa.py gpt-4o your_hypothesis_file ../../data/longmemeval_oracle.json
+```
+
+
+
+Tập lệnh này sẽ lưu nhật ký đánh giá vào tệp `[your_hypothesis_file].log`. Bạn có thể tổng hợp các điểm số từ nhật ký bằng lệnh:
+
+```bash
+python3 print_qa_metrics.py gpt-4o your_hypothesis_file.log ../../data/longmemeval_oracle.json
+```
+
+
+
+**Tạo Lịch Sử Trò Chuyện Tùy Chỉnh:**
+
+LongMemEval hỗ trợ biên soạn lịch sử trò chuyện với độ dài tùy ý cho mỗi trường hợp câu hỏi, cho phép bạn dễ dàng tăng độ khó. Để tạo lịch sử tùy chỉnh, bạn có thể làm theo định dạng trong `2_questions` và `6_session_cache` để tạo câu hỏi và các phiên bằng chứng, sau đó chạy tập lệnh `sample_haystack_and_timestamp.py` với các tham số phù hợp.
+
+**Chạy Thử Nghiệm Hệ Thống Ghi Nhớ:**
+
+Chúng tôi cung cấp mã thử nghiệm cho việc truy xuất bộ nhớ và tạo câu trả lời có hỗ trợ truy xuất dưới các thư mục `src/retrieval

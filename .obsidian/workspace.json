@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/5.3 AI Agent/0. Reference.md",
+                "file": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2 - LONGMEMEVAL - Benchmarking Chat Assistants on Long-Term Interactive Memory - Dataset của bài Zep nên mình tìm được bài này.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Reference"
+              "title": "Read 2 - LONGMEMEVAL - Benchmarking Chat Assistants on Long-Term Interactive Memory - Dataset của bài Zep nên mình tìm được bài này"
             }
           }
         ],
@@ -182,15 +182,18 @@
   },
   "active": "d3e46b6055269b88",
   "lastOpenFiles": [
+    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 1 -  Zep - A Temporal Knowledge Graph Architecture for Agent Memory - 2501.13956.md",
+    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2 - LONGMEMEVAL - Benchmarking Chat Assistants on Long-Term Interactive Memory - Dataset của bài Zep nên mình tìm được bài này.md",
     "3_AI Engineering/5.3 AI Agent/0.3 Chốt đề tài.md",
-    "3_AI Engineering/5.3 AI Agent/1. Function Calling.md",
+    "3_AI Engineering/5.3 AI Agent/0.1 Đồ Án Tiếp - Long Memory.md",
     "3_AI Engineering/5.3 AI Agent/Report - 1 số câu hỏi.md",
-    "3_AI Engineering/5.3 AI Agent/Problem.md",
     "3_AI Engineering/5.3 AI Agent/Nghe các bạn.md",
+    "3_AI Engineering/5.3 AI Agent/Problem.md",
     "3_AI Engineering/5.3 AI Agent/AI Agent note.md",
     "3_AI Engineering/5.3 AI Agent/AI Agent.md",
+    "3_AI Engineering/5.3 AI Agent/1. Function Calling.md",
+    "3_AI Engineering/5.3 AI Agent/0.2 Đồ án tiếp CƠ CHẾ QUẢN LÝ BỘ NHỚ - report 3_12032025 -.md",
     "3_AI Engineering/5.3 AI Agent/0. Reference.md",
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2 - LONGMEMEVAL - Benchmarking Chat Assistants on Long-Term Interactive Memory - Dataset của bài Zep nên mình tìm được bài này.md",
     "4_MLOPs và Full Stack Docker/5. API - Python.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1 số tool Docker và các lệnh cơ bản.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
@@ -205,9 +208,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2. Ngôn ngữ Code Web.md",
     "4_MLOPs và Full Stack Docker/4.. Data Science/1. Database/1. SQL.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 11 - 2 FILE DOCKER COMPOSE VÀ 2 ỨNG DỤNG KHÔNG LIÊN QUAN ĐẾN NHAU, nhưng có bị tự động tạo tên container trùng nhau (do container name được tạo dựa vào thư mục).md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2 Đóng gói package.json, pyproject.toml - NỬA DOCKER.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.1 CompAct Compressing Retrieved Documents Actively for Question Answering.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322071142.png",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322063052.png",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322060614.png",
