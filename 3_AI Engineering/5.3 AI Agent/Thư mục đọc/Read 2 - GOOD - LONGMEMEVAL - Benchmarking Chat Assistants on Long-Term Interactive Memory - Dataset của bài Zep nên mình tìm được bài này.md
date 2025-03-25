@@ -932,3 +932,45 @@ LongMemEval hỗ trợ biên soạn lịch sử trò chuyện với độ dài t
 **Chạy Thử Nghiệm Hệ Thống Ghi Nhớ:**
 
 Chúng tôi cung cấp mã thử nghiệm cho việc truy xuất bộ nhớ và tạo câu trả lời có hỗ trợ truy xuất dưới các thư mục `src/retrieval
+
+
+---
+Long-TermMemoryMethods Toequipchatassistantswithlong-termmemorycapabilities, three major techniques are commonly explored. The first approach involves directly adapting LLMs to process extensive history information as long-context inputs (Beltagy et al., 2020; Kitaev et al., 2020; Fu et al., 2024; An et al., 2024). While this method avoids the need for complex architectures, it is inefficient and susceptible to the “lost-in-the-middle” phenomenon, where the ability of LLMs to utilize contextual information weakens as the input length grows (Shi et al., 2023; Liu et al., 2024). A second line of research integrates differentiable memory modules into language models, proposing specialized architectural designs and training strategies to enhance memory capabilities (Weston et al., 2014; Wu et al., 2022; Zhong et al., 2022; Wang et al., 2023). Lastly, several studies approach long-term memory from the perspective of context compression, developing techniques 3 Published as a conference paper at ICLR 2025 to condense lengthy histories into compact representations, whether in the form of LLM internal representations (Mu et al., 2023; Chevalier et al., 2023), discrete tokens (Jiang et al., 2023; Xu et al., 2024), or retrievable text segments via retrieval-augmented generation (RAG, Shi et al. (2024); Wang et al. (2023); Sarthi et al. (2024); Chen et al. (2023a); Guti´ errez et al. (2024)). Although LONGMEMEVAL can evaluate any memory system, we will take an online context compression perspective, where each history interaction session is sequentially processed, stored, and accessed on-demand through indexing and retrieval mechanisms (§4). This formulation aligns with current literature (Zhong et al., 2024; Guti´ errez et al., 2024) and commercial systems (OpenAI, 2024; Coze, 2024). Its plug-and-play nature also facilitates the integration into existing chat assistant systems
+
+
+Dưới đây là bản dịch tiếng Việt đoạn văn bạn cung cấp:
+
+---
+
+### **Các phương pháp trí nhớ dài hạn (Long-Term Memory Methods)**
+
+Để trang bị khả năng ghi nhớ dài hạn cho các trợ lý hội thoại, hiện có ba kỹ thuật chính thường được nghiên cứu:
+
+1. **Phương pháp thứ nhất** là điều chỉnh trực tiếp các mô hình ngôn ngữ lớn (LLMs) để xử lý lượng lớn thông tin lịch sử dưới dạng đầu vào dài (long-context input)  
+    _(Beltagy et al., 2020; Kitaev et al., 2020; Fu et al., 2024; An et al., 2024)_.  
+    Phương pháp này giúp tránh việc phải thiết kế kiến trúc phức tạp,  
+    tuy nhiên lại **kém hiệu quả** và dễ gặp hiện tượng **"mất thông tin ở giữa" (lost-in-the-middle)** –  
+    khi mà khả năng của LLM trong việc tận dụng thông tin ngữ cảnh suy giảm theo độ dài đầu vào tăng lên _(Shi et al., 2023; Liu et al., 2024)_.
+    
+2. **Hướng nghiên cứu thứ hai** là tích hợp các **module bộ nhớ phân biệt được (differentiable memory modules)** vào trong mô hình ngôn ngữ.  
+    Các nghiên cứu này đề xuất các thiết kế kiến trúc chuyên biệt và chiến lược huấn luyện nhằm tăng cường khả năng ghi nhớ của mô hình  
+    _(Weston et al., 2014; Wu et al., 2022; Zhong et al., 2022; Wang et al., 2023)_.
+    
+3. **Cuối cùng**, nhiều nghiên cứu tiếp cận trí nhớ dài hạn từ góc độ **nén ngữ cảnh (context compression)**, phát triển các kỹ thuật nhằm **tinh gọn lịch sử hội thoại dài** thành các biểu diễn nhỏ gọn hơn –  
+    có thể dưới dạng biểu diễn nội tại trong LLM _(Mu et al., 2023; Chevalier et al., 2023)_,  
+    các token rời rạc _(Jiang et al., 2023; Xu et al., 2024)_,  
+    hoặc các đoạn văn bản có thể truy xuất được thông qua kỹ thuật sinh có hỗ trợ truy hồi (Retrieval-Augmented Generation - RAG)  
+    _(Shi et al., 2024; Wang et al., 2023; Sarthi et al., 2024; Chen et al., 2023a; Gutiérrez et al., 2024)_.
+    
+
+Mặc dù **LONGMEMEVAL** có thể được dùng để đánh giá bất kỳ hệ thống trí nhớ nào,  
+trong bài này chúng tôi chọn cách tiếp cận theo hướng **nén ngữ cảnh trực tuyến (online context compression)**,  
+nơi mà mỗi phiên tương tác trong lịch sử sẽ được **xử lý tuần tự, lưu trữ và truy xuất theo yêu cầu** thông qua các cơ chế đánh chỉ mục (indexing) và truy hồi (retrieval) (§4).
+
+Cách tiếp cận này phù hợp với các công trình hiện tại _(Zhong et al., 2024; Gutiérrez et al., 2024)_  
+cũng như các hệ thống thương mại như **OpenAI (2024)** và **Coze (2024)**.  
+Đặc biệt, nhờ vào tính **"plug-and-play"** (cắm vào là chạy), phương pháp này có thể dễ dàng tích hợp vào các hệ thống trợ lý hội thoại hiện có.
+
+---
+
+Nếu bạn muốn mình tóm lại thành bảng so sánh 3 hướng tiếp cận hoặc biểu đồ sơ đồ hóa thì mình có thể vẽ liền nhé!
