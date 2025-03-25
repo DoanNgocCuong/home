@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.0 - lạc đề.md",
+                "file": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2 - GOOD - LONGMEMEVAL - Đơn giản hơn Zep Khá Baseline - Benchmarking Chat Assistants on Long-Term Interactive Memory - Dataset của bài Zep nên mình tìm được bài này.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Read 2.0 - lạc đề"
+              "title": "Read 2 - GOOD - LONGMEMEVAL - Đơn giản hơn Zep Khá Baseline - Benchmarking Chat Assistants on Long-Term Interactive Memory - Dataset của bài Zep nên mình tìm được bài này"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2 - GOOD - LONGMEMEVAL - Đơn giản hơn Zep Khá Baseline - Benchmarking Chat Assistants on Long-Term Interactive Memory - Dataset của bài Zep nên mình tìm được bài này.md",
+                "file": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.1 GOOD - Reflective Memory Management - Bài phát triển từ bài LongMemEval  - Read2.4_2503.08026v1.pdf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Read 2 - GOOD - LONGMEMEVAL - Đơn giản hơn Zep Khá Baseline - Benchmarking Chat Assistants on Long-Term Interactive Memory - Dataset của bài Zep nên mình tìm được bài này"
+              "title": "Read 2.1 GOOD - Reflective Memory Management - Bài phát triển từ bài LongMemEval  - Read2.4_2503.08026v1.pdf"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -195,16 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8eb165a3d392c8a3",
+  "active": "d3e46b6055269b88",
   "lastOpenFiles": [
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.0 CompAct Compressing Retrieved Documents Actively for Question Answering.md",
+    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.1 GOOD - Reflective Memory Management - Bài phát triển từ bài LongMemEval  - Read2.4_2503.08026v1.pdf.md",
+    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.0 - lạc đề - Read2.2_LacDe_2406.02376v2.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md",
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.1 GOOD - Reflective Memory Management - Bài phát triển từ bài LongMemEval.md",
+    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2 - GOOD - LONGMEMEVAL - Đơn giản hơn Zep Khá Baseline - Benchmarking Chat Assistants on Long-Term Interactive Memory - Dataset của bài Zep nên mình tìm được bài này.md",
+    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.0 CompAct Compressing Retrieved Documents Actively for Question Answering.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2' Dataset LongMemEval.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 3 - Có bài nào dùng NLP truyền thống để extract thông tin conversation, dialog không.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read2.3_Survey.md",
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.0 - lạc đề.md",
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2 - GOOD - LONGMEMEVAL - Đơn giản hơn Zep Khá Baseline - Benchmarking Chat Assistants on Long-Term Interactive Memory - Dataset của bài Zep nên mình tìm được bài này.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 1 -  Zep - A Temporal Knowledge Graph Architecture for Agent Memory - 2501.13956.md",
     "3_AI Engineering/5.3 AI Agent/Untitled.md",
     "3_AI Engineering/5.3 AI Agent/0.3 Chốt đề tài.md",
