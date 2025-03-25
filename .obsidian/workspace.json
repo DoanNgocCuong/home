@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/5.3 AI Agent/0.3 Chốt đề tài.md",
+                "file": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 0. Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.3 Chốt đề tài"
+              "title": "Read 0. Reference"
             }
           },
           {
@@ -196,10 +196,11 @@
   },
   "active": "d3e46b6055269b88",
   "lastOpenFiles": [
-    "3_AI Engineering/5.3 AI Agent/0.4 Chốt đề tài 25032025.md",
     "3_AI Engineering/5.3 AI Agent/0.3 Chốt đề tài.md",
+    "3_AI Engineering/5.3 AI Agent/0.4 Chốt đề tài 25032025.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2' Dataset LongMemEval.md",
+    "3_AI Engineering/5.3 AI Agent/0.2 Đồ án tiếp CƠ CHẾ QUẢN LÝ BỘ NHỚ - report 3_12032025 -.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.1 GOOD - Reflective Memory Management - Bài phát triển từ bài LongMemEval  - Read2.4_2503.08026v1.pdf.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.0 CompAct Compressing Retrieved Documents Actively for Question Answering.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.1.md",
@@ -219,7 +220,6 @@
     "3_AI Engineering/5.3 AI Agent/Nghe các bạn.md",
     "3_AI Engineering/5.3 AI Agent/Problem.md",
     "3_AI Engineering/5.3 AI Agent/1. Function Calling.md",
-    "3_AI Engineering/5.3 AI Agent/0.2 Đồ án tiếp CƠ CHẾ QUẢN LÝ BỘ NHỚ - report 3_12032025 -.md",
     "4_MLOPs và Full Stack Docker/5. API - Python.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1 số tool Docker và các lệnh cơ bản.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322071142.png",
