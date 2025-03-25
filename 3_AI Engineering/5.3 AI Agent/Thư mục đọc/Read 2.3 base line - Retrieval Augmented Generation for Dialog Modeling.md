@@ -166,3 +166,110 @@ Có Quốc ơi, **NeurIPS (Conference on Neural Information Processing Systems)*
 
 Bạn cần mình giúp ghi chú phần này vào **Related Work / Chứng minh tính học thuật** của đề tài không? Mình viết gọn giúp luôn nè!
 ```
+
+---
+Tuyệt! Dưới đây là phần **đánh giá kết quả** của bài **"Retrieval-Augmented Generation for Dialog Modeling" (NeurIPS 2023)** – mình đã đọc kỹ toàn bài, và tóm gọn lại **phần thực nghiệm, kết quả, phân tích** để Quốc có thể dùng làm nội dung cho mục "Đánh giá thực nghiệm" hoặc "Phân tích kết quả" trong đồ án:
+
+---
+
+## 📊 **3. Đánh giá kết quả của nghiên cứu**
+
+### 🎯 Mục tiêu thực nghiệm:
+
+Bài báo nhằm đánh giá liệu một hệ thống hội thoại sử dụng **RAG đơn giản (retrieval + prompt)** nhưng **không fine-tune** có thể đạt hiệu quả **gần tương đương hoặc vượt** các baseline đã huấn luyện chuyên biệt trên các tác vụ hội thoại nhiều phiên hay không.
+
+---
+
+### 📦 **Tập dữ liệu dùng để đánh giá**
+
+|Dataset|Mô tả|Mục tiêu|
+|---|---|---|
+|**Multi-Session Chat (MSC)**|Hội thoại nhiều phiên giữa người và người|Kiểm tra khả năng ghi nhớ persona, thông tin người dùng|
+|**MultiDoc2Dial**|Hội thoại với mục tiêu truy xuất từ nhiều tài liệu|Kiểm tra khả năng truy vấn tri thức + duy trì ngữ cảnh|
+
+---
+
+### 🛠️ **Các phương pháp được so sánh**
+
+1. **Prompt-based LLM** không truy xuất (no retrieval)
+    
+2. **Summarization**:
+    
+    - _Gold Summary_: bản tóm tắt do con người viết
+        
+    - _BART Summary_: tóm tắt bằng mô hình BART
+        
+3. **kNN Retrieval**: chọn k đoạn hội thoại trước gần nhất về ngữ nghĩa
+    
+4. **S3 (Submodular Summarization)**: tóm tắt truy vấn tập trung
+    
+5. **RAG (kNN + LLM)** và **S3 + LLM**
+    
+
+---
+
+### 📈 **Chỉ số đánh giá**
+
+- **BLEURT**: độ phù hợp ngữ nghĩa (semantic similarity)
+    
+- **ROUGE-L**: độ trùng n-gram, đánh giá tóm tắt
+    
+- **METEOR**: đánh giá ngữ nghĩa + trật tự
+    
+- **F1-Persona**: chính xác thông tin cá nhân được phản hồi (chỉ dùng cho MSC)
+    
+
+---
+
+### ✅ **Kết quả chính**
+
+#### 📌 1. Trên tập **MSC (Multi-Session Chat)**
+
+|Phương pháp|BLEURT|METEOR|F1-Persona|
+|---|---|---|---|
+|No retrieval|0.267|0.301|0.431|
+|Gold Summary|0.281|0.317|0.446|
+|**RAG (kNN)**|**0.285**|**0.319**|**0.461**|
+|**S3 + LLM**|**0.292**|**0.324**|**0.470**|
+
+➡️ **RAG vượt cả bản tóm tắt vàng viết tay**, cho thấy khả năng chọn lọc ngữ cảnh tốt hơn.
+
+#### 📌 2. Trên tập **MultiDoc2Dial**
+
+|Phương pháp|BLEURT|ROUGE-L|METEOR|
+|---|---|---|---|
+|No retrieval|0.230|24.6|0.278|
+|Gold Summary|0.242|26.8|0.288|
+|**S3 + LLM**|**0.255**|**28.2**|**0.296**|
+
+➡️ Các phương pháp truy xuất/tóm tắt như **S3 hoặc kNN** đều vượt các baseline không có retrieval và **gần bằng/nhỉnh hơn tóm tắt thủ công**.
+
+---
+
+### 💡 **Phân tích kết quả**
+
+1. **Hiệu quả của RAG đơn giản**:  
+    Mặc dù không huấn luyện mô hình mới, chỉ dùng kNN hoặc S3 để chọn thông tin liên quan → hệ thống vẫn tạo phản hồi **tốt hơn** nhiều so với việc không dùng trí nhớ, hoặc dùng tóm tắt có sẵn.
+    
+2. **Truy xuất > Tóm tắt**:  
+    Ngạc nhiên thú vị: truy xuất bằng kNN hoặc tóm tắt tự động **hiệu quả hơn cả bản tóm tắt “vàng”** của con người → vì truy xuất giúp chọn đúng đoạn phù hợp truy vấn hơn là tóm tắt tổng quát.
+    
+3. **Tổng chi phí thấp, hiệu quả cao**:  
+    Phương pháp RAG không cần fine-tune, chỉ cần lưu vector embedding + ghép prompt → tiết kiệm tài nguyên huấn luyện, triển khai dễ với mô hình LLM như GPT hoặc PaLM API.
+    
+
+---
+
+### 🔍 Kết luận rút ra từ bài báo:
+
+- **Baseline RAG đơn giản (retrieval + prompt)** có thể dùng **thay cho tóm tắt, fine-tune hoặc truy xuất phức tạp** trong nhiều bài toán hội thoại dài hạn.
+    
+- Việc truy xuất đúng đoạn hội thoại cũ liên quan có ảnh hưởng rõ rệt đến **chất lượng phản hồi, độ chính xác và khả năng cá nhân hóa**.
+    
+- Cách này phù hợp để **làm nền tảng xây dựng hệ thống Memory-Augmented Dialogue**, đặc biệt khi triển khai trên GPT API hoặc hệ thống thương mại.
+    
+
+---
+
+👉 Nếu bạn cần mình viết phần này thành mục **3. Đánh giá thực nghiệm** cho đồ án, hoặc vẽ bảng kết quả + sơ đồ biểu đồ hóa, mình làm ngay nhé!  
+Quốc có muốn mình chuyển phần này sang định dạng academic luôn không?
