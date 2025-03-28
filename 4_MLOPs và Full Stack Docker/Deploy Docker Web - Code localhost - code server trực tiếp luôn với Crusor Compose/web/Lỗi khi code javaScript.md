@@ -1,0 +1,2 @@
+1. Code Add API Backend : Các lỗi phổ biến khi làm việc với .js là: 1. Đặt tên file.js khác lúc import 2. Trongví dụ là yêu cầu phải đủ 5 scenario"rm tra ngoại lệ bị thừa: " 
+[main eede698] Code Add API Backend : Các lỗi phổ biến khi làm việc với .js là: 1. Đặt tên file.js khác lúc import 2. Trong kiểm tra luật Prompt lại để AI gen ra cả việc kkieerm tra ngoại lệ bị thừa: ví dụ là yêu cầu phải đủ 5 scenario
