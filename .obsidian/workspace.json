@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2' Dataset LongMemEval.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Vấn đề 3 - Button Submit làm trang reload, đổi lại sang submit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Read 2' Dataset LongMemEval"
+              "title": "Vấn đề 3 - Button Submit làm trang reload, đổi lại sang submit"
             }
           }
         ],
@@ -182,13 +182,14 @@
   },
   "active": "d3e46b6055269b88",
   "lastOpenFiles": [
+    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2' Dataset LongMemEval.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Vấn đề 3 - Button Submit làm trang reload, đổi lại sang submit.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.0 CompAct Compressing Retrieved Documents Actively for Question Answering.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.1 MemoryBank.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2 - GOOD - LONGMEMEVAL - Đơn giản hơn Zep Khá Baseline - Benchmarking Chat Assistants on Long-Term Interactive Memory - Dataset của bài Zep nên mình tìm được bài này.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 1 -  Zep - A Temporal Knowledge Graph Architecture for Agent Memory - 2501.13956.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 3 - Graph.md",
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2' Dataset LongMemEval.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.3 base line - Retrieval Augmented Generation for Dialog Modeling.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.1 GOOD - Reflective Memory Management - Bài phát triển từ bài LongMemEval  - Read2.4_2503.08026v1.pdf.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.1.md",
@@ -207,7 +208,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. venv - Docker - k8s Cloud.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2. Ngôn ngữ Code Web.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1 số tool Docker và các lệnh cơ bản.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322071142.png",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322063052.png",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322060614.png",
