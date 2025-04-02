@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Vấn đề 3 - Button Submit làm trang reload, đổi lại sang submit.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2. Ngôn ngữ Code Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vấn đề 3 - Button Submit làm trang reload, đổi lại sang submit"
+              "title": "2. Ngôn ngữ Code Web"
             }
           }
         ],
@@ -182,8 +182,13 @@
   },
   "active": "d3e46b6055269b88",
   "lastOpenFiles": [
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2' Dataset LongMemEval.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Microservices.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Lỗi khi code javaScript.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Các kiến trúc khác nhau.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Tối ưu Frontend - a Thiện.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Vấn đề 3 - Button Submit làm trang reload, đổi lại sang submit.md",
+    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2' Dataset LongMemEval.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.0 CompAct Compressing Retrieved Documents Actively for Question Answering.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.1 MemoryBank.md",
@@ -203,11 +208,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 14 khi tôi code frontend bacekend đều javascript theo kiểu Model - View - Controller.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Vấn đề Web 2 - Copy ở localhost được mà copy ko được ở http.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Tối ưu Frontend - a Thiện.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. venv - Docker - k8s Cloud.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2. Ngôn ngữ Code Web.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322071142.png",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322063052.png",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322060614.png",
