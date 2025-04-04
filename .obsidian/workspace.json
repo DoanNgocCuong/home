@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/5.1 RAG/RAG MỞ RỘNG/1. HIPPO RAG và LongMemEval.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. HIPPO RAG và LongMemEval"
+              "title": "6. Server Deploy - mật khẩu vào Server"
             }
           }
         ],
@@ -182,8 +182,12 @@
   },
   "active": "d3e46b6055269b88",
   "lastOpenFiles": [
-    "3_AI Engineering/5.1 RAG/RAG MỞ RỘNG/codetask_cl and SAPT (Sentence-level Adapter Prompt Tuning).md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1 số tool Docker và các lệnh cơ bản.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1__1 số bug.md",
     "3_AI Engineering/5.1 RAG/RAG MỞ RỘNG/1. HIPPO RAG và LongMemEval.md",
+    "3_AI Engineering/5.1 RAG/RAG MỞ RỘNG/codetask_cl and SAPT (Sentence-level Adapter Prompt Tuning).md",
     "3_AI Engineering/5.1 RAG/1. Tài liệu RAG tiếng việt.md",
     "3_AI Engineering/5.1 RAG/25 type of RAG.md",
     "3_AI Engineering/5.1 RAG/1. Các chiến lược tối ưu.md",
@@ -195,7 +199,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 13.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2. Ngôn ngữ Code Web.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1 số tool Docker và các lệnh cơ bản.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Microservices.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Lỗi khi code javaScript.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Các kiến trúc khác nhau.md",
@@ -206,9 +209,6 @@
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.0 CompAct Compressing Retrieved Documents Actively for Question Answering.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.1 MemoryBank.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2 - GOOD - LONGMEMEVAL - Đơn giản hơn Zep Khá Baseline - Benchmarking Chat Assistants on Long-Term Interactive Memory - Dataset của bài Zep nên mình tìm được bài này.md",
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 1 -  Zep - A Temporal Knowledge Graph Architecture for Agent Memory - 2501.13956.md",
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 3 - Graph.md",
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.3 base line - Retrieval Augmented Generation for Dialog Modeling.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322071142.png",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322063052.png",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322060614.png",
