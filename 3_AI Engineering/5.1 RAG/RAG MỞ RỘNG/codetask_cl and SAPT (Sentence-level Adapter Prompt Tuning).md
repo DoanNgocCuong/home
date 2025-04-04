@@ -1,3 +1,8 @@
+
+
+codetask_cl: [2307.02435](https://arxiv.org/pdf/2307.02435) 
+- LÀ VỀ CÁC TASK CODING thì chuẩn hơn
+
 ## 💡 Vai trò của SAPT & codetask_cl trong RAG
 
 |Kỹ thuật|Tích hợp vào RAG ở đâu?|Mục đích chính|
