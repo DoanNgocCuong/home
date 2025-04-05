@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
+                "file": "0. DỌN DẸP THƯ MỤC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Server Deploy - mật khẩu vào Server"
+              "title": "0. DỌN DẸP THƯ MỤC"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dọn dẹp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,12 +182,21 @@
   },
   "active": "d3e46b6055269b88",
   "lastOpenFiles": [
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 11 - 2 FILE DOCKER COMPOSE VÀ 2 ỨNG DỤNG KHÔNG LIÊN QUAN ĐẾN NHAU, nhưng có bị tự động tạo tên container trùng nhau (do container name được tạo dựa vào thư mục).md",
+    "0. DỌN DẸP THƯ MỤC.md",
+    "Untitled 7",
+    "Untitled 6",
+    "Untitled 5",
+    "Untitled 4",
+    "Untitled 3",
+    "Untitled 2",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "3_AI Engineering/5.1 RAG/1. Tài liệu RAG tiếng việt.md",
     "3_AI Engineering/5.1 RAG/0. Tổng quan.md",
     "3_AI Engineering/5.1 RAG/1. Raptor RAG.md",
     "3_AI Engineering/5.1 RAG/1. Các chiến lược tối ưu.md",
     "3_AI Engineering/5.1 RAG/RAG 1/CHUNKING.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1 số tool Docker và các lệnh cơ bản.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
@@ -206,9 +215,6 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Lỗi khi code javaScript.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Các kiến trúc khác nhau.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Tối ưu Frontend - a Thiện.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Vấn đề 3 - Button Submit làm trang reload, đổi lại sang submit.md",
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2' Dataset LongMemEval.md",
-    "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322071142.png",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322063052.png",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322060614.png",
@@ -218,12 +224,6 @@
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250321121006.png",
     "Untitled 1",
-    "0. Nhật Ký Calendar/W3_T3_2025",
-    "0. Nhật Ký Calendar",
-    "Calendar",
-    "0. SẢN PHẨM RA LÒ",
-    "Untitled",
-    "3_AI Engineering/7. Graph",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250312154239.png",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250312154228.png",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250308081701.png",
