@@ -134,3 +134,6 @@ Qua các prompt trên, có thể thấy người dùng đã áp dụng một s�
 6. **Kết hợp Yêu cầu Kỹ thuật và Hướng dẫn Thực hiện**: Cung cấp cả thông số kỹ thuật (TypeScript) và hướng dẫn triển khai (create isometric effect programmatically).
 
 7. **Yêu cầu Dựa trên Rules**: Định nghĩa các quy tắc rõ ràng cho gameplay (grid size should be 3 units larger than require length for a player to win).
+
+
+# 4. GenSpark code xong không zip và download xuống được. chẳng hạn: 'code xài pharser: [https://github.com/phaserjs/phaser](https://github.com/phaserjs/phaser)'
