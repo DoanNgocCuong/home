@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. tổng hợp.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Vấn đề 3 - Button Submit làm trang reload, đổi lại sang submit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. tổng hợp"
+              "title": "Vấn đề 3 - Button Submit làm trang reload, đổi lại sang submit"
             }
           }
         ],
@@ -215,8 +215,15 @@
   },
   "active": "7215e198fea3bbe4",
   "lastOpenFiles": [
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Untitled.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Untitled 1.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/ReAct.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Microservices.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Lỗi khi code javaScript.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Các kiến trúc khác nhau.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/4. Top 10 lỗi trong code Web phổ biến nhất - chỉ cần tránh được lỗi này là bạn code web thoải mái..md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. Toàn bộ các Vite - React - TypeScript.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Base Web - HTML CSS React.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. tổng hợp.md",
     "1. Lập trình nói chung/Giải thuật thi đấu.md",
     "1. Lập trình nói chung/5. Cài C++.md",
     "1. Lập trình nói chung/4. Gihub - Tổng kết Năm.md",
@@ -236,13 +243,6 @@
     "3_AI Engineering/5.3 AI Agent/1. Long term Memory Architechture/0. Đồ Án.md",
     "3_AI Engineering/5.3 AI Agent/1. Long term Memory Architechture",
     "3_AI Engineering/5.3 AI Agent/1. Long Term Memory User/Read 0. Reference.md",
-    "3_AI Engineering/5.2 LLMs/6. vllm -kv - cache.md",
-    "3_AI Engineering/5.2 LLMs/5..md",
-    "3_AI Engineering/5.2 LLMs/4. AI role play.md",
-    "3_AI Engineering/5.2 LLMs/3. 4o, 4o mini.md",
-    "3_AI Engineering/5.2 LLMs/2. 50 câu hỏi thường gặp phỏng vấn AI LLMs.md",
-    "3_AI Engineering/5.2 LLMs/1. Open source for fine tuning.md",
-    "3_AI Engineering/5.3 AI Agent/3. Dự án FLATFORM - BUILD GAME/Bài a Hiệp - AI pipeline product development.md",
     "3_AI Engineering/5.3 AI Agent/3. Dự án FLATFORM - BUILD GAME/attachments/Pasted image 20250409102338.png",
     "3_AI Engineering/5.3 AI Agent/3. Dự án FLATFORM - BUILD GAME/attachments",
     "3_AI Engineering/5.3 AI Agent/3. Dự án FLATFORM - BUILD GAME",
