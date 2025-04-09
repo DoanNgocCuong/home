@@ -38,7 +38,7 @@
       "adapter": "openai",
       "openai": {
         "model_key": "gpt-4o-mini",
-        "api_key": "sk-123456789",
+        "api_key": "sk-456789",
         "models": {
           "gpt-4o-realtime-preview-2024-12-17": {
             "model_name": "gpt-4o-realtime-preview-2024-12-17",

@@ -63,3 +63,5 @@ out/
 .cache/
 .temp/
 .tmp/
+.obsidian/workspace.json
+.smart-env/smart_env.json
