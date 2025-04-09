@@ -1,2 +1,59 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.env.local
+*.env.development
+*.env.test
+*.env.production
 
-4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md
+# API keys and credentials
+*.key
+*.pem
+*.cert
+*.crt
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Configuration files with sensitive data
+config.local.json
+config.production.json
+config.staging.json
+secrets.json
+
+# Obsidian specific
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.obsidian/app.json
+.obsidian/plugins/*/data.json
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build and dependency directories
+node_modules/
+dist/
+build/
+out/
+.next/
+.nuxt/
+.vuepress/dist/
+
+# Cache directories
+.cache/
+.temp/
+.tmp/

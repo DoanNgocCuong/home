@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Lập trình nói chung/Giải thuật thi đấu.md",
+                "file": "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Giải thuật thi đấu"
+              "title": "3. Đường dẫn trong lập trình"
+            }
+          },
+          {
+            "id": "636fd399c386ec20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Đường dẫn trong lập trình"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -163,17 +178,7 @@
             }
           },
           {
-            "id": "e14a0ec5aaface59",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
-            "id": "127fe6c6f795ac54",
+            "id": "692278357a313a42",
             "type": "leaf",
             "state": {
               "type": "smart-chat-view",
@@ -181,19 +186,9 @@
               "icon": "message-square",
               "title": "Smart Chat"
             }
-          },
-          {
-            "id": "e900ec091e3d278a",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -213,10 +208,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "127fe6c6f795ac54",
+  "active": "692278357a313a42",
   "lastOpenFiles": [
-    "1. Lập trình nói chung/5. Cài C++.md",
+    "Untitled 2",
+    "Untitled 1",
+    "Untitled",
     "1. Lập trình nói chung/4. Gihub - Tổng kết Năm.md",
+    "1. Lập trình nói chung/Giải thuật thi đấu.md",
+    "1. Lập trình nói chung/5. Cài C++.md",
     "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "1. Lập trình nói chung/1.5 Cách code với tham số Augument.md",
@@ -247,9 +246,7 @@
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250220170805.png",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250220170737.png",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/__init__ Deploy Docker Web.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 9 Méo hiểu sao docker compose backend chạy ở backend và docker compose ở src (chạy riêng frontend) được ngon  nhưng khi add thêm backend vào file src dokerc mpose thay vì có mỗi frontend.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 14 khi tôi code frontend bacekend đều javascript theo kiểu Model - View - Controller.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose",
     "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113315.png",
@@ -259,8 +256,6 @@
     "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250321121006.png",
     "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250220170737.png",
     "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250220170805.png",
-    "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web",
-    "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
