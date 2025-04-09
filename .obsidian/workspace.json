@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/Bài a Hiệp - AI pipeline product development.md",
+                "file": "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/1. Tư duy Top 1% trong Phát triển Game với AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bài a Hiệp - AI pipeline product development"
+              "title": "1. Tư duy Top 1% trong Phát triển Game với AI"
             }
           }
         ],
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/Bài a Hiệp - AI pipeline product development.md",
+                "file": "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/1. Tư duy Top 1% trong Phát triển Game với AI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bài a Hiệp - AI pipeline product development"
+              "title": "Outline of 1. Tư duy Top 1% trong Phát triển Game với AI"
             }
           },
           {
@@ -193,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -213,12 +213,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "d3e46b6055269b88",
+  "active": "e900ec091e3d278a",
   "lastOpenFiles": [
+    "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/Bài a Hiệp - AI pipeline product development.md",
+    "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/1. Tư duy Top 1% trong Phát triển Game với AI.md",
     "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/attachments/Pasted image 20250409102338.png",
     "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/attachments",
     "3_AI Engineering/5.3 AI Agent/GenSpark.md",
-    "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/Bài a Hiệp - AI pipeline product development.md",
     "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "1. Lập trình nói chung/Tool Obsidant.md",
@@ -260,7 +261,6 @@
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250312154239.png",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250312154228.png",
     "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250308081701.png",
-    "3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250308081643.png",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
