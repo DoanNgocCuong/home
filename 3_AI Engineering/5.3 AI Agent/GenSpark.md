@@ -264,3 +264,13 @@ Chiến lược prompt của người dùng trong trường hợp này thể hi�
 7. **Tập trung vào trải nghiệm người dùng**: Ưu tiên các vấn đề ảnh hưởng đến trải nghiệm (như chatbox cố định khi cuộn)
 
 Cách tiếp cận này cho phép người dùng hướng dẫn quá trình phát triển UI một cách hiệu quả, đồng thời vẫn để cho Manus đủ không gian sáng tạo để đưa ra các giải pháp tốt nhất.
+
+
+---
+```
+Chi tiết hơn các kỹ thuật Prompt a Hiệp sử dụng. 
+
+(Đọc kỹ toàn bộ các bài paper quốc tế về Prompt, Prompting, ...) 
+
+https://arxiv.org/, https://paperswithcode.com/ , https://huggingface.co/papers, https://www.connectedpapers.com/
+```
