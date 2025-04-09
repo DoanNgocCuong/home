@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Lập trình nói chung/Cài C++.md",
+                "file": "1. Lập trình nói chung/Giải thuật thi đấu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cài C++"
+              "title": "Giải thuật thi đấu"
             }
           }
         ],
@@ -215,6 +215,7 @@
   },
   "active": "7215e198fea3bbe4",
   "lastOpenFiles": [
+    "1. Lập trình nói chung/5. Cài C++.md",
     "1. Lập trình nói chung/4. Gihub - Tổng kết Năm.md",
     "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
@@ -245,7 +246,6 @@
     "3_AI Engineering/5.3 AI Agent/3. Dự án FLATFORM - BUILD GAME/attachments/Pasted image 20250409102338.png",
     "3_AI Engineering/5.3 AI Agent/3. Dự án FLATFORM - BUILD GAME/attachments",
     "3_AI Engineering/5.3 AI Agent/3. Dự án FLATFORM - BUILD GAME",
-    "1. Lập trình nói chung/Tool Obsidant.md",
     "Untitled 8",
     "Untitled 7",
     "Untitled 6",
