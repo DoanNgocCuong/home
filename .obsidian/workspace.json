@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/5.3 AI Agent/1. Long term Memory Architechture/0.1 Đồ Án Tiếp - Long Memory.md",
+                "file": "1. Lập trình nói chung/1. Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.1 Đồ Án Tiếp - Long Memory"
+              "title": "1. Python"
             }
           }
         ],
@@ -193,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -215,8 +215,15 @@
   },
   "active": "7215e198fea3bbe4",
   "lastOpenFiles": [
-    "3_AI Engineering/5.3 AI Agent/1. Function Calling.md",
+    "0. SẢN PHẨM RA LÒ/List Sản Phẩm.md",
+    "0. SẢN PHẨM RA LÒ",
+    "0. ĐÔI DÒNG KINH NGHIỆM VỌC/Vọc.md",
+    "0. Nhật Ký Calendar/19-03-2025.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. 1 số tool Docker và các lệnh cơ bản.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Base Web.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
     "3_AI Engineering/5.3 AI Agent/1. Long term Memory Architechture/0.1 Đồ Án Tiếp - Long Memory.md",
+    "3_AI Engineering/5.3 AI Agent/1. Function Calling.md",
     "3_AI Engineering/5.3 AI Agent/1. Long term Memory Architechture/0.2 Đồ án tiếp CƠ CHẾ QUẢN LÝ BỘ NHỚ - report 3_12032025 -.md",
     "3_AI Engineering/5.3 AI Agent/1. Long term Memory Architechture/0. Đồ Án.md",
     "3_AI Engineering/5.3 AI Agent/1. Long term Memory Architechture",
@@ -245,13 +252,6 @@
     "Untitled 5",
     "Untitled 4",
     "Untitled 3",
-    "Untitled 2",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
-    "3_AI Engineering/5.1 RAG/1. Tài liệu RAG tiếng việt.md",
-    "3_AI Engineering/5.1 RAG/0. Tổng quan.md",
-    "3_AI Engineering/5.1 RAG/1. Raptor RAG.md",
-    "3_AI Engineering/5.1 RAG/1. Các chiến lược tối ưu.md",
     "3_AI Engineering/5.3 AI Agent/1. Long Term Memory User/attachments/Pasted image 20250322071142.png",
     "3_AI Engineering/5.3 AI Agent/1. Long Term Memory User/attachments/Pasted image 20250322063052.png",
     "3_AI Engineering/5.3 AI Agent/1. Long Term Memory User/attachments/Pasted image 20250322060614.png",
