@@ -30,6 +30,10 @@ secrets.json
 .obsidian/app.json
 .obsidian/plugins/*/data.json
 
+# Smart Environment
+.smart-env/
+.smart-env/*
+
 # System files
 .DS_Store
 Thumbs.db
