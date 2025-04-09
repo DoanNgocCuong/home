@@ -25,13 +25,14 @@
             "id": "636fd399c386ec20",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".gitignore",
-                "staged": false
+                "file": "1. Lập trình nói chung/2. Python cơ bản.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (.gitignore)"
+              "icon": "lucide-file",
+              "title": "2. Python cơ bản"
             }
           }
         ],
@@ -209,6 +210,8 @@
   },
   "active": "636fd399c386ec20",
   "lastOpenFiles": [
+    "1. Lập trình nói chung/1. Python.md",
+    "1. Lập trình nói chung/2. Python cơ bản.md",
     "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
     "Untitled 2",
     "Untitled 1",
@@ -218,7 +221,6 @@
     "1. Lập trình nói chung/5. Cài C++.md",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "1. Lập trình nói chung/1.5 Cách code với tham số Augument.md",
-    "1. Lập trình nói chung/1. Python.md",
     "1. Lập trình nói chung/Tool/Tool Code ....md",
     "1. Lập trình nói chung/Tool/Tool Obsidant.md",
     "1. Lập trình nói chung/Tool",
