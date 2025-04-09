@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7215e198fea3bbe4",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
             "id": "636fd399c386ec20",
             "type": "leaf",
             "state": {
@@ -184,9 +171,19 @@
               "icon": "message-square",
               "title": "Smart Chat"
             }
+          },
+          {
+            "id": "49149e42038f8ea8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -206,10 +203,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7215e198fea3bbe4",
+  "active": "636fd399c386ec20",
   "lastOpenFiles": [
-    "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
     "4_MLOPs và Full Stack Docker/1. Git/8. Xoá key bị dính.md",
+    "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
     "1. Lập trình nói chung/2. Python cơ bản.md",
     "1. Lập trình nói chung/1. Python.md",
     "Untitled 2",
