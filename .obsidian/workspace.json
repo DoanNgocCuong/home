@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/5.3 AI Agent/GenSpark.md",
+                "file": "3_AI Engineering/5.2 LLMs/6. vllm -kv - cache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GenSpark"
+              "title": "6. vllm -kv - cache"
             }
           }
         ],
@@ -215,11 +215,16 @@
   },
   "active": "d3e46b6055269b88",
   "lastOpenFiles": [
-    "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/1. Tư duy Top 1% trong Phát triển Game với AI.md",
+    "3_AI Engineering/5.2 LLMs/5..md",
+    "3_AI Engineering/5.2 LLMs/4. AI role play.md",
+    "3_AI Engineering/5.2 LLMs/3. 4o, 4o mini.md",
+    "3_AI Engineering/5.2 LLMs/2. 50 câu hỏi thường gặp phỏng vấn AI LLMs.md",
+    "3_AI Engineering/5.2 LLMs/1. Open source for fine tuning.md",
     "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/Bài a Hiệp - AI pipeline product development.md",
+    "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/1. Tư duy Top 1% trong Phát triển Game với AI.md",
+    "3_AI Engineering/5.3 AI Agent/GenSpark.md",
     "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/attachments/Pasted image 20250409102338.png",
     "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME/attachments",
-    "3_AI Engineering/5.3 AI Agent/GenSpark.md",
     "3_AI Engineering/5.3 AI Agent/Dự án FLATFORM - BUILD GAME",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "1. Lập trình nói chung/Tool Obsidant.md",
@@ -246,12 +251,7 @@
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1 số tool Docker và các lệnh cơ bản.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1__1 số bug.md",
-    "3_AI Engineering/5.1 RAG/RAG MỞ RỘNG/1. HIPPO RAG và LongMemEval.md",
-    "3_AI Engineering/5.1 RAG/RAG MỞ RỘNG/codetask_cl and SAPT (Sentence-level Adapter Prompt Tuning).md",
-    "3_AI Engineering/5.1 RAG/25 type of RAG.md",
     "3_AI Engineering/5.1 RAG/RAG MỞ RỘNG",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 15 Không đặt tên image và container rõ ràng dẫn đến khó khăn trong quản lý.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Log.md",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322071142.png",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322063052.png",
     "3_AI Engineering/5.3 AI Agent/Thư mục đọc/attachments/Pasted image 20250322060614.png",
