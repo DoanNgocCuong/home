@@ -137,3 +137,130 @@ Qua các prompt trên, có thể thấy người dùng đã áp dụng một s�
 
 
 # 4. GenSpark code xong không zip và download xuống được. chẳng hạn: 'code xài pharser: [https://github.com/phaserjs/phaser](https://github.com/phaserjs/phaser)'
+
+# 5. Prompt a Hiệp - Giải Thích Chiến Lược Prompt của Người Dùng trong Phát Triển UI
+
+Tôi hiểu rồi! Bạn muốn tôi phân tích chiến lược prompt của người dùng (USER) thay vì của Manus. Sau khi xem xét cuộc hội thoại, đây là phân tích về chiến lược prompt mà người dùng đã sử dụng:
+
+## 1. Hướng dẫn ban đầu ngắn gọn nhưng rõ ràng
+
+```
+let's work on this UI skeleton shall we, remember you dont have to make any asset or game, just improve the UI skelleton. firstly 
+
+1. on the Basic and Conceptual Phase: should be chatbox conversational with the AI coach, with a option to recording or attached file. 
+
+2. make another phase after review: Report. with stats dashboard of numbers of things learned, mistakes and suggestion for improvement
+```
+
+Người dùng bắt đầu với:
+- Xác định phạm vi rõ ràng: "just improve the UI skeleton"
+- Thiết lập giới hạn: "you don't have to make any asset or game" 
+- Sử dụng danh sách đánh số để liệt kê yêu cầu cụ thể
+- Mỗi yêu cầu được mô tả ngắn gọn nhưng đủ chi tiết
+
+## 2. Phản hồi tập trung vào điểm cần cải thiện
+
+```
+i mean the chatbox thing should be with the Coach avatar and the main screen on 1-2-3 is just a place holder for other type of things i wannna add later 
+and on the Report Phase: Suggestions for Improvement part: show the specific content of their interaction: pronuncation and spoekn sentence and what is good and what should be improved.
+```
+
+Khi nhận được kết quả:
+- Người dùng không dành thời gian cho những phần đã làm tốt
+- Tập trung vào việc làm rõ những phần chưa đúng ý
+- Cung cấp thêm chi tiết để điều chỉnh
+- Giữ tin nhắn ngắn gọn, không thừa thãi
+
+## 3. Yêu cầu bổ sung theo từng đợt
+
+```
+continue working on this but skip the testing. 
+
+on a third left of every phase: make the entire a third left into a chatbox with an avatar (like normal chat app) Remove the box intro like: "This is the Conceptual Phase. Let's work on building natural conversations by reconstructing dialogues. Feel free to ask me for help or record your questions. "
+
+remove the transition effect from the phase 2 to phase 3 
+
+on phase 3 lower the avatar and the speech bubble and put it in the place holder 
+
+on the Report Phase: Learning Analytics & Improvement: give me a continue to the next lesson on the bottom, and on the end of each incorrect or needs improvement should be a button for the user to retry and fix it right there
+```
+
+Khi dự án tiến triển:
+- Người dùng gộp nhiều yêu cầu thành một tin nhắn dài
+- Chia yêu cầu thành các đoạn riêng biệt cho từng phần của UI
+- Sử dụng ngôn ngữ chỉ dẫn trực tiếp: "make", "remove", "lower", "give me"
+- Đề cập đến các yếu tố cụ thể cần điều chỉnh
+
+## 4. Tối ưu quy trình làm việc
+
+```
+continue working on this but skip the testing.
+```
+
+Người dùng biết cách tiết kiệm thời gian:
+- Chỉ rõ những bước có thể bỏ qua (testing)
+- Giúp Manus tập trung vào nhiệm vụ chính là phát triển UI
+
+## 5. Yêu cầu dần trở nên súc tích hơn
+
+Ban đầu:
+```
+make another phase after review: Report. with stats dashboard of numbers of things learned, mistakes and suggestion for improvement
+```
+
+Sau đó:
+```
+remove next and back button, the user could just navigating by clicking on the name of each phase
+```
+
+Và cuối cùng:
+```
+make all the UI elements modern and sleek
+```
+
+Người dùng dần chuyển từ:
+- Yêu cầu chi tiết ở giai đoạn đầu
+- Sang các lệnh ngắn gọn, rõ ràng khi đã thiết lập được mối quan hệ làm việc
+- Đến những yêu cầu rất súc tích khi đã có sự tin tưởng vào khả năng của Manus
+
+## 6. Cung cấp thông số kỹ thuật cụ thể khi cần thiết
+
+```
+overall apply this color palete appropriately 
+
+#337D88 – Teal Blue
+#54B9C0 – Sky Blue
+#FCCC8B – Soft Peach
+#F38B4C – Warm Orange
+#C75B24 – Burnt Orange
+```
+
+Khi cần thông số kỹ thuật:
+- Người dùng cung cấp thông tin chính xác (mã màu)
+- Kèm theo tên gọi dễ hiểu của mỗi màu
+- Sử dụng từ "appropriately" để giao quyền quyết định cách áp dụng cho Manus
+
+## 7. Chỉ ra vấn đề cụ thể cần ưu tiên
+
+```
+on the report screen: the chatbox should stay fixed when scrolling
+```
+
+Người dùng:
+- Xác định vấn đề cụ thể (fixed position chatbox)
+- Chỉ rõ khi nào vấn đề xảy ra (when scrolling)
+- Nêu rõ vị trí cần áp dụng (on the report screen)
+
+## Tổng kết về chiến lược prompt của người dùng
+
+Chiến lược prompt của người dùng trong trường hợp này thể hiện một quy trình phát triển UI rất hiệu quả:
+
+1. **Rõ ràng về mục tiêu từ đầu**: Xác định rõ phạm vi công việc
+2. **Chia nhỏ yêu cầu**: Sử dụng danh sách đánh số hoặc đoạn văn riêng biệt
+3. **Phản hồi có mục tiêu**: Tập trung vào các phần cần điều chỉnh thay vì lặp lại những gì đã tốt
+4. **Tiết kiệm thời gian**: Bỏ qua các bước không cần thiết
+5. **Tăng dần độ tin cậy**: Chuyển từ yêu cầu chi tiết sang lệnh ngắn gọn khi đã thiết lập được sự tin tưởng
+6. **Cụ thể khi cần thiết**: Cung cấp thông số kỹ thuật chính xác cho các yếu tố quan trọng
+7. **Tập trung vào trải nghiệm người dùng**: Ưu tiên các vấn đề ảnh hưởng đến trải nghiệm (như chatbox cố định khi cuộn)
+
+Cách tiếp cận này cho phép người dùng hướng dẫn quá trình phát triển UI một cách hiệu quả, đồng thời vẫn để cho Manus đủ không gian sáng tạo để đưa ra các giải pháp tốt nhất.
