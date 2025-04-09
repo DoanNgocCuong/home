@@ -134,23 +134,3 @@ Qua các prompt trên, có thể thấy người dùng đã áp dụng một s�
 6. **Kết hợp Yêu cầu Kỹ thuật và Hướng dẫn Thực hiện**: Cung cấp cả thông số kỹ thuật (TypeScript) và hướng dẫn triển khai (create isometric effect programmatically).
 
 7. **Yêu cầu Dựa trên Rules**: Định nghĩa các quy tắc rõ ràng cho gameplay (grid size should be 3 units larger than require length for a player to win).
-
-## Bài học về Prompting Hiệu quả
-
-Từ cuộc trao đổi này, chúng ta có thể rút ra một số bài học về cách tạo prompt hiệu quả khi làm việc với AI để phát triển game:
-
-1. **Bắt đầu với Yêu cầu Tổng quát**, sau đó chi tiết hóa khi được hỏi.
-
-2. **Cung cấp Tài nguyên và Tham khảo Cụ thể** để AI có điểm bắt đầu tốt.
-
-3. **Phân Chia Thông tin Thành Các Phần** để dễ theo dõi và đảm bảo mọi yêu cầu được đáp ứng.
-
-4. **Kết hợp Yêu cầu Kỹ thuật và Ý tưởng Thiết kế** để AI hiểu cả "cái gì" và "như thế nào".
-
-5. **Cho phép Một số Linh hoạt** trong việc thực hiện, tập trung vào các yêu cầu chức năng quan trọng nhất.
-
-6. **Phản hồi Cụ thể về Lỗi** giúp AI hiểu rõ vấn đề và khắc phục chính xác.
-
-7. **Sẵn sàng Thay đổi Hướng tiếp cận** khi gặp khó khăn, thay vì cố gắng sửa chữa phiên bản có vấn đề.
-
-Những chiến lược này đã giúp người dùng nhận được một game Tic-Tac-Toe 2.5D hoàn chỉnh, đáp ứng tất cả các yêu cầu đề ra, thông qua một quy trình phát triển lặp đi lặp lại và cải tiến liên tục.
