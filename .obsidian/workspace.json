@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Lập trình nói chung/Giải thuật thi đấu.md",
+                "file": "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Base Web -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Giải thuật thi đấu"
+              "title": "1. Base Web -"
             }
           }
         ],
@@ -215,6 +215,7 @@
   },
   "active": "7215e198fea3bbe4",
   "lastOpenFiles": [
+    "1. Lập trình nói chung/Giải thuật thi đấu.md",
     "1. Lập trình nói chung/5. Cài C++.md",
     "1. Lập trình nói chung/4. Gihub - Tổng kết Năm.md",
     "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
@@ -226,7 +227,7 @@
     "0. ĐÔI DÒNG KINH NGHIỆM VỌC/Vọc.md",
     "0. Nhật Ký Calendar/19-03-2025.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. 1 số tool Docker và các lệnh cơ bản.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Base Web.md",
+    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Base Web -.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
     "3_AI Engineering/5.3 AI Agent/1. Long term Memory Architechture/0.1 Đồ Án Tiếp - Long Memory.md",
     "3_AI Engineering/5.3 AI Agent/1. Function Calling.md",
@@ -242,7 +243,6 @@
     "3_AI Engineering/5.2 LLMs/1. Open source for fine tuning.md",
     "3_AI Engineering/5.3 AI Agent/3. Dự án FLATFORM - BUILD GAME/Bài a Hiệp - AI pipeline product development.md",
     "3_AI Engineering/5.3 AI Agent/3. Dự án FLATFORM - BUILD GAME/1. Tư duy Top 1% trong Phát triển Game với AI.md",
-    "3_AI Engineering/5.3 AI Agent/GenSpark.md",
     "3_AI Engineering/5.3 AI Agent/3. Dự án FLATFORM - BUILD GAME/attachments/Pasted image 20250409102338.png",
     "3_AI Engineering/5.3 AI Agent/3. Dự án FLATFORM - BUILD GAME/attachments",
     "3_AI Engineering/5.3 AI Agent/3. Dự án FLATFORM - BUILD GAME",
