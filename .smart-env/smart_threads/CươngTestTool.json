@@ -1,0 +1,480 @@
+{
+  "path": ".smart-env/smart_threads/CươngTestTool.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1744168109262,
+  "responses": {
+    "chatcmpl-BKG7fm2ZoDJvkSEGlR0UujoqEiZLW": {
+      "id": "chatcmpl-BKG7fm2ZoDJvkSEGlR0UujoqEiZLW",
+      "object": "chat.completion",
+      "created": null,
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today?"
+          }
+        }
+      ],
+      "usage": {},
+      "raw": {
+        "id": "chatcmpl-BKG7fm2ZoDJvkSEGlR0UujoqEiZLW",
+        "object": "chat.completion",
+        "created": 0,
+        "model": "",
+        "choices": [
+          {
+            "message": {
+              "index": 0,
+              "role": "assistant",
+              "content": "Hello! How can I assist you today?"
+            }
+          }
+        ],
+        "usage": {}
+      }
+    },
+    "chatcmpl-BKG7mkuJyNnSzQwwrOk7hq9QY03yf": {
+      "id": "chatcmpl-BKG7mkuJyNnSzQwwrOk7hq9QY03yf",
+      "object": "chat.completion",
+      "created": null,
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Xin chào! Bạn cần giúp gì hôm nay?"
+          }
+        }
+      ],
+      "usage": {},
+      "raw": {
+        "id": "chatcmpl-BKG7mkuJyNnSzQwwrOk7hq9QY03yf",
+        "object": "chat.completion",
+        "created": 0,
+        "model": "",
+        "choices": [
+          {
+            "message": {
+              "index": 0,
+              "role": "assistant",
+              "content": "Xin chào! Bạn cần giúp gì hôm nay?"
+            }
+          }
+        ],
+        "usage": {}
+      }
+    },
+    "chatcmpl-BKG8OpqlEkYHSGLBQjn0ukCsmqc5y": {
+      "id": "chatcmpl-BKG8OpqlEkYHSGLBQjn0ukCsmqc5y",
+      "object": "chat.completion",
+      "created": 1744168280,
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": null,
+            "tool_calls": [
+              {
+                "id": "call_duOcsLGZtn1UmYlyMfy12GMb",
+                "type": "function",
+                "function": {
+                  "name": "lookup",
+                  "arguments": "{\"hypotheticals\":{\"1\":\"Hướng dẫn cài đặt và chạy ứng dụng với Poetry và Streamlit\",\"2\":\"Các bước khởi tạo project với Poetry và cài đặt dependencies\",\"3\":\"Cách thêm package vào file pyproject.toml và cài đặt bằng Poetry\"}}"
+                }
+              }
+            ]
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1230,
+        "completion_tokens": 60,
+        "total_tokens": 1290,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw": {
+        "id": "chatcmpl-BKG8OpqlEkYHSGLBQjn0ukCsmqc5y",
+        "object": "chat.completion",
+        "created": 1744168280,
+        "model": "gpt-4o-mini-2024-07-18",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": null,
+              "tool_calls": [
+                {
+                  "id": "call_duOcsLGZtn1UmYlyMfy12GMb",
+                  "type": "function",
+                  "function": {
+                    "name": "lookup",
+                    "arguments": "{\"hypotheticals\":{\"1\":\"Hướng dẫn cài đặt và chạy ứng dụng với Poetry và Streamlit\",\"2\":\"Các bước khởi tạo project với Poetry và cài đặt dependencies\",\"3\":\"Cách thêm package vào file pyproject.toml và cài đặt bằng Poetry\"}}"
+                  }
+                }
+              ],
+              "refusal": null,
+              "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1230,
+          "completion_tokens": 60,
+          "total_tokens": 1290,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "service_tier": "default",
+        "system_fingerprint": "fp_86d0290411"
+      }
+    },
+    "chatcmpl-BKG8RhGA7x8YtEpOplxMAPyhkbKZ5": {
+      "id": "chatcmpl-BKG8RhGA7x8YtEpOplxMAPyhkbKZ5",
+      "object": "chat.completion",
+      "created": null,
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Based on your notes, here are the steps to set up and run a project using Poetry and Streamlit:\n\n1. **Navigate to the Project Directory**:\n   Ensure you are in the root directory of your project:\n   ```bash\n   cd ~/GIT/Build-An-LLM-RAG-Chatbot-With-LangChain-Python\n   ```\n\n2. **Initialize the Poetry Project**:\n   Run the following command to initialize your Poetry project:\n   ```bash\n   poetry init\n   ```\n   Answer the prompts as follows:\n   - Package name: `llm-rag-chatbot`\n   - Version: `0.1.0`\n   - Description: `A LLM RAG Chatbot`\n   - Author: (leave blank)\n   - License: (leave blank)\n   - Compatible Python versions: `^3.11`\n   - Would you like to define your dependencies interactively: `no`\n   - Would you like to define your dev dependencies interactively: `no`\n\n3. **Add Dependencies**:\n   After initializing, add the necessary dependencies:\n   ```bash\n   poetry add streamlit\n   poetry add langchain\n   poetry add python-dotenv\n   ```\n\n4. **Activate the Virtual Environment**:\n   Run the following command to activate the Poetry virtual environment:\n   ```bash\n   poetry shell\n   ```\n\n5. **Run the Application**:\n   Finally, to run your Streamlit application, use:\n   ```bash\n   poetry run streamlit run src/main.py\n   ```\n\n6. **Check Installed Packages**:\n   If you encounter issues, you can check the installed packages with:\n   ```bash\n   poetry show\n   ```\n\n7. **Reinstall Dependencies**:\n   If needed, you can reinstall all dependencies with:\n   ```bash\n   poetry install\n   ```\n\nMake sure to follow these steps carefully, and let me know if you encounter any issues!"
+          }
+        }
+      ],
+      "usage": {},
+      "raw": {
+        "id": "chatcmpl-BKG8RhGA7x8YtEpOplxMAPyhkbKZ5",
+        "object": "chat.completion",
+        "created": 0,
+        "model": "",
+        "choices": [
+          {
+            "message": {
+              "index": 0,
+              "role": "assistant",
+              "content": "Based on your notes, here are the steps to set up and run a project using Poetry and Streamlit:\n\n1. **Navigate to the Project Directory**:\n   Ensure you are in the root directory of your project:\n   ```bash\n   cd ~/GIT/Build-An-LLM-RAG-Chatbot-With-LangChain-Python\n   ```\n\n2. **Initialize the Poetry Project**:\n   Run the following command to initialize your Poetry project:\n   ```bash\n   poetry init\n   ```\n   Answer the prompts as follows:\n   - Package name: `llm-rag-chatbot`\n   - Version: `0.1.0`\n   - Description: `A LLM RAG Chatbot`\n   - Author: (leave blank)\n   - License: (leave blank)\n   - Compatible Python versions: `^3.11`\n   - Would you like to define your dependencies interactively: `no`\n   - Would you like to define your dev dependencies interactively: `no`\n\n3. **Add Dependencies**:\n   After initializing, add the necessary dependencies:\n   ```bash\n   poetry add streamlit\n   poetry add langchain\n   poetry add python-dotenv\n   ```\n\n4. **Activate the Virtual Environment**:\n   Run the following command to activate the Poetry virtual environment:\n   ```bash\n   poetry shell\n   ```\n\n5. **Run the Application**:\n   Finally, to run your Streamlit application, use:\n   ```bash\n   poetry run streamlit run src/main.py\n   ```\n\n6. **Check Installed Packages**:\n   If you encounter issues, you can check the installed packages with:\n   ```bash\n   poetry show\n   ```\n\n7. **Reinstall Dependencies**:\n   If needed, you can reinstall all dependencies with:\n   ```bash\n   poetry install\n   ```\n\nMake sure to follow these steps carefully, and let me know if you encounter any issues!"
+            }
+          }
+        ],
+        "usage": {}
+      }
+    }
+  },
+  "messages": {
+    "user-1-1744168230312-1": 1,
+    "assistant-2-1744168231040-1": 2,
+    "user-3-1744168237444-1": 3,
+    "assistant-4-1744168237992-1": 4,
+    "user-5-1744168275967-1": 5,
+    "assistant-6-1744168277818-1": 6,
+    "tool-7-1": 7,
+    "assistant-8-1744168279668-1": 8
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "CươngTestTool",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "CươngTestTool",
+      "content": [
+        {
+          "type": "text",
+          "text": "Hello"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1744168230312-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1744168230312-1",
+      "key": "CươngTestTool#user-1-1744168230312-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "CươngTestTool",
+      "content": "Hello! How can I assist you today?",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1744168231040-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-BKG7fm2ZoDJvkSEGlR0UujoqEiZLW",
+      "branch_i": "1744168231040-1",
+      "key": "CươngTestTool#assistant-2-1744168231040-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "CươngTestTool",
+      "content": [
+        {
+          "type": "text",
+          "text": "Xinchafo"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 3,
+      "id": "user-3-1744168237444-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1744168237444-1",
+      "key": "CươngTestTool#user-3-1744168237444-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "CươngTestTool",
+      "content": "Xin chào! Bạn cần giúp gì hôm nay?",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 4,
+      "id": "assistant-4-1744168237992-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-BKG7mkuJyNnSzQwwrOk7hq9QY03yf",
+      "branch_i": "1744168237992-1",
+      "key": "CươngTestTool#assistant-4-1744168237992-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "CươngTestTool",
+      "content": [
+        {
+          "type": "text",
+          "text": "[[1. Lập trình nói chung/Run đóng gói.md]]  tìm kiếm cái này"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 5,
+      "id": "user-5-1744168275967-1",
+      "context": {
+        "internal_links": [
+          "1. Lập trình nói chung/Run đóng gói.md"
+        ],
+        "has_self_ref": true
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1744168275967-1",
+      "key": "CươngTestTool#user-5-1744168275967-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "CươngTestTool",
+      "content": null,
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_duOcsLGZtn1UmYlyMfy12GMb",
+          "type": "function",
+          "function": {
+            "name": "lookup",
+            "arguments": "{\"hypotheticals\":{\"1\":\"Hướng dẫn cài đặt và chạy ứng dụng với Poetry và Streamlit\",\"2\":\"Các bước khởi tạo project với Poetry và cài đặt dependencies\",\"3\":\"Cách thêm package vào file pyproject.toml và cài đặt bằng Poetry\"}}"
+          }
+        }
+      ],
+      "tool_call_id": null,
+      "msg_i": 6,
+      "id": "assistant-6-1744168277818-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-BKG8OpqlEkYHSGLBQjn0ukCsmqc5y",
+      "branch_i": "1744168277818-1",
+      "key": "CươngTestTool#assistant-6-1744168277818-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "CươngTestTool",
+      "content": null,
+      "role": "tool",
+      "tool_calls": null,
+      "tool_call_id": "call_duOcsLGZtn1UmYlyMfy12GMb",
+      "msg_i": 7,
+      "id": "tool-7-1",
+      "context": {},
+      "tool_call_output": [
+        {
+          "key": "1. Lập trình nói chung/Run đóng gói.md#",
+          "score": 0.8057189664331157
+        },
+        {
+          "key": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md#Các hướng tiếp cận chính để tích hợp trí nhớ dài hạn#Tiếp cận 2: Module bộ nhớ khả vi (Differentiable Memory)",
+          "score": 0.7597008965079152
+        },
+        {
+          "key": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md#So sánh các hệ thống tiêu biểu có bộ nhớ hội thoại#{3}",
+          "score": 0.75941088441242
+        },
+        {
+          "key": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md#Giới thiệu#{1}",
+          "score": 0.7585318416014933
+        },
+        {
+          "key": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md#Các hướng tiếp cận chính để tích hợp trí nhớ dài hạn#Tiếp cận 2: Module bộ nhớ khả vi (Differentiable Memory)#{1}",
+          "score": 0.7579110142239268
+        },
+        {
+          "key": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md#Giới thiệu",
+          "score": 0.7564350199614411
+        },
+        {
+          "key": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md#Các hướng tiếp cận chính để tích hợp trí nhớ dài hạn#Tiếp cận 1: Mở rộng ngữ cảnh đầu vào",
+          "score": 0.7527558533544322
+        },
+        {
+          "key": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md#Các hướng tiếp cận chính để tích hợp trí nhớ dài hạn#Tiếp cận 1: Mở rộng ngữ cảnh đầu vào#{1}",
+          "score": 0.751678876734264
+        },
+        {
+          "key": "3_AI Engineering/5.3 AI Agent/0. Đồ Án.md#6. Các bài báo:#**4️⃣ Kế hoạch thực nghiệm**#**📌 Các bước triển khai**#{1}",
+          "score": 0.7492562193655803
+        },
+        {
+          "key": "3_AI Engineering/5.3 AI Agent/Thư mục đọc/Read 2.2  Relaited của LongMemEval và Reflective Memory Manager RMM.md##🧠 Các hướng tiếp cận hệ thống hội thoại có trí nhớ dài hạn#1. **Ba hướng chính để trang bị trí nhớ dài hạn cho trợ lý hội thoại**#📌 **(2) Tích hợp mô-đun trí nhớ (differentiable memory modules)**",
+          "score": 0.7455536216488434
+        }
+      ],
+      "class_name": "SmartMessage",
+      "tool_name": "lookup",
+      "response_id": "call_duOcsLGZtn1UmYlyMfy12GMb",
+      "key": "CươngTestTool#tool-7-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "CươngTestTool",
+      "content": "Based on your notes, here are the steps to set up and run a project using Poetry and Streamlit:\n\n1. **Navigate to the Project Directory**:\n   Ensure you are in the root directory of your project:\n   ```bash\n   cd ~/GIT/Build-An-LLM-RAG-Chatbot-With-LangChain-Python\n   ```\n\n2. **Initialize the Poetry Project**:\n   Run the following command to initialize your Poetry project:\n   ```bash\n   poetry init\n   ```\n   Answer the prompts as follows:\n   - Package name: `llm-rag-chatbot`\n   - Version: `0.1.0`\n   - Description: `A LLM RAG Chatbot`\n   - Author: (leave blank)\n   - License: (leave blank)\n   - Compatible Python versions: `^3.11`\n   - Would you like to define your dependencies interactively: `no`\n   - Would you like to define your dev dependencies interactively: `no`\n\n3. **Add Dependencies**:\n   After initializing, add the necessary dependencies:\n   ```bash\n   poetry add streamlit\n   poetry add langchain\n   poetry add python-dotenv\n   ```\n\n4. **Activate the Virtual Environment**:\n   Run the following command to activate the Poetry virtual environment:\n   ```bash\n   poetry shell\n   ```\n\n5. **Run the Application**:\n   Finally, to run your Streamlit application, use:\n   ```bash\n   poetry run streamlit run src/main.py\n   ```\n\n6. **Check Installed Packages**:\n   If you encounter issues, you can check the installed packages with:\n   ```bash\n   poetry show\n   ```\n\n7. **Reinstall Dependencies**:\n   If needed, you can reinstall all dependencies with:\n   ```bash\n   poetry install\n   ```\n\nMake sure to follow these steps carefully, and let me know if you encounter any issues!",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 8,
+      "id": "assistant-8-1744168279668-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-BKG8RhGA7x8YtEpOplxMAPyhkbKZ5",
+      "branch_i": "1744168279668-1",
+      "key": "CươngTestTool#assistant-8-1744168279668-1"
+    }
+  ]
+}
