@@ -28,11 +28,13 @@ secrets.json
 .obsidian/workspace-mobile.json
 .obsidian/appearance.json
 .obsidian/app.json
-.obsidian/plugins/*/data.json
+.obsidian/plugins/
+.obsidian/plugins/*
 
 # Smart Environment
 .smart-env/
 .smart-env/*
+.smart-env/smart_env.json
 
 # System files
 .DS_Store
