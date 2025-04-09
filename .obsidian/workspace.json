@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Lập trình nói chung/Tool Code ....md",
+                "file": "1. Lập trình nói chung/Giải thuật thi đấu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tool Code ..."
+              "title": "Giải thuật thi đấu"
             }
           }
         ],
@@ -178,8 +178,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Smart Chat"
             }
           },
           {
@@ -193,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -213,12 +213,19 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7215e198fea3bbe4",
+  "active": "127fe6c6f795ac54",
   "lastOpenFiles": [
-    "1. Lập trình nói chung/Run đóng gói.md",
-    "1. Lập trình nói chung/Productive.md",
+    "1. Lập trình nói chung/5. Cài C++.md",
+    "1. Lập trình nói chung/4. Gihub - Tổng kết Năm.md",
+    "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
+    "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "1. Lập trình nói chung/1.5 Cách code với tham số Augument.md",
     "1. Lập trình nói chung/1. Python.md",
+    "1. Lập trình nói chung/Tool/Tool Code ....md",
+    "1. Lập trình nói chung/Tool/Tool Obsidant.md",
+    "1. Lập trình nói chung/Tool",
+    "1. Lập trình nói chung/Run đóng gói.md",
+    "1. Lập trình nói chung/Productive.md",
     "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Vấn đề 3 - Button Submit làm trang reload, đổi lại sang submit.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113316.png",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113315.png",
@@ -243,12 +250,6 @@
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 9 Méo hiểu sao docker compose backend chạy ở backend và docker compose ở src (chạy riêng frontend) được ngon  nhưng khi add thêm backend vào file src dokerc mpose thay vì có mỗi frontend.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 14 khi tôi code frontend bacekend đều javascript theo kiểu Model - View - Controller.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 15 Không đặt tên image và container rõ ràng dẫn đến khó khăn trong quản lý.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 12 Thời gian chờ quá lâu la khi đã start lên rồi.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 13.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 11 - 2 FILE DOCKER COMPOSE VÀ 2 ỨNG DỤNG KHÔNG LIÊN QUAN ĐẾN NHAU, nhưng có bị tự động tạo tên container trùng nhau (do container name được tạo dựa vào thư mục).md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 10 - Call Postman tới được 9404. - Run docker compose local 25050 call được 9404 - Nhưng cứ đóng server vào là ko được.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Nguồn.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose",
     "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113315.png",
@@ -260,7 +261,6 @@
     "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250220170805.png",
     "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web",
     "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments",
-    "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
