@@ -43,7 +43,7 @@ CÁC USE CASES
 
 # 1. Research hướng dẫn cơ bản - Ưu điểm là nó tìm và hiển thị cả Gif hướng dẫn - https://www.genspark.ai/agents?id=6b404ed1-c30b-4bd6-838d-044e81ea9c6b
 
-```
+``` Tool 
 Prompt: 
 Smart Connections
 Cách dùng cái này trong obsidant
