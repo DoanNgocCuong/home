@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dọn dẹp",
+                "query": "servẻ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,10 +163,14 @@
             "id": "692278357a313a42",
             "type": "leaf",
             "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "type": "markdown",
+              "state": {
+                "file": "1. DailyNote/2025-04-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-10"
             }
           },
           {
@@ -179,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,7 +204,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ed7b0b68be8d8e82",
+  "active": "692278357a313a42",
   "lastOpenFiles": [
     "Untitled 3.canvas",
     "1. DailyNote/2025-04-10.md",
