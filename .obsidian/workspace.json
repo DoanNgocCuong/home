@@ -192,8 +192,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
