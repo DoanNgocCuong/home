@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/1. Supabase.md",
+                "file": "1. DailyNote/2025-04-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Supabase"
+              "title": "2025-04-10"
             }
           }
         ],
@@ -219,8 +219,8 @@
   },
   "active": "ed7b0b68be8d8e82",
   "lastOpenFiles": [
-    "1. DailyNote/2025-04-10.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/1. Supabase.md",
+    "1. DailyNote/2025-04-10.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting/1. Các cơ chế khó nhất.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting/0. Role Play Prompting Builder.md",
