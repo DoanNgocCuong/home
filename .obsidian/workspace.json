@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-04-10.md",
+                "file": "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting/1. Các cơ chế khó nhất.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-10"
+              "title": "1. Các cơ chế khó nhất"
             }
           }
         ],
@@ -217,10 +217,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "62c72970cf525bb5",
+  "active": "ed7b0b68be8d8e82",
   "lastOpenFiles": [
-    "Untitled 4.canvas",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting/0. Role Play Prompting Builder.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting/1. Các cơ chế khó nhất.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting/0. Prompting Builder.md",
     "1. DailyNote/2025-04-10.md",
+    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting",
+    "Untitled 4.canvas",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "Untitled 3.canvas",
     "15. News/10042025 - Firebase Studio.md",
@@ -256,13 +260,10 @@
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Vấn đề 12.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Untitled",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/ReAct.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Microservices.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Lỗi khi code javaScript.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250321121006.png",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250220170805.png",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250220170737.png",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web",
     "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113315.png",
     "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113316.png",
     "Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250321121006.png",
