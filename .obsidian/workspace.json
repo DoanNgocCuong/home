@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "08b127422a001201",
+        "id": "f9fb2dd668669465",
         "type": "tabs",
         "children": [
           {
-            "id": "ed7b0b68be8d8e82",
+            "id": "82296f84ba020d1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting/2. Effects of Max Token Settings on Sentence Pattern Generation.md",
+                "file": "4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Effects of Max Token Settings on Sentence Pattern Generation"
+              "title": "1. git, SOLID, Code chuẩn"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "servẻ",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,12 +192,12 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Smart Chat"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -217,14 +217,20 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ed7b0b68be8d8e82",
+  "active": "82296f84ba020d1a",
   "lastOpenFiles": [
-    "1. DailyNote/2025-04-11.md",
+    "4_MLOPs và Full Stack Docker/1. Git/2. Tag of git.md",
+    "4_MLOPs và Full Stack Docker/1. Git/8. Xoá key bị dính.md",
+    "4_MLOPs và Full Stack Docker/1. Git/7. Extension_Code.md",
+    "4_MLOPs và Full Stack Docker/1. Git/5. Thêm - a Đậu Văn Nam.md",
+    "4_MLOPs và Full Stack Docker/1. Git/4. git convention - chuẩn.md",
+    "4_MLOPs và Full Stack Docker/1. Git/3. commit, deploy, release Note.md",
+    "1. DailyNote/2025-04-10.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting/2. Effects of Max Token Settings on Sentence Pattern Generation.md",
+    "1. DailyNote/2025-04-11.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/1. Supabase.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "10. GAME/1. Game.md",
-    "1. DailyNote/2025-04-10.md",
     "10. GAME",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting/1. Các cơ chế khó nhất.md",
@@ -241,7 +247,6 @@
     "1. Lập trình nói chung/attachments/Pasted image 20250410020223.png",
     "1. Lập trình nói chung/attachments/Pasted image 20250410020137.png",
     "1. Lập trình nói chung/OOP - Python.md",
-    "4_MLOPs và Full Stack Docker/1. Git/8. Xoá key bị dính.md",
     "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
     "1. Lập trình nói chung/1. Python.md",
     "Untitled 2",
@@ -253,14 +258,9 @@
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "1. Lập trình nói chung/1.5 Cách code với tham số Augument.md",
     "1. Lập trình nói chung/Tool/Tool Code ....md",
-    "1. Lập trình nói chung/Tool/Tool Obsidant.md",
     "1. Lập trình nói chung/Tool",
-    "1. Lập trình nói chung/Run đóng gói.md",
-    "1. Lập trình nói chung/Productive.md",
-    "4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Vấn đề 3 - Button Submit làm trang reload, đổi lại sang submit.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113316.png",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113315.png",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/__init__ Web - Template.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250321121006.png",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250220170805.png",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/attachments/Pasted image 20250220170737.png",
