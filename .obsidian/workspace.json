@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2..md",
+                "file": "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2.  Template - React + Vite + TypeScript + SWC + Tailwind Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2."
+              "title": "2.  Template - React + Vite + TypeScript + SWC + Tailwind Template"
             }
           }
         ],
@@ -219,12 +219,12 @@
   },
   "active": "82296f84ba020d1a",
   "lastOpenFiles": [
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2. Toàn bộ các Vite - React - TypeScript.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2..md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2. Cách khởi tạo nhanh - React + Vite + TypeScript + SWC + Tailwind Template.md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2. Template Phaser Game - Toàn bộ các Vite - React - TypeScript.md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2.  Template - React + Vite + TypeScript + SWC + Tailwind Template.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Tối ưu Frontend - a Thiện.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Ngôn ngữ Code Web cho dân AI.md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2..md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Tối ưu Frontend - a Thiện.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Base Web - HTML CSS React.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2 Đóng gói package.json, pyproject.toml - NỬA DOCKER.md",
