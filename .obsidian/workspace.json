@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-04-13.md",
+                "file": "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. Cách khởi tạo nhanh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-13"
+              "title": "3. Cách khởi tạo nhanh"
             }
           }
         ],
@@ -219,11 +219,15 @@
   },
   "active": "82296f84ba020d1a",
   "lastOpenFiles": [
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. Toàn bộ các Vite - React - TypeScript.md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. Cách khởi tạo nhanh.md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/4. Top 10 lỗi trong code Web phổ biến nhất - chỉ cần tránh được lỗi này là bạn code web thoải mái..md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Các kiến trúc khác nhau.md",
+    "1. DailyNote/2025-04-13.md",
     "1. CHIẾN LƯỢC/2. 12042025.md",
     "1. DailyNote/2025-04-10.md",
     "1. DailyNote/2025-04-11.md",
     "1. DailyNote/2025-04-12.md",
-    "1. DailyNote/2025-04-13.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
@@ -247,15 +251,11 @@
     "10. GAME",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting/1. Các cơ chế khó nhất.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting/0. Role Play Prompting Builder.md",
-    "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting/0. Prompting Builder.md",
     "3_AI Engineering/4. DeepLearning NLP RAG/4.0 Prompting",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
-    "15. News/10042025 - Firebase Studio.md",
     "1. DailyNote",
     "New folder",
-    "1. Lập trình nói chung/2. Python cơ bản.md",
     "15. News",
     "1. Lập trình nói chung/attachments/Pasted image 20250410020223.png",
     "1. Lập trình nói chung/attachments/Pasted image 20250410020137.png",
