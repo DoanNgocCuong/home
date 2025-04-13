@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. CHIẾN LƯỢC/2. 12042025.md",
+                "file": "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 12042025"
+              "title": "6. Server Deploy - mật khẩu vào Server"
             }
           }
         ],
@@ -219,8 +219,10 @@
   },
   "active": "82296f84ba020d1a",
   "lastOpenFiles": [
-    "1. CHIẾN LƯỢC/1. Cuối 2024 đến Trước 12042025.md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
     "1. CHIẾN LƯỢC/2. 12042025.md",
+    "1. CHIẾN LƯỢC/1. Cuối 2024 đến Trước 12042025.md",
     "1. CHIẾN LƯỢC/attachments/Pasted image 20250412024723.png",
     "1. CHIẾN LƯỢC/attachments",
     "1. DailyNote/2025-04-12.md",
@@ -257,7 +259,6 @@
     "1. Lập trình nói chung/attachments/Pasted image 20250410020223.png",
     "1. Lập trình nói chung/attachments/Pasted image 20250410020137.png",
     "1. Lập trình nói chung/OOP - Python.md",
-    "1. Lập trình nói chung/3. Đường dẫn trong lập trình.md",
     "Untitled 2",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113316.png",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/attachments/Pasted image 20250225113315.png",
