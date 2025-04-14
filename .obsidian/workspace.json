@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-04-14.md",
+                "file": "3_AI Engineering/3. Machine Learning/1. Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-14"
+              "title": "1. Linear Regression"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "Machine Learning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,8 +219,8 @@
   },
   "active": "82296f84ba020d1a",
   "lastOpenFiles": [
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2.  Template - React + Vite + TypeScript + SWC + Tailwind Template.md",
     "1. DailyNote/2025-04-14.md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2.  Template - React + Vite + TypeScript + SWC + Tailwind Template.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/5. Docs - TÀI LIỆU SOFTWARE ENGINEERING.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. New.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2. Template Phaser Game - Toàn bộ các Vite - React - TypeScript.md",
