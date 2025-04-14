@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/5. Docs - TÀI LIỆU SOFTWARE ENGINEERING.md",
+                "file": "1. DailyNote/2025-04-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Docs - TÀI LIỆU SOFTWARE ENGINEERING"
+              "title": "2025-04-14"
             }
           }
         ],
@@ -219,9 +219,10 @@
   },
   "active": "82296f84ba020d1a",
   "lastOpenFiles": [
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. New.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/5. Docs - TÀI LIỆU SOFTWARE ENGINEERING.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2.  Template - React + Vite + TypeScript + SWC + Tailwind Template.md",
+    "1. DailyNote/2025-04-14.md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/5. Docs - TÀI LIỆU SOFTWARE ENGINEERING.md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. New.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2. Template Phaser Game - Toàn bộ các Vite - React - TypeScript.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Ngôn ngữ Code Web cho dân AI.md",
@@ -244,7 +245,6 @@
     "1. DailyNote/2025-04-10.md",
     "1. DailyNote/2025-04-11.md",
     "1. DailyNote/2025-04-12.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "1. CHIẾN LƯỢC/attachments/Pasted image 20250412024723.png",
     "1. CHIẾN LƯỢC/attachments",
     "Untitled 3",
