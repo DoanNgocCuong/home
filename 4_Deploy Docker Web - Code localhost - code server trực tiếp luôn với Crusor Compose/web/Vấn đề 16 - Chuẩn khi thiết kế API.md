@@ -40,11 +40,8 @@ exports.generateLearningPath = async (req, res) => {
   
 
         const content = response.choices[0].message.content;
-
-        const parsedContent = JSON.parse(content);
-
   
-        // res.json({ learningPath: content });
+        res.json({ learningPath: content });
 
     } catch (error) {
 
