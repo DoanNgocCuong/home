@@ -278,3 +278,101 @@ Nếu bạn đang muốn **thử nghiệm kết nối với Cursor hoặc Claude
 
 ![[Pasted image 20250423110102.png]]
 ![[Pasted image 20250423110043.png]]
+---
+
+## Problem Solving áp dụng 
+
+Việc **áp dụng kỹ năng problem solving (giải quyết vấn đề)** vào tình huống như **bị đau đầu** là một ví dụ rất thực tế cho thấy tư duy logic có thể dùng trong đời sống hằng ngày. Dưới đây là cách triển khai quy trình giải quyết vấn đề theo từng bước:
+
+---
+
+## 🧠 Bước 1: Xác định vấn đề rõ ràng (Define the Problem)
+
+- Vấn đề: **Tôi thường xuyên bị đau đầu.**
+    
+- Đặc điểm: Đau âm ỉ? Nhói? Kéo dài bao lâu? Vào thời điểm nào? Ở vùng nào trên đầu?
+    
+
+📌 _Ví dụ_: "Tôi bị đau đầu nhói ở vùng trán vào mỗi buổi chiều."
+
+---
+
+## 🔍 Bước 2: Phân tích nguyên nhân (Analyze the Cause)
+
+Dùng phương pháp 5 Whys hoặc Ishikawa (xương cá) để xác định nguyên nhân gốc rễ:
+
+- Tôi bị đau đầu → **Tại sao?** Vì tôi làm việc quá nhiều trước màn hình.
+    
+- **Tại sao làm việc nhiều gây đau đầu?** Vì tôi không nghỉ ngơi đúng lúc, không có tư thế ngồi chuẩn.
+    
+- **Tại sao không nghỉ ngơi đúng lúc?** Vì tôi muốn hoàn thành deadline.
+    
+
+🎯 Nguyên nhân tiềm năng:
+
+- Căng thẳng, stress
+    
+- Thiếu nước
+    
+- Mắt làm việc quá tải
+    
+- Ngủ không đủ
+    
+- Ăn uống không đều
+    
+
+---
+
+## 🧰 Bước 3: Đưa ra giải pháp khả thi (Generate Solutions)
+
+Tạo danh sách các giải pháp có thể:
+
+- Uống nước thường xuyên
+    
+- Thư giãn mắt mỗi 20 phút
+    
+- Thiền 5–10 phút vào giữa buổi
+    
+- Ngủ đủ 7–8 tiếng
+    
+- Tư thế ngồi đúng, có gối cổ
+    
+- Giảm ánh sáng màn hình
+    
+
+---
+
+## ✅ Bước 4: Chọn giải pháp tối ưu (Choose the Best Solution)
+
+Dựa trên mức độ hiệu quả, khả năng thực hiện và tác dụng phụ:
+
+- Ưu tiên: Nghỉ mắt, uống nước, cải thiện giấc ngủ
+    
+- Có thể thử thêm: Thiền, yoga nhẹ, massage trán
+    
+
+---
+
+## 🧪 Bước 5: Thử nghiệm và theo dõi (Implement & Test)
+
+- Thử áp dụng: nghỉ mắt mỗi 20 phút, uống 1.5–2 lít nước/ngày, ngủ trước 11h đêm
+    
+- Ghi nhận: Ghi lại tần suất đau đầu vào sổ hoặc app theo dõi sức khỏe
+    
+
+---
+
+## 🔄 Bước 6: Đánh giá và điều chỉnh (Evaluate & Adjust)
+
+- Sau 1 tuần: Đỡ hơn? Nếu chưa, thử thay đổi thói quen ăn uống hoặc đi khám bác sĩ để kiểm tra sâu hơn (như huyết áp, mắt, xoang,...).
+    
+
+---
+
+## 💡 Kết luận
+
+Problem solving không chỉ dành cho công việc mà có thể giúp bạn tiếp cận một cách có hệ thống và hiệu quả với những vấn đề sức khỏe như đau đầu. Thay vì chỉ uống thuốc tạm thời, bạn sẽ hiểu được nguyên nhân gốc rễ và cải thiện lâu dài.
+
+---
+
+Nếu bạn muốn, mình có thể giúp thiết kế **bảng theo dõi đau đầu** hoặc **to-do list cải thiện sức khỏe** theo tư duy problem solving. Bạn có muốn không?
