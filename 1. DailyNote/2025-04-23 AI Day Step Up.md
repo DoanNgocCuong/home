@@ -376,3 +376,11 @@ Problem solving không chỉ dành cho công việc mà có thể giúp bạn ti
 ---
 
 Nếu bạn muốn, mình có thể giúp thiết kế **bảng theo dõi đau đầu** hoặc **to-do list cải thiện sức khỏe** theo tư duy problem solving. Bạn có muốn không?
+
+
+---
+
+# Các tasks còn đang dở: 
+1. thêm phần Onion 12, 34 
+2. Thêm phần Prompt PTY 
+3. Thêm phần gen Ảnh 
