@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. venv_Docker/3. venv - Docker - k8s Cloud.md",
+                "file": "1. DailyNote/2025-04-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. venv - Docker - k8s Cloud"
+              "title": "2025-04-24"
             }
           },
           {
@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -232,9 +231,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "25e9740fd83b0acc",
+  "active": "82296f84ba020d1a",
   "lastOpenFiles": [
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. venv_Docker/3. venv - Docker - k8s Cloud.md",
+    "1. DailyNote/2025-04-24.md",
     "1. DailyNote/2025-04-23.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. venv_Docker/attachments/Pasted image 20250423202618.png",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. venv_Docker/attachments",
@@ -273,7 +273,6 @@
     "1. Lập trình nói chung/Productive.md",
     "1. Lập trình nói chung/Run đóng gói.md",
     "1. Lập trình nói chung/2. Python cơ bản.md",
-    "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "15. Linh Tinh",
     "2_English/TheAnhEnglish",
     "0. Report Thực tập",
