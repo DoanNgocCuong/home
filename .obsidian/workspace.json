@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_AI Engineering/Lỗi 1.md",
+                "file": "3_AI Engineering/Lỗi 1 - 3H Thanh xuân để FIX 1 BUG LANGCHAIN VÀ OPENAI - Thu được về Problem Solving - Client.__init__() got an unexpected keyword argument 'proxies'.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lỗi 1"
+              "title": "Lỗi 1 - 3H Thanh xuân để FIX 1 BUG LANGCHAIN VÀ OPENAI - Thu được về Problem Solving - Client.__init__() got an unexpected keyword argument 'proxies'"
             }
           },
           {
@@ -244,7 +244,7 @@
   "active": "82296f84ba020d1a",
   "lastOpenFiles": [
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
-    "3_AI Engineering/Lỗi 1.md",
+    "3_AI Engineering/Lỗi 1 - 3H Thanh xuân để FIX 1 BUG LANGCHAIN VÀ OPENAI - Thu được về Problem Solving - Client.__init__() got an unexpected keyword argument 'proxies'.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
     "4_MLOPs và Full Stack Docker/1. Git/8. Xoá key bị dính.md",
