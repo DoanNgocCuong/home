@@ -206,8 +206,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -216,8 +216,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -241,7 +241,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "49149e42038f8ea8",
+  "active": "82296f84ba020d1a",
   "lastOpenFiles": [
     "4_MLOPs và Full Stack Docker/1. Git/6. Xoá commit của 1 user.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
