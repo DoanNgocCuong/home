@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Bài viết 1 - OpenSource khác với Free.md",
+                "file": "3_AI Engineering/3. LangChain/Note 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bài viết 1 - OpenSource khác với Free"
+              "title": "Note 1"
             }
           },
           {
@@ -243,8 +243,16 @@
   },
   "active": "82296f84ba020d1a",
   "lastOpenFiles": [
-    "1. DailyNote/2025-04-29.md",
+    "3_AI Engineering/3. LangChain/attachments/Pasted image 20250429183854.png",
+    "3_AI Engineering/3. LangChain/attachments/Pasted image 20250429183842.png",
+    "3_AI Engineering/3. LangChain/attachments/Pasted image 20250429183746.png",
+    "3_AI Engineering/3. LangChain/attachments",
     "4_MLOPs và Full Stack Docker/Bài viết 1 - OpenSource khác với Free.md",
+    "3_AI Engineering/3. LangChain/Note 1.md",
+    "3_AI Engineering/3. LangChain",
+    "4_MLOPs và Full Stack Docker/AWS/LangChain",
+    "3_AI Engineering/Langchain",
+    "1. DailyNote/2025-04-29.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "4_MLOPs và Full Stack Docker/1. Git/8. Xoá key bị dính.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
@@ -270,8 +278,6 @@
     "4_MLOPs và Full Stack Docker/Docker.md",
     "4_MLOPs và Full Stack Docker/7. Kubernetes.md",
     "4_MLOPs và Full Stack Docker/5. API - Python.md",
-    "4_MLOPs và Full Stack Docker/2. MLOps.md",
-    "1. DailyNote/2025-04-23 AI Day Step Up.md",
     "1. DailyNote/attachments/Pasted image 20250423110102.png",
     "1. DailyNote/attachments/Pasted image 20250423110054.png",
     "1. DailyNote/attachments/Pasted image 20250423110043.png",
@@ -279,16 +285,10 @@
     "1. DailyNote/attachments/Pasted image 20250423105209.png",
     "1. DailyNote/attachments/Pasted image 20250423105154.png",
     "1. DailyNote/attachments/Pasted image 20250423100353.png",
-    "1. DailyNote/attachments/Pasted image 20250423100349.png",
-    "1. DailyNote/attachments/Pasted image 20250423100341.png",
     "0_",
     "Untitled",
     "15. Linh Tinh",
     "2_English/TheAnhEnglish",
-    "0. Report Thực tập",
-    "1. DailyNote/attachments",
-    "1. CHIẾN LƯỢC/attachments",
-    "Untitled 3",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled.canvas",
