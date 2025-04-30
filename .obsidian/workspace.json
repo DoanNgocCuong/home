@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82296f84ba020d1a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 5.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 5"
-            }
-          },
-          {
             "id": "25e9740fd83b0acc",
             "type": "leaf",
             "state": {
@@ -244,10 +227,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "82296f84ba020d1a",
+  "active": "25e9740fd83b0acc",
   "lastOpenFiles": [
-    "1. DailyNote/2025-04-30.md",
     "Untitled 5.canvas",
+    "1. DailyNote/2025-04-30.md",
     "3_AI Engineering/3. LangChain/Note 1.md",
     "3_AI Engineering/3. LangChain/attachments/Pasted image 20250429183854.png",
     "3_AI Engineering/3. LangChain/attachments/Pasted image 20250429183842.png",
