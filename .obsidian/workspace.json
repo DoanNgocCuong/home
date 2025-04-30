@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-05-01.md",
+                "file": "3_AI Engineering/3. LangChain/Bài viết 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-01"
+              "title": "Bài viết 1"
             }
           }
         ],
@@ -229,16 +229,23 @@
   },
   "active": "25e9740fd83b0acc",
   "lastOpenFiles": [
-    "1. DailyNote/2025-04-30.md",
+    "3_AI Engineering/3. LangChain/Note",
+    "4_MLOPs và Full Stack Docker/5. Note API - Python.md",
+    "4_MLOPs và Full Stack Docker/Bài viết - OpenSource khác với Free.md",
+    "4_MLOPs và Full Stack Docker/7. Kubernetes.md",
+    "4_MLOPs và Full Stack Docker/2. MLOps.md",
+    "4_MLOPs và Full Stack Docker/2.2 Free web hosting.md",
+    "4_MLOPs và Full Stack Docker/2. Fast API.md",
+    "3_AI Engineering/1. Math/Các link.md",
     "1. DailyNote/2025-05-01.md",
+    "1. DailyNote/2025-04-30.md",
     "1. DailyNote/2025-04-23.md",
     "Untitled 5.canvas",
-    "3_AI Engineering/3. LangChain/Note 1.md",
+    "3_AI Engineering/3. LangChain/Bài viết 1.md",
     "3_AI Engineering/3. LangChain/attachments/Pasted image 20250429183854.png",
     "3_AI Engineering/3. LangChain/attachments/Pasted image 20250429183842.png",
     "3_AI Engineering/3. LangChain/attachments/Pasted image 20250429183746.png",
     "3_AI Engineering/3. LangChain/attachments",
-    "4_MLOPs và Full Stack Docker/Bài viết 1 - OpenSource khác với Free.md",
     "3_AI Engineering/3. LangChain",
     "4_MLOPs và Full Stack Docker/AWS/LangChain",
     "3_AI Engineering/Langchain",
@@ -256,16 +263,9 @@
     "3_AI Engineering/5.1 RAG/RAG MỞ RỘNG/1. HIPPO RAG và LongMemEval.md",
     "1. DailyNote/2025-04-24.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/5. Docs - TÀI LIỆU SOFTWARE ENGINEERING.md",
-    "4_MLOPs và Full Stack Docker/Deploy with GRAFANA.md",
-    "4_MLOPs và Full Stack Docker/2. Fast API.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. venv_Docker/3. venv - Docker - k8s Cloud.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. venv_Docker/attachments/Pasted image 20250423202618.png",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. venv_Docker/attachments",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2 Đóng gói package.json, pyproject.toml - NỬA DOCKER.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. venv_Docker",
-    "4_MLOPs và Full Stack Docker/Docker.md",
-    "4_MLOPs và Full Stack Docker/7. Kubernetes.md",
     "1. DailyNote/attachments/Pasted image 20250423110102.png",
     "1. DailyNote/attachments/Pasted image 20250423110054.png",
     "1. DailyNote/attachments/Pasted image 20250423110043.png",
