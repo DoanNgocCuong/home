@@ -11,14 +11,17 @@
             "id": "82296f84ba020d1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1. DailyNote/2025-04-30.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 5.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-04-30"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 5"
             }
           },
           {
@@ -243,8 +246,9 @@
   },
   "active": "82296f84ba020d1a",
   "lastOpenFiles": [
-    "3_AI Engineering/3. LangChain/Note 1.md",
     "1. DailyNote/2025-04-30.md",
+    "Untitled 5.canvas",
+    "3_AI Engineering/3. LangChain/Note 1.md",
     "3_AI Engineering/3. LangChain/attachments/Pasted image 20250429183854.png",
     "3_AI Engineering/3. LangChain/attachments/Pasted image 20250429183842.png",
     "3_AI Engineering/3. LangChain/attachments/Pasted image 20250429183746.png",
@@ -278,7 +282,6 @@
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. venv_Docker",
     "4_MLOPs và Full Stack Docker/Docker.md",
     "4_MLOPs và Full Stack Docker/7. Kubernetes.md",
-    "4_MLOPs và Full Stack Docker/5. API - Python.md",
     "1. DailyNote/attachments/Pasted image 20250423110102.png",
     "1. DailyNote/attachments/Pasted image 20250423110054.png",
     "1. DailyNote/attachments/Pasted image 20250423110043.png",
