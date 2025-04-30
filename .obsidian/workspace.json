@@ -11,12 +11,12 @@
             "id": "61c64bd8aa190697",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Pasted image 20241015200656.png"
+                "file": "3_Learning/AIO/M10 RAG LLMs/18042025_Documents_2025-3_RAG, Prompting and LangChain_[Slide_v2]RAG_LangChain.pdf"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241015200656"
+              "icon": "lucide-file-text",
+              "title": "18042025_Documents_2025-3_RAG, Prompting and LangChain_[Slide_v2]RAG_LangChain"
             }
           }
         ],
@@ -205,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -225,8 +225,16 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "61c64bd8aa190697",
+  "active": "62c72970cf525bb5",
   "lastOpenFiles": [
+    "3_Learning/AIO/M10 RAG LLMs/18042025_Documents_2025-3_RAG, Prompting and LangChain_[Description] RAG_LangChain.pdf",
+    "3_Learning/AIO/M10 RAG LLMs/16042025_Documents_2025-3_Pretraining LLM (GPT)_[Slide_v2]-Pre-trainingGPT.pdf",
+    "3_Learning/AIO/M10 RAG LLMs/16042025_Documents_2025-3_M10W01 - Study Guide_M10W01 - Study Guide.pdf",
+    "3_Learning/AIO/M10 RAG LLMs/16042025_Documents_2025-3_GIAO BÀI TẬP_  Pretraining LLM (GPT)_[Description]-Pre-trainingGPT.pdf",
+    "3_Learning/AIO/M10 RAG LLMs/Note_RAG_Langchain_01052025_.md",
+    "3_Learning/AIO/Pasted image 20250118220354.png",
+    "3_Learning/AIO/M10 RAG LLMs/Untitled",
+    "Pasted image 20241015200656.png",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 16-23-39.png",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 16-13-01.png",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 09-36-36.png",
@@ -244,7 +252,6 @@
     "Pasted image 20241015172924.png",
     "Pasted image 20241016093535.png",
     "Pasted image 20241016114305.png",
-    "Pasted image 20241218023008.png",
     "2024-11-27.md",
     "Web Mining.md",
     "Untitled 5.canvas",
@@ -267,18 +274,11 @@
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/utils/smoke_test.py",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/mlflow/Dockerfile-multistage-build",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/mlflow/Dockerfile-cmd-vs-entrypoint",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/mlflow/Dockerfile",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/docker-user/Dockerfile",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/utils",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/README.md",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 22-50-37.png",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 22-25-25.png",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/README.md",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Readme.md.md",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Link bài viết.md",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/8. Docker 23042025.md",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/7. ....md",
     "3_AI Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas"
   ]
 }
