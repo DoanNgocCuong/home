@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  trino:
+    image: trinodb/trino:410
+    ports:
+      - '8090:8080'
+    networks:
+      - dp
+
+  postgresql: 
+    image: postgres:13
+    ports:
+      - '5433:5432'
+    env_file: .env
+    networks:
+      - dp
+    volumes:
+      - postgresql_data:/var/lib/postgresql/data
+
+volumes:
+  postgresql_data:
+
+networks:
+  dp:

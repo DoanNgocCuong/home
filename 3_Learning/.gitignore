@@ -1,0 +1,24 @@
+# Zip files
+*zip
+*.rar
+*.7z
+
+# Large media files
+*.mp4
+*.mov
+*.avi
+*.wmv
+*.mkv
+*.flv
+*.webm
+*.mp3
+*.wav
+*.m4a
+
+
+# Build and dependencies
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
