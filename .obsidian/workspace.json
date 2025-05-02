@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-05-02.md",
+                "file": "3_Learning/AIO/M10 RAG LLMs/Note_RAG_Langchain_01052025_.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-02"
+              "title": "Note_RAG_Langchain_01052025_"
             }
           }
         ],
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-05-02.md",
+                "file": "3_Learning/AIO/M10 RAG LLMs/Note_RAG_Langchain_01052025_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-02"
+              "title": "Outline of Note_RAG_Langchain_01052025_"
             }
           }
         ],
@@ -219,13 +219,16 @@
   },
   "active": "3cabad3f7a501364",
   "lastOpenFiles": [
+    "3_Learning/AIO/M10 RAG LLMs/attachments/Pasted image 20250503000241.png",
+    "3_Learning/AIO/M10 RAG LLMs/attachments/Pasted image 20250502235836.png",
+    "3_Learning/AIO/Pasted image 20250118220354.png",
+    "3_Learning/AIO/AI Engineering AIO Team/0. Link.md",
     "1. DailyNote/2025-05-02.md",
     "3_Learning/AIO/M10 RAG LLMs/18042025_Documents_2025-3_RAG, Prompting and LangChain_[Description] RAG_LangChain.pdf",
     "3_Learning/AIO/M10 RAG LLMs/16042025_Documents_2025-3_Pretraining LLM (GPT)_[Slide_v2]-Pre-trainingGPT.pdf",
     "3_Learning/AIO/M10 RAG LLMs/16042025_Documents_2025-3_M10W01 - Study Guide_M10W01 - Study Guide.pdf",
     "3_Learning/AIO/M10 RAG LLMs/16042025_Documents_2025-3_GIAO BÀI TẬP_  Pretraining LLM (GPT)_[Description]-Pre-trainingGPT.pdf",
     "3_Learning/AIO/M10 RAG LLMs/Note_RAG_Langchain_01052025_.md",
-    "3_Learning/AIO/Pasted image 20250118220354.png",
     "3_Learning/AIO/M10 RAG LLMs/Untitled",
     "Pasted image 20241015200656.png",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 16-23-39.png",
@@ -244,7 +247,6 @@
     "2024-10-31.md",
     "Pasted image 20241015172924.png",
     "Pasted image 20241016093535.png",
-    "Pasted image 20241016114305.png",
     "2024-11-27.md",
     "Web Mining.md",
     "Untitled 5.canvas",
@@ -269,8 +271,6 @@
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/README.md",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/README.md",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Readme.md.md",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Link bài viết.md",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/8. Docker 23042025.md",
     "3_AI Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas"
   ]
 }
