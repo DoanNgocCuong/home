@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9fb2dd668669465",
+        "id": "d446be9402ff3983",
         "type": "tabs",
         "children": [
           {
-            "id": "61c64bd8aa190697",
+            "id": "3cabad3f7a501364",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3_Learning/AIO/M10 RAG LLMs/18042025_Documents_2025-3_RAG, Prompting and LangChain_[Slide_v2]RAG_LangChain.pdf"
+                "file": "1. DailyNote/2025-05-02.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "18042025_Documents_2025-3_RAG, Prompting and LangChain_[Slide_v2]RAG_LangChain"
+              "icon": "lucide-file",
+              "title": "2025-05-02"
             }
           }
         ],
@@ -136,31 +138,6 @@
             }
           },
           {
-            "id": "3f1740ce27ce91d7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "3_AI Engineering/5.3 AI Agent/GenSpark.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of GenSpark"
-            }
-          },
-          {
-            "id": "62c72970cf525bb5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "692278357a313a42",
             "type": "leaf",
             "state": {
@@ -203,9 +180,24 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "3d69cb957032b13f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. DailyNote/2025-05-02.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-05-02"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -225,8 +217,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "62c72970cf525bb5",
+  "active": "3cabad3f7a501364",
   "lastOpenFiles": [
+    "1. DailyNote/2025-05-02.md",
     "3_Learning/AIO/M10 RAG LLMs/18042025_Documents_2025-3_RAG, Prompting and LangChain_[Description] RAG_LangChain.pdf",
     "3_Learning/AIO/M10 RAG LLMs/16042025_Documents_2025-3_Pretraining LLM (GPT)_[Slide_v2]-Pre-trainingGPT.pdf",
     "3_Learning/AIO/M10 RAG LLMs/16042025_Documents_2025-3_M10W01 - Study Guide_M10W01 - Study Guide.pdf",
@@ -273,7 +266,6 @@
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/1 số group.md",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/utils/smoke_test.py",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/mlflow/Dockerfile-multistage-build",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/README.md",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/README.md",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Readme.md.md",
