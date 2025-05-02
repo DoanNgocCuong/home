@@ -45,3 +45,6 @@ response = chain.invoke({"prompt": ""})
 ## 1.2 chain = prompt | llm | output_parser -> How to parse JSON output
 1. https://js.langchain.com/docs/how_to/output_parser_json/
 2. https://rgbitcode.com/blog/senspond/24
+
+---
+done. 03/05/2025
