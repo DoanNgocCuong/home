@@ -48,3 +48,12 @@ response = chain.invoke({"prompt": ""})
 
 ---
 done. 03/05/2025
+
+```
+Lời nói đầu: Biết LangChain từ giữa năm 2024. Nhưng cũng phải đến 2/5/2025 mới dành thời gian học về LangChain, (trong khoảng thời gian đó em có làm về Prompting rất nhiều ở công ty, số Prompt viết phải tầm 50 cái chạy thực trên Production, cũng làm RAG, làm Chain of Prompt đơn giản có, phức tạp có, ... tuy nhiên Langchain quá to so với niềm tin giới hạn lúc đó mà chưa động vào)
+```
+
+Bài Linkedin: https://www.linkedin.com/posts/doan-ngoc-cuong_doanngoccuong-langchain-langgraph-activity-7324117703378505728-k6ok?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC3wojwBYfkOk3q0b6y8Z_UF_N5ELvjQYVI
+Bài FB Wecommit100x: [Facebook](https://www.facebook.com/photo/?fbid=2156536948197061&set=gm.24166559526264376&idorvanity=3376347132378919)
+Bài FullStackDataScience: [LangChain Tổng Quan và Lịch sử phát triển  | FSDS](https://fullstackdatascience.com/forum/topic/123)
+Bài AIO: 
