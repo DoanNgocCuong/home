@@ -62,7 +62,8 @@ Bài AIO: [Facebook](https://www.facebook.com/photo/?fbid=2156544034863019&set=g
 
 ```
 ****MỘT CÁCH TỔNG QUAN NHẤT VỀ LANGCHAIN - Bài giảng RAG của TA**** Dương Nguyễn Thuận  
-----  
+##### MỘT CÁCH TỔNG QUAN NHẤT VỀ LANGCHAIN - 1 Framework phổ biến trong phát triển các ứng dụng LLMS, RAG, AI AGENTS, .... Langchain đơn giản hóa mọi giai đoạn của vòng đời ứng dụng LLM.
+---
   
 1. LangChain-Core => Sau cộng đồng chung tay phát triển gọi là LangChain-Community.  
 - Main Components: Model I/O - Retrieval - Agents - Tools - Memory - Chains
