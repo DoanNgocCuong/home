@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-05-03.md",
+                "file": "3_Learning/AIO/M10 RAG LLMs/Note_RAG_Langchain_01052025_.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-03"
+              "title": "Note_RAG_Langchain_01052025_"
             }
           }
         ],
@@ -219,8 +219,9 @@
   },
   "active": "3cabad3f7a501364",
   "lastOpenFiles": [
-    "3_Learning/AIO/M10 RAG LLMs/Note_RAG_Langchain_01052025_.md",
+    "0. SẢN PHẨM RA LÒ/Viết bài.md",
     "1. DailyNote/2025-05-03.md",
+    "3_Learning/AIO/M10 RAG LLMs/Note_RAG_Langchain_01052025_.md",
     "3_Learning/AIO/M10 RAG LLMs/attachments/Pasted image 20250503000241.png",
     "3_Learning/AIO/M10 RAG LLMs/attachments/Pasted image 20250502235836.png",
     "3_Learning/AIO/Pasted image 20250118220354.png",
@@ -270,7 +271,6 @@
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/utils/smoke_test.py",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/README.md",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/README.md",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Readme.md.md",
     "3_AI Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas"
   ]
 }
