@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-05-05.md",
+                "file": "4_MLOPs và Full Stack Docker/Crawl/note 1 - FSDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-05"
+              "title": "note 1 - FSDS"
             }
           }
         ],
@@ -217,10 +217,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "de333728293ea4d4",
+  "active": "3cabad3f7a501364",
   "lastOpenFiles": [
-    "1. DailyNote/2025-05-04.md",
+    "1. DailyNote/2025-04-24.md",
+    "4_MLOPs và Full Stack Docker/Crawl/note 1 - FSDS.md",
+    "4_MLOPs và Full Stack Docker/Crawl",
     "1. DailyNote/2025-05-05.md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Untitled",
+    "1. DailyNote/2025-05-04.md",
     "3_Learning/AIO/M10 RAG LLMs/Note_RAG_Langchain_01052025_.md",
     "0. SẢN PHẨM RA LÒ/Viết bài.md",
     "1. DailyNote/2025-05-03.md",
@@ -267,10 +271,6 @@
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/SQL/Performance.ipynb",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/SQL",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/Kết bạn Linkedin.md",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/1 số Mindset thay đổi.md",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/1 số group.md",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/utils/smoke_test.py",
     "3_AI Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas"
   ]
 }
