@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/5. Phân quyền Docker.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. package-lock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Phân quyền Docker"
+              "title": "3. package-lock"
             }
           }
         ],
@@ -219,12 +219,16 @@
   },
   "active": "3cabad2f9b33f874",
   "lastOpenFiles": [
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
+    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/8. Docker 23042025.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. package-lock.md",
+    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/7. ....md",
+    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
+    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/4. Bash Scripts - Buổi 4 Machine Learning - Bash Script - Makefile - CronJob - Airflow - Dagster - Flyte - Học đến 22h30 - viết Summary Discussion đến 23h30.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/5. Phân quyền Docker.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
-    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/1. Supabase.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. 1 số tool Docker và các lệnh cơ bản.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Cấu trúc thư mục.md",
@@ -253,12 +257,8 @@
     "3_Learning/Pasted image 20241015172924.png",
     "3_Learning/Google AppsScripts.md",
     "3_Learning/AI.ipynb",
-    "3_Learning/0. DỌN DẸP THƯ MỤC.md",
     "3_Learning/_config.yaml",
-    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. venv_Docker/3. venv - Docker - k8s Cloud.md",
-    "3_Learning/Tester_TheCoach/Tester_TheCoach.md",
     "3_Learning/Tester_TheCoach",
-    "3_Learning/Senior/Tư duy.md",
     "3_Learning/Senior",
     "3_Learning/NOTE NHANH CÔNG VIỆC",
     "3_Learning/Moxie/attachments",
