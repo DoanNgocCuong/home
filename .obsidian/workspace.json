@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hippo",
+                "query": "tracking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,12 +219,15 @@
   },
   "active": "3cabad3f7a501364",
   "lastOpenFiles": [
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
+    "1. DailyNote/2025-04-23 AI Day Step Up.md",
+    "1. DailyNote/2025-05-05.md",
+    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI.md",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/README.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "4_MLOPs và Full Stack Docker/Crawl/note 1 - FSDS.md",
     "1. DailyNote/2025-04-24.md",
     "4_MLOPs và Full Stack Docker/Crawl",
-    "1. DailyNote/2025-05-05.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Untitled",
     "1. DailyNote/2025-05-04.md",
     "3_Learning/AIO/M10 RAG LLMs/Note_RAG_Langchain_01052025_.md",
@@ -266,9 +269,6 @@
     "0. SẢN PHẨM RA LÒ/List Sản Phẩm.md",
     "Untitled 4",
     "0. Report Thực tập/Report Thực Tập Sinh - Giai đoạn 2 tháng 10, 11, 12, 1-2025.md",
-    "0. ĐÔI DÒNG KINH NGHIỆM VỌC/Vọc.md",
-    "3_AI Engineering/3. LangChain/Bài viết 1.md",
-    "0_/TOÀN BỘ.md",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/SQL/Performance.ipynb",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/SQL",
     "3_AI Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas"
