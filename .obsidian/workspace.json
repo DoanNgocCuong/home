@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_MLOPs và Full Stack Docker/Crawl/note 1 - FSDS.md",
+                "file": "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note 1 - FSDS"
+              "title": "6. FastAPI"
             }
           }
         ],
@@ -212,13 +212,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "3cabad3f7a501364",
   "lastOpenFiles": [
-    "1. DailyNote/2025-04-24.md",
+    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/README.md",
+    "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
     "4_MLOPs và Full Stack Docker/Crawl/note 1 - FSDS.md",
+    "1. DailyNote/2025-04-24.md",
     "4_MLOPs và Full Stack Docker/Crawl",
     "1. DailyNote/2025-05-05.md",
     "4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Untitled",
@@ -265,10 +269,8 @@
     "0. ĐÔI DÒNG KINH NGHIỆM VỌC/Vọc.md",
     "3_AI Engineering/3. LangChain/Bài viết 1.md",
     "0_/TOÀN BỘ.md",
-    "3_Learning/2025-04-15.md",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/SQL/Performance.ipynb",
     "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/SQL",
-    "3_Learning/SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/Kết bạn Linkedin.md",
     "3_AI Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas"
   ]
 }
