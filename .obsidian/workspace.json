@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/1. Supabase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Server Deploy - mật khẩu vào Server"
+              "title": "1. Supabase"
             }
           }
         ],
@@ -219,13 +219,21 @@
   },
   "active": "3cabad3f7a501364",
   "lastOpenFiles": [
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. 1 số tool Docker và các lệnh cơ bản.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Cấu trúc thư mục.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Log.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Nguồn.md",
+    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/1 số.md",
+    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Pasted image 20250407203003.png",
+    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/2. B2.md",
+    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/1. Khai Giảng 07042025.md",
+    "3_Summary/Docker.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server.md",
     "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
     "3_Learning/4_MLOPs và Full Stack Docker/Deploy with GRAFANA.md",
     "3_Summary/Summary 1.md",
-    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/1. Khai Giảng 07042025.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2 Đóng gói package.json, pyproject.toml - NỬA DOCKER.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Bài 1 FastAPI - opentelemetry + prometheus&grafana (metrics) + elk (logs) + jaeger (traces).md",
     "3_Summary",
@@ -240,7 +248,6 @@
     "3_Learning/Pasted image 20241015195202.png",
     "3_Learning/Pasted image 20241015173324.png",
     "3_Learning/Pasted image 20241015172924.png",
-    "3_Learning/Pasted image 20241015172920.png",
     "3_Learning/Google AppsScripts.md",
     "3_Learning/AI.ipynb",
     "3_Learning/0. DỌN DẸP THƯ MỤC.md",
@@ -258,13 +265,6 @@
     "3_Learning/LỘ TRÌNH SỰ TIỀN/Note Lương.md",
     "3_Learning/LỘ TRÌNH SỰ TIỀN",
     "3_Learning/image",
-    "3_Learning/Excel/__init__.md",
-    "3_Learning/Excel/Time.md",
-    "3_Learning/Excel/excel.md",
-    "3_Learning/Excel/1.1 Percentile.md",
-    "3_Learning/COMPUTER NETWORK/NETWORK.md",
-    "3_Learning/15. News/10042025 - Firebase Studio.md",
-    "3_Learning/15. Linh Tinh/1. OBS - genspark 1 Prompt.md",
     "Untitled 1.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
