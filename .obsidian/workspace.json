@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. package-lock.md",
+                "file": "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/11. Cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. package-lock"
+              "title": "11. Cloud"
             }
           }
         ],
@@ -212,13 +212,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "3cabad2f9b33f874",
   "lastOpenFiles": [
-    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/8. Docker 23042025.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/3. package-lock.md",
+    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/11. Cloud.md",
+    "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/8. Docker 23042025.md",
     "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/7. ....md",
     "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
     "3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/4. Bash Scripts - Buổi 4 Machine Learning - Bash Script - Makefile - CronJob - Airflow - Dagster - Flyte - Học đến 22h30 - viết Summary Discussion đến 23h30.md",
@@ -253,7 +256,6 @@
     "3_Learning/Pasted image 20241015195202.png",
     "3_Learning/Pasted image 20241015173324.png",
     "3_Learning/Pasted image 20241015172924.png",
-    "3_Learning/Google AppsScripts.md",
     "3_Learning/AI.ipynb",
     "3_Learning/_config.yaml",
     "3_Learning/Tester_TheCoach",
