@@ -16,3 +16,9 @@ tuy nhiên tùy phiên bản phần cứng nó ko hỗ trợ
 
 4. W càng nhỏ, tính toán càng nhanh => Quantization + Flash_attention_2 
 => memmory giảm thêm so với v3 là 1GB khoảng 30%
+
+---
+0:29:00 serving thành API giống như API trên Playground của OpenAI, của DeepSeek
+- 0:31:00 FastAPI (async - bất đồng bộ: async, await), DJ (đồng bộ)
+Dùng FastAPI lâu thế rồi mà giờ mới biết là: nó chạy bất đồng bộ tức là: await 1 cái file thì API tiếp theo nó call, file được xử lý xong thì cái tiếp theo kia lại wait để cho nó chạy cái này 
+
