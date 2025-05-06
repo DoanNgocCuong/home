@@ -22,3 +22,7 @@ tuy nhiên tùy phiên bản phần cứng nó ko hỗ trợ
 - 0:31:00 FastAPI (async - bất đồng bộ: async, await), DJ (đồng bộ)
 Dùng FastAPI lâu thế rồi mà giờ mới biết là: nó chạy bất đồng bộ tức là: await 1 cái file thì API tiếp theo nó call, file được xử lý xong thì cái tiếp theo kia lại wait để cho nó chạy cái này 
 
+
+Tuy nhiên chủ yếu time đến từ: đoạn INFERENCE nên cho dù cả async thì vẫn mất quá nhiều time. 
+=> 0:34:00 Tritonserver
+ 
