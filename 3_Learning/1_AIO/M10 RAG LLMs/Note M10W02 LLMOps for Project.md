@@ -24,5 +24,8 @@ Dùng FastAPI lâu thế rồi mà giờ mới biết là: nó chạy bất đ�
 
 
 Tuy nhiên chủ yếu time đến từ: đoạn INFERENCE nên cho dù cả async thì vẫn mất quá nhiều time. 
-=> 0:34:00 Tritonserver
- 
+=> 0:34:00 Tritonserver - Dynamic Batching
+ chờ cho đủ bacth nó chạy 
+
+![[Pasted image 20250506124312.png]]
+
