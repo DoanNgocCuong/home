@@ -167,8 +167,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Smart Chat"
             }
           },
           {
@@ -216,12 +216,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,7 +239,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f4b62d9948bfd530",
+  "active": "2cd8b26f77f3e295",
   "lastOpenFiles": [
     "1. DailyNote/2025-06-26.md",
     "1. Lập trình nói chung/3. Strategic Approaches to Understanding GitHub Repositories - Genspark 20250626.md",
