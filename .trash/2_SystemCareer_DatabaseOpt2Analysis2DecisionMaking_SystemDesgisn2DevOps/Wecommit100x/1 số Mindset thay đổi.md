@@ -1,0 +1,3 @@
+1. Trước học BKE => Xong chọn môi trường thế là xoá hết Friend cũ. => Sau học X3 biết cái Mentor rất tích cực đi kết nối Mentor => Cuối 2024 mới biết cái Networking xong tích cực đi connect anh em. => CƠ MÀ PHẢI ĐẾN LÚC HỌC WECOMMIT MỚI BIẾT: CÁC NHIỀU KẾT NỐI CÀNG CÓ LỢI, LINKEDIN ĐẨY MẠNH. 
+2. Trước cũng được X3 dạy cái làm videos, cơ mà WECOMMIT MỚI BIẾT LÀ: LÀM VIDEOS, CHẠY ĐỂ RA TIỀN. 
+3. Trong X3 mới biết là: 

@@ -1,0 +1,2 @@
+
+4. [(6) Bash Script & Makefile – Cặp đôi tự động hóa thần thánh - FSDS MLOps1 | LinkedIn](https://www.linkedin.com/pulse/bash-script-makefile-c%25E1%25BA%25B7p-%25C4%2591%25C3%25B4i-t%25E1%25BB%25B1-%25C4%2591%25E1%25BB%2599ng-h%25C3%25B3a-th%25E1%25BA%25A7n-th%25C3%25A1nh-cuong-doan-ngoc-xigxc/)
