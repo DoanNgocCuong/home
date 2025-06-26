@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5110321044922
+    "width": 319.5110321044922
   },
   "right": {
     "id": "422b3eaae750cadd",
@@ -242,8 +242,9 @@
   "active": "f4b62d9948bfd530",
   "lastOpenFiles": [
     "1. DailyNote/attachments/Pasted image 20250626115533.png",
-    "1. Lập trình nói chung/3. Strategic Approaches to Understanding GitHub Repositories - Genspark 20250626.md",
     "1. DailyNote/2025-06-26.md",
+    "1. DailyNote/2025-06-26 1.md",
+    "1. Lập trình nói chung/3. Strategic Approaches to Understanding GitHub Repositories - Genspark 20250626.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/2. Tag of git.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/Git Submodule.md",
@@ -267,7 +268,6 @@
     "1. DailyNote/2025-04-10 - Prompt Hackathon Game Pika.md",
     "1. DailyNote/2025-06-18.md",
     "3_Learning/3_AI Engineering/5.3 AI Agent/GenSpark và Manus.md",
-    "1. DailyNote/2025-06-16.md",
     "3_Learning/3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250615062355.png",
     "3_Learning/3_AI Engineering/5.3 AI Agent/attachments/Pasted image 20250605160002.png",
     "1. CHIẾN LƯỢC/attachments/Pasted image 20250412024723.png",
@@ -285,7 +285,6 @@
     "3_Learning/3_AI Engineering/Untitled",
     "1. DailyNote/attachments/Pasted image 20250518153223.png",
     "attachments",
-    "1. DailyNote/attachments/Pasted image 20250518123333.png",
     "3_Summary",
     "3_Learning/AI.ipynb",
     "3_Learning/_config.yaml",
