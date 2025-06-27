@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db18c71df04d778c",
+        "id": "026c22f67069592c",
         "type": "tabs",
         "children": [
           {
-            "id": "3ea892e600191e37",
+            "id": "694038d9d7b8df8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,33 +20,8 @@
               "icon": "lucide-file",
               "title": "2025-06-27"
             }
-          },
-          {
-            "id": "1261fe3efaeebd88",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-06-27 05.39.48.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-27 05.39.48.excalidraw"
-            }
-          },
-          {
-            "id": "f45746f87643d12c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-06-27 05.39.49.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-27 05.39.49.excalidraw"
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -259,15 +234,13 @@
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f45746f87643d12c",
+  "active": "694038d9d7b8df8f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-06-27 05.39.48.excalidraw.md",
     "1. DailyNote/2025-06-27.md",
+    "Excalidraw/Drawing 2025-06-27 05.39.48.excalidraw.md",
     "Excalidraw/Drawing 2025-06-27 05.39.49.excalidraw.md",
     "3_Learning/7_Recommend/IIAgent_report_20250626_Vnese.md",
     "Excalidraw",
