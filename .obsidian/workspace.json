@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-06-27.md",
+                "file": "0. Report Thực tập/Report Thực Tập Sinh - tháng thứ 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-27"
+              "title": "Report Thực Tập Sinh - tháng thứ 3"
             }
           }
         ],
@@ -217,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -234,11 +234,18 @@
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "694038d9d7b8df8f",
   "lastOpenFiles": [
+    "0. Report Thực tập/Report Thực Tập Sinh - tháng thứ 1,2.md",
+    "0. Report Thực tập/Report Thực Tập Sinh - Giai đoạn 2 tháng 10, 11, 12, 1-2025.md",
+    "3_Learning/13. Lộ trình/04.02.2025.md",
+    "3_Learning/14. StepUpEnglish/2. Define Giải Pháp CHAIN OF PROMPT cho bài PERSONALIZATION CONTENT APP THE COACH..md",
+    "3_Learning/14. StepUpEnglish/1. Kaizen.md",
     "1. DailyNote/2025-06-27.md",
     "Excalidraw/Drawing 2025-06-27 05.39.48.excalidraw.md",
     "Excalidraw/Drawing 2025-06-27 05.39.49.excalidraw.md",
@@ -271,12 +278,7 @@
     "3_Learning/Senior/Tư duy.md",
     "3_Learning/2025-04-15.md",
     "3_Learning/README.md",
-    "4_Product/1. Init.md",
-    "3_Learning/Untitled.md",
     "4_Product",
-    "Excalidraw/Drawing 2025-06-16 02.01.58.excalidraw.md",
-    "1. CHIẾN LƯỢC/Untitled.md",
-    "1. CHIẾN LƯỢC/2. 12042025.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "2_Doing_Done",
