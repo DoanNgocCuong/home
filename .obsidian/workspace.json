@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "026c22f67069592c",
+        "id": "84d3c3485f752f07",
         "type": "tabs",
         "children": [
           {
-            "id": "694038d9d7b8df8f",
+            "id": "b179679080d9fcb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
+                "file": "3_Learning/4_MLOPs và Full Stack Docker/2. UV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Về đẩy code thao tác với server - git"
+              "title": "2. UV"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: serve",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,8 +239,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "694038d9d7b8df8f",
+  "active": "b179679080d9fcb4",
   "lastOpenFiles": [
+    "3_Learning/4_MLOPs và Full Stack Docker/2. UV.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/Untitled.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/Git Submodule.md",
@@ -266,8 +267,6 @@
     "3_Learning/14. StepUpEnglish/2. Define Giải Pháp CHAIN OF PROMPT cho bài PERSONALIZATION CONTENT APP THE COACH..md",
     "3_Learning/14. StepUpEnglish/1. Kaizen.md",
     "Excalidraw/Drawing 2025-06-27 05.39.48.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-27 05.39.49.excalidraw.md",
-    "3_Learning/7_Recommend/IIAgent_report_20250626_Vnese.md",
     "Excalidraw",
     "3_Learning/attachments/xong.png",
     "3_Learning/attachments/Pasted image 20241127102159.png",
