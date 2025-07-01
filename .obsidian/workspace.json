@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-07-01.md",
+                "file": "1. Lập trình nói chung/6. Cấu trúc thư mục - 20250701.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-01"
+              "title": "6. Cấu trúc thư mục - 20250701"
             }
           }
         ],
@@ -241,8 +241,9 @@
   },
   "active": "b179679080d9fcb4",
   "lastOpenFiles": [
-    "3_Learning/4_MLOPs và Full Stack Docker/2. UV.md",
     "1. DailyNote/2025-07-01.md",
+    "1. Lập trình nói chung/6. Cấu trúc thư mục - 20250701.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/2. UV.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/Untitled.md",
@@ -266,7 +267,6 @@
     "0. Report Thực tập/Report Thực Tập Sinh - Giai đoạn 2 tháng 10, 11, 12, 1-2025.md",
     "3_Learning/13. Lộ trình/04.02.2025.md",
     "3_Learning/14. StepUpEnglish/2. Define Giải Pháp CHAIN OF PROMPT cho bài PERSONALIZATION CONTENT APP THE COACH..md",
-    "3_Learning/14. StepUpEnglish/1. Kaizen.md",
     "Excalidraw",
     "3_Learning/attachments/xong.png",
     "3_Learning/attachments/Pasted image 20241127102159.png",
