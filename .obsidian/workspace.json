@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_MLOPs và Full Stack Docker/2. UV.md",
+                "file": "3_Learning/10_aLaptop/2. Pin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. UV"
+              "title": "2. Pin"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ",
+                "query": "file: pin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,20 +235,18 @@
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0cf1f93d49c9ecae",
+  "active": "b179679080d9fcb4",
   "lastOpenFiles": [
+    "3_Learning/4_MLOPs và Full Stack Docker/2. UV.md",
     "3_Learning/10_aLaptop/2. Pin.md",
     "3_Learning/10_aLaptop/1. Dọn file.md",
     "3_Learning/0. DỌN DẸP THƯ MỤC - xoá.md",
     "1. DailyNote/2025-07-04.md",
     "1. Lập trình nói chung/6. Cấu trúc thư mục - 20250701.md",
     "1. DailyNote/2025-07-01.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/2. UV.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/Untitled.md",
