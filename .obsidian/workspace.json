@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,7 +239,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0cf1f93d49c9ecae",
+  "active": "de333728293ea4d4",
   "lastOpenFiles": [
     "1. DailyNote/2025-07-09.md",
     "1. DailyNote/2025-07-11.md",
