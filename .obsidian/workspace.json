@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-07-09.md",
+                "file": "1. DailyNote/2025-07-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-09"
+              "title": "2025-07-11"
             }
           }
         ],
@@ -234,13 +234,16 @@
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "b179679080d9fcb4",
   "lastOpenFiles": [
-    "3_Learning/4_MLOPs và Full Stack Docker/2. UV.md",
     "1. DailyNote/2025-07-09.md",
+    "1. DailyNote/2025-07-11.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/2. UV.md",
     "1. DailyNote/2025-07-07.md",
     "1. DailyNote/attachments/Pasted image 20250707075231.png",
     "3_Learning/10_aLaptop/2. Pin.md",
@@ -265,7 +268,6 @@
     "3_Learning/4_MLOPs và Full Stack Docker/GITHUB CƠ BẢN.md",
     "1. Lập trình nói chung/3. Strategic Approaches to Understanding GitHub Repositories - Genspark 20250626.md",
     "1. DailyNote/2025-06-27.md",
-    "1. DailyNote/2025-04-23 AI Day Step Up.md",
     "Excalidraw",
     "3_Learning/attachments/xong.png",
     "3_Learning/attachments/Pasted image 20241127102159.png",
