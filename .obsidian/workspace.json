@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "langhc",
+                "query": "langchain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
