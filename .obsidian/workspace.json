@@ -241,6 +241,7 @@
   },
   "active": "19c0aa9f3ab0affc",
   "lastOpenFiles": [
+    "3_Learning/3_AI Engineering/3. LangChain/demo/demo2.py",
     "3_Learning/3_AI Engineering/3. LangChain/demo/cmd_run.sh",
     "3_Learning/3_AI Engineering/3. LangChain/demo/Demo 1.md",
     "3_Learning/3_AI Engineering/3. LangChain/demo/demo1.md",
@@ -262,7 +263,6 @@
     "3_Learning/4_MLOPs và Full Stack Docker/3. FSDS/Module 5/B4/4-ingest-data/demo-ingest-data/src/utils/__init__.py",
     "3_Learning/4_MLOPs và Full Stack Docker/3. FSDS/Module 5/B4/4-ingest-data/demo-ingest-data/src/utils/logger.py",
     "3_Learning/4_MLOPs và Full Stack Docker/3. FSDS/Module 5/B4/4-ingest-data/demo-ingest-data/src/services/__init__.py",
-    "3_Learning/4_MLOPs và Full Stack Docker/3. FSDS/Module 5/B4/4-ingest-data/demo-ingest-data/src/services/retrieval.py",
     "3_Learning/4_MLOPs và Full Stack Docker/3. FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 22-50-37.png",
     "3_Learning/4_MLOPs và Full Stack Docker/3. FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 22-25-25.png",
     "3_Learning/4_MLOPs và Full Stack Docker/3. FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 22-14-30.png",
