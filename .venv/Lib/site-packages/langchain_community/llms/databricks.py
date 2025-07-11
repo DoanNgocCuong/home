@@ -1,20 +1,19 @@
 import os
-import pickle
 import re
 import warnings
 from abc import ABC, abstractmethod
 from typing import Any, Callable, Dict, List, Mapping, Optional
 
 import requests
+from langchain_core._api import deprecated
 from langchain_core.callbacks import CallbackManagerForLLMRun
 from langchain_core.language_models import LLM
-from langchain_core.pydantic_v1 import (
+from pydantic import (
     BaseModel,
-    Extra,
+    ConfigDict,
     Field,
     PrivateAttr,
-    root_validator,
-    validator,
+    model_validator,
 )
 
 __all__ = ["Databricks"]
@@ -45,8 +44,7 @@ class _DatabricksClientBase(BaseModel, ABC):
     @abstractmethod
     def post(
         self, request: Any, transform_output_fn: Optional[Callable[..., str]] = None
-    ) -> Any:
-        ...
+    ) -> Any: ...
 
     @property
     def llm(self) -> bool:
@@ -100,8 +98,9 @@ class _DatabricksServingEndpointClient(_DatabricksClientBase):
     def llm(self) -> bool:
         return self.task in ("llm/v1/chat", "llm/v1/completions", "llama2/chat")
 
-    @root_validator(pre=True)
-    def set_api_url(cls, values: Dict[str, Any]) -> Dict[str, Any]:
+    @model_validator(mode="before")
+    @classmethod
+    def set_api_url(cls, values: Dict[str, Any]) -> Any:
         if "api_url" not in values:
             host = values["host"]
             endpoint_name = values["endpoint_name"]
@@ -144,8 +143,9 @@ class _DatabricksClusterDriverProxyClient(_DatabricksClientBase):
     cluster_id: str
     cluster_driver_port: str
 
-    @root_validator(pre=True)
-    def set_api_url(cls, values: Dict[str, Any]) -> Dict[str, Any]:
+    @model_validator(mode="before")
+    @classmethod
+    def set_api_url(cls, values: Dict[str, Any]) -> Any:
         if "api_url" not in values:
             host = values["host"]
             cluster_id = values["cluster_id"]
@@ -162,7 +162,7 @@ class _DatabricksClusterDriverProxyClient(_DatabricksClientBase):
 
 
 def get_repl_context() -> Any:
-    """Gets the notebook REPL context if running inside a Databricks notebook.
+    """Get the notebook REPL context if running inside a Databricks notebook.
     Returns None otherwise.
     """
     try:
@@ -176,7 +176,7 @@ def get_repl_context() -> Any:
 
 
 def get_default_host() -> str:
-    """Gets the default Databricks workspace hostname.
+    """Get the default Databricks workspace hostname.
     Raises an error if the hostname cannot be automatically determined.
     """
     host = os.getenv("DATABRICKS_HOST")
@@ -196,7 +196,7 @@ def get_default_host() -> str:
 
 
 def get_default_api_token() -> str:
-    """Gets the default Databricks personal access token.
+    """Get the default Databricks personal access token.
     Raises an error if the token cannot be automatically determined.
     """
     if api_token := os.getenv("DATABRICKS_TOKEN"):
@@ -222,10 +222,28 @@ def _is_hex_string(data: str) -> bool:
     return bool(re.match(pattern, data))
 
 
-def _load_pickled_fn_from_hex_string(data: str) -> Callable:
+def _load_pickled_fn_from_hex_string(
+    data: str, allow_dangerous_deserialization: Optional[bool]
+) -> Callable:
     """Loads a pickled function from a hexadecimal string."""
+    if not allow_dangerous_deserialization:
+        raise ValueError(
+            "This code relies on the pickle module. "
+            "You will need to set allow_dangerous_deserialization=True "
+            "if you want to opt-in to allow deserialization of data using pickle."
+            "Data can be compromised by a malicious actor if "
+            "not handled properly to include "
+            "a malicious payload that when deserialized with "
+            "pickle can execute arbitrary code on your machine."
+        )
+
     try:
-        return pickle.loads(bytes.fromhex(data))
+        import cloudpickle
+    except Exception as e:
+        raise ValueError(f"Please install cloudpickle>=2.0.0. Error: {e}")
+
+    try:
+        return cloudpickle.loads(bytes.fromhex(data))  # ignore[pickle]: explicit-opt-in
     except Exception as e:
         raise ValueError(
             f"Failed to load the pickled function from a hexadecimal string. Error: {e}"
@@ -235,13 +253,22 @@ def _load_pickled_fn_from_hex_string(data: str) -> Callable:
 def _pickle_fn_to_hex_string(fn: Callable) -> str:
     """Pickles a function and returns the hexadecimal string."""
     try:
-        return pickle.dumps(fn).hex()
+        import cloudpickle
+    except Exception as e:
+        raise ValueError(f"Please install cloudpickle>=2.0.0. Error: {e}")
+
+    try:
+        return cloudpickle.dumps(fn).hex()
     except Exception as e:
         raise ValueError(f"Failed to pickle the function: {e}")
 
 
+@deprecated(
+    since="0.3.3",
+    removal="1.0",
+    alternative_import="databricks_langchain.ChatDatabricks",
+)
 class Databricks(LLM):
-
     """Databricks serving endpoint or a cluster driver proxy app for LLM.
 
     It supports two endpoint types:
@@ -365,11 +392,20 @@ class Databricks(LLM):
     If not provided, the task is automatically inferred from the endpoint.
     """
 
+    allow_dangerous_deserialization: bool = False
+    """Whether to allow dangerous deserialization of the data which 
+    involves loading data using pickle.
+    
+    If the data has been modified by a malicious actor, it can deliver a
+    malicious payload that results in execution of arbitrary code on the target
+    machine.
+    """
+
     _client: _DatabricksClientBase = PrivateAttr()
 
-    class Config:
-        extra = Extra.forbid
-        underscore_attrs_are_private = True
+    model_config = ConfigDict(
+        extra="forbid",
+    )
 
     @property
     def _llm_params(self) -> Dict[str, Any]:
@@ -383,18 +419,21 @@ class Databricks(LLM):
             params["max_tokens"] = self.max_tokens
         return params
 
-    @validator("cluster_id", always=True)
-    def set_cluster_id(cls, v: Any, values: Dict[str, Any]) -> Optional[str]:
-        if v and values["endpoint_name"]:
+    @model_validator(mode="before")
+    @classmethod
+    def set_cluster_id(cls, values: Dict[str, Any]) -> dict:
+        cluster_id = values.get("cluster_id")
+        endpoint_name = values.get("endpoint_name")
+        if cluster_id and endpoint_name:
             raise ValueError("Cannot set both endpoint_name and cluster_id.")
-        elif values["endpoint_name"]:
-            return None
-        elif v:
-            return v
+        elif endpoint_name:
+            values["cluster_id"] = None
+        elif cluster_id:
+            pass
         else:
             try:
-                if v := get_repl_context().clusterId:
-                    return v
+                if context_cluster_id := get_repl_context().clusterId:
+                    values["cluster_id"] = context_cluster_id
                 raise ValueError("Context doesn't contain clusterId.")
             except Exception as e:
                 raise ValueError(
@@ -403,38 +442,45 @@ class Databricks(LLM):
                     f" error: {e}"
                 )
 
-    @validator("cluster_driver_port", always=True)
-    def set_cluster_driver_port(cls, v: Any, values: Dict[str, Any]) -> Optional[str]:
-        if v and values["endpoint_name"]:
+        cluster_driver_port = values.get("cluster_driver_port")
+        if cluster_driver_port and endpoint_name:
             raise ValueError("Cannot set both endpoint_name and cluster_driver_port.")
-        elif values["endpoint_name"]:
-            return None
-        elif v is None:
+        elif endpoint_name:
+            values["cluster_driver_port"] = None
+        elif cluster_driver_port is None:
             raise ValueError(
                 "Must set cluster_driver_port to connect to a cluster driver."
             )
-        elif int(v) <= 0:
-            raise ValueError(f"Invalid cluster_driver_port: {v}")
+        elif int(cluster_driver_port) <= 0:
+            raise ValueError(f"Invalid cluster_driver_port: {cluster_driver_port}")
         else:
-            return v
+            pass
 
-    @validator("model_kwargs", always=True)
-    def set_model_kwargs(cls, v: Optional[Dict[str, Any]]) -> Optional[Dict[str, Any]]:
-        if v:
-            assert "prompt" not in v, "model_kwargs must not contain key 'prompt'"
-            assert "stop" not in v, "model_kwargs must not contain key 'stop'"
-        return v
+        if model_kwargs := values.get("model_kwargs"):
+            assert "prompt" not in model_kwargs, (
+                "model_kwargs must not contain key 'prompt'"
+            )
+            assert "stop" not in model_kwargs, (
+                "model_kwargs must not contain key 'stop'"
+            )
+        return values
 
     def __init__(self, **data: Any):
         if "transform_input_fn" in data and _is_hex_string(data["transform_input_fn"]):
             data["transform_input_fn"] = _load_pickled_fn_from_hex_string(
-                data["transform_input_fn"]
+                data=data["transform_input_fn"],
+                allow_dangerous_deserialization=data.get(
+                    "allow_dangerous_deserialization"
+                ),
             )
         if "transform_output_fn" in data and _is_hex_string(
             data["transform_output_fn"]
         ):
             data["transform_output_fn"] = _load_pickled_fn_from_hex_string(
-                data["transform_output_fn"]
+                data=data["transform_output_fn"],
+                allow_dangerous_deserialization=data.get(
+                    "allow_dangerous_deserialization"
+                ),
             )
 
         super().__init__(**data)
@@ -454,7 +500,7 @@ class Databricks(LLM):
                 task=self.task,
             )
         elif self.cluster_id and self.cluster_driver_port:
-            self._client = _DatabricksClusterDriverProxyClient(
+            self._client = _DatabricksClusterDriverProxyClient(  # type: ignore[call-arg]
                 host=self.host,
                 api_token=self.api_token,
                 cluster_id=self.cluster_id,

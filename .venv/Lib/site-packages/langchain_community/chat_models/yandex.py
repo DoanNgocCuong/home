@@ -1,4 +1,5 @@
 """Wrapper around YandexGPT chat models."""
+
 from __future__ import annotations
 
 import logging
@@ -53,7 +54,7 @@ def _parse_chat_history(history: List[BaseMessage]) -> List[Dict[str, str]]:
 
 
 class ChatYandexGPT(_BaseYandexGPT, BaseChatModel):
-    """Wrapper around YandexGPT large language models.
+    """YandexGPT large language models.
 
     There are two authentication options for the service account
     with the ``ai.languageModels.user`` role:
@@ -127,16 +128,29 @@ def _make_request(
     try:
         import grpc
         from google.protobuf.wrappers_pb2 import DoubleValue, Int64Value
-        from yandex.cloud.ai.foundation_models.v1.foundation_models_pb2 import (
-            CompletionOptions,
-            Message,
-        )
-        from yandex.cloud.ai.foundation_models.v1.foundation_models_service_pb2 import (  # noqa: E501
-            CompletionRequest,
-        )
-        from yandex.cloud.ai.foundation_models.v1.foundation_models_service_pb2_grpc import (  # noqa: E501
-            TextGenerationServiceStub,
-        )
+
+        try:
+            from yandex.cloud.ai.foundation_models.v1.text_common_pb2 import (
+                CompletionOptions,
+                Message,
+            )
+            from yandex.cloud.ai.foundation_models.v1.text_generation.text_generation_service_pb2 import (  # noqa: E501
+                CompletionRequest,
+            )
+            from yandex.cloud.ai.foundation_models.v1.text_generation.text_generation_service_pb2_grpc import (  # noqa: E501
+                TextGenerationServiceStub,
+            )
+        except ModuleNotFoundError:
+            from yandex.cloud.ai.foundation_models.v1.foundation_models_pb2 import (
+                CompletionOptions,
+                Message,
+            )
+            from yandex.cloud.ai.foundation_models.v1.foundation_models_service_pb2 import (  # noqa: E501
+                CompletionRequest,
+            )
+            from yandex.cloud.ai.foundation_models.v1.foundation_models_service_pb2_grpc import (  # noqa: E501
+                TextGenerationServiceStub,
+            )
     except ImportError as e:
         raise ImportError(
             "Please install YandexCloud SDK  with `pip install yandexcloud` \
@@ -156,7 +170,7 @@ def _make_request(
         messages=[Message(**message) for message in message_history],
     )
     stub = TextGenerationServiceStub(channel)
-    res = stub.Completion(request, metadata=self._grpc_metadata)
+    res = stub.Completion(request, metadata=self.grpc_metadata)
     return list(res)[0].alternatives[0].message.text
 
 
@@ -166,17 +180,31 @@ async def _amake_request(self: ChatYandexGPT, messages: List[BaseMessage]) -> st
 
         import grpc
         from google.protobuf.wrappers_pb2 import DoubleValue, Int64Value
-        from yandex.cloud.ai.foundation_models.v1.foundation_models_pb2 import (
-            CompletionOptions,
-            Message,
-        )
-        from yandex.cloud.ai.foundation_models.v1.foundation_models_service_pb2 import (  # noqa: E501
-            CompletionRequest,
-            CompletionResponse,
-        )
-        from yandex.cloud.ai.foundation_models.v1.foundation_models_service_pb2_grpc import (  # noqa: E501
-            TextGenerationAsyncServiceStub,
-        )
+
+        try:
+            from yandex.cloud.ai.foundation_models.v1.text_common_pb2 import (
+                CompletionOptions,
+                Message,
+            )
+            from yandex.cloud.ai.foundation_models.v1.text_generation.text_generation_service_pb2 import (  # noqa: E501
+                CompletionRequest,
+                CompletionResponse,
+            )
+            from yandex.cloud.ai.foundation_models.v1.text_generation.text_generation_service_pb2_grpc import (  # noqa: E501
+                TextGenerationAsyncServiceStub,
+            )
+        except ModuleNotFoundError:
+            from yandex.cloud.ai.foundation_models.v1.foundation_models_pb2 import (
+                CompletionOptions,
+                Message,
+            )
+            from yandex.cloud.ai.foundation_models.v1.foundation_models_service_pb2 import (  # noqa: E501
+                CompletionRequest,
+                CompletionResponse,
+            )
+            from yandex.cloud.ai.foundation_models.v1.foundation_models_service_pb2_grpc import (  # noqa: E501
+                TextGenerationAsyncServiceStub,
+            )
         from yandex.cloud.operation.operation_service_pb2 import GetOperationRequest
         from yandex.cloud.operation.operation_service_pb2_grpc import (
             OperationServiceStub,
@@ -201,7 +229,7 @@ async def _amake_request(self: ChatYandexGPT, messages: List[BaseMessage]) -> st
             messages=[Message(**message) for message in message_history],
         )
         stub = TextGenerationAsyncServiceStub(channel)
-        operation = await stub.Completion(request, metadata=self._grpc_metadata)
+        operation = await stub.Completion(request, metadata=self.grpc_metadata)
         async with grpc.aio.secure_channel(
             operation_api_url, channel_credentials
         ) as operation_channel:
@@ -211,7 +239,7 @@ async def _amake_request(self: ChatYandexGPT, messages: List[BaseMessage]) -> st
                 operation_request = GetOperationRequest(operation_id=operation.id)
                 operation = await operation_stub.Get(
                     operation_request,
-                    metadata=self._grpc_metadata,
+                    metadata=self.grpc_metadata,
                 )
 
         completion_response = CompletionResponse()

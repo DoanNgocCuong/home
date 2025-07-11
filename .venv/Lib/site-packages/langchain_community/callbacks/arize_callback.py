@@ -82,9 +82,9 @@ class ArizeCallbackHandler(BaseCallbackHandler):
                 "completion_tokens", 0
             )
         else:
-            self.prompt_tokens = (
-                self.total_tokens
-            ) = self.completion_tokens = 0  # assign default value
+            self.prompt_tokens = self.total_tokens = self.completion_tokens = (
+                0  # assign default value
+            )
 
         for generations in response.generations:
             for generation in generations:
@@ -196,7 +196,7 @@ class ArizeCallbackHandler(BaseCallbackHandler):
 
     def on_tool_end(
         self,
-        output: str,
+        output: Any,
         observation_prefix: Optional[str] = None,
         llm_prefix: Optional[str] = None,
         **kwargs: Any,

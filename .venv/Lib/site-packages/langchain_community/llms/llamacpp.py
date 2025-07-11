@@ -7,9 +7,9 @@ from typing import Any, Dict, Iterator, List, Optional, Union
 from langchain_core.callbacks import CallbackManagerForLLMRun
 from langchain_core.language_models.llms import LLM
 from langchain_core.outputs import GenerationChunk
-from langchain_core.pydantic_v1 import Field, root_validator
-from langchain_core.utils import get_pydantic_field_names
-from langchain_core.utils.utils import build_extra_kwargs
+from langchain_core.utils import get_pydantic_field_names, pre_init
+from langchain_core.utils.utils import _build_model_kwargs
+from pydantic import Field, model_validator
 
 logger = logging.getLogger(__name__)
 
@@ -28,7 +28,7 @@ class LlamaCpp(LLM):
             llm = LlamaCpp(model_path="/path/to/llama/model")
     """
 
-    client: Any  #: :meta private:
+    client: Any = None  #: :meta private:
     model_path: str
     """The path to the Llama model file."""
 
@@ -133,7 +133,7 @@ class LlamaCpp(LLM):
     verbose: bool = True
     """Print verbose output to stderr."""
 
-    @root_validator()
+    @pre_init
     def validate_environment(cls, values: Dict) -> Dict:
         """Validate that llama-cpp-python library is installed."""
         try:
@@ -194,14 +194,12 @@ class LlamaCpp(LLM):
             pass
         return values
 
-    @root_validator(pre=True)
-    def build_model_kwargs(cls, values: Dict[str, Any]) -> Dict[str, Any]:
+    @model_validator(mode="before")
+    @classmethod
+    def build_model_kwargs(cls, values: Dict[str, Any]) -> Any:
         """Build extra kwargs from additional params that were passed in."""
         all_required_field_names = get_pydantic_field_names(cls)
-        extra = values.get("model_kwargs", {})
-        values["model_kwargs"] = build_extra_kwargs(
-            extra, values, all_required_field_names
-        )
+        values = _build_model_kwargs(values, all_required_field_names)
         return values
 
     @property
@@ -278,7 +276,7 @@ class LlamaCpp(LLM):
 
                 from langchain_community.llms import LlamaCpp
                 llm = LlamaCpp(model_path="/path/to/local/llama/model.bin")
-                llm("This is a prompt.")
+                llm.invoke("This is a prompt.")
         """
         if self.streaming:
             # If streaming is enabled, we use the stream
@@ -344,11 +342,11 @@ class LlamaCpp(LLM):
                 text=part["choices"][0]["text"],
                 generation_info={"logprobs": logprobs},
             )
-            yield chunk
             if run_manager:
                 run_manager.on_llm_new_token(
                     token=chunk.text, verbose=self.verbose, log_probs=logprobs
                 )
+            yield chunk
 
     def get_num_tokens(self, text: str) -> int:
         tokenized_text = self.client.tokenize(text.encode("utf-8"))

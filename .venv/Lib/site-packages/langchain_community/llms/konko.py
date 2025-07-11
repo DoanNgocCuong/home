@@ -1,4 +1,5 @@
 """Wrapper around Konko AI's Completion API."""
+
 import logging
 import warnings
 from typing import Any, Dict, List, Optional
@@ -8,7 +9,7 @@ from langchain_core.callbacks import (
     CallbackManagerForLLMRun,
 )
 from langchain_core.language_models.llms import LLM
-from langchain_core.pydantic_v1 import Extra, SecretStr, root_validator
+from pydantic import ConfigDict, SecretStr, model_validator
 
 from langchain_community.utils.openai import is_openai_v1
 
@@ -16,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 
 class Konko(LLM):
-    """Wrapper around Konko AI models.
+    """Konko AI models.
 
     To use, you'll need an API key. This can be passed in as init param
     ``konko_api_key`` or set as environment variable ``KONKO_API_KEY``.
@@ -59,19 +60,19 @@ class Konko(LLM):
         the response for each token generation step.
     """
 
-    class Config:
-        """Configuration for this pydantic object."""
+    model_config = ConfigDict(
+        extra="forbid",
+    )
 
-        extra = Extra.forbid
-
-    @root_validator(pre=True)
-    def validate_environment(cls, values: Dict[str, Any]) -> Dict[str, Any]:
+    @model_validator(mode="before")
+    @classmethod
+    def validate_environment(cls, values: Dict[str, Any]) -> Any:
         """Validate that python package exists in environment."""
         try:
             import konko
 
         except ImportError:
-            raise ValueError(
+            raise ImportError(
                 "Could not import konko python package. "
                 "Please install it with `pip install konko`."
             )

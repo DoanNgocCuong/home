@@ -1,4 +1,5 @@
 """Pydantic models for parsing an OpenAPI spec."""
+
 from __future__ import annotations
 
 import logging
@@ -15,7 +16,7 @@ from typing import (
     Union,
 )
 
-from langchain_core.pydantic_v1 import BaseModel, Field
+from pydantic import BaseModel, Field
 
 from langchain_community.tools.openapi.utils.openapi_utils import HTTPVerb, OpenAPISpec
 
@@ -55,6 +56,7 @@ class APIPropertyLocation(Enum):
 _SUPPORTED_MEDIA_TYPES = ("application/json",)
 
 SUPPORTED_LOCATIONS = {
+    APIPropertyLocation.HEADER,
     APIPropertyLocation.QUERY,
     APIPropertyLocation.PATH,
 }
@@ -530,7 +532,7 @@ class APIOperation(BaseModel):
             description=description or "",
             base_url=spec.base_url,
             path=path,
-            method=method,
+            method=method,  # type: ignore[arg-type]
             properties=properties,
             request_body=api_request_body,
         )
@@ -574,8 +576,7 @@ class APIOperation(BaseModel):
                 prop_type = f"{{\n{nested_props}\n{' ' * indent}}}"
 
             formatted_props.append(
-                f"{prop_desc}\n{' ' * indent}{prop_name}"
-                f"{prop_required}: {prop_type},"
+                f"{prop_desc}\n{' ' * indent}{prop_name}{prop_required}: {prop_type},"
             )
 
         return "\n".join(formatted_props)

@@ -24,7 +24,8 @@ logger = logging.getLogger(__name__)
 
 
 class SQLiteVSS(VectorStore):
-    """Wrapper around SQLite with vss extension as a vector database.
+    """SQLite with VSS extension as a vector database.
+
     To use, you should have the ``sqlite-vss`` python package installed.
     Example:
         .. code-block:: python
@@ -120,8 +121,7 @@ class SQLiteVSS(VectorStore):
             for text, metadata, embed in zip(texts, metadatas, embeds)
         ]
         self._connection.executemany(
-            f"INSERT INTO {self._table}(text, metadata, text_embedding) "
-            f"VALUES (?,?,?)",
+            f"INSERT INTO {self._table}(text, metadata, text_embedding) VALUES (?,?,?)",
             data_input,
         )
         self._connection.commit()

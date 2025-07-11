@@ -5,7 +5,6 @@ from langchain_community.document_loaders.blob_loaders.schema import Blob, BlobL
 
 
 class YoutubeAudioLoader(BlobLoader):
-
     """Load YouTube urls as audio file(s)."""
 
     def __init__(self, urls: List[str], save_dir: str):
@@ -22,8 +21,7 @@ class YoutubeAudioLoader(BlobLoader):
             import yt_dlp
         except ImportError:
             raise ImportError(
-                "yt_dlp package not found, please install it with "
-                "`pip install yt_dlp`"
+                "yt_dlp package not found, please install it with `pip install yt_dlp`"
             )
 
         # Use yt_dlp to download audio given a YouTube url

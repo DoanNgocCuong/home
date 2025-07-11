@@ -1,8 +1,9 @@
 """Reorder documents"""
+
 from typing import Any, List, Sequence
 
 from langchain_core.documents import BaseDocumentTransformer, Document
-from langchain_core.pydantic_v1 import BaseModel
+from pydantic import BaseModel, ConfigDict
 
 
 def _litm_reordering(documents: List[Document]) -> List[Document]:
@@ -21,15 +22,16 @@ def _litm_reordering(documents: List[Document]) -> List[Document]:
 
 
 class LongContextReorder(BaseDocumentTransformer, BaseModel):
-    """Lost in the middle:
+    """Reorder long context.
+
+    Lost in the middle:
     Performance degrades when models must access relevant information
     in the middle of long contexts.
     See: https://arxiv.org/abs//2307.03172"""
 
-    class Config:
-        """Configuration for this pydantic object."""
-
-        arbitrary_types_allowed = True
+    model_config = ConfigDict(
+        arbitrary_types_allowed=True,
+    )
 
     def transform_documents(
         self, documents: Sequence[Document], **kwargs: Any
@@ -40,4 +42,4 @@ class LongContextReorder(BaseDocumentTransformer, BaseModel):
     async def atransform_documents(
         self, documents: Sequence[Document], **kwargs: Any
     ) -> Sequence[Document]:
-        raise NotImplementedError
+        return _litm_reordering(list(documents))

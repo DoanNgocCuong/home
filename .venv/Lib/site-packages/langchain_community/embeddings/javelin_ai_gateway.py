@@ -3,7 +3,7 @@ from __future__ import annotations
 from typing import Any, Iterator, List, Optional
 
 from langchain_core.embeddings import Embeddings
-from langchain_core.pydantic_v1 import BaseModel
+from pydantic import BaseModel
 
 
 def _chunk(texts: List[str], size: int) -> Iterator[List[str]]:
@@ -12,8 +12,7 @@ def _chunk(texts: List[str], size: int) -> Iterator[List[str]]:
 
 
 class JavelinAIGatewayEmbeddings(Embeddings, BaseModel):
-    """
-    Wrapper around embeddings LLMs in the Javelin AI Gateway.
+    """Javelin AI Gateway embeddings.
 
     To use, you should have the ``javelin_sdk`` python package installed.
     For more information, see https://docs.getjavelin.io

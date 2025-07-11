@@ -6,8 +6,9 @@ from typing import Any, Dict, List, Optional
 from langchain_core.callbacks import CallbackManagerForRetrieverRun
 from langchain_core.documents import Document
 from langchain_core.embeddings import Embeddings
-from langchain_core.pydantic_v1 import Extra, root_validator
 from langchain_core.retrievers import BaseRetriever
+from langchain_core.utils import pre_init
+from pydantic import ConfigDict
 
 
 def hash_text(text: str) -> str:
@@ -30,6 +31,7 @@ def create_index(
     ids: Optional[List[str]] = None,
     metadatas: Optional[List[dict]] = None,
     namespace: Optional[str] = None,
+    text_key: str = "context",
 ) -> None:
     """Create an index from a list of contexts.
 
@@ -42,6 +44,7 @@ def create_index(
         sparse_encoder: Sparse encoder to use.
         ids: List of ids to use for the documents.
         metadatas: List of metadata to use for the documents.
+        namespace: Namespace value for index partition.
     """
     batch_size = 32
     _iterator = range(0, len(contexts), batch_size)
@@ -67,7 +70,7 @@ def create_index(
         )
         # add context passages as metadata
         meta = [
-            {"context": context, **metadata}
+            {text_key: context, **metadata}
             for context, metadata in zip(context_batch, metadata_batch)
         ]
 
@@ -102,9 +105,9 @@ class PineconeHybridSearchRetriever(BaseRetriever):
     embeddings: Embeddings
     """Embeddings model to use."""
     """description"""
-    sparse_encoder: Any
+    sparse_encoder: Any = None
     """Sparse encoder to use."""
-    index: Any
+    index: Any = None
     """Pinecone index to use."""
     top_k: int = 4
     """Number of documents to return."""
@@ -112,12 +115,11 @@ class PineconeHybridSearchRetriever(BaseRetriever):
     """Alpha value for hybrid search."""
     namespace: Optional[str] = None
     """Namespace value for index partition."""
-
-    class Config:
-        """Configuration for this pydantic object."""
-
-        extra = Extra.forbid
-        arbitrary_types_allowed = True
+    text_key: str = "context"
+    model_config = ConfigDict(
+        arbitrary_types_allowed=True,
+        extra="forbid",
+    )
 
     def add_texts(
         self,
@@ -134,9 +136,10 @@ class PineconeHybridSearchRetriever(BaseRetriever):
             ids=ids,
             metadatas=metadatas,
             namespace=namespace,
+            text_key=self.text_key,
         )
 
-    @root_validator()
+    @pre_init
     def validate_environment(cls, values: Dict) -> Dict:
         """Validate that api key and python package exists in environment."""
         try:
@@ -152,7 +155,7 @@ class PineconeHybridSearchRetriever(BaseRetriever):
         return values
 
     def _get_relevant_documents(
-        self, query: str, *, run_manager: CallbackManagerForRetrieverRun
+        self, query: str, *, run_manager: CallbackManagerForRetrieverRun, **kwargs: Any
     ) -> List[Document]:
         from pinecone_text.hybrid import hybrid_convex_scale
 
@@ -169,12 +172,14 @@ class PineconeHybridSearchRetriever(BaseRetriever):
             top_k=self.top_k,
             include_metadata=True,
             namespace=self.namespace,
+            **kwargs,
         )
         final_result = []
         for res in result["matches"]:
-            context = res["metadata"].pop("context")
-            final_result.append(
-                Document(page_content=context, metadata=res["metadata"])
-            )
+            context = res["metadata"].pop(self.text_key)
+            metadata = res["metadata"]
+            if "score" not in metadata and "score" in res:
+                metadata["score"] = res["score"]
+            final_result.append(Document(page_content=context, metadata=metadata))
         # return search results as json
         return final_result

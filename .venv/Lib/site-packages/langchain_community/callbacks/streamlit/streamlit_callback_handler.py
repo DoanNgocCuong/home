@@ -40,7 +40,7 @@ class LLMThoughtState(Enum):
 
 
 class ToolRecord(NamedTuple):
-    """The tool record as a NamedTuple."""
+    """Tool record as a NamedTuple."""
 
     name: str
     input_str: str
@@ -53,13 +53,15 @@ class LLMThoughtLabeler:
     labeling logic.
     """
 
-    def get_initial_label(self) -> str:
+    @staticmethod
+    def get_initial_label() -> str:
         """Return the markdown label for a new LLMThought that doesn't have
         an associated tool yet.
         """
         return f"{THINKING_EMOJI} **Thinking...**"
 
-    def get_tool_label(self, tool: ToolRecord, is_complete: bool) -> str:
+    @staticmethod
+    def get_tool_label(tool: ToolRecord, is_complete: bool) -> str:
         """Return the label for an LLMThought that has an associated
         tool.
 
@@ -91,13 +93,15 @@ class LLMThoughtLabeler:
         label = f"{emoji} **{name}:** {input}"
         return label
 
-    def get_history_label(self) -> str:
+    @staticmethod
+    def get_history_label() -> str:
         """Return a markdown label for the special 'history' container
         that contains overflow thoughts.
         """
         return f"{HISTORY_EMOJI} **History**"
 
-    def get_final_agent_thought_label(self) -> str:
+    @staticmethod
+    def get_final_agent_thought_label() -> str:
         """Return the markdown label for the agent's final thought -
         the "Now I have the answer" thought, that doesn't involve
         a tool.
@@ -183,13 +187,13 @@ class LLMThought:
 
     def on_tool_end(
         self,
-        output: str,
+        output: Any,
         color: Optional[str] = None,
         observation_prefix: Optional[str] = None,
         llm_prefix: Optional[str] = None,
         **kwargs: Any,
     ) -> None:
-        self._container.markdown(f"**{output}**")
+        self._container.markdown(f"**{str(output)}**")
 
     def on_tool_error(self, error: BaseException, **kwargs: Any) -> None:
         self._container.markdown("**Tool encountered an error...**")
@@ -207,9 +211,9 @@ class LLMThought:
     def complete(self, final_label: Optional[str] = None) -> None:
         """Finish the thought."""
         if final_label is None and self._state == LLMThoughtState.RUNNING_TOOL:
-            assert (
-                self._last_tool is not None
-            ), "_last_tool should never be null when _state == RUNNING_TOOL"
+            assert self._last_tool is not None, (
+                "_last_tool should never be null when _state == RUNNING_TOOL"
+            )
             final_label = self._labeler.get_tool_label(
                 self._last_tool, is_complete=True
             )
@@ -363,12 +367,13 @@ class StreamlitCallbackHandler(BaseCallbackHandler):
 
     def on_tool_end(
         self,
-        output: str,
+        output: Any,
         color: Optional[str] = None,
         observation_prefix: Optional[str] = None,
         llm_prefix: Optional[str] = None,
         **kwargs: Any,
     ) -> None:
+        output = str(output)
         self._require_current_thought().on_tool_end(
             output, color, observation_prefix, llm_prefix, **kwargs
         )

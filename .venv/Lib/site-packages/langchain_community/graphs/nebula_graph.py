@@ -47,7 +47,7 @@ class NebulaGraph:
             import nebula3  # noqa: F401
             import pandas  # noqa: F401
         except ImportError:
-            raise ValueError(
+            raise ImportError(
                 "Please install NebulaGraph Python client and pandas first: "
                 "`pip install nebula3-python pandas`"
             )
@@ -69,7 +69,13 @@ class NebulaGraph:
 
     def _get_session_pool(self) -> Any:
         assert all(
-            [self.username, self.password, self.address, self.port, self.space]
+            [
+                self.username,
+                self.password,
+                self.address,
+                self.port,
+                self.space,
+            ]
         ), (
             "Please provide all of the following parameters: "
             "username, password, address, port, space"

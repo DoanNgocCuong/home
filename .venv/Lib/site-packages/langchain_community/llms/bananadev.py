@@ -1,10 +1,12 @@
 import logging
-from typing import Any, Dict, List, Mapping, Optional
+from typing import Any, Dict, List, Mapping, Optional, cast
 
 from langchain_core.callbacks import CallbackManagerForLLMRun
 from langchain_core.language_models.llms import LLM
-from langchain_core.pydantic_v1 import Extra, Field, root_validator
-from langchain_core.utils import get_from_dict_or_env
+from langchain_core.utils import (
+    secret_from_env,
+)
+from pydantic import ConfigDict, Field, SecretStr, model_validator
 
 from langchain_community.llms.utils import enforce_stop_tokens
 
@@ -38,18 +40,19 @@ class Banana(LLM):
     """Holds any model parameters valid for `create` call not
     explicitly specified."""
 
-    banana_api_key: Optional[str] = None
+    banana_api_key: Optional[SecretStr] = Field(
+        default_factory=secret_from_env("BANANA_API_KEY", default=None)
+    )
 
-    class Config:
-        """Configuration for this pydantic config."""
+    model_config = ConfigDict(
+        extra="forbid",
+    )
 
-        extra = Extra.forbid
-
-    @root_validator(pre=True)
-    def build_extra(cls, values: Dict[str, Any]) -> Dict[str, Any]:
+    @model_validator(mode="before")
+    @classmethod
+    def build_extra(cls, values: Dict[str, Any]) -> Any:
         """Build extra kwargs from additional params that were passed in."""
-        all_required_field_names = {field.alias for field in cls.__fields__.values()}
-
+        all_required_field_names = set(list(cls.model_fields.keys()))
         extra = values.get("model_kwargs", {})
         for field_name in list(values):
             if field_name not in all_required_field_names:
@@ -61,15 +64,6 @@ class Banana(LLM):
                 )
                 extra[field_name] = values.pop(field_name)
         values["model_kwargs"] = extra
-        return values
-
-    @root_validator()
-    def validate_environment(cls, values: Dict) -> Dict:
-        """Validate that api key and python package exists in environment."""
-        banana_api_key = get_from_dict_or_env(
-            values, "banana_api_key", "BANANA_API_KEY"
-        )
-        values["banana_api_key"] = banana_api_key
         return values
 
     @property
@@ -103,7 +97,7 @@ class Banana(LLM):
             )
         params = self.model_kwargs or {}
         params = {**params, **kwargs}
-        api_key = self.banana_api_key
+        api_key = cast(SecretStr, self.banana_api_key)
         model_key = self.model_key
         model_url_slug = self.model_url_slug
         model_inputs = {
@@ -113,7 +107,7 @@ class Banana(LLM):
         }
         model = Client(
             # Found in main dashboard
-            api_key=api_key,
+            api_key=api_key.get_secret_value(),
             # Both found in model details page
             model_key=model_key,
             url=f"https://{model_url_slug}.run.banana.dev",

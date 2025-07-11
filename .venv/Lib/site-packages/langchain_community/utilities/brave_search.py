@@ -3,13 +3,16 @@ from typing import List
 
 import requests
 from langchain_core.documents import Document
-from langchain_core.pydantic_v1 import BaseModel, Field
+from langchain_core.utils import secret_from_env
+from pydantic import BaseModel, Field, SecretStr
 
 
 class BraveSearchWrapper(BaseModel):
     """Wrapper around the Brave search engine."""
 
-    api_key: str
+    api_key: SecretStr = Field(
+        default_factory=secret_from_env(["BRAVE_SEARCH_API_KEY"])
+    )
     """The API key to use for the Brave search engine."""
     search_kwargs: dict = Field(default_factory=dict)
     """Additional keyword arguments to pass to the search request."""
@@ -30,7 +33,11 @@ class BraveSearchWrapper(BaseModel):
             {
                 "title": item.get("title"),
                 "link": item.get("url"),
-                "snippet": item.get("description"),
+                "snippet": " ".join(
+                    filter(
+                        None, [item.get("description"), *item.get("extra_snippets", [])]
+                    )
+                ),
             }
             for item in web_search_results
         ]
@@ -48,7 +55,11 @@ class BraveSearchWrapper(BaseModel):
         results = self._search_request(query)
         return [
             Document(
-                page_content=item.get("description"),  # type: ignore[arg-type]
+                page_content=" ".join(
+                    filter(
+                        None, [item.get("description"), *item.get("extra_snippets", [])]
+                    )
+                ),
                 metadata={"title": item.get("title"), "link": item.get("url")},
             )
             for item in results
@@ -56,11 +67,11 @@ class BraveSearchWrapper(BaseModel):
 
     def _search_request(self, query: str) -> List[dict]:
         headers = {
-            "X-Subscription-Token": self.api_key,
+            "X-Subscription-Token": self.api_key.get_secret_value(),
             "Accept": "application/json",
         }
         req = requests.PreparedRequest()
-        params = {**self.search_kwargs, **{"q": query}}
+        params = {**self.search_kwargs, **{"q": query, "extra_snippets": True}}
         req.prepare_url(self.base_url, params)
         if req.url is None:
             raise ValueError("prepared url is None, this should not happen")

@@ -5,14 +5,14 @@ from urllib.parse import urlparse
 
 from langchain_core.callbacks import CallbackManagerForLLMRun
 from langchain_core.language_models import LLM
-from langchain_core.pydantic_v1 import Field, PrivateAttr
+from pydantic import Field, PrivateAttr
 
 
 class Mlflow(LLM):
-    """Wrapper around completions LLMs in MLflow.
+    """MLflow LLM service.
 
     To use, you should have the `mlflow[genai]` python package installed.
-    For more information, see https://mlflow.org/docs/latest/llms/deployments/server.html.
+    For more information, see https://mlflow.org/docs/latest/llms/deployments.
 
     Example:
         .. code-block:: python
