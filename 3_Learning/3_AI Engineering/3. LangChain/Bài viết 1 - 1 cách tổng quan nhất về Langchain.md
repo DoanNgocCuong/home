@@ -11,3 +11,5 @@ MỘT CÁCH TỔNG QUAN NHẤT VỀ LANGCHAIN - 1 Framework phổ biến trong p
 Nguồn: AI Việt Nam - AIO
 
 ![[Pasted image 20250711170208.png]]
+![attachments](./attachments/Pasted%20image%2020250711170208.png)
+
