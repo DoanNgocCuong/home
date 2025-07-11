@@ -1,0 +1,21 @@
+#============================CASE 1==============================
+# https://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile
+# Entrypoint to make container executable, just like ./predict.sh data_path,
+# then the predict.sh here is ["echo", "Hello Docker"]
+# FROM python:3.9-slim
+
+# ENTRYPOINT ["echo", "Hello Docker"]
+
+#============================CASE 2==============================
+# CMD to provide default arguments to the entrypoint
+# We often use it to pass data to our model as an argument python predict.py --data data_path
+FROM python:3.9-slim
+ENTRYPOINT ["echo"]
+CMD ["Hello Docker"]
+
+# #============================CASE 3==============================
+# # Entrypoint can be omited, the default entrypoint will be /bin/sh -c bash
+# # We often use this case :)
+# FROM python:3.9-slim
+
+# CMD ["echo", "Hello Docker"]
