@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: uv",
+                "query": "langhc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,7 +240,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b179679080d9fcb4",
+  "active": "0cf1f93d49c9ecae",
   "lastOpenFiles": [
     "1. DailyNote/2025-07-09.md",
     "1. DailyNote/2025-07-11.md",
