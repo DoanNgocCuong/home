@@ -234,12 +234,10 @@
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de333728293ea4d4",
+  "active": "b179679080d9fcb4",
   "lastOpenFiles": [
     "New Text Document.txt",
     "2. AIO/BasicTasksLearning_OpenCodingHomework_AIVietnamAIO_20252026/into_venv.sh",
