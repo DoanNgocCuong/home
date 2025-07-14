@@ -6,3 +6,10 @@
   > SDK bản chaasat là 1 library giúp mn dễ code hơn thay vì code lại từ đầu 
   
   - feast.dev anh đang share là gì?
+  - à nãy có 1 cái đoạn trong C4 là mỗi 1 thành phần là 1 container là 1 deployment, vậy có nghĩa là mình phải làm nhiều repo hok xếp hay, mình làm single repo vẫn được ạ  
+  
+**You** 9:35 PM  
+sếp Nghĩa có đang nhầm container trong C4 với container docker không ạ  
+  
+**Nghĩa (nghia07651)** 9:36 PM  
+Oh nhỉ, thank bác
