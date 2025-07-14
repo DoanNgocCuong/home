@@ -4,3 +4,5 @@
   > SDK: Langchain là 1 giúp giao tiếp ?? cài library mới giao tiếp được giữa openAI ...
   > API ? 
   > SDK bản chaasat là 1 library giúp mn dễ code hơn thay vì code lại từ đầu 
+  
+  - feast.dev anh đang share là gì?
