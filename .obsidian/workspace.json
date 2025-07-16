@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
+                "file": "3_Learning/4_MLOPs và Full Stack Docker/2025 1607.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Về đẩy code thao tác với server - git"
+              "title": "2025 1607"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: git",
+                "query": "Machine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,6 +241,9 @@
   },
   "active": "19c0aa9f3ab0affc",
   "lastOpenFiles": [
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/2025 1607.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/Untitled",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/Git Submodule.md",
     "3_Learning/4_MLOPs và Full Stack Docker/GITHUB CƠ BẢN.md",
     "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
@@ -269,7 +271,6 @@
     "3_Learning/3_AI_Engineering/3_LangChain",
     "3_Learning/3_AI Engineering/3. LangChain/Bài viết 1 - 1 cách tổng quan nhất về Langchain.md",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3/packages/ssl_match_hostname/__init__.pyi",
-    "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.pyi",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/win32comext/axscript/Demos/client/ie/pycom_blowing.gif",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/debugpy/_vendored/pydevd/pydevd_plugins/extensions/README.md",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/zmq/backend/cffi/README.md",
@@ -287,8 +288,6 @@
     "3_Learning/3_AI_Engineering/0. AIO/BasicTasksLearning_OpenCodingHomework_AIVietnamAIO_20252026/1_Coding/Daily/2025-04-23.md",
     "3_Learning/3_AI_Engineering/5.1 RAG/RAG 1/Search/Untitled.md",
     "3_Learning/3_AI_Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas",
-    "3_Learning/3_AI_Engineering/4. DeepLearning NLP RAG/4.0 NLP - Foundation + Ngách + Actual Problem/4.1 Question Answering Model/18022025 - QA Systems - AIO Summary.md",
-    "3_Learning/3_AI_Engineering/0. AIO/M10/Langchain_Services_CuongCustomize/README.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 5.canvas",
