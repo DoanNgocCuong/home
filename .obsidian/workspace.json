@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-07-17.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-17"
+              "title": "6. Server Deploy - mật khẩu vào Server - Git"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file",
+                "query": "file: git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,12 +242,15 @@
   },
   "active": "19c0aa9f3ab0affc",
   "lastOpenFiles": [
-    "3_Learning/4_MLOPs và Full Stack Docker/2025 1607.md",
-    "1. DailyNote/2025-07-17.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/4. git convention - chuẩn.md",
+    "1. Lập trình nói chung/3. Strategic Approaches to Understanding GitHub Repositories - Genspark 20250626.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/GITHUB CƠ BẢN.md",
+    "1. DailyNote/2025-07-17.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/2025 1607.md",
     "3_Learning/4_MLOPs và Full Stack Docker/Untitled",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/Git Submodule.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/GITHUB CƠ BẢN.md",
     "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
     "1. CHIẾN LƯỢC/3. Product Engineering - trước giờ chỉ biết về AI Engineering với các options làm việc ở công ty lớn hay công ty nhỏ, domain Edu hay domain Finance, ....md",
     "1. CHIẾN LƯỢC/Untitled.md",
@@ -285,9 +288,6 @@
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/win32com/HTML/image/BTN_HomePage.gif",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/win32com/HTML/image/blank.gif",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/pyzmq-26.2.1.dist-info/licenses/LICENSE.md",
-    "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/numpy/random/LICENSE.md",
-    "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/seaborn-0.13.2.dist-info/LICENSE.md",
-    "3_Learning/3_AI_Engineering/0. AIO/BasicTasksLearning_OpenCodingHomework_AIVietnamAIO_20252026/1_Coding/Daily/2025-04-23.md",
     "3_Learning/3_AI_Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
