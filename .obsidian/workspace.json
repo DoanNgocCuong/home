@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: git",
+                "query": "file: Dât",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -240,7 +240,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "19c0aa9f3ab0affc",
+  "active": "0cf1f93d49c9ecae",
   "lastOpenFiles": [
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/4. git convention - chuẩn.md",
     "1. Lập trình nói chung/3. Strategic Approaches to Understanding GitHub Repositories - Genspark 20250626.md",
@@ -292,9 +292,4 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 5.canvas",
-    "Untitled 4.canvas",
-    "Untitled 2.canvas",
-    "Untitled 3.canvas",
-    "3_Learning/3_AI Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas"
-  ]
-}
+    "Untitled 4.canvas"
