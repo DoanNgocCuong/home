@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_MLOPs và Full Stack Docker/2025 1607.md",
+                "file": "1. DailyNote/2025-07-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 1607"
+              "title": "2025-07-17"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Machine",
+                "query": "file",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,8 +242,9 @@
   },
   "active": "19c0aa9f3ab0affc",
   "lastOpenFiles": [
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
     "3_Learning/4_MLOPs và Full Stack Docker/2025 1607.md",
+    "1. DailyNote/2025-07-17.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
     "3_Learning/4_MLOPs và Full Stack Docker/Untitled",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/Git Submodule.md",
     "3_Learning/4_MLOPs và Full Stack Docker/GITHUB CƠ BẢN.md",
@@ -286,7 +288,6 @@
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/numpy/random/LICENSE.md",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/seaborn-0.13.2.dist-info/LICENSE.md",
     "3_Learning/3_AI_Engineering/0. AIO/BasicTasksLearning_OpenCodingHomework_AIVietnamAIO_20252026/1_Coding/Daily/2025-04-23.md",
-    "3_Learning/3_AI_Engineering/5.1 RAG/RAG 1/Search/Untitled.md",
     "3_Learning/3_AI_Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
