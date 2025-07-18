@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-07-19.md",
+                "file": "16. Phone/1. Bị Restart liên tục.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-19"
+              "title": "1. Bị Restart liên tục"
             }
           }
         ],
@@ -241,8 +241,10 @@
   },
   "active": "19c0aa9f3ab0affc",
   "lastOpenFiles": [
-    "1. CHIẾN LƯỢC/4. AI Engineering_ResearchEngineeringApplicationProduct.md",
     "1. DailyNote/2025-07-19.md",
+    "16. Phone/1. Bị Restart liên tục.md",
+    "16. Phone",
+    "1. CHIẾN LƯỢC/4. AI Engineering_ResearchEngineeringApplicationProduct.md",
     "1. DailyNote/2025-07-18.md",
     "1. DailyNote/Công Ty",
     "3_Learning/15. Utils/1. OBS - genspark 1 Prompt.md",
@@ -273,12 +275,10 @@
     "1. DailyNote/2025-07-14.md",
     "3_Learning/3_AI_Engineering/3_LangChain/demo/requirements.txt",
     "3_Learning/3_AI_Engineering/3_LangChain/demo/requirements.txrt",
-    "3_Learning/3_AI_Engineering/3_LangChain/demo/_demo1.md",
     "3_Learning/3_AI_Engineering/3_LangChain/demo/demo2.py",
     "3_Learning/3_AI_Engineering/3_LangChain/demo/cmd_run.sh",
     "3_Learning/3_AI_Engineering/3_LangChain/attachments/Pasted image 20250711170208.png",
     "3_Learning/3_AI_Engineering/3_LangChain/demo",
-    "3_Learning/3_AI_Engineering/3_LangChain/attachments",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/win32comext/axscript/Demos/client/ie/pycom_blowing.gif",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/win32com/HTML/image/www_icon.gif",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/win32com/HTML/image/pythoncom.gif",
