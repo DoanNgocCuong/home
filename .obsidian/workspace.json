@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-07-21.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-21"
+              "title": "7. Về đẩy code thao tác với server - git"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path: deploy server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,8 +242,19 @@
   },
   "active": "19c0aa9f3ab0affc",
   "lastOpenFiles": [
-    "1. DailyNote/2025-07-20.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. venv_Docker/3. venv - Docker - k8s Cloud.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2.  Template - React + Vite + TypeScript + SWC + Tailwind Template.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/1. Supabase.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
+    "1. DailyNote/2025-06-20 BẢO MẬT.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
+    "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1__1 số bug.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/0. TOP SAI LẦM THƯỜNG GẶP.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/__init__ Web - Template.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/__init__ Deploy Docker Web.md",
     "1. DailyNote/2025-07-21.md",
+    "1. DailyNote/2025-07-20.md",
     "15. Sức khỏe/2. Chạy bộ buổi sáng thì sao!.md",
     "1. CHIẾN LƯỢC/5. Đánh giá JOB DNSE.md",
     "1. CHIẾN LƯỢC/4. AI Engineering_ResearchEngineeringApplicationProduct.md",
@@ -253,7 +265,6 @@
     "1. DailyNote/2025-07-18.md",
     "1. DailyNote/Công Ty",
     "3_Learning/15. Utils/1. OBS - genspark 1 Prompt.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "4_Product/2. Product (Technical and Product).md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/3. Sau thời gian chiến lược thực thi của DB thay đổi.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/attachments/Pasted image 20250717123940.png",
@@ -261,17 +272,7 @@
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/2. Filtering DB.md",
     "3_Learning/8_Project/1_dify/Module2_Database/2. Database của Rating ở meta data.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/4. git convention - chuẩn.md",
-    "1. Lập trình nói chung/3. Strategic Approaches to Understanding GitHub Repositories - Genspark 20250626.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/GITHUB CƠ BẢN.md",
-    "1. DailyNote/2025-07-17.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/2025 1607.md",
     "3_Learning/4_MLOPs và Full Stack Docker/Untitled",
-    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/Git Submodule.md",
-    "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
-    "1. CHIẾN LƯỢC/3. Product Engineering - trước giờ chỉ biết về AI Engineering với các options làm việc ở công ty lớn hay công ty nhỏ, domain Edu hay domain Finance, ....md",
-    "1. CHIẾN LƯỢC/Untitled.md",
     "15. Sức khỏe",
     "3_Learning/3_AI_Engineering/3_LangChain/demo/requirements.txt",
     "3_Learning/3_AI_Engineering/3_LangChain/demo/requirements.txrt",
