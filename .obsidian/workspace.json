@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7abb8b53039a3b1",
+        "id": "d41bc30a3364be50",
         "type": "tabs",
         "children": [
           {
-            "id": "19c0aa9f3ab0affc",
+            "id": "84cfc4022fa83b2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gosinga",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,12 +240,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0cf1f93d49c9ecae",
+  "active": "84cfc4022fa83b2f",
   "lastOpenFiles": [
+    "1. DailyNote/2025-07-22.md",
+    "Untitled 1.canvas",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "Excalidraw/Drawing 2025-07-22 15.45.15.excalidraw.md",
-    "1. DailyNote/2025-07-22.md",
     "Excalidraw/Drawing 2025-07-22 15.41.32.excalidraw.md",
     "Untitled.canvas",
     "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
@@ -270,7 +270,6 @@
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. venv_Docker/3. venv - Docker - k8s Cloud.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/2.  Template - React + Vite + TypeScript + SWC + Tailwind Template.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/1. Supabase.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
     "16. Phone",
     "1. DailyNote/Công Ty",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/attachments/Pasted image 20250717123940.png",
@@ -291,7 +290,6 @@
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/win32com/HTML/image/BTN_ManualTop.gif",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/win32com/HTML/image/BTN_HomePage.gif",
     "3_Learning/3_AI_Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas",
-    "Untitled 1.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 2.canvas",
