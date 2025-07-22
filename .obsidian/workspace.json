@@ -11,14 +11,12 @@
             "id": "19c0aa9f3ab0affc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-07-22 15.45.15.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-22 15.45.15.excalidraw"
             }
           }
         ],
@@ -167,8 +165,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Smart Chat"
             }
           },
           {
@@ -187,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
+                "file": "Excalidraw/Drawing 2025-07-22 15.45.15.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING"
+              "title": "Outline of Drawing 2025-07-22 15.45.15.excalidraw"
             }
           },
           {
@@ -217,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -242,14 +240,17 @@
   },
   "active": "19c0aa9f3ab0affc",
   "lastOpenFiles": [
+    "1. DailyNote/2025-07-22.md",
+    "Excalidraw/Drawing 2025-07-22 15.41.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-22 15.45.15.excalidraw.md",
+    "Untitled.canvas",
+    "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
     "1. CHIẾN LƯỢC/3. Product Engineering - trước giờ chỉ biết về AI Engineering với các options làm việc ở công ty lớn hay công ty nhỏ, domain Edu hay domain Finance, ....md",
     "1. CHIẾN LƯỢC/4. AI Engineering_ResearchEngineeringApplicationProduct.md",
     "1. CHIẾN LƯỢC/5. Đánh giá JOB DNSE.md",
     "1. DailyNote/2025-07-21.md",
-    "1. DailyNote/2025-07-22.md",
     "1. CHIẾN LƯỢC/1. Cuối 2024 đến Trước 12042025.md",
     "1. CHIẾN LƯỢC/2. 12042025.md",
-    "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
     "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
     "1. DailyNote/Tính theo Dự Án",
     "15. Sức khỏe/2. Chạy bộ buổi sáng thì sao!.md",
@@ -267,8 +268,6 @@
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/1. Supabase.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
     "1. DailyNote/2025-06-20 BẢO MẬT.md",
-    "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1__1 số bug.md",
     "16. Phone",
     "1. DailyNote/Công Ty",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/attachments/Pasted image 20250717123940.png",
@@ -289,7 +288,6 @@
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/win32com/HTML/image/BTN_ManualTop.gif",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/win32com/HTML/image/BTN_HomePage.gif",
     "3_Learning/3_AI_Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
