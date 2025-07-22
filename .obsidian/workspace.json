@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/AIO/M10 RAG LLMs/Note_RAG_Langchain_01052025_.md",
+                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Note_RAG_Langchain_01052025_"
+              "title": "Outline of Job 1 Step Up Education"
             }
           },
           {
@@ -217,12 +217,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,7 +236,8 @@
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "19c0aa9f3ab0affc",
