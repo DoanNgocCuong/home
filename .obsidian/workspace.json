@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -221,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
