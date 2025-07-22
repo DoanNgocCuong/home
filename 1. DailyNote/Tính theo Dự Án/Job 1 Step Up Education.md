@@ -65,8 +65,8 @@ Toàn bộ các link quan trọng:
 |2. Prompting|- AI Worlflow 1000 Nghề (support a Trúc, a Vũ)  <br>- AI Prompting, Workflow: Build bài chị Trang.|- Workflow 1000 Nghề ko quá khó  <br>- Bài chị Trang cần Problem Solving 2 tuần tới.|
 
   
+## 22/07/2025 
 
-# Check list các tasks:
 
 |                       |           |                                                                             |     |
 | --------------------- | --------- | --------------------------------------------------------------------------- | --- |
