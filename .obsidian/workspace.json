@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-07-22.md",
+                "file": "1. DailyNote/2025-07-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-22"
+              "title": "2025-07-23"
             }
           }
         ],
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-07-22.md",
+                "file": "1. DailyNote/2025-07-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-22"
+              "title": "Outline of 2025-07-23"
             }
           },
           {
@@ -243,6 +243,7 @@
   "active": "84cfc4022fa83b2f",
   "lastOpenFiles": [
     "1. DailyNote/2025-07-22.md",
+    "1. DailyNote/2025-07-23.md",
     "Untitled 1.canvas",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
