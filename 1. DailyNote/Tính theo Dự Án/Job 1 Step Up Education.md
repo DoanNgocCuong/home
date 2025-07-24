@@ -70,6 +70,8 @@ Toàn bộ các link quan trọng:
 #### Task 1000 Nghề: 
 ##### KR1: 
 - Output 1: 1 output code. Từ execel hiện tại -> đẩy ra đúng format hiện giờ ở trong DB. Bằng AI Code 1 prompt. 
+  -=> Chuyển hướng khác đi. 
+  Ra hết các tường cần thiết cho việc import và hiển thị, 
 - Output 2: Test kiểm tra output đó kĩ trên web đã từng tự dựng 
 - Output 3: ping a Hiến để check
 ---
