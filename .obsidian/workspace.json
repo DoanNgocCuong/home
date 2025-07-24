@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
+                "file": "1. CHIẾN LƯỢC/6. Nền tảng tuyển dụng.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING"
+              "title": "6. Nền tảng tuyển dụng"
             },
             "group": "56bc00528eed0a1c"
           }
@@ -37,13 +37,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
+                "file": "1. CHIẾN LƯỢC/6. Nền tảng tuyển dụng.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING"
+              "title": "Outline of 6. Nền tảng tuyển dụng"
             },
             "group": "56bc00528eed0a1c"
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
+                "file": "1. CHIẾN LƯỢC/6. Nền tảng tuyển dụng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING"
+              "title": "Backlinks for 6. Nền tảng tuyển dụng"
             }
           },
           {
@@ -174,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
+                "file": "1. CHIẾN LƯỢC/6. Nền tảng tuyển dụng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING"
+              "title": "Outgoing links from 6. Nền tảng tuyển dụng"
             }
           },
           {
@@ -223,6 +223,12 @@
   },
   "active": "84cfc4022fa83b2f",
   "lastOpenFiles": [
+    "1. CHIẾN LƯỢC/attachments/Pasted image 20250724225718.png",
+    "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
+    "1. CHIẾN LƯỢC/6. Nền tảng tuyển dụng.md",
+    "1. CHIẾN LƯỢC/3. Product Engineering - trước giờ chỉ biết về AI Engineering với các options làm việc ở công ty lớn hay công ty nhỏ, domain Edu hay domain Finance, ....md",
+    "1. CHIẾN LƯỢC/4. AI Engineering_ResearchEngineeringApplicationProduct.md",
+    "1. CHIẾN LƯỢC/5. Đánh giá JOB DNSE.md",
     "1. DailyNote/Tính theo Dự Án/ExdrawJob 1 Step Up.md",
     "1. DailyNote/2025-07-24.md",
     "1. DailyNote/2025-07-22.md",
@@ -247,10 +253,6 @@
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "Excalidraw/Drawing 2025-07-22 15.45.15.excalidraw.md",
     "Excalidraw/Drawing 2025-07-22 15.41.32.excalidraw.md",
-    "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
-    "1. CHIẾN LƯỢC/3. Product Engineering - trước giờ chỉ biết về AI Engineering với các options làm việc ở công ty lớn hay công ty nhỏ, domain Edu hay domain Finance, ....md",
-    "1. CHIẾN LƯỢC/4. AI Engineering_ResearchEngineeringApplicationProduct.md",
-    "1. CHIẾN LƯỢC/5. Đánh giá JOB DNSE.md",
     "1. DailyNote/2025-07-21.md",
     "1. CHIẾN LƯỢC/1. Cuối 2024 đến Trước 12042025.md",
     "1. CHIẾN LƯỢC/2. 12042025.md",
@@ -259,8 +261,6 @@
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/3. Sau thời gian chiến lược thực thi của DB thay đổi.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.8 Summary export PORT Docker.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.7 Docker networks bridge và networks và network_mode host.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2 Đóng gói package.json, pyproject.toml - NỬA DOCKER.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. 1 số tool Docker và các lệnh cơ bản.md",
     "16. Phone",
     "1. DailyNote/Công Ty",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/attachments/Pasted image 20250717123940.png",
