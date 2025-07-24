@@ -33,7 +33,7 @@ Toàn bộ các link quan trọng:
 |            |                                     |                                                                       |
 |            |                                     |                                                                       |
 
-# Tháng 7/2025
+## Tháng 7/2025
 
 1. **MINDSET**
     
@@ -65,23 +65,14 @@ Toàn bộ các link quan trọng:
 |2. Prompting|- AI Worlflow 1000 Nghề (support a Trúc, a Vũ)  <br>- AI Prompting, Workflow: Build bài chị Trang.|- Workflow 1000 Nghề ko quá khó  <br>- Bài chị Trang cần Problem Solving 2 tuần tới.|
 
   
-## 22/07/2025 
+### 22/07/2025 - 27/07/2025 
+
+#### Task 1000 Nghề: 
+##### KR1: 
+- Output 1: 1 output code. Từ execel hiện tại -> đẩy ra đúng format hiện giờ ở trong DB. Bằng AI Code 1 prompt. 
+- Output 2: Test kiểm tra output đó kĩ trên web đã từng tự dựng 
+- Output 3: ping a Hiến để check
+---
+#### Task: Workflow AI Manus - Robot 
 
 
-|                       |           |                                                                             |     |
-| --------------------- | --------- | --------------------------------------------------------------------------- | --- |
-| Ngày                  |           | Các tasks                                                                   |     |
-| Thứ 2                 |           | 1. Fix bug  <br>2. Trả ra được 1 version pipeline cho chị Trang đúng format |     |
-| Thứ 3 (8h rưỡi - 18h) | 8h30-9h   |                                                                             |     |
-|                       | 9h-9h30   |                                                                             |     |
-|                       | ...       |                                                                             |     |
-|                       | 17h30-18h |                                                                             |     |
-|                       |           |                                                                             |     |
-|                       |           |                                                                             |     |
-|                       |           |                                                                             |     |
-|                       |           |                                                                             |     |
-|                       |           |                                                                             |     |
-|                       |           |                                                                             |     |
-
-
---- 
