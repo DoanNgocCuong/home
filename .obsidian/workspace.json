@@ -12,12 +12,14 @@
             "id": "84cfc4022fa83b2f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up.md"
+                "file": "3_Learning/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Job 1 Step Up"
+              "icon": "lucide-file",
+              "title": "1.5 Config link host + docker compose Trên server không cần ssh"
             },
             "group": "56bc00528eed0a1c"
           }
@@ -35,13 +37,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up.md",
+                "file": "3_Learning/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Job 1 Step Up"
+              "title": "Outline of 1.5 Config link host + docker compose Trên server không cần ssh"
             },
             "group": "56bc00528eed0a1c"
           }
@@ -77,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "deploy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,11 +100,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 336.5110321044922
   },
   "right": {
     "id": "422b3eaae750cadd",
@@ -118,13 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up.md",
+                "file": "3_Learning/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Job 1 Step Up"
+              "title": "Outline of 1.5 Config link host + docker compose Trên server không cần ssh"
             }
           },
           {
@@ -146,6 +149,54 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "77b9fc4ea27a1c18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3_Learning/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.5 Config link host + docker compose Trên server không cần ssh"
+            }
+          },
+          {
+            "id": "13eb9e7784a5b2b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3_Learning/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.5 Config link host + docker compose Trên server không cần ssh"
+            }
+          },
+          {
+            "id": "1ee33d858edeb27d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ]
       }
@@ -166,17 +217,16 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "84cfc4022fa83b2f",
   "lastOpenFiles": [
-    "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
-    "1. DailyNote/Tính theo Dự Án/attachments/Pasted image 20250724105731.png",
-    "1. DailyNote/Tính theo Dự Án/attachments",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
     "1. DailyNote/Tính theo Dự Án/Job 1 Step Up.md",
+    "1. DailyNote/Tính theo Dự Án/attachments/Pasted image 20250724105731.png",
+    "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
+    "1. DailyNote/Tính theo Dự Án/attachments",
     "Excalidraw/Drawing 2025-06-27 05.39.48.excalidraw.md",
     "Untitled.canvas",
     "1. DailyNote/2025-04-16.md",
