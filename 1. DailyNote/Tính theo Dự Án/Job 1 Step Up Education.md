@@ -71,9 +71,30 @@ Toàn bộ các link quan trọng:
 ##### KR1: 
 - Output 1: 1 output code. Từ execel hiện tại -> đẩy ra đúng format hiện giờ ở trong DB. Bằng AI Code 1 prompt. 
   -=> Chuyển hướng khác đi. 
+  +, Step 1: Run lấy Scenario bằng Dify 
+  +, Step 2: Run code excel để lấy ra user_id từ việc map các phần 
+  Lấy topic và các phần liên quan để gen outcome_topic 
+  và mapping với từng dòng của scenario ở từng stakeholder. 
+  
+  Có cách nào tối ưu hơn ko? 
+  +, Tại sao ko run để lấy outcome_topic bằng Dify? 
+  (Từ file excel chạy code trung gian để tạo ra 1 file trung gian là file có full các phần gom outcome_topic), sau đó mới chạy 
+  
+
+
+  
   Ra hết các tường cần thiết cho việc import và hiển thị, 
 - Output 2: Test kiểm tra output đó kĩ trên web đã từng tự dựng 
 - Output 3: ping a Hiến để check
+
+
+Bàn về cách làm tối ưu: 
+
+Mục tiêu chính là: ra được chuẩn JSON format. 
+
+
+
+
 ---
 #### Task: Workflow AI Manus - Robot 
 

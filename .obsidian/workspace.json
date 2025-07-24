@@ -12,14 +12,12 @@
             "id": "84cfc4022fa83b2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
-                "mode": "source",
-                "source": false
+                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up.md"
               },
-              "icon": "lucide-file",
-              "title": "Job 1 Step Up Education"
+              "icon": "excalidraw-icon",
+              "title": "Job 1 Step Up"
             },
             "group": "56bc00528eed0a1c"
           }
@@ -37,13 +35,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
+                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Job 1 Step Up Education"
+              "title": "Outline of Job 1 Step Up"
             },
             "group": "56bc00528eed0a1c"
           }
@@ -120,13 +118,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
+                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Job 1 Step Up Education"
+              "title": "Outline of Job 1 Step Up"
             }
           },
           {
@@ -175,8 +173,10 @@
   },
   "active": "de333728293ea4d4",
   "lastOpenFiles": [
-    "1. DailyNote/Tính theo Dự Án/Drawing 2025-07-24 09.25.50.excalidraw.md",
     "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
+    "1. DailyNote/Tính theo Dự Án/Job 1 Step Up.md",
+    "Excalidraw/Drawing 2025-06-27 05.39.48.excalidraw.md",
+    "Untitled.canvas",
     "1. DailyNote/2025-04-16.md",
     "1. DailyNote/2025-07-24.md",
     "1. DailyNote/attachments/Pasted image 20250724064018.png",
@@ -193,7 +193,6 @@
     "1. Lập trình nói chung/2. BẢO MẬT API Keys.md",
     "Excalidraw/Drawing 2025-07-22 15.45.15.excalidraw.md",
     "Excalidraw/Drawing 2025-07-22 15.41.32.excalidraw.md",
-    "Untitled.canvas",
     "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
     "1. CHIẾN LƯỢC/3. Product Engineering - trước giờ chỉ biết về AI Engineering với các options làm việc ở công ty lớn hay công ty nhỏ, domain Edu hay domain Finance, ....md",
     "1. CHIẾN LƯỢC/4. AI Engineering_ResearchEngineeringApplicationProduct.md",
@@ -210,7 +209,6 @@
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. 1 số tool Docker và các lệnh cơ bản.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/8. HTTP Streaming và WebSocket.md",
     "16. Phone",
     "1. DailyNote/Công Ty",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/attachments/Pasted image 20250717123940.png",
