@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-07-18.md",
+                "file": "1. DailyNote/2025-07-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-18"
+              "title": "2025-07-25"
             },
             "group": "56bc00528eed0a1c"
           }
@@ -37,13 +37,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-07-18.md",
+                "file": "1. DailyNote/2025-07-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-18"
+              "title": "Outline of 2025-07-25"
             },
             "group": "56bc00528eed0a1c"
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DailyNote/2025-07-18.md",
+                "file": "1. DailyNote/2025-07-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-07-18"
+              "title": "Backlinks for 2025-07-25"
             }
           },
           {
@@ -174,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DailyNote/2025-07-18.md",
+                "file": "1. DailyNote/2025-07-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-07-18"
+              "title": "Outgoing links from 2025-07-25"
             }
           },
           {
@@ -223,6 +223,7 @@
   },
   "active": "84cfc4022fa83b2f",
   "lastOpenFiles": [
+    "1. DailyNote/2025-07-18.md",
     "1. DailyNote/2025-07-19.md",
     "1. DailyNote/2025-07-20.md",
     "1. DailyNote/2025-07-21.md",
@@ -261,7 +262,6 @@
     "1. CHIẾN LƯỢC/2. 12042025.md",
     "1. DailyNote/Tính theo Dự Án",
     "15. Sức khỏe/2. Chạy bộ buổi sáng thì sao!.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/3. Sau thời gian chiến lược thực thi của DB thay đổi.md",
     "16. Phone",
     "1. DailyNote/Công Ty",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/attachments/Pasted image 20250717123940.png",
