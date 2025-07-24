@@ -93,7 +93,7 @@ Bàn về cách làm tối ưu:
 Mục tiêu chính là: ra được chuẩn JSON format. 
 
 
-
+![[Pasted image 20250724105731.png]]
 
 ---
 #### Task: Workflow AI Manus - Robot 

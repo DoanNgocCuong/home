@@ -12,12 +12,14 @@
             "id": "84cfc4022fa83b2f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up.md"
+                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Job 1 Step Up"
+              "icon": "lucide-file",
+              "title": "Job 1 Step Up Education"
             },
             "group": "56bc00528eed0a1c"
           }
@@ -35,13 +37,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up.md",
+                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Job 1 Step Up"
+              "title": "Outline of Job 1 Step Up Education"
             },
             "group": "56bc00528eed0a1c"
           }
@@ -118,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up.md",
+                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Job 1 Step Up"
+              "title": "Outline of Job 1 Step Up Education"
             }
           },
           {
@@ -171,10 +173,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "de333728293ea4d4",
+  "active": "84cfc4022fa83b2f",
   "lastOpenFiles": [
-    "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
+    "1. DailyNote/Tính theo Dự Án/attachments/Pasted image 20250724105731.png",
+    "1. DailyNote/Tính theo Dự Án/attachments",
     "1. DailyNote/Tính theo Dự Án/Job 1 Step Up.md",
+    "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
     "Excalidraw/Drawing 2025-06-27 05.39.48.excalidraw.md",
     "Untitled.canvas",
     "1. DailyNote/2025-04-16.md",
@@ -208,7 +212,6 @@
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2 Đóng gói package.json, pyproject.toml - NỬA DOCKER.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. 1 số tool Docker và các lệnh cơ bản.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
     "16. Phone",
     "1. DailyNote/Công Ty",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Database/attachments/Pasted image 20250717123940.png",
@@ -218,7 +221,6 @@
     "3_Learning/3_AI_Engineering/3_LangChain/demo/requirements.txt",
     "3_Learning/3_AI_Engineering/3_LangChain/demo/requirements.txrt",
     "3_Learning/3_AI_Engineering/3_LangChain/demo/demo2.py",
-    "3_Learning/3_AI_Engineering/3_LangChain/demo/cmd_run.sh",
     "3_Learning/3_AI_Engineering/3_LangChain/attachments/Pasted image 20250711170208.png",
     "3_Learning/3_AI_Engineering/0. AIO/venv/Lib/site-packages/win32comext/axscript/Demos/client/ie/pycom_blowing.gif",
     "3_Learning/3_AI_Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas",
