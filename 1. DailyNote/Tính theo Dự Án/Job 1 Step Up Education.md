@@ -98,7 +98,11 @@ Mục tiêu chính là: ra được chuẩn JSON format.
 
 KR1: Thông luồng từ file excel chưa có outcome_topic, scenario, detail scenario -> ra file excel final
 - Cần thêm 1 API từ cả cục topic ra topic_outcome và scenario luôn. 
-  
+
++, 1. File từ excel ra 
+
+
+
 ---
 
 KR2: Xây DB dựa trên file excel đã thống nhất. 
@@ -115,6 +119,3 @@ Liên quan đến việc Search và Query:
 KR3: Thông luồng từ chỗ chị Thủy sang chỗ a Vũ  
 
 ---
-#### Task: Workflow AI Manus - Robot 
-
-

@@ -4,27 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "d41bc30a3364be50",
+        "id": "a40bd9d1f1a3ba36",
         "type": "tabs",
-        "dimension": 79.12317327766179,
         "children": [
           {
-            "id": "84cfc4022fa83b2f",
+            "id": "f504713fe93aa0fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "outline",
               "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
-                "mode": "source",
-                "source": false
+                "file": "1. DailyNote/2025-07-25.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-file",
-              "title": "Job 1 Step Up Education"
-            },
-            "group": "56bc00528eed0a1c"
+              "icon": "lucide-list",
+              "title": "Outline of 2025-07-25"
+            }
           },
           {
-            "id": "d0a728b440808279",
+            "id": "c6cad6a79847f5f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,31 +37,7 @@
             }
           }
         ],
-        "currentTab": 1,
-        "stacked": true
-      },
-      {
-        "id": "a40bd9d1f1a3ba36",
-        "type": "tabs",
-        "dimension": 20.876826722338205,
-        "children": [
-          {
-            "id": "f504713fe93aa0fe",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Job 1 Step Up Education"
-            },
-            "group": "56bc00528eed0a1c"
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,8 +211,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "d0a728b440808279",
+  "active": "c6cad6a79847f5f2",
   "lastOpenFiles": [
+    "1. DailyNote/2025-07-25.md",
+    "Untitled 2.canvas",
+    "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
@@ -250,8 +228,6 @@
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/Các kiến trúc khác nhau.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/5. Phân quyền Docker.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
-    "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
-    "1. DailyNote/2025-07-25.md",
     "1. DailyNote/2025-07-24.md",
     "1. DailyNote/attachments/Pasted image 20250725080206.png",
     "1. DailyNote/2025-07-18.md",
@@ -265,7 +241,6 @@
     "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
     "1. CHIẾN LƯỢC/3. Product Engineering - trước giờ chỉ biết về AI Engineering với các options làm việc ở công ty lớn hay công ty nhỏ, domain Edu hay domain Finance, ....md",
     "1. CHIẾN LƯỢC/4. AI Engineering_ResearchEngineeringApplicationProduct.md",
-    "1. CHIẾN LƯỢC/5. Đánh giá JOB DNSE.md",
     "1. DailyNote/Tính theo Dự Án/attachments/Pasted image 20250724105731.png",
     "1. DailyNote/Tính theo Dự Án/attachments",
     "Untitled.canvas",
@@ -289,7 +264,6 @@
     "3_Learning/3_AI_Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
-    "Untitled 2.canvas",
     "Untitled 3.canvas",
     "3_Learning/3_AI Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas"
   ]
