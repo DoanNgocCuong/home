@@ -95,6 +95,25 @@ Mục tiêu chính là: ra được chuẩn JSON format.
 
 ![[Pasted image 20250724105731.png]]
 
+
+KR1: Thông luồng từ file excel chưa có outcome_topic, scenario, detail scenario -> ra file excel final
+- Cần thêm 1 API từ cả cục topic ra topic_outcome và scenario luôn. 
+  
+---
+
+KR2: Xây DB dựa trên file excel đã thống nhất. 
+- Hướng 1: Tự xây DB theo tagging của mình, chỉ cần query 1 bảng và chơi trò define theo tags. 
+- Hướng 2: Chơi trò define chuẩn từng bảng từng bảng. Có thể suy nghĩ triển khai sau? 
+
+Liên quan đến việc Search và Query: 
+- Search như nào, 
+- Query như nào, 
+  
+  Khi user search các thứ thì bảng nên được làm như nào
+
+---
+KR3: Thông luồng từ chỗ chị Thủy sang chỗ a Vũ  
+
 ---
 #### Task: Workflow AI Manus - Robot 
 
