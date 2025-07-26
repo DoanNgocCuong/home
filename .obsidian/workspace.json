@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "server",
+                "query": "AI ENGINEERING DOMAIN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,7 +225,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "d48d646fbf03a429",
+  "active": "de333728293ea4d4",
   "lastOpenFiles": [
     "1. DailyNote/2025-07-26.md",
     "1. DailyNote/2025-07-25.md",
