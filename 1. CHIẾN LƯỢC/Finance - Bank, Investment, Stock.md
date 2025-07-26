@@ -167,3 +167,41 @@ Theo phương pháp MECE, Finance (Tài chính) là khái niệm bao trùm nhấ
 3. Fintech (Công nghệ tài chính) không phải là một lĩnh vực riêng biệt mà là phương thức ứng dụng công nghệ xuyên suốt các lĩnh vực tài chính truyền thống, tạo ra các mô hình kinh doanh và dịch vụ mới.
 
 Từ góc độ MECE, các lĩnh vực này có thể được phân loại theo nhiều cách khác nhau (theo tổ chức, theo hoạt động kinh doanh, theo mô hình vận hành) nhưng trong mọi trường hợp, Finance luôn là khái niệm bao trùm nhất, trong khi Stock là một phần cụ thể của hệ thống tài chính.
+
+
+---
+
+Công việc AI Engineering tại 
+
+--
+
+a) Banking (Ngân hàng)
+Ngân hàng thương mại (Commercial Banks)
+Ngân hàng đầu tư (Investment Banks)
+Ngân hàng bán lẻ (Retail Banks)
+Ngân hàng số (Digital Banks)
+b) Capital Markets (Thị trường vốn)
+Stock Markets (Thị trường chứng khoán)
+Bond Markets (Thị trường trái phiếu)
+Commodity Markets (Thị trường hàng hóa)
+Foreign Exchange Markets (Thị trường ngoại hối)
+c) Asset Management (Quản lý tài sản)
+Mutual Funds (Quỹ đầu tư tương hỗ)
+Hedge Funds (Quỹ đầu tư phòng hộ)
+Private Equity (Vốn cổ phần tư nhân)
+Wealth Management (Quản lý tài sản cá nhân)
+d) Insurance (Bảo hiểm)
+Life Insurance (Bảo hiểm nhân thọ)
+General Insurance (Bảo hiểm phi nhân thọ)
+Health Insurance (Bảo hiểm y tế)
+Reinsurance (Tái bảo hiểm)
+e) Fintech (Công nghệ tài chính)
+Payments & Remittances (Thanh toán & Chuyển tiền)
+Lending & Credit (Cho vay & Tín dụng)
+Investment & Wealth Management (Đầu tư & Quản lý tài sản)
+Insurtech (Công nghệ bảo hiểm)
+Blockchain & Cryptocurrencies (Blockchain & Tiền điện tử)
+
+
+---
+Công việc AI Engineering tại các nhánh trên khác nhau như nào 
