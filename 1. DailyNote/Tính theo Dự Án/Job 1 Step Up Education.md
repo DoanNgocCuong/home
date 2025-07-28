@@ -123,14 +123,20 @@ KR3: Thông luồng từ chỗ chị Thủy sang chỗ a Vũ
 
 # Define 3O1T (Outcome - Output DOS - Tasks)
 
-Outcome: Why? Tại 
-Output: 
-- Phía AI: Trả ra full bài học được Gen + 
-- ....
-Tasks: 
+| Outcome - Why?                                | - Tại sao phải làm cái task này nhỉ? -> Để ra được 1000 Nghề. <br>- Làm phần 1000 Nghề để làm gì nhỉ, để ra tiền ? Có chắc là làm bài 1000 Nghề thì ra tiền ko?  => <br>- Để làm 1000 Nghề chúng ta hiện tại đang build 1 thư viện khổng ồ với 1000 Nghề.<br>+, Mục đích của việc test định tính và định lượng các jobs hiện tại là gì ? <br>Là để verify được là ông user A, user B đang thích cái nào hơn.<br>+, Thu thập những cái user A, user B thích đó thì sẽ dựa vào log để lọc các tình huống user ko thích đi. <br>+, |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Output                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Tasks                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Report vào cuối ngày <br>Report vào cuối tuần |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
+Đâu là cấu trúc Structure để làm việc hiệu quả
 
-| Outcome - Why? | - Tại sao phải làm cái task này nhỉ? -> Để ra được 1000 Nghề. <br>- Làm phần 1000 Nghề để làm gì nhỉ, để ra tiền ? Có chắc là làm bài 1000 Nghề thì ra tiền ko?  => <br>- Để làm 1000 Nghề chúng ta hiện test nhanh giả định bằng việc   |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Output                                                                                                                                                                                                                                                    |
-| Tasks                                                                                                                                                                                                                                                     |
+```
+Mục tiêu của tôi là: làm việc mọi việc với việc rõ 3O1T (Object, Outcome, Output, Tasks)
+
+Hãy giúp tôi giải quyết vấn đề trên
+
+Nhưng đầu tiên hãy tách lớp thành cấu trúc 4-5 phần quan trọng nhất tác động đến B ....... (sắp xếp theo thứ tự)
+
+Trong mỗi cấu trúc nhỏ chỉ rõ kết quả đầu ra rõ ràng
+```
