@@ -119,3 +119,12 @@ Liên quan đến việc Search và Query:
 KR3: Thông luồng từ chỗ chị Thủy sang chỗ a Vũ  
 
 ---
+
+
+# Define 3O1T (Outcome - Output DOS - Tasks)
+
+Outcome:
+Output: 
+- Phía AI: Trả ra full bài học được Gen + 
+- ....
+Tasks: 
