@@ -47,11 +47,11 @@ Toàn bộ các link quan trọng:
 2. **PHÂN BỔ:**
     
 
-|   |   |
-|---|---|
-|1. AI ENGINEERING ROLE|AI Engineering: 10 % Research Model + 70% Engineering (MLOps, System Design) + 10 % AI Application (Prompting, AI Workflow, Tools, ...) + 10% Product.|
-|Giai đoạn 1 (2-3 năm tới)|10% Research Model (4 điểm) + 70% Engineering (MLOps, System Design) (4 điểm -> 10 điểm) + 10% AI Application (7 điểm) + 10% Product (3 điểm -> 5 điểm).|
-|Giai đoạn 2|Research Model (4 điểm) + Engineering (MLOps, System Design) (10 -> 100 điểm) + AI Application (7 điểm) + Product (5 điểm -> 10 điểm).|
+|                           |                                                                                                                                                          |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. AI ENGINEERING ROLE    | AI Engineering: 10 % Research Model + 70% Engineering (MLOps, System Design) + 10 % AI Application (Prompting, AI Workflow, Tools, ...) + 10% Product.   |
+| Giai đoạn 1 (2-3 năm tới) | 10% Research Model (4 điểm) + 70% Engineering (MLOps, System Design) (4 điểm -> 10 điểm) + 10% AI Application (7 điểm) + 10% Product (3 điểm -> 5 điểm). |
+| Giai đoạn 2               | Research Model (4 điểm) + Engineering (MLOps, System Design) (10 -> 100 điểm) + AI Application (7 điểm) + Product (5 điểm -> 10 điểm).                   |
 
   
 
@@ -123,8 +123,14 @@ KR3: Thông luồng từ chỗ chị Thủy sang chỗ a Vũ
 
 # Define 3O1T (Outcome - Output DOS - Tasks)
 
-Outcome:
+Outcome: Why? Tại 
 Output: 
 - Phía AI: Trả ra full bài học được Gen + 
 - ....
 Tasks: 
+
+
+| Outcome - Why? | - Dựng  |
+| -------------- | ------- |
+| Output         |         |
+| Tasks          |         |
