@@ -161,3 +161,24 @@ Trong mỗi cấu trúc nhỏ chỉ rõ kết quả đầu ra rõ ràng
 | 📦 **Output**<br>- 📊 **Metrics**<br>- ✔ **Define to Done** | Key Results 1, 2, 3 cụ thể, đo lường được                                                                                                                          | Output cần trả ra là gì: <br>- 1 cái web khảo sát: User nhập và chọn ngành nghề (bên trong là thuật toán cơ chế cho việc Search DB như nào) và                                                                                                                                                                                                                                                                                                                                                               | Output 1: Data cá nhân hóa khớp cho các nhóm ngành nghề khác nhau                                                                                                                                                                                   |               |
 | 🧩 **Tasks**                                                | 🧩Actions                                                                                                                                                          | - Cách kiến trúc db như nào để trả ra được output đó? Có cần phối hợp gì với DB phía a Quân không?<br>- Hay chỉ đơn giản là lên được web khảo sát trước , theo bạn thì sao? <br>-                                                                                 Cách đang làm: <br>- Dựng 1 DB với các bảng sau <br><br>+, Bảng user_profile chứa <br>user_id và JSON data (JSOn chứa chung topic, scenario, detail scenario)<br>+, Bảng user_profile này <br><br>- Cắm API đoạn domain -> JTBD? <br>() ày | 1. Cắm API Pika để chạy từng ngành nghề<br>+, Input chia nhóm ngành nghề chỗ chị Thủy chuẩn <br>+, Input chỗ a Vũ Prompt chuẩn <br>+, Luồng chạy của Cường bé chuẩn <br>2. Prompt/Agent đánh giá output xem có vấn đề gì ko? <br>3. Search Database |               |
 | 🧩 **Tasks**                                                |                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                     |               |
+
+
+
+----
+
+# 3. 3 version cho tasks 1000 nghề 
+
+- Version 1: 
+  <industry_job-role_job-level>
+- Version 2: 
+  <domain_group_job-role_job-level_industry> 
+  +, Với việc có group chung cho toàn bộ job-role trong domain, group riêng cho từng job-role 
+  +, Với việc có domain, group_job-role_job-level thì industry khác nhau nó có output khác nhau 
+- Version 3: 
+  <industry_job-role_job-level> và <domain> 
+  +, Khi user điền indutry và job-role, nó mapping trực tiếp với lộ trình của industry và job-role đó. 
+  +, Khi user điền thông tin sai khác đi, thì cố gắng recommend cho đúng job-role có trong DB và Group đúng của nó. 
+  +, Khi user điền sai bét nhè, thì recommend <domain> đúng. 
+
+---
+
