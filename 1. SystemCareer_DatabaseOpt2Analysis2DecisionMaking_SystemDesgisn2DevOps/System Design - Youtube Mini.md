@@ -31,3 +31,6 @@ Em đang được giao 1 bài search DB.
 (AI là 1 cách cơ mà em thấy nó hơi chậm,  
 còn 1 cách mapping sẵn các từ khóa thì cần define đủ còn lệch thì lại chịu ạ)
 ```
+
+
+![[Pasted image 20250729210524.png]]
