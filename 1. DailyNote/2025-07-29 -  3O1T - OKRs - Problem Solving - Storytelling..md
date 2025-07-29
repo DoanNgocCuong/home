@@ -143,3 +143,17 @@ anh ​@Tuan Anh Nguyen Dang​
 | Action                                                                                                                                                                      |                                              |                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Results                                                                                                                                                                     |                                              |                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Call to action                                                                                                                                                              |                                              |                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+
+### Trung cấp – Khung 5 tầng tổ chức tri thức (theo [PARA system - Forte Labs])
+
+> Được dùng phổ biến bởi PM, kiến trúc sư hệ thống & tác giả sách
+
+- **P**rojects – Việc đang làm
+    
+- **A**reas – Vai trò chính cần duy trì (Sản phẩm, Marketing, CSKH...)
+    
+- **R**esources – Chủ đề/thư viện tri thức
+    
+- **A**rchives – Lưu trữ đã hoàn thành  
+    ➡ Em gán mọi thông tin vào đúng tầng ➜ biết nên tìm/cập nhật ở đâu
