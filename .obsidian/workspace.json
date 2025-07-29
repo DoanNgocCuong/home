@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-07-29.md",
+                "file": "3_Learning/3_AI_Engineering/4. DeepLearning NLP RAG/4.0 Prompting/3. Cách điều chỉnh Prompt để kết quả trả ra được Consistency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-29"
+              "title": "3. Cách điều chỉnh Prompt để kết quả trả ra được Consistency"
             }
           }
         ],
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AI ENGINEERING DOMAIN",
+                "query": "file: promp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
+                "file": "3_Learning/3_AI_Engineering/4. DeepLearning NLP RAG/4.0 Prompting/3. Cách điều chỉnh Prompt để kết quả trả ra được Consistency.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.5 Config link host + docker compose Trên server không cần ssh"
+              "title": "Outline of 3. Cách điều chỉnh Prompt để kết quả trả ra được Consistency"
             }
           },
           {
@@ -205,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,12 +226,14 @@
   },
   "active": "d48d646fbf03a429",
   "lastOpenFiles": [
-    "1. DailyNote/2025-07-28  3O 1T.md",
-    "1. DailyNote/2025-07-29.md",
+    "3_Learning/3_AI_Engineering/4. DeepLearning NLP RAG/4.0 Prompting/0. Prompting Builder.md",
+    "3_Learning/3_AI_Engineering/4. DeepLearning NLP RAG/4.0 Prompting/3. Cách điều chỉnh Prompt để kết quả trả ra được Consistency.md",
+    "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Storytelling..md",
+    "1. DailyNote/2025-07-28  3O 1T và StoryTelling bản improve.md",
+    "1. DailyNote/2025-07-27.md",
     "1. DailyNote/Learning/1. Problem Solving.md",
     "1. DailyNote/RedTeam Pika Bot.md",
     "1. DailyNote/attachments/Pasted image 20250729072711.png",
-    "1. DailyNote/2025-07-27.md",
     "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
     "1. DailyNote/Tính theo Dự Án/0. 3O1T và OKRs.md",
     "1. DailyNote/Tính theo Dự Án/ExdrawJob 1 Step Up.md",
@@ -265,8 +266,6 @@
     "1. DailyNote/2025-07-24.md",
     "Untitled 2.canvas",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/7. Về đẩy code thao tác với server - git.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/4. Tối ưu DOCKER - GPT Research.md",
     "1. DailyNote/Tính theo Dự Án/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas",
