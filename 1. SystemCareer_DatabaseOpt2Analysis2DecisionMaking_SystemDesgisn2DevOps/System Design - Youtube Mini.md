@@ -10,4 +10,6 @@
 ---
 1. Video được chunk nhỏ ra và upload từng đoạn => Youtube có, bảo sao up đến 1 đoạn mà gãy thì nó vẫn upload được. 
 2. Video được upload lên bằng Pre-signed URLs Approach 
-3. 
+
+
+![[Pasted image 20250729203938.png]]
