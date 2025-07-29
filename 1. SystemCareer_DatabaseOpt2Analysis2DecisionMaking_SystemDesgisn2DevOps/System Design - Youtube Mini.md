@@ -81,3 +81,23 @@ Cục DB cố định chẳng hạn có: keyword: Project Manager
 +, Case 2: user search: PM, quản lý dự án, ... => Sử dụng 1 bảng mapping các từ thường gặp với cụm => Khổ cái là cần define làm sao để nó cover được hết các cases.  
 +, Case 3: User search linh tinh: quản lý quản các dự án, manager Product, ... manager dự án, ... Rồi thì sai chính tả: quản dự án, Prod Mager, ... => thì trường hợp này mn thường xử lý  như nào ạ.
 ```
+
+
+```
+Em chào các sếp và các ace ạ. Em đang tìm cách giải bài này (được sếp giao mấy hôm nay chuẩn bị cho con sản phẩm lên Product thật ạ).  
+Xin tham vấn từ các sếp và ace cùng thảo luận ạ.  
+  
+[Bài toán Search trong DB cố định]  
+Cục DB cố định chẳng hạn có: keyword: Project Manager  
+- Search mục tiêu là tìm được data 'Project Manager'  
+  
++, Case 1: user search có kí tự: Pro, ... => DB hỗ trợ, em đã triển xong  
++, Case 2: user search: PM, quản lý dự án, ... => Sử dụng 1 bảng mapping các từ thường gặp với cụm => Khổ cái là cần define làm sao để nó cover được hết các cases.  
++, Case 3: User search linh tinh: quản lý quản các dự án, manager Product, ... manager dự án, ... Rồi thì sai chính tả: quản dự án, Prod Mager, ... => thì trường hợp này mn thường xử lý  như nào ạ. Em tính đưa con AI vào mà nó làm tốc độ search bị giảm đi.  
+  
+Em xin phép tag các sếp ạ. sếp , sếp , sếp  
+Anh anh :D  
+Em cảm ơn mn ạ :D  
+  
+#cung_giai_bai_tap :D
+```
