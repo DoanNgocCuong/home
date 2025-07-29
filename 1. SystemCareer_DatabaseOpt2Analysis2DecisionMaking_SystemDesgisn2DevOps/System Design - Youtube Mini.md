@@ -43,3 +43,12 @@ còn 1 cách mapping sẵn các từ khóa thì cần define đủ còn lệch t
 
 
 ![[Pasted image 20250729212440.png]]
+
+
+Các sếp cho em hỏi  
+  
+Trong ví dụ vừa rồi,  
+
+- nếu user search tiếng anh 'noodles' thì xử lý như nào ạ  
+    
+- nếu user search sai chính tả 'mua'
