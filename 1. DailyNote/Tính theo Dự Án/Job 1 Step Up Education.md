@@ -168,13 +168,13 @@ Trong mỗi cấu trúc nhỏ chỉ rõ kết quả đầu ra rõ ràng
 
 # 3. 3 version cho tasks 1000 nghề 
 
-- Version 1: 
+- Version 1: (LeanSpeak)
   <industry_job-role_job-level>
-- Version 2: 
+- Version 2: (trước 25/07/2025)
   <domain_group_job-role_job-level_industry> 
   +, Với việc có group chung cho toàn bộ job-role trong domain, group riêng cho từng job-role 
   +, Với việc có domain, group_job-role_job-level thì industry khác nhau nó có output khác nhau 
-- Version 3: 
+- Version 3:  (28/07/2025)
   <industry_job-role_job-level> và <domain> 
   +, Khi user điền indutry và job-role, nó mapping trực tiếp với lộ trình của industry và job-role đó. 
   +, Khi user điền thông tin sai khác đi, thì cố gắng recommend cho đúng job-role có trong DB và Group đúng của nó. 
