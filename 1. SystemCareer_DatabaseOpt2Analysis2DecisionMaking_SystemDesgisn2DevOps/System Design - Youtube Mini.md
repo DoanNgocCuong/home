@@ -37,3 +37,6 @@ còn 1 cách mapping sẵn các từ khóa thì cần define đủ còn lệch t
 
 
 ![[Pasted image 20250729211025.png]]
+
+
+![[Pasted image 20250729212049.png]]
