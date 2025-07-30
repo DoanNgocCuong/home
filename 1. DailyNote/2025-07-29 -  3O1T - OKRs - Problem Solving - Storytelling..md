@@ -261,3 +261,10 @@ Những phương pháp này đã được các bậc tiền bối thử nghiệm
 2. ưa thích giải các bài toán khó 
 3. Cảm giác não bị ngợp vì nhiều thông tin quá, nhiều vấn đề khó qua => thật ra bạn tưởng đã đạt tới giới hạn thực chất mới chỉ đạt tới 30% và đó dấu hiệu não mình tăng trưởng. 
 4. Tách biệt thành công/thất bại với Hạnh phúc và niềm vui. 
+
+
+---Các loại design sản phẩm - structure -
+
+---
+
+Retention Design, Learning Design, Marketing research design, technical design, ...
