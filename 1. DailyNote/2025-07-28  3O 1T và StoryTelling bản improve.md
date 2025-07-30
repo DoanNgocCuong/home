@@ -27,5 +27,4 @@ Nguyên nhân + Dẫn chứng
 Giải pháp + Dẫn chứng (Tasks, Actions) 
 Người khác xác nhận
 ```
-
-
+```
