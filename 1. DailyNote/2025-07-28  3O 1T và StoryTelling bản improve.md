@@ -11,11 +11,21 @@ Về bản chất: 3O1T quá là giống với OKRs.
 
 
 
-| Result (Hook: ở đây có ai muốn đạt được điều gì đó)                        | <br>                                                                                                                                                                                    |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Situation                                                                  | Trao đổi với team, đưa ý kiến các kiểu đều cẩn trọng hơn. <br>- Nghe đứa em 2k5, 2k4 feedback dường như bình tĩnh như ko, cái tôi thu về quá bé. <br>- The Road đã quá rõ con đường.  a |
-| Think (nghĩ, cảm thấy Feel, <br>vì sao đặt câu hỏi phản biện Nếu ) - 80-20 |                                                                                                                                                                                         |
-| Action                                                                     |                                                                                                                                                                                         |
-| Results                                                                    |                                                                                                                                                                                         |
-| Call to action                                                             |                                                                                                                                                                                         |
+| Result (Hook: ở đây có ai muốn đạt được điều gì đó)                            | <br>                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Situation                                                                      | Trao đổi với team, đưa ý kiến các kiểu đều cẩn trọng hơn. <br>- Nghe đứa em 2k5, 2k4 feedback dường như bình tĩnh như ko, cái tôi thu về quá bé. <br>- The Road đã quá rõ con đường.  a |
+| Think (nghĩ, cảm thấy Feel, <br>vì sao đặt câu hỏi phản biện Nếu ) - 80-20<br> |                                                                                                                                                                                         |
+| Action                                                                         |                                                                                                                                                                                         |
+| Results                                                                        |                                                                                                                                                                                         |
+| Call to action                                                                 |                                                                                                                                                                                         |
+
+```
+Report ngắn gọn cho các sếp dưới góc nhìn Problem Solving
+
+Vấn đề + Objective, Outcome, Metrics + Key Results
+Nguyên nhân + Dẫn chứng 
+Giải pháp + Dẫn chứng (Tasks, Actions) 
+Người khác xác nhận
+```
+
 
