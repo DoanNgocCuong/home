@@ -158,4 +158,12 @@ anh ​@Tuan Anh Nguyen Dang​
 - **R**esources – Chủ đề/thư viện tri thức
     
 - **A**rchives – Lưu trữ đã hoàn thành  
-    ➡ Em gán mọi thông tin vào đúng tầng ➜ biết nên tìm/cập nhật ở đâu
+    ➡ Em gán mọi thông tin vào đúng tầng ➜ biết nên tìm/cập nhật ở đâu\\
+
+---
+
+1. Tự tẩy não mình để tìm kiếm cảm giác khó chịu 
+2. ưa thích giải các bài toán khó 
+3. Cảm giác não bị ngợp vì nhiều thông tin quá => thật ra bạn tưởng đã đạt tới giới hạn thực chất mới chỉ đạt tới 30%
+
+---
