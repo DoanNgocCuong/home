@@ -268,3 +268,11 @@ Những phương pháp này đã được các bậc tiền bối thử nghiệm
 ---
 
 Retention Design, Learning Design, Marketing research design, technical design, ...
+
+
+
+-----
+
+Bắt đầu bằng: Câu hỏi, cần đưa quyết định, 1 vài insight. 
+-> Tư duy hệ thống: => sau khi AI đưa ra. 
+Đánh giá lại Risk, Đưa câu hỏi để đi phỏng vấn Expert. 
