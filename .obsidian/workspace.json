@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-07-30.md",
+                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-30"
+              "title": "Job 1 Step Up Education"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5110321044922
+    "width": 298.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "422b3eaae750cadd",
@@ -94,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-07-30.md",
+                "file": "1. DailyNote/Tính theo Dự Án/Job 1 Step Up Education.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-30"
+              "title": "Outline of Job 1 Step Up Education"
             }
           },
           {
@@ -196,8 +197,8 @@
   },
   "active": "3e70b264eb8f1d7c",
   "lastOpenFiles": [
-    "1. CHIẾN LƯỢC/5. Feedback Ace ở Product - Bank - Fintech.md",
     "1. DailyNote/2025-07-30.md",
+    "1. CHIẾN LƯỢC/5. Feedback Ace ở Product - Bank - Fintech.md",
     "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
     "1. CHIẾN LƯỢC/-7. Chiến lược Job nước ngoài.md",
     "1. CHIẾN LƯỢC/2. Định nghĩa về Finance - Bank, Investment, Stock.md",
