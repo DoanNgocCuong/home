@@ -170,106 +170,35 @@ anh ​@Tuan Anh Nguyen Dang​
 
 
 
-Dựa trên nghiên cứu chuyên sâu, tôi sẽ chia sẻ với bạn những phương pháp rèn luyện bộ não mà các bậc tiền bối đã sử dụng để xử lý các vấn đề khó một cách bền bỉ và không bị quá tải:
-
-## 🧠 **7 TUYỆT CHIÊU RÈN LUYỆN BỘ NÃO HIỆU QUẢ**
-
-### **1. Nguyên tắc 50-10: Quản lý năng lượng não bộ**
-- **Làm việc tập trung 50 phút, nghỉ giải lao 10 phút** 
-- Não bộ có giới hạn nhất định trong việc tiếp nhận và xử lý thông tin
-- Quá 50 phút sẽ khiến cơ thể rơi vào trạng thái mệt mỏi, căng thẳng và mất tập trung
-- Trong 10 phút nghỉ: thư giãn và chắt lọc thông tin quan trọng [CafeF](https://cafef.vn/7-tuyet-chieu-ren-nao-bo-hoc-nhanh-nho-lau-va-thanh-cong-som-20170706224504159.chn)
-
-### **2. Quy tắc 80/20 (Nguyên lý Pareto)**
-- **Tập trung vào 20% quan trọng nhất** của vấn đề
-- 20% này sẽ bao hàm 80% những gì bạn cần biết
-- Đặt câu hỏi: "Yếu tố nào quan trọng nhất để giải quyết vấn đề này?"
-- Từ đó khai thác thông tin sâu hơn một cách có hệ thống
-
-### **3. Tránh đa nhiệm - Tập trung đơn nhiệm**
-- Não bộ giống như máy tính: quá nhiều "tab" sẽ làm chậm tốc độ xử lý
-- Giải quyết nhiều vấn đề cùng lúc làm giảm chất lượng và gây căng thẳng
-- **Sắp xếp ưu tiên** và giải quyết từng vấn đề một cách tuần tự
-
-## 🎯 **TƯ DUY CỦA CÁC NHÀ LÃNH ĐẠO VĨ ĐẠI**
-
-### **4. Tư duy đơn giản - Nhìn thấy bản chất**
-- Bỏ qua những yếu tố phức tạp không cần thiết
-- Tập trung vào những điều quan trọng nhất
-- Tối ưu hóa quy trình, làm cho vấn đề dễ hiểu và dễ giải quyết [OCD](https://ocd.vn/10-tu-duy-quan-ly-tao-nen-nha-lanh-dao-xuat-sac/)
-
-### **5. Tư duy phản biện - Đánh giá khách quan**
-- Phân tích thông tin không bị ảnh hưởng bởi cảm xúc hay thành kiến
-- Biết đặt câu hỏi đúng và tìm hiểu thông tin cần thiết
-- Suy nghĩ thấu đáo trước khi đưa ra quyết định
-
-### **6. Tư duy hệ thống - Nhìn toàn cảnh**
-- Hiểu rõ cách các yếu tố liên kết và ảnh hưởng lẫn nhau
-- Cái nhìn toàn diện thay vì chỉ tập trung vào từng phần riêng lẻ
-- Quản lý sự thay đổi một cách nhịp nhàng và hiệu quả
-
-## 💪 **PHƯƠNG PHÁP CHỐNG QUÁ TẢI TINH THẦN**
-
-### **7. Thay đổi phương pháp tiếp cận**
-- Không bị mắc kẹt trong một cách suy nghĩ duy nhất
-- Thường xuyên đổi mới cách tiếp cận: viết ra giấy, sơ đồ tư duy, thảo luận
-- Tìm ra những đặc điểm đặc trưng của từng vấn đề
-
-### **8. Học hỏi từ bậc thầy**
-- Lắng nghe và học hỏi kinh nghiệm từ những người thành công
-- Tìm hiểu phương pháp họ áp dụng để ghi nhớ và giải quyết vấn đề
-- Kết hợp với phương pháp của bản thân để tìm ra cách hiệu quả nhất
-
-### **9. Ghi chép bằng tay**
-- Nghiên cứu tại Princeton và UCLA chỉ ra: ghi tay tăng cường khả năng lắng nghe
-- Giúp xác định các khái niệm quan trọng tốt hơn
-- Buộc não bộ phải chắt lọc và tóm tắt thông tin quan trọng
-
-## 🚀 **TƯ DUY CHỐNG QUÁ TẢI VÀ XỬ LÝ VẤN ĐỀ KHÓ**
-
-### **10. 6 Tư duy giải quyết vấn đề trong thời đại biến động:**
-
-1. **Luôn tò mò** - Khám phá mọi yếu tố của vấn đề
-2. **Khiêm nhường** - Dám đối mặt với sự mơ hồ
-3. **Tầm nhìn "mắt chuồn chuồn"** - Nhìn đa chiều
-4. **Tập trung thực tại** - Không ngừng thử nghiệm
-5. **Tư duy tích cực** - Duy trì thái độ lạc quan
-6. **Tư duy chủ động** - Làm chủ và chịu trách nhiệm
-
-### **Tâm lý bền bỉ - Quan trọng nhất:**
-> *"Học là cả một quá trình dài lao động của trí não. Sự cố gắng kiên trì và chắt lọc thông tin hàng ngày sẽ giúp bạn ghi nhớ được lượng kiến thức sâu rộng hơn."*
-
-**Như Steve Jobs từng nói:** *"Điểm khác biệt lớn nhất của người thành công và kẻ thất bại chính là sự kiên trì thuần túy. Học không phải là quá trình nước rút mà là cuộc hành trình marathon đường dài."*
-
-## 🎯 **TỔNG KẾT PHƯƠNG PHÁP:**
-
-✅ **Quản lý thời gian:** 50 phút học - 10 phút nghỉ  
-✅ **Tập trung ưu tiên:** Quy tắc 80/20  
-✅ **Đơn nhiệm:** Giải quyết từng vấn đề một  
-✅ **Đa dạng phương pháp:** Thay đổi cách tiếp cận  
-✅ **Học hỏi:** Từ kinh nghiệm của người thành công  
-✅ **Ghi chép:** Bằng tay để tăng cường ghi nhớ  
-✅ **Tâm lý:** Kiên trì và bền bỉ như marathon  
-
-Những phương pháp này đã được các bậc tiền bối thử nghiệm và chứng minh hiệu quả qua nhiều thế hệ. Bí quyết là áp dụng một cách nhất quán và kiên trì!
-
-
-
------
 # Đối mặt với mọi Problem của tất cả mọi người (Leader - thất bại của ae là thất bại của tôi) -> Đưa ra lời giải = việc WHY ĐẾN TẬN CÙNG. 
 1. Tự tẩy não mình để tìm kiếm cảm giác khó chịu 
 2. ưa thích giải các bài toán khó 
 3. Cảm giác não bị ngợp vì nhiều thông tin quá, nhiều vấn đề khó qua => thật ra bạn tưởng đã đạt tới giới hạn thực chất mới chỉ đạt tới 30% và đó dấu hiệu não mình tăng trưởng. 
 4. Tách biệt thành công/thất bại với Hạnh phúc và niềm vui. 
 
+### **Ghi chép bằng tay**
 
----Các loại design sản phẩm - structure -
+- Nghiên cứu tại Princeton và UCLA chỉ ra: ghi tay tăng cường khả năng lắng nghe
+- Giúp xác định các khái niệm quan trọng tốt hơn
+- Buộc não bộ phải chắt lọc và tóm tắt thông tin quan trọng
+1. **Luôn tò mò** - Khám phá mọi yếu tố của vấn đề
+2. 1. **Tầm nhìn "mắt chuồn chuồn"** - Nhìn đa chiều
+3. 1. **Tư duy chủ động** - Làm chủ và chịu trách nhiệm
 
----
+### **Tâm lý bền bỉ - Quan trọng nhất:**
 
-Retention Design, Learning Design, Marketing research design, technical design, ...
+> _"Học là cả một quá trình dài lao động của trí não. Sự cố gắng kiên trì và chắt lọc thông tin hàng ngày sẽ giúp bạn ghi nhớ được lượng kiến thức sâu rộng hơn."_
+
+**Như Steve Jobs từng nói:** _"Điểm khác biệt lớn nhất của người thành công và kẻ thất bại chính là sự kiên trì thuần túy. Học không phải là quá trình nước rút mà là cuộc hành trình marathon đường dài."_
 
 
+✅ **Quản lý thời gian:** 50 phút học - 10 phút nghỉ  
+✅ **Tập trung ưu tiên:** Quy tắc 80/20  
+✅ **Đơn nhiệm:** Giải quyết từng vấn đề một  
+✅ **Đa dạng phương pháp:** Thay đổi cách tiếp cận  
+✅ **Học hỏi:** Từ kinh nghiệm của người thành công  
+✅ **Ghi chép:** Bằng tay để tăng cường ghi nhớ  
+✅ **Tâm lý:** Kiên trì và bền bỉ như marathon
 
 -----
 
