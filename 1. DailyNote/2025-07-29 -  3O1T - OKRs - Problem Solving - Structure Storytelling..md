@@ -124,7 +124,7 @@ anh ​@Tuan Anh Nguyen Dang​
 3. Tinh thần phụng sự tất cả ace, mindset lãnh đạo, thất bại của đồng đội là thất bại của tôi 
 
 ---
-# 3. Lên task theo 3O1T - OKRs - Problem Solving - Storytelling. 
+# 3. Lên task theo 3O1T - OKRs - Problem Solving - Storytelling - TẤM BẢN ĐỒ NGUỒN LỰC CÁ NHÂN THE ROAD THE IMPACT THE POWER
 
 
 
