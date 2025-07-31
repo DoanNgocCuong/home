@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling..md",
+                "file": "1. DailyNote/2025-08-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling."
+              "title": "2025-08-01"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:server",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling..md",
+                "file": "1. DailyNote/2025-08-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling."
+              "title": "Outline of 2025-08-01"
             }
           },
           {
@@ -196,9 +196,23 @@
   },
   "active": "3e70b264eb8f1d7c",
   "lastOpenFiles": [
-    "1. DailyNote/2025-07-30 - TẤM BẢN ĐỒ - NGUỒN LỰC NỘI TẠI - THE ROAD THE IMPACT THE POWER   - STRUCTURE - SYSTEM DESIGN CHỊ TRANG SHARE.md",
     "1. DailyNote/2025-07-31.md",
+    "1. DailyNote/2025-08-01.md",
+    "1. DailyNote/2025-07-24.md",
+    "1. DailyNote/2025-07-23.md",
+    "1. DailyNote/2025-07-22.md",
+    "1. DailyNote/2025-07-21.md",
+    "1. DailyNote/2025-07-20.md",
+    "1. DailyNote/2025-07-19.md",
+    "1. DailyNote/2025-07-18.md",
+    "1. DailyNote/2025-07-17.md",
+    "1. DailyNote/2025-07-16.md",
+    "1. DailyNote/2025-07-14.md",
+    "1. DailyNote/2025-07-09.md",
+    "1. DailyNote/2025-06-27.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
+    "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling..md",
+    "1. DailyNote/2025-07-30 - TẤM BẢN ĐỒ - NGUỒN LỰC NỘI TẠI - THE ROAD THE IMPACT THE POWER   - STRUCTURE - SYSTEM DESIGN CHỊ TRANG SHARE.md",
     "3_Learning/4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
     "3_Learning/4_MLOPs và Full Stack Docker/3. FSDS/1. Khai Giảng 07042025.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md",
@@ -208,20 +222,6 @@
     "1. DailyNote/Learning/1.3 II Agent - Phân tích Framework Decision Making và Problem Solving từ nguồn bên ngoài.md",
     "1. DailyNote/Learning/1.2 II Agent DECISION CANVAS - TEMPLATE ÁP DỤNG FRAMEWORK 6 TẦNG.md",
     "1. CHIẾN LƯỢC/7_3_Phản biện gì không.md",
-    "1. DailyNote/Learning/1. Problem Solving.md",
-    "1. DailyNote/Learning/1.1 II Agent Problem Solving.md",
-    "1. DailyNote/2025-07-27 Cấu trúc theo chiều ngang.md",
-    "1. DailyNote/Tính theo Dự Án/0. 3O1T và OKRs.md",
-    "1. CHIẾN LƯỢC/7_2. Edu và Fin.md",
-    "1. CHIẾN LƯỢC/7_1. Từ AI đến Investor.md",
-    "1. CHIẾN LƯỢC/3. AI Engineering góc nhìn.md",
-    "1. CHIẾN LƯỢC/3. Product Engineering - trước giờ chỉ biết về AI Engineering với các options làm việc ở công ty lớn hay công ty nhỏ, domain Edu hay domain Finance, ....md",
-    "1. CHIẾN LƯỢC/2. Định nghĩa về Finance - Bank, Investment, Stock.md",
-    "1. CHIẾN LƯỢC/6. Nền tảng tuyển dụng.md",
-    "1. CHIẾN LƯỢC/5. Feedback Ace ở Product - Bank - Fintech.md",
-    "1. CHIẾN LƯỢC/5. Đánh giá 1 số Job - DNSE - MSB - Domain Tài chính DNSE vs Giáo dục Step Up Education Chiến lược 40-50 năm.md",
-    "1. CHIẾN LƯỢC/4. AI Engineering_ResearchEngineeringApplicationProduct.md",
-    "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
     "1. DailyNote/attachments/Pasted image 20250730222215.png",
     "1. SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/attachments/Pasted image 20250729212440.png",
     "1. SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/attachments/Pasted image 20250729212049.png",
