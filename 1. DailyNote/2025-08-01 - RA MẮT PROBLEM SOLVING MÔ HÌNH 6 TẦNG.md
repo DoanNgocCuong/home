@@ -1,4 +1,6 @@
 
+# 6H SÁNG: PROBLEM SOLVING
+
 CÁC LOẠI INSIGHT
 
 "Nếu không hiểu khách hàng sâu sắc – ta chỉ đang dạy điều ta muốn, chứ không phải điều họ cần."
@@ -90,7 +92,7 @@ Mỗi insight cho tôi 3 ý tưởng mà khách hàng xem quảng cáo xong mu�
 
 
 ---
- # Áp dụng: 
+ ## Áp dụng Problem Solving: 
 | Tầng                             | Ứng Dụng vào TD                                                                                          | Gợi Ý Phản Ứng Hệ Thống                                                                                                        |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Tầng 0 – Meta-Assessment**     | Phân loại tình huống TD là gì? Sinh lý, cảm xúc, tâm linh, mất phương hướng...?                          | → Nhận dạng bối cảnh: **TD do buồn chán khác với TD do stress, khác với TD do "chán delay" khi đang làm việc khó**.            |
@@ -111,3 +113,21 @@ Mỗi insight cho tôi 3 ý tưởng mà khách hàng xem quảng cáo xong mu�
 |**4. Đánh Giá & Phân Tích (30%)**|Phân tích hiệu quả hệ thống, đo lường tiến triển|- Ghi log từng ngày: khi nào có ham muốn – phản ứng thế nào?- Đánh giá: hoạt động thay thế nào hiệu quả nhất?- Đo chỉ số: mood, năng lượng, sự tập trung, số giờ deep work, số lần relapse- So sánh hiệu quả giữa “tránh xa” vs “chuyển hóa”|
 |**5. Quyết Định & Cam Kết (10%)**|Chốt cam kết cá nhân rõ ràng, tuyên bố / nghi thức|- Viết lời cam kết bỏ 90 ngày – ký tên – in ra / đọc lớn mỗi sáng- Tìm **Accountability partner** hoặc công khai streak (nếu phù hợp)- Gắn hành vi với bản sắc: “Tôi là người kiểm soát được dục vọng & dùng nó để xây sự nghiệp”|
 |**6. Thực Thi & Cải Tiến (10%)**|Làm thật, theo dõi, phản hồi nhanh|- Sử dụng habit tracker hoặc Notion/Streaks App- Mỗi tuần review: có gì hiệu quả? Trigger mới? Bẫy mới?- Cải tiến hệ thống dựa trên feedback: thay đổi hoạt động thay thế nếu nhàm chán- Kỷ luật giờ ngủ / ăn / workout như một phần cấu trúc bảo vệ bản thân|
+
+
+
+# 9h  sáng: 
+
+```bash
+Mục tiêu của tôi là: X3 HIỆU SUẤT CỦA ĐỘI NHÓM
+
+Hãy giúp tôi giải quyết vấn đề trên 
+Nhưng đầu tiên hãy tách lớp thành cấu trúc 4-5 phần quan trọng nhất tác động đến B ....... (sắp xếp theo thứ tự) 
+Trong mỗi cấu trúc nhỏ chỉ rõ kết quả đầu ra rõ ràng
+```
+
+
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|Cường bé - AI|- _**Outcome:**_  <br>    _**- Model Fast Response**_ mượt mà mang lại trải nghiệm woa cho trẻ.<br>    <br>- _**Output:**_  <br>    - Lên được _**1 version hoàn chỉnh để test đánh giá vào chiều thứ 6.**_<br>    <br>- _**Task:**_|Hôm qua:  <br>1. _**Gen Data để đem đi finetune**_ ( work-along chị Trang)  <br>- Vấn đề: Data gen ra chưa khớp với context.  <br>=> Lên được giải pháp: thêm 2-3 turns phía trước (thay vì 1 turn)  <br>2. _**Finetune**_: thông luồng với data sample|1. _**Gen Data version mới**_ ( work-along chị Trang)  <br>    -> Data pass, make sense<br>    <br>2. _**Cầm đi fine tune**_  <br>    => Done!<br>    <br><br>---|- _**Risk:**_  <br>    +, _**Data gen**_ ra vẫn không make sense => Tìm hướng khác trong quá trình làm.  <br>    +, _**Task 1000 Nghề xen ngang**_ (bên phía a Trúc chưa báo lại time) - đã hỏi.|
