@@ -39,12 +39,14 @@
             "id": "4b72934e9149e9a2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/AI and techstacks for PM.pdf"
+                "file": "1. DailyNote/2025-08-01 - RA MẮT PROBLEM SOLVING MÔ HÌNH 6 TẦNG.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "AI and techstacks for PM"
+              "icon": "lucide-file",
+              "title": "2025-08-01 - RA MẮT PROBLEM SOLVING MÔ HÌNH 6 TẦNG"
             }
           }
         ],
@@ -121,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/AI and techstacks for PM.pdf",
+                "file": "1. DailyNote/2025-08-01 - RA MẮT PROBLEM SOLVING MÔ HÌNH 6 TẦNG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI and techstacks for PM"
+              "title": "Outline of 2025-08-01 - RA MẮT PROBLEM SOLVING MÔ HÌNH 6 TẦNG"
             }
           },
           {
@@ -223,10 +225,11 @@
   },
   "active": "4b72934e9149e9a2",
   "lastOpenFiles": [
+    "1. DailyNote/2025-08-01.md",
+    "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/AI and techstacks for PM.pdf",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/input_Step Up product guide.pdf",
     "1. CHIẾN LƯỢC/7_2. Edu và Fin.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/input_AI and techstacks for PM.pdf",
-    "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/AI and techstacks for PM.pdf",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/Step Up product guide.pdf",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/problem-2up.pdf",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/Problem solving 101.pdf",
@@ -237,7 +240,6 @@
     "1. CHIẾN LƯỢC/7_1. Từ AI đến Investor.md",
     "1. DailyNote/2025-08-01 - RA MẮT PROBLEM SOLVING MÔ HÌNH 6 TẦNG.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường",
-    "1. DailyNote/2025-08-01.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "1. DailyNote/2025-07-27 Cấu trúc theo chiều ngang.md",
     "1. DailyNote/2025-07-29.md",
