@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/Learning/1.7 Template.md",
+                "file": "1. DailyNote/Learning/2.3_ Đánh giá.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.7 Template"
+              "title": "2.3_ Đánh giá"
             }
           }
         ],
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/Learning/1.7 Template.md",
+                "file": "1. DailyNote/Learning/2.3_ Đánh giá.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.7 Template"
+              "title": "Outline of 2.3_ Đánh giá"
             }
           },
           {
@@ -211,12 +211,12 @@
   },
   "active": "1d4f4917ff90d575",
   "lastOpenFiles": [
-    "1. DailyNote/Learning/1.6 LOOP_IIAgent_Manus_Genspark --- 10_10 MANUS + II AGENT rồi mà GENSPARK BẢO 9.5 LÝ THUYẾT, 6.5 THỰC TẾ (ĐỘ PHỨC TẠP VÀ CHƯA CÓ SỰ ĐÚC KẾT CỐT LÕI).md",
-    "1. DailyNote/Learning/1.7 Template.md",
-    "1. DailyNote/2025-08-02.md",
-    "1. DailyNote/Learning/2.4_Version 1.md",
-    "1. DailyNote/Learning/2.3_ Đánh giá.md",
     "1. DailyNote/Learning/2.2_ LEARNING - BỘ NÃO BỀN BỈ.md",
+    "1. DailyNote/Learning/2.3_ Đánh giá.md",
+    "1. DailyNote/Learning/2.4_Version 1.md",
+    "1. DailyNote/Learning/1.7 Template.md",
+    "1. DailyNote/Learning/1.6 LOOP_IIAgent_Manus_Genspark --- 10_10 MANUS + II AGENT rồi mà GENSPARK BẢO 9.5 LÝ THUYẾT, 6.5 THỰC TẾ (ĐỘ PHỨC TẠP VÀ CHƯA CÓ SỰ ĐÚC KẾT CỐT LÕI).md",
+    "1. DailyNote/2025-08-02.md",
     "1. DailyNote/Learning/2. Learning - PP HỌC TẬP THIÊN TÀI.md",
     "1. DailyNote/Learning/1.5 Manus or II Agent - Tổng hợp lại cuối.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
