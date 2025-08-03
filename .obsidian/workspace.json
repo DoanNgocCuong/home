@@ -204,13 +204,17 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "1d4f4917ff90d575",
   "lastOpenFiles": [
-    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
+    "1. DailyNote/2025-08-02.md",
+    "1. DailyNote/2025-08-01 phần 2.md",
     "1. DailyNote/2025-08-03.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/0. basic git.md",
     "1. CHIẾN LƯỢC/2. Định nghĩa về Finance - Bank, Investment, Stock.md",
     "1. CHIẾN LƯỢC/5. Đánh giá 1 số Job - DNSE - MSB - Domain Tài chính DNSE vs Giáo dục Step Up Education Chiến lược 40-50 năm.md",
@@ -225,11 +229,9 @@
     "1. DailyNote/Learning/2.2_ LEARNING - BỘ NÃO BỀN BỈ.md",
     "1. DailyNote/Learning/1.7 Template.md",
     "1. DailyNote/Learning/1.6 LOOP_IIAgent_Manus_Genspark --- 10_10 MANUS + II AGENT rồi mà GENSPARK BẢO 9.5 LÝ THUYẾT, 6.5 THỰC TẾ (ĐỘ PHỨC TẠP VÀ CHƯA CÓ SỰ ĐÚC KẾT CỐT LÕI).md",
-    "1. DailyNote/2025-08-02.md",
     "1. DailyNote/Learning/2. Learning - PP HỌC TẬP THIÊN TÀI.md",
     "1. DailyNote/Learning/1.5 Manus or II Agent - Tổng hợp lại cuối.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
-    "1. DailyNote/2025-08-01 phần 2.md",
     "1. DailyNote/2025-08-01.md",
     "1. DailyNote/VietBai",
     "1. DailyNote/attachments/Pasted image 20250802061609.png",
