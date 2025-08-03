@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
+                "file": "1. DailyNote/2025-08-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. git, SOLID, Code chuẩn"
+              "title": "2025-08-03"
             }
           }
         ],
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
+                "file": "1. DailyNote/2025-08-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. git, SOLID, Code chuẩn"
+              "title": "Outline of 2025-08-03"
             }
           },
           {
@@ -210,11 +209,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0cf1f93d49c9ecae",
+  "active": "1d4f4917ff90d575",
   "lastOpenFiles": [
+    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "1. DailyNote/2025-08-03.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/0. basic git.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "1. CHIẾN LƯỢC/2. Định nghĩa về Finance - Bank, Investment, Stock.md",
     "1. CHIẾN LƯỢC/5. Đánh giá 1 số Job - DNSE - MSB - Domain Tài chính DNSE vs Giáo dục Step Up Education Chiến lược 40-50 năm.md",
     "3_Learning/4_MLOPs và Full Stack Docker/GITHUB CƠ BẢN.md",
