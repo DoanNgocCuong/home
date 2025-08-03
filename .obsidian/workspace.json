@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: git",
+                "query": "file: ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +210,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1d4f4917ff90d575",
+  "active": "0cf1f93d49c9ecae",
   "lastOpenFiles": [
     "1. DailyNote/2025-08-03.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/0. basic git.md",
