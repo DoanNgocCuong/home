@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ",
+                "query": "file: deploy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5110321044922,
-    "collapsed": true
+    "width": 298.5110321044922
   },
   "right": {
     "id": "422b3eaae750cadd",
@@ -205,15 +204,18 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1d4f4917ff90d575",
+  "active": "de333728293ea4d4",
   "lastOpenFiles": [
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
+    "1. DailyNote/2025-08-04.md",
     "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling..md",
     "1. DailyNote/2025-07-30 - TẤM BẢN ĐỒ - NGUỒN LỰC NỘI TẠI - THE ROAD THE IMPACT THE POWER   - STRUCTURE - SYSTEM DESIGN CHỊ TRANG SHARE.md",
     "1. DailyNote/2025-08-01 - RA MẮT PROBLEM SOLVING MÔ HÌNH 6 TẦNG.md",
-    "1. DailyNote/2025-08-04.md",
     "1. DailyNote/attachments/Pasted image 20250804053009.png",
     "1. DailyNote/attachments/Pasted image 20250804005804.png",
     "1. DailyNote/2025-08-03.md",
@@ -237,7 +239,6 @@
     "1. DailyNote/Learning/1.6 LOOP_IIAgent_Manus_Genspark --- 10_10 MANUS + II AGENT rồi mà GENSPARK BẢO 9.5 LÝ THUYẾT, 6.5 THỰC TẾ (ĐỘ PHỨC TẠP VÀ CHƯA CÓ SỰ ĐÚC KẾT CỐT LÕI).md",
     "1. DailyNote/Learning/2. Learning - PP HỌC TẬP THIÊN TÀI.md",
     "1. DailyNote/Learning/1.5 Manus or II Agent - Tổng hợp lại cuối.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "1. DailyNote/2025-08-01.md",
     "1. DailyNote/VietBai",
     "1. DailyNote/attachments/Pasted image 20250802061609.png",
