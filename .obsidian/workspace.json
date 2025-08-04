@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_MLOPs và Full Stack Docker/1. Git/9. Server.md",
+                "file": "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Server"
+              "title": "Linux"
             }
           }
         ],
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/4_MLOPs và Full Stack Docker/1. Git/9. Server.md",
+                "file": "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Linux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 9. Server"
+              "title": "Outline of Linux"
             }
           },
           {
@@ -211,10 +211,12 @@
   },
   "active": "1d4f4917ff90d575",
   "lastOpenFiles": [
-    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/3. commit, deploy, release Note.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/9. Server.md",
-    "1. DailyNote/2025-08-04.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Linux.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống",
+    "1. DailyNote/2025-08-04.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/9. Server.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/3. commit, deploy, release Note.md",
     "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling..md",
     "1. DailyNote/2025-07-30 - TẤM BẢN ĐỒ - NGUỒN LỰC NỘI TẠI - THE ROAD THE IMPACT THE POWER   - STRUCTURE - SYSTEM DESIGN CHỊ TRANG SHARE.md",
     "1. DailyNote/2025-08-01 - RA MẮT PROBLEM SOLVING MÔ HÌNH 6 TẦNG.md",
@@ -246,12 +248,10 @@
     "1. DailyNote/attachments/Pasted image 20250802061609.png",
     "1. DailyNote/attachments/Pasted image 20250802052622.png",
     "1. DailyNote/attachments/Pasted image 20250802051346.png",
-    "1. CHIẾN LƯỢC/7_1. Từ AI đến Investor.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/AI and techstacks for PM.pdf",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/input_Step Up product guide.pdf",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/input_AI and techstacks for PM.pdf",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/Step Up product guide.pdf",
-    "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/problem-2up.pdf",
     "1. DailyNote/attachments/Pasted image 20250801070735.png",
     "1. DailyNote/attachments/Pasted image 20250730222215.png",
     "1. SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/attachments/Pasted image 20250729212440.png",
