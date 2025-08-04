@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-04.md",
+                "file": "3_Learning/4_MLOPs và Full Stack Docker/1. Git/9. Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-04"
+              "title": "9. Server"
             }
           }
         ],
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-04.md",
+                "file": "3_Learning/4_MLOPs và Full Stack Docker/1. Git/9. Server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-04"
+              "title": "Outline of 9. Server"
             }
           },
           {
@@ -209,10 +209,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "de333728293ea4d4",
+  "active": "1d4f4917ff90d575",
   "lastOpenFiles": [
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/3. commit, deploy, release Note.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/9. Server.md",
     "1. DailyNote/2025-08-04.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling..md",
     "1. DailyNote/2025-07-30 - TẤM BẢN ĐỒ - NGUỒN LỰC NỘI TẠI - THE ROAD THE IMPACT THE POWER   - STRUCTURE - SYSTEM DESIGN CHỊ TRANG SHARE.md",
     "1. DailyNote/2025-08-01 - RA MẮT PROBLEM SOLVING MÔ HÌNH 6 TẦNG.md",
@@ -245,8 +247,6 @@
     "1. DailyNote/attachments/Pasted image 20250802052622.png",
     "1. DailyNote/attachments/Pasted image 20250802051346.png",
     "1. CHIẾN LƯỢC/7_1. Từ AI đến Investor.md",
-    "1. CHIẾN LƯỢC/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
-    "1. CHIẾN LƯỢC/-7. Chiến lược Job nước ngoài.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/AI and techstacks for PM.pdf",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/input_Step Up product guide.pdf",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/input_AI and techstacks for PM.pdf",
