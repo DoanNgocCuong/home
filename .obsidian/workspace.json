@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,10 +212,10 @@
   },
   "active": "1d4f4917ff90d575",
   "lastOpenFiles": [
-    "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Lệnh Linux Thường dùng nhất.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống",
     "1. DailyNote/2025-08-04.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Lệnh Linux Thường dùng nhất.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/9. Server.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/3. commit, deploy, release Note.md",
     "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling..md",
