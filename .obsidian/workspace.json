@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: server",
+                "query": "file: serve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,12 +196,12 @@
   },
   "active": "3e70b264eb8f1d7c",
   "lastOpenFiles": [
-    "1. DailyNote/2025-08-01 - RA MẮT PROBLEM SOLVING MÔ HÌNH 6 TẦNG.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "1. DailyNote/2025-08-05.md",
+    "1. DailyNote/2025-08-01 - RA MẮT PROBLEM SOLVING MÔ HÌNH 6 TẦNG.md",
     "3_Learning/4_MLOPs và Full Stack Docker/Untitled 1",
     "1. DailyNote/attachments/Pasted image 20250805160337.png",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Lệnh Linux Thường dùng nhất.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "3_Learning/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
     "3_Learning/4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 10 - Call Postman tới được 9404. - Run docker compose local 25050 call được 9404 - Nhưng cứ đóng server vào là ko được.md",
