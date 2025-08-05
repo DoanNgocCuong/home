@@ -34,3 +34,12 @@ netstat -tlnp | grep :3099
 - `a`: tất cả connections
 
 Lệnh phổ biến nhất là `netstat -tulpn | grep :3099` để xem process nào đang sử dụng port 3099.
+
+
+```
+4d [ubuntu@mgc-dev2-3090:~/hoailb/ … /MiniProd_NLP2_IntentClassification_MappingFastResponse_ver2_T8_2025_StepUpEducation]└4 <base> main(+2367/-92)* ± docker ps | grep 30005
+dff58379f33a   vastai/vllm:v0.7.0-cuda-12.1-pytorch-2.5.1-py312                "/opt/instance-tools…"    3 hours ago    Up 3 hours                      0.0.0.0:30005->8000/tcp, :::30005->8000/tcp                                                                                focused_murdock
+4d [ubuntu@mgc-dev2-3090:~/hoailb/ … /MiniProd_NLP2_IntentClassification_MappingFastResponse_ver2_T8_2025_StepUpEducation]└4 <base> main(+2367/-92)* ± docker kill dff58379f33a
+dff58379f33a
+4d [ubuntu@mgc-dev2-3090:~/hoailb/ … /MiniProd_NLP2_IntentClassification_MappingFastResponse_ver2_T8_2025_StepUpEducation]└4 <base> main(+2367/-92)* ± 
+```
