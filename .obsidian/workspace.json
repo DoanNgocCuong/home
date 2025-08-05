@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-05.md",
+                "file": "3_Learning/4_MLOPs và Full Stack Docker/1. Git/3. commit, deploy, release Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-05"
+              "title": "3. commit, deploy, release Note"
             }
           }
         ],
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-05.md",
+                "file": "3_Learning/4_MLOPs và Full Stack Docker/1. Git/3. commit, deploy, release Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-05"
+              "title": "Outline of 3. commit, deploy, release Note"
             }
           },
           {
@@ -212,9 +212,9 @@
   },
   "active": "1d4f4917ff90d575",
   "lastOpenFiles": [
+    "1. DailyNote/2025-08-05.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/3. commit, deploy, release Note.md",
-    "1. DailyNote/2025-08-05.md",
     "1. DailyNote/2025-08-04.md",
     "1. DailyNote/attachments/Pasted image 20250804181412.png",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Lệnh Linux Thường dùng nhất.md",
