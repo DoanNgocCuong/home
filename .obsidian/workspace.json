@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: deploy",
+                "query": "file: depl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,15 +205,17 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "1d4f4917ff90d575",
   "lastOpenFiles": [
-    "1. DailyNote/2025-08-04.md",
-    "1. DailyNote/2025-08-05.md",
-    "1. DailyNote/attachments/Pasted image 20250804181412.png",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
+    "1. DailyNote/2025-08-05.md",
+    "1. DailyNote/2025-08-04.md",
+    "1. DailyNote/attachments/Pasted image 20250804181412.png",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/3. commit, deploy, release Note.md",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Lệnh Linux Thường dùng nhất.md",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống",
