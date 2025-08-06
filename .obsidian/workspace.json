@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
+                "file": "1. DailyNote/2025-08-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Server Deploy - mật khẩu vào Server - Git"
+              "title": "2025-08-06"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
+                "file": "1. DailyNote/2025-08-06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Server Deploy - mật khẩu vào Server - Git"
+              "title": "Outline of 2025-08-06"
             }
           },
           {
@@ -197,8 +196,8 @@
   },
   "active": "3e70b264eb8f1d7c",
   "lastOpenFiles": [
-    "1. DailyNote/2025-08-06.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
+    "1. DailyNote/2025-08-06.md",
     "1. DailyNote/2025-08-05.md",
     "1. DailyNote/attachments/Pasted image 20250806064213.png",
     "3_Learning/4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
