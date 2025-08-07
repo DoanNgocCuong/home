@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-07.md",
+                "file": "3_Learning/4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-07"
+              "title": "2.4 Docker Hub với Server"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-07.md",
+                "file": "3_Learning/4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-07"
+              "title": "Outline of 2.4 Docker Hub với Server"
             }
           },
           {
@@ -240,8 +240,8 @@
   },
   "active": "4be791d11495a4f6",
   "lastOpenFiles": [
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "1. DailyNote/2025-08-07.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "3_Learning/4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
     "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora.md",
     "1. Lập trình nói chung/Tool/Kiểm tra máy tính laptop.md",
