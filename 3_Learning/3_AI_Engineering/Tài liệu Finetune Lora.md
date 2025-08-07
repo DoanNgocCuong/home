@@ -9131,3 +9131,258 @@ Option 2:
 Dockerfile riêng xong build trước 
 Xong đóng docker compose rồi docker compose up --build -d 
 Option 3: Đóng dockerfile riêng rồi docker run
+
+
+---
+## 🎯 **ỨNG DỤNG CHO BÀI CỦA BẠN**
+
+Dựa trên GitHub issue, tôi sẽ đưa ra 3 options với **pros/cons** cụ thể:
+
+---
+
+## 🔧 **OPTION 1: FIX TRỰC TIẾP (QUICKEST)**
+
+### **Fixed Docker Command:**
+```bash
+#!/bin/bash
+# deploy_qwen3_fixed.sh
+
+# Clean up
+docker stop pika_qwen3 2>/dev/null || true
+docker rm pika_qwen3 2>/dev/null || true
+
+# Use v0.8.5 with CUDA compatibility fixes
+docker run --runtime nvidia --gpus '"device=2"' \
+    -e CUDA_VISIBLE_DEVICES=2 \
+    -e VLLM_USE_V1=False \
+    -e TRITON_PTXAS_PATH=/usr/local/cuda-12.1/bin/ptxas \
+    -v ~/.cache/huggingface:/root/.cache/huggingface \
+    -v /home/ubuntu/hoailb/wait_response/MiniProd_NLP2_IntentClassification_MappingFastResponse_ver2_T8_2025_StepUpEducation/CKP_v1/tuning/pretrained_models/unsloth_chatml_finetuned/checkpoint-60:/app/model \
+    -p 30005:8000 \
+    --ipc=host \
+    --name pika_qwen3 \
+    --restart unless-stopped \
+    vllm/vllm-openai:v0.8.5 \
+    --model unsloth/Qwen3-1.7B \
+    --enable-lora \
+    --lora-modules fastresponse=/app/model \
+    --api-key hoailb-vllm \
+    --gpu-memory-utilization 0.7 \
+    --trust-remote-code \
+    --host 0.0.0.0 \
+    --port 8000 \
+    --enable-chunked-prefill=False \
+    --max-model-len 32768 \
+    --dtype float16
+
+echo "Container status:"
+docker ps | grep pika_qwen3
+echo "Container logs:"
+docker logs pika_qwen3 --tail 20
+```
+
+**Pros:** ✅ Nhanh nhất, minimal changes
+**Cons:** ⚠️ Vẫn có thể có CUDA compatibility issues
+
+---
+
+## 🏗️ **OPTION 2: DOCKERFILE + DOCKER COMPOSE (RECOMMENDED)**
+
+### **Dockerfile:**
+```dockerfile
+# Dockerfile.pika
+FROM nvidia/cuda:12.1-runtime-ubuntu20.04
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    python3.10 \
+    python3-pip \
+    git \
+    build-essential \
+    gcc-10 \
+    g++-10 \
+    && rm -rf /var/lib/apt/lists/*
+
+# Set GCC 10 as default (critical for xformers)
+RUN update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-10 100
+RUN update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-10 100
+
+# Create symlink for python
+RUN ln -s /usr/bin/python3.10 /usr/bin/python
+
+# Set environment variables (from GitHub issue fixes)
+ENV TRITON_PTXAS_PATH=/usr/local/cuda-12.1/bin/ptxas
+ENV VLLM_USE_V1=False
+ENV NVIDIA_VISIBLE_DEVICES=all
+ENV NVIDIA_DRIVER_CAPABILITIES=compute,utility
+
+# Install Python dependencies with CUDA 11.8/12.1 compatibility
+RUN pip install --no-cache-dir \
+    torch==2.6.0+cu121 \
+    torchvision==0.21.0+cu121 \
+    --extra-index-url https://download.pytorch.org/whl/cu121
+
+# Install vLLM with CUDA 12.1 support
+RUN pip install --no-cache-dir \
+    transformers==4.51.3 \
+    triton==3.2.0 \
+    vllm==0.8.5
+
+# Set working directory
+WORKDIR /app
+
+# Expose port
+EXPOSE 8000
+
+# Entry point
+ENTRYPOINT ["python", "-m", "vllm.entrypoints.openai.api_server"]
+```
+
+### **docker-compose.yml:**
+```yaml
+# docker-compose.yml
+version: '3.8'
+
+services:
+  pika-qwen3:
+    build:
+      context: .
+      dockerfile: Dockerfile.pika
+    container_name: pika_qwen3
+    runtime: nvidia
+    environment:
+      - CUDA_VISIBLE_DEVICES=2
+      - VLLM_USE_V1=False
+      - TRITON_PTXAS_PATH=/usr/local/cuda-12.1/bin/ptxas
+    volumes:
+      - ~/.cache/huggingface:/root/.cache/huggingface
+      - /home/ubuntu/hoailb/wait_response/MiniProd_NLP2_IntentClassification_MappingFastResponse_ver2_T8_2025_StepUpEducation/CKP_v1/tuning/pretrained_models/unsloth_chatml_finetuned/checkpoint-60:/app/model
+    ports:
+      - "30005:8000"
+    ipc: host
+    restart: unless-stopped
+    command: >
+      --model unsloth/Qwen3-1.7B
+      --enable-lora
+      --lora-modules fastresponse=/app/model
+      --api-key hoailb-vllm
+      --gpu-memory-utilization 0.7
+      --trust-remote-code
+      --host 0.0.0.0
+      --port 8000
+      --enable-chunked-prefill=False
+      --max-model-len 32768
+      --dtype float16
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids: ["2"]
+              capabilities: [gpu]
+```
+
+### **Deployment Commands:**
+```bash
+# Build and run
+docker-compose up --build -d
+
+# Check status
+docker-compose ps
+docker-compose logs pika-qwen3
+
+# Stop
+docker-compose down
+```
+
+**Pros:** ✅ Reproducible, version control, easy management
+**Cons:** ⚠️ Build time ~10-15 minutes
+
+---
+
+## 🐳 **OPTION 3: STANDALONE DOCKERFILE (FLEXIBLE)**
+
+### **Dockerfile.standalone:**
+```dockerfile
+# Dockerfile.standalone
+FROM nvidia/cuda:12.1-runtime-ubuntu20.04
+
+# System setup
+RUN apt-get update && apt-get install -y \
+    python3.10 python3-pip git build-essential gcc-10 g++-10 \
+    && update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-10 100 \
+    && update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-10 100 \
+    && ln -s /usr/bin/python3.10 /usr/bin/python \
+    && rm -rf /var/lib/apt/lists/*
+
+# Environment variables from GitHub issue
+ENV TRITON_PTXAS_PATH=/usr/local/cuda-12.1/bin/ptxas
+ENV VLLM_USE_V1=False
+ENV PYTHONUNBUFFERED=1
+
+# Install dependencies with exact versions from working setup
+RUN pip install --no-cache-dir \
+    torch==2.6.0+cu121 torchvision==0.21.0+cu121 \
+    --extra-index-url https://download.pytorch.org/whl/cu121 && \
+    pip install --no-cache-dir \
+    transformers==4.51.3 triton==3.2.0 vllm==0.8.5
+
+WORKDIR /app
+EXPOSE 8000
+
+# Default command with GitHub issue fixes
+CMD ["python", "-m", "vllm.entrypoints.openai.api_server", \
+     "--enable-chunked-prefill=False", \
+     "--max-model-len", "32768", \
+     "--dtype", "float16", \
+     "--host", "0.0.0.0", \
+     "--port", "8000"]
+```
+
+### **Build & Run Commands:**
+```bash
+# Build image
+docker build -f Dockerfile.standalone -t pika-vllm:cuda121 .
+
+# Run container
+docker run --runtime nvidia --gpus '"device=2"' \
+    -e CUDA_VISIBLE_DEVICES=2 \
+    -v ~/.cache/huggingface:/root/.cache/huggingface \
+    -v /home/ubuntu/hoailb/wait_response/MiniProd_NLP2_IntentClassification_MappingFastResponse_ver2_T8_2025_StepUpEducation/CKP_v1/tuning/pretrained_models/unsloth_chatml_finetuned/checkpoint-60:/app/model \
+    -p 30005:8000 \
+    --ipc=host \
+    --name pika_qwen3 \
+    --restart unless-stopped \
+    pika-vllm:cuda121 \
+    --model unsloth/Qwen3-1.7B \
+    --enable-lora \
+    --lora-modules fastresponse=/app/model \
+    --api-key hoailb-vllm \
+    --gpu-memory-utilization 0.7 \
+    --trust-remote-code
+```
+
+**Pros:** ✅ Most control, reusable image, production ready
+**Cons:** ⚠️ More complex setup
+
+---
+
+## 🎯 **KHUYẾN NGHỊ**
+
+### **For Quick Testing: OPTION 1**
+- Thử ngay với command đã fix
+- Nếu work → chuyển sang Option 2 for production
+
+### **For Production: OPTION 2** ⭐
+- **Best practice** với docker-compose
+- Easy deployment và management
+- Version control friendly
+
+### **For Custom Needs: OPTION 3**
+- Maximum flexibility
+- Custom base image
+- Reusable cho projects khác
+
+**Bạn muốn thử option nào trước? Tôi recommend bắt đầu với Option 1 để test nhanh!** 🚀
+
+---
