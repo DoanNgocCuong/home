@@ -1,5 +1,7 @@
   
   # https://www.genspark.ai/agents?id=f9ba8917-0585-4290-adba-959e98e5ce13
+  [vLLM Deployment | guquan/Qwen3 | DeepWiki](https://deepwiki.com/guquan/Qwen3/2.1-vllm-deployment)
+[LoRA Adapters - vLLM](https://docs.vllm.ai/en/latest/features/lora.html)
 
 # 1. 🎯 MECE TASK BREAKDOWN: PIKA ESL MODEL
 

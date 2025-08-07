@@ -1,0 +1,3 @@
+[Support for Precision 5550 | Diagnostics | Dell US](https://www.dell.com/support/product-details/en-us/servicetag/0-RWVqRnRCem11bHJteGpUb2t4QnBBZz090/diagnose/FKJ6M637F64D73E1E414C0BAFF19385ED659953)
+
+[SupportAssist | Dell Vietnam](https://www.dell.com/support/contents/en-vn/Category/product-support/self-support-knowledgebase/software-and-downloads/support-assist/?msockid=1079671ed9c36acf2ca272f6d8a56b90)
