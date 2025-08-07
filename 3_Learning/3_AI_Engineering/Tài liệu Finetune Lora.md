@@ -8787,3 +8787,17 @@ if __name__ == "__main__":
 
     trainer_stats = trainer.train()
 ```
+
+
+
+
+---
+
+
+## V0.8.4: qwen3 support vllm bao nhiêu ??
+
+---
+
+**vLLM** v0.8.4 and higher natively supports all **Qwen3** and Qwen3MoE models. Example command: All models should work with the command as above.
+
+vllm: vllm openai - docker hub 

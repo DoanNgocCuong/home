@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "6. Server Deploy - mật khẩu vào Server - Git"
             }
+          },
+          {
+            "id": "295a0e013f48fbb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tài liệu Finetune Lora"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
+                "file": "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Server Deploy - mật khẩu vào Server - Git"
+              "title": "Outline of Tài liệu Finetune Lora"
             }
           },
           {
@@ -224,10 +237,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4be791d11495a4f6",
+  "active": "295a0e013f48fbb8",
   "lastOpenFiles": [
-    "1. DailyNote/2025-08-07.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
+    "1. DailyNote/2025-08-07.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.3 Dọn docker - kill process.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Clear docker.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/__init__ Deploy Docker Web.md",
