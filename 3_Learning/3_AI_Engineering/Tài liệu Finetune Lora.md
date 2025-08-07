@@ -9103,3 +9103,31 @@ pip install https://github.com/vllm-project/vllm/releases/download/v0.8.5.post1/
 ```
 
 **Kết luận: vLLM v0.8.5 CÓ THỂ hoạt động với CUDA 12.1 của bạn, nhưng cần config cẩn thận!** 🎯
+
+
+oke, ứng dụng cái này, cho bài của tôi ???
+Sử dụng docker như này được ko 
+
+docker run --runtime nvidia --gpus '"device=2"' \
+    -e CUDA_VISIBLE_DEVICES=2 \
+    -v ~/.cache/huggingface:/root/.cache/huggingface \
+    -v /home/ubuntu/hoailb/wait_response/MiniProd_NLP2_IntentClassification_MappingFastResponse_ver2_T8_2025_StepUpEducation/CKP_v1/tuning/pretrained_models/unsloth_chatml_finetuned/checkpoint-60:/app/model \
+    -p 30005:8000 \
+    --ipc=host \
+    --name pika_qwen3 \
+    vllm/vllm-openai:v0.7.1 \
+    --model unsloth/Qwen3-1.7B \
+    --enable-lora \
+    --lora-modules fastresponse=/app/model \
+    --api-key hoailb-vllm \
+    --gpu-memory-utilization 0.7 \
+    --trust-remote-code \
+    --host 0.0.0.0 \
+    --port 8000
+
+---
+Option 1: fix trực tiếp 
+Option 2: 
+Dockerfile riêng xong build trước 
+Xong đóng docker compose rồi docker compose up --build -d 
+Option 3: Đóng dockerfile riêng rồi docker run
