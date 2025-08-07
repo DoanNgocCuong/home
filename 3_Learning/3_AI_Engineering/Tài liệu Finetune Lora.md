@@ -8974,3 +8974,132 @@ Beta
 231 / 5000used queries
 
 1
+
+---
+
+Alu đại ca ơi, anh có nhớ bản nào work với Qwen3 không ạ.  
+---  
+1. Bản v0.7.1 hôm qua work với CUDA 12.1 nhưng lại khôg work với Qwen3  
+
+    vllm/vllm-openai:v0.7.1 \  
+    --model unsloth/Qwen3-1.7B \  
+
+2. Bản v0.8.4 trở lên hỗ trợ Qwen 3  
+nhưng từ bản v0.8.4 lại yêu cầu CUDA 12.4, ...  
+---  
+😺## V0.8.4
+
+---
+
+**vLLM** v0.8.4 and higher natively supports all **Qwen3** and Qwen3MoE models. Example command: All models should work with the command as above.
+
+## [[Usage] **Qwen3** Usage Guide · Issue #17327 · **vllm**-project/**vllm**](https://www.bing.com/ck/a?!&&p=5480bc816f5b59bcaca4ca59448d7fceb6387716af8e6b8ecd5cbfc77a882096JmltdHM9MTc1NDQzODQwMA&ptn=3&ver=2&hsh=4&fclid=1079671e-d9c3-6acf-2ca2-72f6d8a56b90&psq=qwen3+support+vllm+bao+nhi%c3%aau+%3f%3f&u=a1aHR0cHM6Ly9naXRodWIuY29tL3ZsbG0tcHJvamVjdC92bGxtL2lzc3Vlcy8xNzMyNyM6fjp0ZXh0PXZMTE0lMjB2MC44LjQlMjBhbmQlMjBoaWdoZXIlMjBuYXRpdmVseSUyMHN1cHBvcnRzJTIwYWxsJTIwUXdlbjMsbW9kZWxzJTIwc2hvdWxkJTIwd29yayUyMHdpdGglMjB0aGUlMjBjb21tYW5kJTIwYXMlMjBhYm92ZS4&ntb=1)
+
+![github.com/vllm-project/vllm/issues/17327](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNiAwQzcuMTYgMCAwIDcuMTYgMCAxNkMwIDIzLjA4IDQuNTggMjkuMDYgMTAuOTQgMzEuMThDMTEuNzQgMzEuMzIgMTIuMDQgMzAuODQgMTIuMDQgMzAuNDJDMTIuMDQgMzAuMDQgMTIuMDIgMjguNzggMTIuMDIgMjcuNDRDOCAyOC4xOCA2Ljk2IDI2LjQ2IDYuNjQgMjUuNTZDNi40NiAyNS4xIDUuNjggMjMuNjggNSAyMy4zQzQuNDQgMjMgMy42NCAyMi4yNiA0Ljk4IDIyLjI0QzYuMjQgMjIuMjIgNy4xNCAyMy40IDcuNDQgMjMuODhDOC44OCAyNi4zIDExLjE4IDI1LjYyIDEyLjEgMjUuMkMxMi4yNCAyNC4xNiAxMi42NiAyMy40NiAxMy4xMiAyMy4wNkM5LjU2IDIyLjY2IDUuODQgMjEuMjggNS44NCAxNS4xNkM1Ljg0IDEzLjQyIDYuNDYgMTEuOTggNy40OCAxMC44NkM3LjMyIDEwLjQ2IDYuNzYgOC44MiA3LjY0IDYuNjJDNy42NCA2LjYyIDguOTggNi4yIDEyLjA0IDguMjZDMTMuMzIgNy45IDE0LjY4IDcuNzIgMTYuMDQgNy43MkMxNy40IDcuNzIgMTguNzYgNy45IDIwLjA0IDguMjZDMjMuMSA2LjE4IDI0LjQ0IDYuNjIgMjQuNDQgNi42MkMyNS4zMiA4LjgyIDI0Ljc2IDEwLjQ2IDI0LjYgMTAuODZDMjUuNjIgMTEuOTggMjYuMjQgMTMuNCAyNi4yNCAxNS4xNkMyNi4yNCAyMS4zIDIyLjUgMjIuNjYgMTguOTQgMjMuMDZDMTkuNTIgMjMuNTYgMjAuMDIgMjQuNTIgMjAuMDIgMjYuMDJDMjAuMDIgMjguMTYgMjAgMjkuODggMjAgMzAuNDJDMjAgMzAuODQgMjAuMyAzMS4zNCAyMS4xIDMxLjE4QzI3LjQyIDI5LjA2IDMyIDIzLjA2IDMyIDE2QzMyIDcuMTYgMjQuODQgMCAxNiAwVjBaIiBmaWxsPSIjMjQyOTJFIi8+Cjwvc3ZnPgo=)
+
+github.com/vllm-project/vllm/issues/17327
+
+
+## [[Usage]: Support Qwen3 inference in vLLM==0.8.5 with CUDA 11.8 …](https://www.bing.com/ck/a?!&&p=b837841086b27d632cd3cc54e4636c420ea3e06dc031286636889e36c20c6b3aJmltdHM9MTc1NDQzODQwMA&ptn=3&ver=2&hsh=4&fclid=1079671e-d9c3-6acf-2ca2-72f6d8a56b90&psq=qwen3+support+vllm+bao+nhi%c3%aau+%3f%3f&u=a1aHR0cHM6Ly9naXRodWIuY29tL3ZsbG0tcHJvamVjdC92bGxtL2lzc3Vlcy8xNzU3OA&ntb=1)
+
+May 2, 2025 · Therefore, I believe consistent support for the latest vllm versions with both CUDA 11 and CUDA 12 is essential. Thanks again to the vLLM team for your attention to this matter. I …
+
+
+---
+## 📋 **TÓM TẮT GITHUB ISSUE #17578**
+
+### **🎯 VẤN ĐỀ CHÍNH**
+User **YihongT** gặp khó khăn khi muốn dùng **Qwen3** với **vLLM v0.8.5** trên máy có **CUDA 11.6/11.8**
+
+---
+
+## 🔍 **CHI TIẾT VẤN ĐỀ**
+
+### **Tình huống ban đầu:**
+- ✅ **vLLM v0.6.1.post1** + CUDA 11.6 → **HOẠT ĐỘNG BÌNH THƯỜNG**
+- ❌ **Qwen3 models** chỉ support từ **vLLM ≥ v0.8.4**
+- ❌ **vLLM v0.8.5** không build được với CUDA 11.8
+- 🚫 **Không thể upgrade CUDA** do ràng buộc môi trường
+
+### **Lỗi gặp phải:**
+1. **xformers build failure** với CUDA 11.8
+2. **Torch version conflicts** 
+3. **Triton compatibility issues**
+
+---
+
+## ✅ **GIẢI PHÁP THÀNH CÔNG**
+
+### **Step 1: Install vLLM v0.8.5 với CUDA 11.8**
+```bash
+pip install https://github.com/vllm-project/vllm/releases/download/v0.8.5.post1/vllm-0.8.5.post1+cu118-cp38-abi3-manylinux1_x86_64.whl --extra-index-url https://download.pytorch.org/whl/cu118
+```
+
+### **Step 2: Fix xformers issues**
+- **Dùng GCC 10** thay vì version mới hơn
+- **Set Triton path:**
+```bash
+export TRITON_PTXAS_PATH=/usr/local/cuda-11.6/bin/ptxas
+```
+
+### **Step 3: Runtime fixes**
+```python
+# Fix cho V100 (không support bfloat16)
+LLM(
+    model=model_name, 
+    dtype="float16",  # Thay vì bfloat16
+    device="auto", 
+    enable_chunked_prefill=False,  # ✅ KEY FIX
+    tensor_parallel_size=2
+)
+```
+
+### **Step 4: Model config fix**
+- **Limit max_model_len từ 40K → 32K** để tránh chunked prefill issues
+
+---
+
+## 📦 **FINAL WORKING SETUP**
+
+```bash
+torch           2.6.0+cu118
+torchvision     0.21.0+cu118
+transformers    4.51.3
+triton          3.2.0
+vllm            0.8.5.post1+cu118  # ✅ CU118 VERSION
+xformers        0.0.29.post2
+```
+
+---
+
+## 🎯 **Ý NGHĨA CHO BẠN**
+
+### **✅ GOOD NEWS:**
+- **vLLM v0.8.5 CÓ THỂ CHẠY** với CUDA 11.8/12.1
+- **Qwen3 models ĐƯỢC SUPPORT** từ v0.8.4+
+- **Có prebuilt wheels** cho CUDA 11.8
+
+### **⚠️ CHALLENGES:**
+- **Cần specific configuration** để tránh runtime errors
+- **xformers compatibility** cần GCC version cụ thể
+- **V100/older GPUs** cần disable chunked_prefill
+
+---
+
+## 🚀 **KHUYẾN NGHỊ CHO BẠN**
+
+### **Option 1: Thử vLLM v0.8.5+cu118**
+```bash
+# Download specific CUDA 11.8 wheel
+pip install https://github.com/vllm-project/vllm/releases/download/v0.8.5.post1/vllm-0.8.5.post1+cu118-cp38-abi3-manylinux1_x86_64.whl --extra-index-url https://download.pytorch.org/whl/cu118
+```
+
+### **Option 2: Apply runtime fixes**
+```python
+# Trong deployment script
+--enable-chunked-prefill=False
+--max-model-len 32768  # Limit từ 40K
+--dtype float16        # Nếu GPU không support bfloat16
+```
+
+**Kết luận: vLLM v0.8.5 CÓ THỂ hoạt động với CUDA 12.1 của bạn, nhưng cần config cẩn thận!** 🎯
