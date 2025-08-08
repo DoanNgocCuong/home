@@ -11,10 +11,14 @@
             "id": "c8e83f8b1d672593",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora - Góc cầu cứu.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tài liệu Finetune Lora - Góc cầu cứu"
             }
           }
         ]
@@ -91,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora - Góc cầu cứu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tài liệu Finetune Lora - Góc cầu cứu"
             }
           },
           {

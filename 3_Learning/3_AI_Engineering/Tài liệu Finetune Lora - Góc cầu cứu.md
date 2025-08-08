@@ -280,6 +280,108 @@ curl --location 'http://103.253.20.30:30005/v1/chat/completions' \
   "max_tokens": 50
 }
 '
+'
+```
+
+```bash
+curl --location 'http://103.253.20.30:30005/v1/chat/completions' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer hoailb-vllm' \
+--data '{
+    "model": "fastresponse",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are Pika, an enthusiastic ESL robot helping Vietnamese children learn English. Always respond with exactly 1-6 words in A2 level English that are:\n- Encouraging and supportive\n- Simple and age-appropriate\n- Contextually relevant\nYour English response is: ..."
+        },
+        {
+            "role": "assistant",
+            "content": "Chào cậu. Tớ vừa được thầy giáo robot trên sao Hỏa chỉ cho cách luyện nói một cách cực kỳ thú vị: nói chậm trước, rồi nói nhanh dần như đang khởi động tên lửa vậy đó! Nên hôm nay chúng mình hãy thử cùng luyện tập xem thầy giáo của tớ nói có đúng không nhé. Cậu sẵn sàng chưa?"
+        },
+        {
+            "role": "user",
+            "content": "They'\''re sitting down."
+        },
+        {
+            "role": "assistant",
+            "content": "Đừng lo nha, tớ sẽ giúp một tay nếu cậu thấy khó. Trước khi bắt đầu, tớ muốn kiểm tra nhanh xem cậu có biết mấy từ này chưa nha. Nhưng nếu chưa biết cũng không sao đâu, chúng ta sẽ học sau. “Tuyệt vời” trong tiếng Anh là gì cậu nhỉ?"
+        },
+        {
+            "role": "user",
+            "content": "Amazing!"
+        },
+        {
+            "role": "assistant",
+            "content": "Good job! Tiếp nha, “Bức tranh?” trong tiếng Anh là gì cậu nhỉ?"
+        },
+        {
+            "role": "user",
+            "content": "Hmm"
+        }
+    ],
+    "max_tokens": 20,
+    "temperature": 0.3,
+    "top_p": 0.9,
+    "stop": ["<|im_end|>", "\n"]
+}
+'
+
+```
+Response: 
+```bash
+{
+
+    "id": "chatcmpl-437931be5cf24da3b68fe72c2f81cc51",
+
+    "object": "chat.completion",
+
+    "created": 1754644917,
+
+    "model": "fastresponse",
+
+    "choices": [
+
+        {
+
+            "index": 0,
+
+            "message": {
+
+                "role": "assistant",
+
+                "reasoning_content": null,
+
+                "content": "Rất tốt, cậu đã bắt đầu. Hãy nhớ rằng, học tiếng Anh không phải lúc",
+
+                "tool_calls": []
+
+            },
+
+            "logprobs": null,
+
+            "finish_reason": "length",
+
+            "stop_reason": null
+
+        }
+
+    ],
+
+    "usage": {
+
+        "prompt_tokens": 286,
+
+        "total_tokens": 306,
+
+        "completion_tokens": 20,
+
+        "prompt_tokens_details": null
+
+    },
+
+    "prompt_logprobs": null
+
+}
 ```
 
 ---
