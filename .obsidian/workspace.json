@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Untitled.md",
+                "file": "1. DailyNote/2025-08-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2025-08-08"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/Tính theo Dự Án/Untitled.md",
+                "file": "1. DailyNote/2025-08-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2025-08-08"
             }
           },
           {
@@ -197,8 +197,8 @@
   },
   "active": "c8e83f8b1d672593",
   "lastOpenFiles": [
-    "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora - Góc cầu cứu.md",
     "1. DailyNote/Tính theo Dự Án/Untitled.md",
+    "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora - Góc cầu cứu.md",
     "1. Lập trình nói chung/Tool/Kiểm tra máy tính laptop.md",
     "1. DailyNote/2025-07-29 Problem Solving - Structure Storytelling.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
