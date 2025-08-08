@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora - Góc cầu cứu.md",
+                "file": "1. DailyNote/Tính theo Dự Án/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tài liệu Finetune Lora - Góc cầu cứu"
+              "title": "Untitled"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Lora",
+                "query": "file: ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora - Góc cầu cứu.md",
+                "file": "1. DailyNote/Tính theo Dự Án/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tài liệu Finetune Lora - Góc cầu cứu"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -198,11 +197,12 @@
   },
   "active": "c8e83f8b1d672593",
   "lastOpenFiles": [
+    "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora - Góc cầu cứu.md",
+    "1. DailyNote/Tính theo Dự Án/Untitled.md",
     "1. Lập trình nói chung/Tool/Kiểm tra máy tính laptop.md",
     "1. DailyNote/2025-07-29 Problem Solving - Structure Storytelling.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/2.1 Python programming language - Spark Programming (PySpark and Spark API, Dataframe API, Spark SQL).md",
-    "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora - Góc cầu cứu.md",
     "3_Learning/3_AI_Engineering/Untitled.md",
     "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora.md",
     "1. DailyNote/2025-08-08.md",
@@ -224,7 +224,6 @@
     "1. DailyNote/Learning/1.6 LOOP_IIAgent_Manus_Genspark --- 10_10 MANUS + II AGENT rồi mà GENSPARK BẢO 9.5 LÝ THUYẾT, 6.5 THỰC TẾ (ĐỘ PHỨC TẠP VÀ CHƯA CÓ SỰ ĐÚC KẾT CỐT LÕI).md",
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/1.1 Kafka - Spark - Apache - Hadoop.md",
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/1.1 Công nghệ Kafka - Spark - Caannaa.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/tài liệu MLOps.md",
     "3_Learning/BigData/attachments/Pasted image 20250807204329.png",
     "3_Learning/BigData/attachments/Pasted image 20250807201813.png",
     "3_Learning/BigData/attachments",
