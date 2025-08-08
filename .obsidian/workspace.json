@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/3_AI_Engineering/5.3 AI Agent/GPT5 vs Claude.md",
+                "file": "1. Lập trình nói chung/Tool/Kiểm tra máy tính laptop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPT5 vs Claude"
+              "title": "Kiểm tra máy tính laptop"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: genspark",
+                "query": "file: máy tính",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/3_AI_Engineering/5.3 AI Agent/GPT5 vs Claude.md",
+                "file": "1. Lập trình nói chung/Tool/Kiểm tra máy tính laptop.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GPT5 vs Claude"
+              "title": "Outline of Kiểm tra máy tính laptop"
             }
           },
           {
@@ -253,8 +254,8 @@
   },
   "active": "e2a45925ac49d945",
   "lastOpenFiles": [
-    "3_Learning/3_AI_Engineering/5.3 AI Agent/GenSpark và Manus.md",
     "3_Learning/3_AI_Engineering/5.3 AI Agent/GPT5 vs Claude.md",
+    "3_Learning/3_AI_Engineering/5.3 AI Agent/GenSpark và Manus.md",
     "3_Learning/15. Utils/1. OBS - genspark 1 Prompt.md",
     "1. DailyNote/Learning/1.4 Genspark - Thông minh (II Agent quét rộng).md",
     "1. DailyNote/2025-08-08.md",
