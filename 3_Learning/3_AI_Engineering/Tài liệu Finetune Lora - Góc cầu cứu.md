@@ -422,3 +422,11 @@ Model đang được deploy production nhưng responses toàn tiếng Việt, �
 ---
 
 **Link Google Sheet với data details**: https://docs.google.com/spreadsheets/d/1V9wz3FQqAHhR4DjBe8N5Tz4Y4QdMWf3Jg-zF0R1FCDs/edit?gid=412495096#gid=412495096
+
+
+---
+Có 2 idea: 1 sửa Prompt có 2 cách 
++ Câu assistant tiếng anh 
++ Prompt Bạn phải trả lời tiếng anh 
+thay format finetune: user: conversation_history
+
