@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-08.md",
+                "file": "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-08"
+              "title": "Tài liệu Finetune Lora"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: máy tính",
+                "query": "file: Lora",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-08.md",
+                "file": "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-08"
+              "title": "Outline of Tài liệu Finetune Lora"
             }
           },
           {
@@ -254,8 +254,8 @@
   },
   "active": "e2a45925ac49d945",
   "lastOpenFiles": [
-    "1. Lập trình nói chung/Tool/Kiểm tra máy tính laptop.md",
     "1. DailyNote/2025-08-08.md",
+    "1. Lập trình nói chung/Tool/Kiểm tra máy tính laptop.md",
     "1. DailyNote/2025-08-07.md",
     "1. DailyNote/2025-08-06.md",
     "1. DailyNote/2025-08-03.md",
