@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-08.md",
+                "file": "3_Learning/3_AI_Engineering/5.3 AI Agent/GPT5 vs Claude.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-08"
+              "title": "GPT5 vs Claude"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "File: Big Data",
+                "query": "file: genspark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-08.md",
+                "file": "3_Learning/3_AI_Engineering/5.3 AI Agent/GPT5 vs Claude.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-08"
+              "title": "Outline of GPT5 vs Claude"
             }
           },
           {
@@ -253,20 +253,21 @@
   },
   "active": "e2a45925ac49d945",
   "lastOpenFiles": [
-    "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/Note 28 10 2024.md",
+    "3_Learning/3_AI_Engineering/5.3 AI Agent/GenSpark và Manus.md",
+    "3_Learning/3_AI_Engineering/5.3 AI Agent/GPT5 vs Claude.md",
+    "3_Learning/15. Utils/1. OBS - genspark 1 Prompt.md",
+    "1. DailyNote/Learning/1.4 Genspark - Thông minh (II Agent quét rộng).md",
     "1. DailyNote/2025-08-08.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/Note 28 10 2024.md",
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/0. Nguồn học Big Data và Syllabus.md",
     "1. DailyNote/2025-04-23 AI Day Step Up.md",
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/Big Data.md",
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/Drawing 2025-08-07 21.04.34.excalidraw.md",
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/2.1 Python programming language - Spark Programming (PySpark and Spark API, Dataframe API, Spark SQL).md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/LOOP_IIAgent_Manus_Genspark_Bảng_Đánh_Giá_Quyết_Định_10_10_-_PHIÊN_BẢN_KẾT_HỢP_HOÀN_HẢO.pdf",
-    "3_Learning/3_AI_Engineering/5.3 AI Agent/GenSpark và Manus.md",
     "1. DailyNote/Learning/1.6 LOOP_IIAgent_Manus_Genspark --- 10_10 MANUS + II AGENT rồi mà GENSPARK BẢO 9.5 LÝ THUYẾT, 6.5 THỰC TẾ (ĐỘ PHỨC TẠP VÀ CHƯA CÓ SỰ ĐÚC KẾT CỐT LÕI).md",
-    "1. DailyNote/Learning/1.4 Genspark - Thông minh (II Agent quét rộng).md",
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/1.1 Kafka - Spark - Apache - Hadoop.md",
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/1.1 Công nghệ Kafka - Spark - Caannaa.md",
-    "3_Learning/15. Utils/1. OBS - genspark 1 Prompt.md",
     "3_Learning/4_MLOPs và Full Stack Docker/tài liệu MLOps.md",
     "3_Learning/0. DỌN DẸP THƯ MỤC - xoá.md",
     "1. Lập trình nói chung/3. Strategic Approaches to Understanding GitHub Repositories - Genspark 20250626.md",
@@ -283,7 +284,6 @@
     "3_Learning/3_AI_Engineering/2. Machine Learning/Các loại học máy.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.3 Dọn docker - kill process.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Clear docker.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/__init__ Deploy Docker Web.md",
     "1. DailyNote/attachments/Pasted image 20250806064213.png",
     "3_Learning/4_MLOPs và Full Stack Docker/Untitled 1",
     "1. DailyNote/attachments/Pasted image 20250805160337.png",
