@@ -25,3 +25,13 @@ RAM "treo" (dừng phản hồi, lưu trữ tạm bị lỗi)
 → Màn hình xanh (BSOD)
 → Reset máy đột ngột
 ```
+
+- **Máy nóng không làm RAM hỏng ngay**, nhưng **tác động gián tiếp** khiến RAM không hoạt động ổn định.
+    
+- Đặc biệt đúng trong các hệ thống:
+    
+    - Có RAM bus cao / overclock
+        
+    - Tản nhiệt yếu (quạt bụi, keo tản khô)
+        
+    - Mainboard chất lượng kém hoặc đã cũ
