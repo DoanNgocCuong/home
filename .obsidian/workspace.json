@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora.md",
+                "file": "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora - Góc cầu cứu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tài liệu Finetune Lora"
+              "title": "Tài liệu Finetune Lora - Góc cầu cứu"
             }
           },
           {
@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora.md",
+                "file": "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora - Góc cầu cứu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tài liệu Finetune Lora"
+              "title": "Outline of Tài liệu Finetune Lora - Góc cầu cứu"
             }
           },
           {
@@ -254,6 +253,9 @@
   },
   "active": "e2a45925ac49d945",
   "lastOpenFiles": [
+    "3_Learning/3_AI_Engineering/Untitled.md",
+    "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora - Góc cầu cứu.md",
+    "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora.md",
     "1. DailyNote/2025-08-08.md",
     "1. Lập trình nói chung/Tool/Kiểm tra máy tính laptop.md",
     "1. DailyNote/2025-08-07.md",
@@ -278,13 +280,10 @@
     "3_Learning/4_MLOPs và Full Stack Docker/tài liệu MLOps.md",
     "3_Learning/0. DỌN DẸP THƯ MỤC - xoá.md",
     "1. Lập trình nói chung/3. Strategic Approaches to Understanding GitHub Repositories - Genspark 20250626.md",
-    "3_Learning/BigData/Bài 1.md",
     "3_Learning/BigData/attachments/Pasted image 20250807204329.png",
     "3_Learning/BigData/attachments/Pasted image 20250807201813.png",
     "3_Learning/BigData/attachments",
     "3_Learning/BigData",
-    "3_Learning/4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Git.md",
     "1. DailyNote/attachments/Pasted image 20250806064213.png",
     "3_Learning/4_MLOPs và Full Stack Docker/Untitled 1",
     "1. DailyNote/attachments/Pasted image 20250805160337.png",
