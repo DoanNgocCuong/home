@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "KNN",
+                "query": "tấm bản đồ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +88,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 335.5026054382324,
-    "collapsed": true
+    "width": 335.5026054382324
   },
   "right": {
     "id": "422b3eaae750cadd",
@@ -206,13 +206,16 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "c8e83f8b1d672593",
   "lastOpenFiles": [
-    "1. DailyNote/2025-08-08.md",
+    "1. DailyNote/2025-07-22.md",
     "1. DailyNote/2025-08-09.md",
+    "1. DailyNote/2025-08-08.md",
     "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling..md",
     "1. DailyNote/2025-07-30 - TẤM BẢN ĐỒ - NGUỒN LỰC NỘI TẠI - THE ROAD THE IMPACT THE POWER   - STRUCTURE - SYSTEM DESIGN CHỊ TRANG SHARE.md",
     "1. DailyNote/2025-08-01 - RA MẮT PROBLEM SOLVING MÔ HÌNH 6 TẦNG.md",
@@ -240,7 +243,6 @@
     "1. DailyNote/2025-08-04.md",
     "3_Learning/3_AI_Engineering/5.3 AI Agent/GPT5 vs Claude.md",
     "3_Learning/3_AI_Engineering/5.3 AI Agent/GenSpark và Manus.md",
-    "3_Learning/15. Utils/1. OBS - genspark 1 Prompt.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/LOOP_IIAgent_Manus_Genspark_Bảng_Đánh_Giá_Quyết_Định_10_10_-_PHIÊN_BẢN_KẾT_HỢP_HOÀN_HẢO.pdf",
     "3_Learning/BigData/attachments/Pasted image 20250807204329.png",
     "3_Learning/BigData/attachments/Pasted image 20250807201813.png",
