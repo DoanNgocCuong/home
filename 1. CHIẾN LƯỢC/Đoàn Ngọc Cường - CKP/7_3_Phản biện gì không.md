@@ -1,1 +1,0 @@
-Mọi người thường nói về Chiến lược đại dương xanh, con đường đi này có Rủi ro gì. --- Sử dụng toàn bộ các framework tốt nhất xịn nhất về RA QUYẾT ĐỊNH ĐỂ CHỌN LỰA, bạn có chọn con đường khác đi không? Hãy tự nghi ngờ suy nghĩ của chính mình
