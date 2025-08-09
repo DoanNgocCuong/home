@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-09.md",
+                "file": "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/2. Learning - PP HỌC TẬP THIÊN TÀI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-09"
+              "title": "2. Learning - PP HỌC TẬP THIÊN TÀI"
             }
           },
           {
@@ -108,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-09.md",
+                "file": "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/2. Learning - PP HỌC TẬP THIÊN TÀI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-09"
+              "title": "Outline of 2. Learning - PP HỌC TẬP THIÊN TÀI"
             }
           },
           {
@@ -185,13 +185,11 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,13 +210,14 @@
   },
   "active": "c8e83f8b1d672593",
   "lastOpenFiles": [
-    "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/7_2. Edu và Fin.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/7_1. Từ AI đến Investor.md",
+    "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/6. Nền tảng tuyển dụng.md",
+    "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/6 TƯ DUY CỦA MỘT SENIOR.md",
+    "1. DailyNote/2025-08-09.md",
+    "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/7_2. Edu và Fin.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/ROADMAP FIRE 15 NĂM - TỪ AI ENGINEER ĐẾN FINANCIAL FREEDOM.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/Nhất Hướng - Lark.md",
-    "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/6 TƯ DUY CỦA MỘT SENIOR.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/7_3_Phản biện gì không 5 Lý Do Chính và Quan Trọng Nhất Trong Việc Chọn Domain (Kèm So Sánh AI Education vs AI Finance).md",
-    "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/6. Nền tảng tuyển dụng.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/5. Feedback Ace ở Product - Bank - Fintech.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/4. AI Engineering_ResearchEngineeringApplicationProduct.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/3. AI Engineering góc nhìn.md",
@@ -232,7 +231,6 @@
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/1.4 Genspark - Thông minh (II Agent quét rộng).md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/1.3 II Agent - Phân tích Framework Decision Making và Problem Solving từ nguồn bên ngoài.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/1.2 II Agent DECISION CANVAS - TEMPLATE ÁP DỤNG FRAMEWORK 6 TẦNG.md",
-    "1. DailyNote/2025-08-09.md",
     "1. DailyNote/2025-07-22.md",
     "1. DailyNote/2025-08-08.md",
     "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling..md",
