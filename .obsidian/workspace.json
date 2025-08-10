@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +194,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "3855e8e520753162",
+  "active": "de333728293ea4d4",
   "lastOpenFiles": [
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250810125701.png",
     "3_Learning/3_AI_Engineering/2. Machine Learning/KNN.md",
