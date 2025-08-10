@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-10.md",
+                "file": "3_Learning/3_AI_Engineering/2. Machine Learning/2. KNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-10"
+              "title": "2. KNN"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-10.md",
+                "file": "3_Learning/3_AI_Engineering/2. Machine Learning/2. KNN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-10"
+              "title": "Outline of 2. KNN"
             }
           },
           {
@@ -196,12 +197,12 @@
   },
   "active": "3855e8e520753162",
   "lastOpenFiles": [
+    "1. DailyNote/2025-08-10.md",
     "3_Learning/3_AI_Engineering/2. Machine Learning/2. KNN.md",
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250810162330.png",
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250810154215.png",
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250810125701.png",
     "3_Learning/3_AI_Engineering/2. Machine Learning/KNN.md",
-    "1. DailyNote/2025-08-10.md",
     "1. DailyNote/2025-08-08.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/1.6 LOOP_IIAgent_Manus_Genspark --- 10_10 MANUS + II AGENT rồi mà GENSPARK BẢO 9.5 LÝ THUYẾT, 6.5 THỰC TẾ (ĐỘ PHỨC TẠP VÀ CHƯA CÓ SỰ ĐÚC KẾT CỐT LÕI).md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/1.5 Manus or II Agent - Tổng hợp lại cuối.md",
