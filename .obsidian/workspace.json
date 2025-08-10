@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/3_AI_Engineering/4. DeepLearning NLP RAG/1. Metrics Precision vs Recall.md",
+                "file": "3_Learning/3_AI_Engineering/2. Machine Learning/2. KNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Metrics Precision vs Recall"
+              "title": "2. KNN"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file : metrics",
+                "query": "file : KNN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/3_AI_Engineering/4. DeepLearning NLP RAG/1. Metrics Precision vs Recall.md",
+                "file": "3_Learning/3_AI_Engineering/2. Machine Learning/2. KNN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Metrics Precision vs Recall"
+              "title": "Outline of 2. KNN"
             }
           },
           {
@@ -197,11 +197,12 @@
   },
   "active": "3855e8e520753162",
   "lastOpenFiles": [
+    "1. DailyNote/2025-08-10.md",
+    "3_Learning/3_AI_Engineering/4. DeepLearning NLP RAG/1. Metrics Precision vs Recall.md",
     "3_Learning/3_AI_Engineering/4. DeepLearning NLP RAG/attachments/Pasted image 20250810203632.png",
     "3_Learning/3_AI_Engineering/4. DeepLearning NLP RAG/attachments",
     "3_Learning/3_AI_Engineering/5.0 Metrics/1 vài metrics khác.md",
     "3_Learning/3_AI_Engineering/2. Machine Learning/2. KNN.md",
-    "1. DailyNote/2025-08-10.md",
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250810162330.png",
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250810154215.png",
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250810125701.png",
@@ -238,7 +239,6 @@
     "3_Learning/BigData",
     "1. DailyNote/attachments/Pasted image 20250806064213.png",
     "3_Learning/4_MLOPs và Full Stack Docker/Untitled 1",
-    "1. DailyNote/attachments/Pasted image 20250805160337.png",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường/~$ẤT HƯỚNG - ĐƯỜNG NÀY ĐẾN THẾ GIAN, ĐƯỜNG KIA ĐẾN NIẾT BÀN! TỲ KHEO ĐỆ TỬ PHẬT, PHẢI HIỂU BIẾT RÕ RÀNG! + TIỀN. .docx",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/NHẤT HƯỚNG - ĐƯỜNG NÀY ĐẾN THẾ GIAN, ĐƯỜNG KIA ĐẾN NIẾT BÀN! TỲ KHEO ĐỆ TỬ PHẬT, PHẢI HIỂU BIẾT RÕ RÀNG! + TIỀN. .docx",
