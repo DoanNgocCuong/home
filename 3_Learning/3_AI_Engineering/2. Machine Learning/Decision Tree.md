@@ -671,3 +671,6 @@ Vấn đề là… trong đời thật, nhiều người khi **Entropy = 0 (khô
 
 ---
 ![[Pasted image 20250812212327.png]]
+
+
+![[Pasted image 20250812212537.png]]
