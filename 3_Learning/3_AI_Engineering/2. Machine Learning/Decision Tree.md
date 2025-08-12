@@ -540,3 +540,5 @@ Thay vào đó mình dành thời gian HỌC SÂU NHỮNG THỨ RA TIỀN TRONG 
 
 +, Học sâu lập trình, giải thuật, toán. Thay vì chỉ học bề nổi và AI code. 
 
+
+![[Pasted image 20250812210550.png]]
