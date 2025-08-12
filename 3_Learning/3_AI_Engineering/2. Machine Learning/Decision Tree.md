@@ -758,3 +758,49 @@ Ví dụ x^2 là hàm lồi
 +, (tính từ ngoài vào) (parabol)  
 +, Đạo hàm bậc 2 của nó bằng 2 >0 nên hàm lồi
 ```
+
+
+---
+
+
+```
+em thấy Overcast luôn có Play Tennis = yes, vậy tại sao ko chia thành 3 categories và 1 cái H=0 thì delete ạ? còn IG là tính cho 3 phần, còn nãy e nghe đk ad bảo nên làm binary vì sao ạ>
+```
+
+---
+## 1. Câu hỏi “Overcast luôn = Yes, sao không tách 3 categories?”
+
+Thuộc tính **Outlook** có 3 giá trị:
+
+- Sunny
+    
+- Overcast
+    
+- Rain
+    
+
+Trong tập dữ liệu này:
+
+- **Overcast** luôn có Play Tennis = Yes → entropy = 0 → pure node.
+    
+
+### Trả lời:
+
+- **Nếu dùng ID3 hoặc C4.5 (multi-branch)**: bạn hoàn toàn có thể tách thành **3 nhánh** ngay ở root:
+    
+    - Sunny → xử lý tiếp.
+        
+    - Overcast → leaf node Yes (dừng).
+        
+    - Rain → xử lý tiếp.
+        
+- **Nếu dùng CART (binary split)**: phải gộp điều kiện thành các split dạng 2 nhánh (ví dụ: Outlook = Overcast **hoặc** Rain vs. còn lại) → nên sẽ không có tách 3 nhánh.
+    
+
+---
+
+## 2. Câu hỏi “IG tính cho 3 phần hay binary?”
+
+- **ID3/C4.5**: IG tính trung bình trọng số cho **tất cả các giá trị** của thuộc tính, không ép về 2 nhánh.
+    
+- **CART/XGBoost/LightGBM**: IG (thực ra gọi là Gini/Gain reduction) tính cho split nhị phân → thử tất cả cách chia dữ liệu thành 2 nhóm → chọn nhóm giảm bất định nhiều nhất.
