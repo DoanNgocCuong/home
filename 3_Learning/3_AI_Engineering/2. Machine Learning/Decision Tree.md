@@ -529,3 +529,14 @@ Trong machine learing, decision tree có 3-4 nhánh không hay chỉ 2 nhánh
 
 
 ![[Pasted image 20250812203541.png]]
+
+
+
+---
+Khi chọn việc biến Engineering, Tài chính thành con người mình, giống như việc lái xe 
+=> Mình ko còn ngại toán, biến toán thành con người mình. 
+=> Ko còn kiểu học nhanh chộp dật như là dùng tool nhiều, cái gì liên quan đến tiền mới học 
+Thay vào đó mình dành thời gian HỌC SÂU NHỮNG THỨ RA TIỀN TRONG DÀI HẠN, LIÊN TỤC. 
+
++, Học sâu lập trình, giải thuật, toán. Thay vì chỉ học bề nổi và AI code. 
+
