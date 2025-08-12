@@ -910,3 +910,77 @@ Ok, mình sẽ giúp bạn phân tích và “phản biện – tự phản bi�
 
 Nếu bạn muốn, mình có thể **làm một hình minh họa** cho đúng dataset “Play Tennis” này, so sánh **cây multi-way (ID3)** và **cây binary (CART)** để nhìn rõ ưu – nhược.  
 Bạn có muốn mình vẽ không?
+
+
+
+---
+Lý do “về độ phức tạp thuật toán” mà chia 2, 3, 4 nhánh được coi là **cùng độ phức tạp** là vì trong phân tích độ phức tạp Big-O, ta **đo theo số mẫu dữ liệu n** chứ không đo theo số nhánh k tại một nút.
+
+---
+
+## 1. Cách đo độ phức tạp trong decision tree
+
+Khi xây cây quyết định:
+
+- Tại mỗi **nút**, ta cần:
+    
+    1. Xét từng thuộc tính.
+        
+    2. Tính độ đo (Entropy, Gini, Gain…) cho mỗi cách chia.
+        
+- Độ phức tạp phụ thuộc vào **số mẫu** nn và **số thuộc tính** mm, chứ không tăng bậc khi số nhánh k lớn hơn 2.
+    
+
+**Ví dụ đơn giản**:
+
+- Multi-way split: tính entropy cho **k nhóm** → O(k⋅n)O(k \cdot n), nhưng k ≤ số giá trị khác nhau của thuộc tính → k nhỏ so với n → bậc vẫn là O(n)O(n).
+    
+- Binary split: tính entropy cho **2 nhóm**, vẫn O(n)O(n).
+    
+
+Trong Big-O, nếu k là hằng số (không tăng cùng n), thì O(k⋅n)=O(n)O(k \cdot n) = O(n).
+
+---
+
+## 2. Khi nào mới khác bậc?
+
+- Nếu k tăng theo n (ví dụ k ≈ n, như trường hợp mỗi giá trị là duy nhất), thì multi-way split sẽ phải xử lý nhiều nhóm nhỏ → chi phí có thể lên O(n2)O(n^2) nếu không tối ưu.
+    
+- Nhưng trong hầu hết các bài toán ML, số giá trị categorical là cố định hoặc nhỏ hơn rất nhiều so với số mẫu, nên k được coi là **hằng số** trong phân tích độ phức tạp.
+    
+
+---
+
+## 3. Tại sao vẫn chuộng binary dù Big-O như nhau?
+
+- Binary split dễ tối ưu trong code, đặc biệt cho dữ liệu số (chỉ cần tìm threshold).
+    
+- Phù hợp với các thuật toán boosting/bagging vì tính đồng nhất của cấu trúc cây.
+    
+- Multi-way split dễ tạo nhánh rất nhỏ → overfitting.
+    
+
+---
+
+📌 **Tóm lại**:  
+Chia 2, 3, 4 nhánh **cùng bậc độ phức tạp** nếu số nhánh k là hằng số, vì công thức thời gian chỉ nhân thêm một hệ số k, mà hệ số này không làm đổi bậc Big-O.
+
+---
+
+Nếu bạn muốn, mình có thể vẽ **so sánh trực quan độ phức tạp tính toán** giữa binary split và multi-way split trong 1 nút để bạn nhìn thấy rõ tại sao Big-O không đổi. Bạn muốn mình vẽ không?
+
+```
+- Multi-way split: tính entropy cho **k nhóm** → Độ phức tạp là: O(k.n) = O(n) do k là hang số (k là số categories)  
+    
+- Binary split: tính entropy cho **2 nhóm**, vẫn là O(2n) = O(n)  
+    
+
+  
+**Tại sao vẫn chuộng binary dù Big-O như nhau?**  
+
+- Binary split dễ tối ưu trong code, đặc biệt cho dữ liệu số (chỉ cần tìm threshold).  
+    
+- Phù hợp với các thuật toán boosting/bagging vì tính đồng nhất của cấu trúc cây.  
+    
+- Multi-way split dễ tạo nhánh rất nhỏ → overfitting.
+```
