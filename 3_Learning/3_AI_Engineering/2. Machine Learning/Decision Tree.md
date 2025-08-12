@@ -542,3 +542,14 @@ Thay vào đó mình dành thời gian HỌC SÂU NHỮNG THỨ RA TIỀN TRONG 
 
 
 ![[Pasted image 20250812210550.png]]
+
+
+![[Pasted image 20250812210842.png]]
+
+
+
+
+1.0 = Entropy => Khó dự đoán cục gạch hay vàng. 
+0.46 = Entropy thấp => Dễ dự đoán. Thông tin chắc chắn hơn, ít bị nhiễu  loạn thông tin. Giá trị mang lại ít hơn vì thông tin ít bất ngờ hơn. 
+
+tại sao lại là: tổng xích ma của P(x) * log(1/P(x)) ạ
