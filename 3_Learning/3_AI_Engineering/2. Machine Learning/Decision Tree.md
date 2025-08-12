@@ -553,3 +553,87 @@ Thay vào đó mình dành thời gian HỌC SÂU NHỮNG THỨ RA TIỀN TRONG 
 0.46 = Entropy thấp => Dễ dự đoán. Thông tin chắc chắn hơn, ít bị nhiễu  loạn thông tin. Giá trị mang lại ít hơn vì thông tin ít bất ngờ hơn. 
 
 tại sao lại là: tổng xích ma của P(x) * log(1/P(x)) ạ
+
+
+---
+
+Ok, mình sẽ giải thích từ **gốc** hơn — tức là đi từ việc "đo lường thông tin" trong đời thường → ra công thức Shannon.  
+Bạn sẽ thấy vì sao lại có dạng **log⁡(1/p)\log(1/p)** chứ không phải công thức khác.
+
+---
+
+## 1. Bài toán gốc: đo “lượng thông tin” của một sự kiện
+
+Claude Shannon (1948) đặt ra câu hỏi:
+
+> Nếu một sự kiện xảy ra, làm sao đo được nó mang bao nhiêu **thông tin**?
+
+Ông đưa ra 3 tiêu chí cho một hàm đo thông tin I(p)I(p):
+
+1. **Xác suất càng nhỏ → thông tin càng nhiều**
+    
+    - Ví dụ: Trúng số độc đắc (xác suất 1/1,000,000) gây "bất ngờ" hơn nhiều so với trời mưa ở Hà Nội tháng 8.
+        
+    - Nghĩa là pp ↓ → I(p)I(p) ↑.
+        
+2. **Hai sự kiện độc lập → thông tin cộng lại**
+    
+    - Nếu A và B độc lập, lượng thông tin của “A **và** B” = I(pA⋅pB)=I(pA)+I(pB)I(p_A \cdot p_B) = I(p_A) + I(p_B).
+        
+    - Đây là **tính cộng** của thông tin.
+        
+3. **Liên tục và hợp lý**
+    
+    - Hàm đo thông tin phải trơn tru, không nhảy đột ngột, và logic với trực giác.
+        
+
+---
+
+## 2. Giải phương trình → ra công thức log
+
+Nếu bạn yêu cầu một hàm I(p)I(p) thỏa mãn:
+
+I(pA⋅pB)=I(pA)+I(pB)I(p_A \cdot p_B) = I(p_A) + I(p_B)
+
+thì **duy nhất** hàm dạng:
+
+I(p)=k⋅log⁡1pI(p) = k \cdot \log\frac{1}{p}
+
+thỏa mãn (theo toán học, đây là nghiệm duy nhất của phương trình hàm Cauchy trong miền dương).
+
+- kk là hằng số quy đổi đơn vị:
+    
+    - k=1k=1 và log cơ số 2 → đơn vị **bit**.
+        
+    - k=1k=1 và log cơ số e → đơn vị **nat**.
+        
+
+---
+
+## 3. Từ thông tin của một sự kiện → entropy
+
+- I(p)I(p) là **thông tin** khi biết một sự kiện cụ thể xảy ra.
+    
+- Nhưng trong thực tế, ta không biết trước sự kiện nào xảy ra → ta cần **giá trị kỳ vọng**:
+    
+
+H(X)=∑xp(x)⋅I(p(x))=∑xp(x)⋅log⁡1p(x)H(X) = \sum_{x} p(x) \cdot I(p(x)) = \sum_{x} p(x) \cdot \log\frac{1}{p(x)}
+
+- Đây chính là **entropy**: thông tin trung bình cần để mô tả một biến ngẫu nhiên.
+    
+
+---
+
+## 4. Trực giác rất đời thường
+
+- Nếu sự kiện **chắc chắn** (p=1), log⁡(1/p)=0\log(1/p)=0 → không cần thông tin gì nữa.
+    
+- Nếu sự kiện **hiếm** (p rất nhỏ), log⁡(1/p)\log(1/p) lớn → cần nhiều “bit” để mô tả nó.
+    
+- Nếu có nhiều khả năng ngang nhau, entropy cao → khó đoán, cần nhiều thông tin trung bình hơn.
+    
+
+---
+
+Nếu bạn muốn, mình có thể làm **một ví dụ trực quan bằng trò chơi 20 câu hỏi** để bạn thấy vì sao lượng thông tin phải dùng log và cộng dồn.  
+Bạn có muốn mình làm ví dụ đó không?
