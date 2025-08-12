@@ -674,3 +674,16 @@ Vấn đề là… trong đời thật, nhiều người khi **Entropy = 0 (khô
 
 
 ![[Pasted image 20250812212537.png]]
+
+---
+Tính chắc chắn về quyết định đượng lượng hoá bro ạ.  
+--  
+Kiểu ban đầu 5 bi đỏ, 5 bi xanh thì Entropy ban đầu = 1 (vì 50-50)
+
+
+```
+ậy là entropy trong bài decision tree lần này giúp xem là việc lựa chọn các ifs hãm được lại sự bất ngờ tới đâu để rồi đên leaf sẽ là kết quả mình đoán đk dễ nhất ohair ko ad ạ  
+  
+**Học Vẹt** 9:20 PM  
+@343_Đinh Nam Khánh ý tưởng của Decision Tree là đặt các câu hỏi “hợp lý” để chia đôi tập hợp mẫu. Câu hỏi hợp lý là câu hỏi làm giảm entropy (độ bất định) cho đến khi chia ra thành các tập hợp gồm 1 giá trị nhãn (thuần nhất = purity), đó chính là leaf node
+```
