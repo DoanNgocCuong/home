@@ -22,3 +22,14 @@ https://docs.google.com/spreadsheets/d/1Hdq8BuYVmGzg4ofPYcq3mqLvtJlXo0_pRrSDnRli
 
 
 
+
+
+----
+```
+Em note 1 xíu ạ:
+
+Quá trình QC có thể là:
++, QC AI /Agents. (Người QC Prompt)
++, QC định tính User
++, QC người chi tiết + QC định lượng User để update
+```

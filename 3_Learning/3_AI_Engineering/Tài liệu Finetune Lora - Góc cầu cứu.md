@@ -405,7 +405,132 @@ Response:
 
 ---
 
-### **CONSTRAINTS:**
+### **CÁC GIẢI PHÁP HIỆN TẠI**
+
+We will have 2 formats: 
+> Format 1: system_prompt - user - assistant - user - assistant .... => assistant: fast_response
+Format 2: system_prompt - user_input (conversation_history) => assistant: fast_response
+
+Ideas: 
+
+- **Approach 1:** Keep the current fine-tuning style (now, finetune according format 1). Experiment inference with `tuning prompt` for both format 1 and format 2. 
+
+- **Approach 2:** Fine-tune according to format 2 (instead of format 1 as currently done) to help the AI Assistant understand the meaning correctly. 
+
+- **Approach 3:** Test with a larger model: around 4B, and try using Ollama for serving (instead of VLLM, which is currently consuming 24GB of VRAM for a 1.5B model). Switching to Ollama may significantly reduce RAM usage, but it might come at the cost of response speed.
+
+- Approach 4: Convert INPUT / OUTPUT to English. If I convert output to english <=> consume a lot of time for response time. 
+  => So: If I convert INPUT to English. 
+  +, I can use English conversation -> for tuning 
+  +, I can use 1 API to convert `Main Assistant Response of PIKA to English` => So, at that time: => Model maybe can response ENGLISH higher. 
+  *such as: I can test for base model before:* 
+
+- Approach 5: Try GRPO that Mr. Hoai recommend, to force model response in English. 
+
+For approach 4: 
+```bash
+
+curl --location 'http://103.253.20.30:30005/v1/chat/completions' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer hoailb-vllm' \
+--data '{
+    "model": "fastresponse",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are Pika, an ESL robot. CRITICAL: You MUST respond ONLY in English. Never use Vietnamese. Your response must be exactly 1-6 words in simple English (A2 level). Ignore any Vietnamese context and respond only in English"
+      },
+      {
+        "role": "assistant",
+        "content": "Good job! Tiếp nha, “Bức tranh?” trong tiếng Anh là gì cậu nhỉ?"
+      },
+      {
+        "role": "user",
+        "content": "Hmm, I don'\''t know."
+      },
+      {
+        "role": "assistant",
+        "content": "Don'\''t worry, we will find out together, open the door in English?"
+      },
+      {
+        "role": "user",
+        "content": "Dog"
+      },
+      {
+        "role": "assistant",
+        "content": "It'\''s okay to be wrong! Next! See you later in English?"
+      },
+      {
+        "role": "user",
+        "content": "See you soon."
+      }
+    ],
+    "max_tokens": 50,
+    "temperature": 0.2,
+    "top_p": 0.9,
+    "stop": ["<|im_end|>", "\n"],
+    "frequency_penalty": 0.2
+}'
+```
+
+```bash
+{
+
+    "id": "chatcmpl-0af6c7abf6c84517819ef9344b7af666",
+
+    "object": "chat.completion",
+
+    "created": 1754901741,
+
+    "model": "fastresponse",
+
+    "choices": [
+
+        {
+
+            "index": 0,
+
+            "message": {
+
+                "role": "assistant",
+
+                "reasoning_content": null,
+
+                "content": "<say>Okay, see you soon!</say>",
+
+                "tool_calls": []
+
+            },
+
+            "logprobs": null,
+
+            "finish_reason": "stop",
+
+            "stop_reason": null
+
+        }
+
+    ],
+
+    "usage": {
+
+        "prompt_tokens": 160,
+
+        "total_tokens": 172,
+
+        "completion_tokens": 12,
+
+        "prompt_tokens_details": null
+
+    },
+
+    "prompt_logprobs": null
+
+}
+
+```
+
+### **Bonus Information:**
 
 - Dataset: ~7000 examples 
 - Model: Qwen2.5-1.5B (fixed)
@@ -415,203 +540,18 @@ Response:
 
 ### **URGENCY: HIGH** 🚨
 
-Model đang được deploy production nhưng responses toàn tiếng Việt, ảnh hưởng trải nghiệm học tiếng Anh của trẻ em.
-
 **Please help! 🙏**
-
----
 
 **Link Google Sheet với data details**: https://docs.google.com/spreadsheets/d/1V9wz3FQqAHhR4DjBe8N5Tz4Y4QdMWf3Jg-zF0R1FCDs/edit?gid=412495096#gid=412495096
 
-
----
-Có 2 idea: 1 sửa Prompt có 2 cách 
-+ Câu assistant tiếng anh 
-+ Prompt Bạn phải trả lời tiếng anh 
-thay format finetune: user: conversation_history
-
 ---
 
-Có 3 dạng Prompt đang test: 
-- Dạng 1: 1 Prompt 
-- Dạng 2: 1 Prompt + 1 file JobRoles.md (input Profile)
-- Dạng 3: 1 Prompt + 1 file JobRoles.md và QC.md
 
+### 11/08/2025: 
+```
+Hiện em đang thử phương án 3 trước.
 
----
+(Chuyển `main_response` sang tiếng anh và đem đi finetune + khi inference cũng sẽ chuyển `main_response` sang English sau đó mới call API để gen Fast Response.
 
-Ngành sản xuất (manufacturing) là một trong những trụ cột chính của nền kinh tế Việt Nam, đóng góp lớn vào tăng trưởng GDP, kim ngạch xuất khẩu và tạo việc làm cho hàng triệu lao động. Việt Nam hiện là điểm đến chiến lược trong chuỗi cung ứng toàn cầu nhờ vào lợi thế về chi phí lao động, vị trí địa lý thuận lợi, sự ổn định chính trị và các hiệp định thương mại tự do (FTA) với các đối tác lớn như EU, Nhật Bản, Hàn Quốc, Hoa Kỳ…
-
-Các lĩnh vực sản xuất chủ lực bao gồm: dệt may, da giày, điện tử, thiết bị gia dụng, chế biến thực phẩm, gỗ và nội thất, thiết bị cơ khí và linh kiện ô tô. Bên cạnh đó, làn sóng đầu tư FDI ngày càng gia tăng đã thúc đẩy chuyển giao công nghệ, nâng cao năng lực sản xuất và tiêu chuẩn quản lý chất lượng tại các doanh nghiệp trong nước.
-
-Trong bối cảnh toàn cầu hóa sâu rộng, các doanh nghiệp manufacturing tại Việt Nam ngày càng đẩy mạnh hoạt động giao tiếp quốc tế ở nhiều khâu như phát triển sản phẩm, tiếp thị, đàm phán hợp đồng, quản lý chất lượng và chuyển giao công nghệ, thể hiện vai trò ngày càng chủ động trong chuỗi giá trị toàn cầu.
-
-## I. **Giao tiếp trước khi có đơn hàng (Pre-Sales / Business Development)**
-
-### 1. **Tham gia hội chợ quốc tế & sự kiện kết nối**
-
-- **Stakeholder:** Trade show organizers, potential foreign buyers, sourcing agents
-- **Communication Activities:**
-    - Giới thiệu năng lực sản xuất, sản phẩm mẫu
-    - Trao đổi sơ bộ nhu cầu sản phẩm, MOQ, chứng nhận
-    - Xin thông tin liên lạc để follow-up sau hội chợ
-
-### 2. **Tìm kiếm & tiếp cận khách hàng quốc tế (Buyer Outreach)**
-
-- **Stakeholder:** International brands, wholesalers, sourcing teams
-- **Communication Activities:**
-    - Gửi email giới thiệu công ty và sản phẩm
-    - Pitching qua Zoom/Teams hoặc video call
-    - Gửi profile năng lực, brochure, thông tin nhà máy
-
-**2b. Ra nước ngoài nghiên cứu thị trường & tiếp cận khách hàng (Overseas Market Exploration & Outreach Trips)**
-
-–
-
-**Stakeholder:**
-
-Foreign retailers, distributors, potential B2B clients, industry associations
-
-–
-
-**Communication Activities:**
-
-• Tham quan thị trường, khảo sát giá cả, sản phẩm cạnh tranh
-
-• Gặp gỡ trực tiếp khách hàng tiềm năng qua sự kiện, showroom, business matching
-
-• Làm việc với thương vụ Việt Nam ở nước sở tại, hoặc Phòng Thương mại địa phương
-
-• Thiết lập quan hệ đối tác mới thông qua mạng lưới kết nối địa phương
-
-### 3. **Tiếp đón khách quốc tế đến tham quan nhà máy**
-
-- **Stakeholder:** Buyers, compliance auditors, QA teams
-- **Communication Activities:**
-    - Giới thiệu tour nhà máy, trả lời các câu hỏi kỹ thuật
-    - Giải thích quy trình quản lý chất lượng, môi trường, lao động
-    - Đàm phán điều khoản hợp tác ban đầu
-
----
-
-## II. **Giao tiếp trong quá trình đàm phán và ký kết hợp đồng (Deal Closing)**
-
-### 4. **Đàm phán hợp đồng và điều khoản**
-
-- **Stakeholder:** International procurement teams, legal advisors
-- **Communication Activities:**
-    - Thảo luận về giá, MOQ, điều khoản thanh toán (LC, T/T)
-    - Thống nhất INCOTERMS (FOB, CIF…)
-    - Giao tiếp email hoặc họp online để hiệu chỉnh draft hợp đồng
-
----
-
-## III. **Giao tiếp trong sản xuất & kiểm định chất lượng (Production & QA/QC)**
-
-### 5. **Giao tiếp với buyer trong giai đoạn sản xuất**
-
-- **Stakeholder:** Buyers, merchandisers, third-party inspectors
-- **Communication Activities:**
-    - Cập nhật tiến độ sản xuất, hình ảnh sản xuất thật
-    - Trả lời các câu hỏi phát sinh (chất liệu, thay đổi design nhẹ…)
-
-### 6. **Tổ chức kiểm định chất lượng (Pre-shipment / inline inspection)**
-
-- **Stakeholder:** Third-party inspection agencies (SGS, Intertek), buyer QA
-- **Communication Activities:**
-    - Sắp xếp lịch kiểm tra, gửi thông tin mẫu kiểm
-    - Giải thích nếu có lỗi phát sinh, thương lượng hướng xử lý
-
----
-
-## IV. **Giao tiếp trong logistics và thanh toán (Shipping & Payment)**
-
-### 7. **Chuẩn bị chứng từ xuất khẩu và giao hàng**
-
-- **Stakeholder:** Freight forwarders, customs brokers, buyer’s import team
-- **Communication Activities:**
-    - Gửi booking vận chuyển, chuẩn bị Packing List, Invoice, CO
-    - Gửi scan chứng từ cho buyer kiểm tra
-    - Giao tiếp khi hàng gặp sự cố trong vận chuyển
-
-### 8. **Giao tiếp về thanh toán**
-
-- **Stakeholder:** Buyer’s finance team, banks
-- **Communication Activities:**
-    - Nhắc nhở thanh toán nếu trễ
-    - Gửi chứng từ ngân hàng, điều chỉnh nếu bị từ chối L/C
-    - Giải trình khi cần xác minh hóa đơn, CO, B/L
-
----
-
-## V. **Giao tiếp sau bán hàng (Post-Sales / Relationship Management)**
-
-### 9. **Xử lý phản hồi và khiếu nại**
-
-- **Stakeholder:** Buyers, end-users, QA team
-- **Communication Activities:**
-    - Giao tiếp khi hàng lỗi, giao trễ, sai mã hàng
-    - Đề xuất hướng xử lý: hoàn tiền, tái sản xuất, giảm giá…
-
-### 10. **Duy trì mối quan hệ & phát triển hợp tác lâu dài**
-
-- **Stakeholder:** Strategic buyers, sourcing heads
-- **Communication Activities:**
-    - Gửi báo cáo năng lực, case study, R&D mới
-    - Giao tiếp định kỳ về xu hướng sản phẩm, nguyên vật liệu mới
-    - Tham quan nhà máy định kỳ, audit CSR (BSCI, WRAP, etc.)
-
----
-
-## VI. **Giao tiếp trong hợp tác kỹ thuật & cải tiến (R&D – Innovation Collaboration)**
-
-### 11. **Giao tiếp với chuyên gia nước ngoài về công nghệ & sản phẩm**
-
-- **Stakeholder:** Foreign engineers, product development consultants
-- **Communication Activities:**
-    - Thảo luận online/offline về thay đổi thiết kế, công thức, nguyên liệu
-    - Triển khai thử nghiệm sản phẩm mới
-    - Gửi mẫu, nhận phản hồi, tối ưu hoá sản phẩm
-
-### **Công tác kỹ thuật và chuyển giao công nghệ**
-
-- Gửi đội ngũ kỹ sư, chuyên gia kỹ thuật sang nhà máy đối tác hoặc công ty mẹ (nếu là FDI) để học quy trình, công nghệ, vận hành máy móc.
-- Đặc biệt phổ biến trong các ngành:
-    - Cơ khí chính xác (Machinery, Electronics)
-    - Linh kiện ô tô (Automotive parts)
-    - Dệt may cao cấp, vải kỹ thuật
-    - Thực phẩm (Food Tech)
-
-### **Học hỏi công nghệ mới tại hội chợ / triển lãm quốc tế**
-
-- Tham dự các hội chợ công nghiệp lớn như:
-    - ITMA (Textile Machinery – Châu Âu)
-    - Hannover Messe (Industrial Technology – Đức)
-    - Interpack (Processing & Packaging – Đức)
-- Giao tiếp với nhà cung cấp máy móc, công nghệ, vật liệu mới.
-
-### **Hợp tác phát triển sản phẩm với khách hàng / viện nghiên cứu nước ngoài**
-
-- Gửi mẫu kỹ thuật, sau đó cử người sang để cùng nghiên cứu, thử nghiệm (co-development).
-- Thường đi kèm với các yêu cầu nghiêm ngặt như:
-    - Truy xuất nguồn gốc
-    - Phát triển vật liệu bền vững
-    - Chuẩn hóa theo thị trường EU / Nhật / Mỹ
-
-### **Khảo sát nhà máy / mô hình sản xuất nước ngoài**
-
-- Đi benchmarking: học hỏi mô hình sản xuất tinh gọn, quản lý năng lượng, quản lý chất lượng (Lean, TPM, ESG…).
-- Thường do ban lãnh đạo, quản lý sản xuất, hoặc QA đi thực tế.
-
----
-
-## Tổng kết:
-
-Doanh nghiệp sản xuất tại Việt Nam – đặc biệt là các doanh nghiệp xuất khẩu – cần **giao tiếp với người nước ngoài xuyên suốt từ tìm kiếm khách hàng → ký hợp đồng → sản xuất → giao hàng → hậu mãi**. Các vị trí thường xuyên giao tiếp quốc tế gồm:
-
-- Export Sales / Business Development
-- Merchandiser / Order Coordinator
-- QA/QC Manager
-- Logistics & Documentation Specialist
-- Finance / Accounting (Payment follow-up)
-- R&D / Technical / Compliance Manager
+(cách làm này có: `main_response` được chuyển sang English cùng lúc với giai đoạn user đang trả lời và ASR nên ko sợ bị tăng độ trễ ạ)
+```
