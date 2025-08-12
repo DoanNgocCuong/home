@@ -687,3 +687,56 @@ Kiểu ban đầu 5 bi đỏ, 5 bi xanh thì Entropy ban đầu = 1 (vì 50-50)
 **Học Vẹt** 9:20 PM  
 @343_Đinh Nam Khánh ý tưởng của Decision Tree là đặt các câu hỏi “hợp lý” để chia đôi tập hợp mẫu. Câu hỏi hợp lý là câu hỏi làm giảm entropy (độ bất định) cho đến khi chia ra thành các tập hợp gồm 1 giá trị nhãn (thuần nhất = purity), đó chính là leaf node
 ```
+
+
+Lý do tại sao khi các giá trị có xác suất bằng nhau lại có Entropy lớn nhất là vì -log(x) là hàm số lõm khi x > 0, và áp dụng bất đẳng thức Jensen trong Toán với hàm lõm thì thu được Entropy lớn nhất khi tất cả các giá trị xác suất p_i bằng nhau.  
+  
+Khi n giá trị có xác suất bằng nhau, độ hỗn loạn/bất định (Entropy) là lớn nhất.
+
+
+---
+Ok, mình sẽ viết thêm phần **Parent Entropy** (E(S)) theo đúng dữ liệu trong bảng.
+
+---
+
+### 1. Xác định số lượng Yes / No toàn bộ bảng
+
+Từ cột **Play Tennis**:
+
+- **Yes** = 9 mẫu
+    
+- **No** = 5 mẫu  
+    → Tổng = 14 mẫu
+    
+
+---
+
+### 2. Công thức entropy của parent (E(S))
+
+E(S)=−914log⁡2914−514log⁡2514E(S) = - \frac{9}{14} \log_2 \frac{9}{14} - \frac{5}{14} \log_2 \frac{5}{14}
+
+---
+
+### 3. Tính giá trị
+
+- 914≈0.6429\frac{9}{14} \approx 0.6429
+    
+- 514≈0.3571\frac{5}{14} \approx 0.3571
+    
+
+E(S)=−0.6429⋅log⁡2(0.6429)−0.3571⋅log⁡2(0.3571)E(S) = - 0.6429 \cdot \log_2(0.6429) - 0.3571 \cdot \log_2(0.3571) E(S)≈−0.6429⋅(−0.6439)−0.3571⋅(−1.4854)E(S) \approx - 0.6429 \cdot (-0.6439) - 0.3571 \cdot (-1.4854) E(S)≈0.413+0.530≈0.943E(S) \approx 0.413 + 0.530 \approx 0.943
+
+---
+
+✅ **Parent Entropy (E(S)) ≈ 0.94** — đúng với con số ở slide của bạn.
+
+---
+
+Nếu bạn muốn, mình có thể viết lại **cả quy trình IG(Wind)** ở slide này, bao gồm:
+
+1. Tính Parent Entropy.
+    
+2. Tính Entropy của Weak & Strong.
+    
+3. Tính IG.  
+    Bạn có muốn mình làm trọn vẹn luôn không?
