@@ -813,3 +813,26 @@ Hoàn toàn có thể chia 3 categories, cơ mà nó là thuật toán phát tri
   
 <maybe>
 ```
+
+
+```
+em thấy Overcast luôn có Play Tennis = yes, vậy tại sao ko chia thành 3 categories và 1 cái H=0 thì delete ạ? còn IG là tính cho 3 phần, còn nãy e nghe đk ad bảo nên làm binary vì sao ạ>  
+  
+**Nam Khánh Đinh** 9:49 PM  
+thì Overcast -> yes trong tree luôn ý ạ  
+  
+**You** 9:56 PM  
+Hình như là giai đoạn đầu người ta phát triển thuật toán này theo kiểu True/False (2 bit).  
+  
+Hoàn toàn có thể chia 3 categories, cơ mà nó là thuật toán phát triển mở rộng về sau từ cái Binary này :3  
+  
+<maybe>  
+  
+**Học Vẹt** 9:59 PM (Edited)  
+@Cường Đoàn Ngọc @Nam Khánh Đinh Hàm log thường khác nhau 1 hệ số, nên về mặt độ phức tạp thuật toán thì chia 2 hay chia 3, chia 4… tức là cây nhị phân, tam phân, tứ phân… có cùng độ phức tạp thuật toán.  
+  
+Vì vậy chia cây nhị phân là đơn giản nhất và vẫn giữ nguyên độ phức tạp.  
+  
+**Tuan Trinh** 10:01 PM  
+1 bit thì có thể thể hiện đc 2 trạng thái rồi, 2 bit thì có thể thể hiện 4 trạng thái
+```
