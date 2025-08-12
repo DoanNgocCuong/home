@@ -740,3 +740,21 @@ Nếu bạn muốn, mình có thể viết lại **cả quy trình IG(Wind)** �
     
 3. Tính IG.  
     Bạn có muốn mình làm trọn vẹn luôn không?
+
+---
+```
+Anh **@Học Vẹt**  
+  
+Em vừa check lại:  
+  
+Với f(x)=−xlogx với x > 0 thì có đạo hàm bậc 2 nhỏ hơn 0 nên lõm  
+  
+Nhưng hàm f(x) = -log(x) với x > 0 có đạo hàm bậc 2 lớn hơn 0 nên lồi  
+  
+  
+---  
+  
+Ví dụ x^2 là hàm lồi  
++, (tính từ ngoài vào) (parabol)  
++, Đạo hàm bậc 2 của nó bằng 2 >0 nên hàm lồi
+```
