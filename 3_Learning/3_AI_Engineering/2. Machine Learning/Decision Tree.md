@@ -520,3 +520,12 @@ Cách chọn giải pháp tùy thuộc vào bài toán, dữ liệu và độ ph
 
 
 ![[Pasted image 20241127104908.png]]
+
+
+
+---
+
+Trong machine learing, decision tree có 3-4 nhánh không hay chỉ 2 nhánh
+
+
+![[Pasted image 20250812203541.png]]
