@@ -804,3 +804,12 @@ Trong tập dữ liệu này:
 - **ID3/C4.5**: IG tính trung bình trọng số cho **tất cả các giá trị** của thuộc tính, không ép về 2 nhánh.
     
 - **CART/XGBoost/LightGBM**: IG (thực ra gọi là Gini/Gain reduction) tính cho split nhị phân → thử tất cả cách chia dữ liệu thành 2 nhóm → chọn nhóm giảm bất định nhiều nhất.
+
+---
+```
+Hình như là giai đoạn đầu người ta phát triển thuật toán này theo kiểu True/False (2 bit).  
+  
+Hoàn toàn có thể chia 3 categories, cơ mà nó là thuật toán phát triển mở rộng về sau từ cái Binary này :3  
+  
+<maybe>
+```
