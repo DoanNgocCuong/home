@@ -637,3 +637,37 @@ H(X)=∑xp(x)⋅I(p(x))=∑xp(x)⋅log⁡1p(x)H(X) = \sum_{x} p(x) \cdot I(p(x))
 
 Nếu bạn muốn, mình có thể làm **một ví dụ trực quan bằng trò chơi 20 câu hỏi** để bạn thấy vì sao lượng thông tin phải dùng log và cộng dồn.  
 Bạn có muốn mình làm ví dụ đó không?
+
+
+---
+Entropy khi theo đuổi 1 người nhiều khi = 0 mà nhiều ace vẫn cố gắng 😄
+
+
+
+- **Entropy = 0** → kết quả đã chắc chắn 100% (người ta không thích mình hoặc đã có người yêu) → về lý thuyết thì không cần tốn thêm “bit” nào để giải mã thông tin.
+    
+- Nhưng trong **tình cảm**, “người chơi hệ niềm tin” lại override lý thuyết, coi xác suất 0 như vẫn còn “một chút hy vọng lượng tử” 🤭.
+    
+
+---
+
+📊 **Biểu đồ cảm xúc vs. Entropy trong tình yêu**:
+
+- Entropy cao → hồi hộp, đoán già đoán non, mọi tín hiệu đều có thể đảo ngược.
+    
+- Entropy thấp (gần 0) → khoa học bảo “bỏ đi”, trái tim bảo “cố lên”.
+
+---
+- **Entropy = 0** nghĩa là **không còn bất định**:
+    
+    - 100% chắc chắn người ta thích mình ✅
+        
+    - hoặc 100% chắc chắn người ta _không_ thích mình ❌
+        
+
+Vấn đề là… trong đời thật, nhiều người khi **Entropy = 0 (không thích)** vẫn behave như **Entropy cao** 😅  
+→ tức là bỏ qua tín hiệu chắc chắn, vẫn “explore” như đang ở giai đoạn mơ hồ.
+
+
+---
+![[Pasted image 20250812212327.png]]
