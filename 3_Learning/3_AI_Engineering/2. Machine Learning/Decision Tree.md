@@ -1278,9 +1278,9 @@ Ok, mình sẽ giải thích **tại sao lại có các công thức** cho Surpr
 
 - Gini đo xác suất **chọn sai** nếu gán nhãn ngẫu nhiên theo phân bố trong node.
     
-- Nếu xác suất chọn đúng = ∑pi2\sum p_i^2 (xác suất rút được 2 mẫu cùng class), thì:
+- Nếu xác suất chọn đúng = $∑pi2\sum p_i^2$ (xác suất rút được 2 mẫu cùng class), thì:
     
-    Gini=1−∑i=1npi2Gini = 1 - \sum_{i=1}^n p_i^2
+    Gini=$1−∑i=1npi2Gini$ = $1 - \sum_{i=1}^n p_i^2$
 - Giải thích: ∑pi2\sum p_i^2 là độ “thuần” của node, nên 1 – giá trị đó là “độ lẫn lộn”.
     
 
