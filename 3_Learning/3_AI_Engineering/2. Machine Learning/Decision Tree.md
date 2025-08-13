@@ -1203,3 +1203,112 @@ Entropy & Gini khi theo đuổi 1 người:
 ![[Pasted image 20250813214914.png]]
 
 ![[Pasted image 20250813221241.png]]
+
+Mình sẽ phân biệt rõ từng khái niệm, công thức và mối liên hệ, rồi cuối cùng sẽ lấy ví dụ “tình yêu” cho dễ nhớ nhé.
+
+---
+
+## 1. **Entropy**
+
+- **Khái niệm**: Đo **mức độ hỗn loạn** hay **bất định** của dữ liệu (xuất phát từ Thông tin học – Information Theory).
+    
+- **Công thức**:
+    
+
+Entropy=−∑i=1npilog⁡2piEntropy = - \sum_{i=1}^n p_i \log_2 p_i
+
+- pip_i: xác suất mẫu thuộc class ii.
+    
+- **Giá trị**:
+    
+    - 0 → hoàn toàn chắc chắn (pure)
+        
+    - Càng lớn → càng nhiều hỗn loạn (cân bằng class thì lớn nhất).
+        
+- **Ý nghĩa**: Lượng “thông tin mới” cần để mô tả kết quả.
+    
+
+---
+
+## 2. **Information Gain**
+
+- **Khái niệm**: Đo mức **giảm bất định** khi chia dữ liệu bằng một thuộc tính.
+    
+- **Công thức**:
+    
+
+IG(S,A)=Entropy(S)−∑v∈Values(A)∣Sv∣∣S∣⋅Entropy(Sv)IG(S, A) = Entropy(S) - \sum_{v \in Values(A)} \frac{|S_v|}{|S|} \cdot Entropy(S_v)
+
+- SS: tập dữ liệu gốc
+    
+- AA: thuộc tính đang xét
+    
+- **Ý nghĩa**: Chia xong mà bất định giảm nhiều → thuộc tính đó tốt.
+    
+
+---
+
+## 3. **Gini Impurity**
+
+- **Khái niệm**: Đo xác suất **phân loại sai** nếu chọn ngẫu nhiên một mẫu và gán nhãn theo tỷ lệ class trong node.
+    
+- **Công thức**:
+    
+
+Gini=1−∑i=1npi2Gini = 1 - \sum_{i=1}^n p_i^2
+
+- **Giá trị**:
+    
+    - 0 → pure
+        
+    - Lớn hơn → nhiều hỗn loạn hơn.
+        
+- **Ý nghĩa**: Càng thấp thì node càng thuần khiết.
+    
+
+---
+
+## 4. **Mối liên hệ**
+
+- Cả **Entropy** và **Gini** đều đo impurity (mức hỗn loạn).
+    
+- **Information Gain** là “hiệu quả” của việc giảm impurity khi dùng một thuộc tính để chia dữ liệu.
+    
+- Trong Decision Tree:
+    
+    - ID3, C4.5 thường dùng **Entropy → Information Gain**.
+        
+    - CART thường dùng **Gini**.
+        
+- Kết quả thường giống nhau vì Entropy và Gini biến thiên gần như cùng dạng.
+    
+
+---
+
+## 5. **Ví dụ tình yêu**
+
+Hãy tưởng tượng bạn đang “crush” một người:
+
+- **Entropy**:
+    
+    - Entropy = 0 → Bạn **100% chắc** người đó thích hoặc không thích mình → Không còn hồi hộp.
+        
+    - Entropy cao → Bạn **nửa tin nửa ngờ** → Cảm xúc lẫn lộn, tim đập thình thịch.
+        
+- **Gini**:
+    
+    - Gini = 0 → Bạn **hoàn toàn biết kết quả** (pure).
+        
+    - Gini cao → Khả năng **đoán sai** khi dự đoán cảm xúc của người ấy là cao.
+        
+- **Information Gain**:
+    
+    - Trước khi hỏi “Bạn có thích mình không?”, độ hồi hộp cao.
+        
+    - Sau khi hỏi và nghe câu trả lời (hoặc thấy hành động), độ bất định giảm mạnh → **Information Gain lớn** → Bạn đã “học” được thông tin quan trọng.
+        
+
+---
+
+Nếu bạn muốn, mình có thể **vẽ sơ đồ “Tình yêu” với Entropy, Gini và Information Gain** để vừa học vừa vui, nhìn là hiểu ngay.  
+Bạn có muốn mình vẽ không?
