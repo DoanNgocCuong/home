@@ -1115,3 +1115,48 @@ Entropy & Gini khi theo đuổi 1 người:
         
     - ❌ 100% chắc chắn người ta _không_ thích mình
 ```
+
+
+## 2. Khi nào dùng?
+
+**Dùng Gini khi:**
+
+- Bạn cần **tốc độ** (dataset lớn, huấn luyện nhiều lần).
+    
+- Muốn thuật toán **đơn giản, tính nhanh** mà vẫn ra kết quả gần giống Entropy.
+    
+- Sử dụng **CART (Classification and Regression Trees)** – mặc định dùng Gini.
+    
+
+**Dùng Entropy khi:**
+
+- Bạn muốn giải thích theo **lý thuyết thông tin** (đo bit thông tin).
+    
+- Muốn mô hình **nhạy hơn** với các thay đổi nhỏ trong phân bố class (đặc biệt khi phân bố rất lệch).
+    
+- Sử dụng các thuật toán như **ID3, C4.5** – mặc định dùng Entropy.
+    
+
+---
+
+## 3. Thực tế
+
+- Với đa số bài toán classification, **Gini và Entropy thường chọn cùng feature để chia** → kết quả mô hình gần như nhau.
+    
+- Nhiều người chọn Gini vì **tốc độ tính toán** và kết quả tương đương.
+    
+- Entropy được chọn khi muốn **diễn giải mô hình** dưới góc nhìn “lượng thông tin thu được” (information gain).
+
+# Cái bài mà rẽ nhánh multi thay vì biary thì dùng cái nào
+
+## Nên dùng cái nào cho multi-way?
+
+- **Gini**: tính nhanh hơn, phù hợp nếu dataset lớn hoặc cần train nhiều lần.
+    
+- **Entropy**: có ý nghĩa lý thuyết thông tin, nhưng tính chậm hơn một chút do dùng log.
+    
+- Với multi-way split, kết quả xếp hạng feature thường **rất giống nhau** giữa Gini và Entropy → chọn cái nào phụ thuộc vào:
+    
+    - Yêu cầu giải thích (chọn Entropy)
+        
+    - Tốc độ (chọn Gini)
