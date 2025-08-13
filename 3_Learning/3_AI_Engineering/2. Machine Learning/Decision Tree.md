@@ -1369,4 +1369,4 @@ Có hai cách để chia numerical feature thành 3 nhóm trong cây quyết đ�
 
 
 Minfh chonj 0 
-gaf
+gà quá -> = - tổng xích ma của p_i * log_2(p_i)
