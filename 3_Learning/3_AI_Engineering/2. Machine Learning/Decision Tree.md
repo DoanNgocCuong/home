@@ -1208,107 +1208,126 @@ Mình sẽ phân biệt rõ từng khái niệm, công thức và mối liên h�
 
 ---
 
-## 1. **Entropy**
+Ok, mình sẽ giải thích **tại sao lại có các công thức** cho Surprise, Entropy, Information Gain và Gini Impurity, từ nền tảng toán và logic, để bạn thấy rõ mối liên kết giữa chúng.
 
-- **Khái niệm**: Đo **mức độ hỗn loạn** hay **bất định** của dữ liệu (xuất phát từ Thông tin học – Information Theory).
-    
-- **Công thức**:
-    
+---
 
-Entropy=−∑i=1npilog⁡2piEntropy = - \sum_{i=1}^n p_i \log_2 p_i
+## 1. **Surprise** – Công thức từ xác suất
 
-- pip_i: xác suất mẫu thuộc class ii.
+**Ý tưởng:**
+
+- Sự kiện hiếm → nhiều thông tin → bất ngờ cao.
     
-- **Giá trị**:
+- Ta muốn một hàm f(p)f(p) thoả:
     
-    - 0 → hoàn toàn chắc chắn (pure)
+    1. f(p)f(p) giảm khi pp tăng (xác suất cao thì ít bất ngờ).
         
-    - Càng lớn → càng nhiều hỗn loạn (cân bằng class thì lớn nhất).
+    2. Nếu 2 sự kiện độc lập, độ bất ngờ cộng lại:  
+        f(p1⋅p2)=f(p1)+f(p2)f(p_1 \cdot p_2) = f(p_1) + f(p_2).
         
-- **Ý nghĩa**: Lượng “thông tin mới” cần để mô tả kết quả.
+
+**Giải:**
+
+- Điều kiện (2) là tính chất log:
+    
+    log⁡(a⋅b)=log⁡a+log⁡b\log(a \cdot b) = \log a + \log b
+- Đảo dấu để bất ngờ giảm khi p tăng →
+    
+    Surprise(x)=−log⁡2p(x)Surprise(x) = -\log_2 p(x)
+- Cơ số 2 → đơn vị đo là **bit**.
     
 
 ---
 
-## 2. **Information Gain**
+## 2. **Entropy** – Trung bình Surprise
 
-- **Khái niệm**: Đo mức **giảm bất định** khi chia dữ liệu bằng một thuộc tính.
-    
-- **Công thức**:
-    
+**Ý tưởng:**
 
-IG(S,A)=Entropy(S)−∑v∈Values(A)∣Sv∣∣S∣⋅Entropy(Sv)IG(S, A) = Entropy(S) - \sum_{v \in Values(A)} \frac{|S_v|}{|S|} \cdot Entropy(S_v)
-
-- SS: tập dữ liệu gốc
+- Ta muốn đo mức **bất định trung bình** của một biến ngẫu nhiên X.
     
-- AA: thuộc tính đang xét
+- Nếu X có các giá trị xix_i với xác suất pip_i, thì Entropy là kỳ vọng của Surprise:
     
-- **Ý nghĩa**: Chia xong mà bất định giảm nhiều → thuộc tính đó tốt.
+    $Entropy(X)=E[−log⁡2p(X)]Entropy(X)$ = $\mathbb{E}[-\log_2 p(X)]$ =$∑i=1npi⋅(−log⁡2pi)$= $\sum_{i=1}^n p_i \cdot (-\log_2 p_i)$
+- Đây là công thức Shannon Entropy:
     
-
----
-
-## 3. **Gini Impurity**
-
-- **Khái niệm**: Đo xác suất **phân loại sai** nếu chọn ngẫu nhiên một mẫu và gán nhãn theo tỷ lệ class trong node.
-    
-- **Công thức**:
-    
-
-Gini=1−∑i=1npi2Gini = 1 - \sum_{i=1}^n p_i^2
-
-- **Giá trị**:
-    
-    - 0 → pure
-        
-    - Lớn hơn → nhiều hỗn loạn hơn.
-        
-- **Ý nghĩa**: Càng thấp thì node càng thuần khiết.
+    Entropy=−∑i=1npilog⁡2piEntropy = -\sum_{i=1}^n p_i \log_2 p_i
+- Ý nghĩa: Số **bit trung bình** cần để mô tả kết quả nếu ta mã hoá tối ưu.
     
 
 ---
 
-## 4. **Mối liên hệ**
+## 3. **Information Gain** – Giảm bất định
 
-- Cả **Entropy** và **Gini** đều đo impurity (mức hỗn loạn).
+**Ý tưởng:**
+
+- Khi ta biết thêm một feature, bất định giảm → thu được **lợi ích thông tin**.
     
-- **Information Gain** là “hiệu quả” của việc giảm impurity khi dùng một thuộc tính để chia dữ liệu.
+- Đo bằng:
     
-- Trong Decision Tree:
+    IG=Entropy(Parent)−∑knkn×Entropy(Childk)IG = Entropy(\text{Parent}) - \sum_{k} \frac{n_k}{n} \times Entropy(\text{Child}_k)
+- Phần thứ hai là **Entropy sau khi chia**, tính trung bình gia quyền theo số mẫu.
     
-    - ID3, C4.5 thường dùng **Entropy → Information Gain**.
-        
-    - CART thường dùng **Gini**.
-        
-- Kết quả thường giống nhau vì Entropy và Gini biến thiên gần như cùng dạng.
+- Tại sao trừ? → Vì “thông tin mới” = “bất định ban đầu” – “bất định còn lại”.
+    
+
+---
+
+## 4. **Gini Impurity** – Công thức từ xác suất sai
+
+**Ý tưởng:**
+
+- Gini đo xác suất **chọn sai** nếu gán nhãn ngẫu nhiên theo phân bố trong node.
+    
+- Nếu xác suất chọn đúng = ∑pi2\sum p_i^2 (xác suất rút được 2 mẫu cùng class), thì:
+    
+    Gini=1−∑i=1npi2Gini = 1 - \sum_{i=1}^n p_i^2
+- Giải thích: ∑pi2\sum p_i^2 là độ “thuần” của node, nên 1 – giá trị đó là “độ lẫn lộn”.
     
 
 ---
 
-## 5. **Ví dụ tình yêu**
+## 5. **Mối quan hệ chuỗi logic**
 
-Hãy tưởng tượng bạn đang “crush” một người:
-
-- **Entropy**:
+1. **Surprise**: đo độ bất ngờ của 1 sự kiện.
     
-    - Entropy = 0 → Bạn **100% chắc** người đó thích hoặc không thích mình → Không còn hồi hộp.
-        
-    - Entropy cao → Bạn **nửa tin nửa ngờ** → Cảm xúc lẫn lộn, tim đập thình thịch.
-        
-- **Gini**:
+2. **Entropy**: trung bình Surprise → đo bất định tổng thể.
     
-    - Gini = 0 → Bạn **hoàn toàn biết kết quả** (pure).
-        
-    - Gini cao → Khả năng **đoán sai** khi dự đoán cảm xúc của người ấy là cao.
-        
-- **Information Gain**:
+3. **Information Gain**: so sánh Entropy trước và sau khi biết thông tin → đo lợi ích của việc chia node.
     
-    - Trước khi hỏi “Bạn có thích mình không?”, độ hồi hộp cao.
-        
-    - Sau khi hỏi và nghe câu trả lời (hoặc thấy hành động), độ bất định giảm mạnh → **Information Gain lớn** → Bạn đã “học” được thông tin quan trọng.
-        
+4. **Gini Impurity**: một thước đo bất định khác, không dựa trên log, đo trực tiếp xác suất sai → cũng dùng để chọn cách chia tốt nhất.
+    
 
 ---
 
-Nếu bạn muốn, mình có thể **vẽ sơ đồ “Tình yêu” với Entropy, Gini và Information Gain** để vừa học vừa vui, nhìn là hiểu ngay.  
-Bạn có muốn mình vẽ không?
+## 6. **Ví dụ tình yêu – giải thích công thức**
+
+Giả sử bạn nhắn tin cho crush:
+
+- **Surprise**:  
+    Nếu xác suất nhận được icon ❤️ chỉ 5%, Surprise = −log⁡20.05-\log_2 0.05 ≈ 4.32 bits → rất bất ngờ.
+    
+- **Entropy**:  
+    Nếu 50% _seen_, 30% _like_, 20% _reply_:
+    
+    Entropy=−(0.5log⁡20.5+0.3log⁡20.3+0.2log⁡20.2)≈1.49 bitsEntropy = -(0.5\log_2 0.5 + 0.3\log_2 0.3 + 0.2\log_2 0.2) \approx 1.49\ \text{bits}
+    
+    → trung bình mỗi lần nhắn, bạn “bất ngờ” ở mức 1.49 bits.
+    
+- **Information Gain**:  
+    Biết “crush vừa chia tay” → phân bố hành vi thay đổi, Entropy giảm → IG = phần giảm đó.
+    
+- **Gini**:  
+    Với cùng phân bố:
+    
+    Gini=1−(0.52+0.32+0.22)=0.62Gini = 1 - (0.5^2 + 0.3^2 + 0.2^2) = 0.62
+    
+    → Nếu đoán theo hành vi phổ biến nhất (_seen_), xác suất đoán sai là 62%.
+    
+
+---
+
+Nếu bạn muốn, mình có thể vẽ một **sơ đồ tư duy nối 4 khái niệm này** từ nền tảng toán tới ứng dụng, vừa dễ nhớ vừa logic.  
+Bạn có muốn mình làm sơ đồ này không?
+
+
+![[Pasted image 20250813222501.png]]
