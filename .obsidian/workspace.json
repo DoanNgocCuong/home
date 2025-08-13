@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xe máy",
+                "query": "port",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,7 +196,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "3855e8e520753162",
+  "active": "0cf1f93d49c9ecae",
   "lastOpenFiles": [
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/8. CÁCH ĐỌC SÁCH VÀ XEM VIDEO ĐÚC KẾT BÀI HỌC =.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/9. NGOẠI LỰC (DOPAMINE, TESTOSTERONE, 4 LOẠI NGOẠI ĐỘNG LỰC DISC)  - NỘI LỰC (MINDSET, TRÒ CHƠI TÂM TRÍ, NIỀM TIN GIỚI HẠN) - TỨ NIỆM XỨ, BÁT CHÁNH ĐẠO (THIỀN DÙNG TÂM ĐÁNH BẠI TÂM).md",
