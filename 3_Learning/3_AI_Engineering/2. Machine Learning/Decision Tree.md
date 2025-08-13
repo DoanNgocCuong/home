@@ -1331,3 +1331,8 @@ Bạn có muốn mình làm sơ đồ này không?
 
 
 ![[Pasted image 20250813222501.png]]
+
+
+---
+
+Cho em hỏi là nếu cây quyết định phải phân 3 nhóm (node) numerical feature ( vd như tuổi) thì làm ntn ah
