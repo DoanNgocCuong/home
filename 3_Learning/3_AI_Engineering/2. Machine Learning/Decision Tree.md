@@ -647,7 +647,12 @@ Entropy khi theo đuổi 1 người nhiều khi = 0 mà nhiều ace vẫn cố g
 - **Entropy = 0** → kết quả đã chắc chắn 100% (người ta không thích mình hoặc đã có người yêu) → về lý thuyết thì không cần tốn thêm “bit” nào để giải mã thông tin.
     
 - Nhưng trong **tình cảm**, “người chơi hệ niềm tin” lại override lý thuyết, coi xác suất 0 như vẫn còn “một chút hy vọng lượng tử” 🤭.
+
+- **Entropy = 0** nghĩa là **không còn bất định**:
     
+    - 100% chắc chắn người ta thích mình ✅
+        
+    - hoặc 100% chắc chắn người ta _không_ thích mình ❌
 
 ---
 
@@ -990,3 +995,123 @@ Nếu bạn muốn, mình có thể vẽ **so sánh trực quan độ phức t�
 ---
 
 
+![[Pasted image 20250813205648.png]]
+
+GINI CÀNG NHỎ CÀNG DỄ RA QUYẾT ĐỊNH. GINI GIẢM VỀ 0 
+
+ENTROPY=0 
+
+
+
+
+--
+
+# GINI và ENTROPY
+
+Mối quan hệ giữa **Entropy** và **Gini Impurity** trong cây quyết định khá chặt chẽ vì cả hai đều là **thước đo mức độ hỗn loạn (impurity)** của dữ liệu ở một node, nhưng cách đo có khác nhau.
+
+---
+
+## 1. Giống nhau
+
+- **Đều đo impurity**: Giá trị càng thấp → node càng “thuần khiết” (pure).
+    
+- **Đều đạt 0** khi node chỉ chứa 1 class.
+    
+- **Đều đạt giá trị tối đa** khi các class phân bố đồng đều.
+    
+- **Đều được dùng để chọn feature chia nhánh trong Decision Tree** (ID3, C4.5, CART…).
+    
+
+---
+
+## 2. Khác nhau
+
+|Tiêu chí|**Gini Impurity**|**Entropy**|
+|---|---|---|
+|**Công thức**|Gini=1−∑pi2Gini = 1 - \sum p_i^2|Entropy=−∑pilog⁡2piEntropy = -\sum p_i \log_2 p_i|
+|**Gốc lý thuyết**|Đơn giản, dựa trên xác suất sai khi phân loại ngẫu nhiên|Thông tin học (Information Theory), đo lượng thông tin cần thiết|
+|**Phạm vi giá trị (2 class)**|0 → 0.5|0 → 1|
+|**Tính toán**|Nhanh hơn (không log)|Chậm hơn (có log)|
+|**Độ nhạy với phân bố cực đoan**|Ít nhạy hơn Entropy|Nhạy hơn một chút khi các class rất mất cân bằng|
+
+---
+
+## 3. Mối quan hệ dạng gần đúng
+
+Với cùng phân bố class, **Entropy và Gini có đường cong rất giống nhau**.  
+Ví dụ với bài toán 2 class (pp và 1−p1-p):
+
+|pp|Gini|Entropy|
+|---|---|---|
+|0.0|0.00|0.000|
+|0.1|0.18|0.469|
+|0.2|0.32|0.722|
+|0.3|0.42|0.881|
+|0.4|0.48|0.971|
+|0.5|**0.50**|**1.000**|
+
+➡ Khi chọn feature để chia, **Entropy và Gini thường chọn cùng một feature** vì thứ tự mức độ “hỗn loạn” giữa các chia không thay đổi nhiều.
+
+---
+
+## 4. Kết luận ngắn gọn
+
+- **Gini**: nhanh, đơn giản, dùng mặc định trong **CART**.
+    
+- **Entropy**: có ý nghĩa lý thuyết thông tin, dùng trong **ID3, C4.5**.
+    
+- Kết quả thực tế thường giống nhau, khác biệt chủ yếu là tốc độ tính và ý nghĩa lý thuyết.
+    
+
+---
+
+Nếu bạn muốn, mình có thể **vẽ biểu đồ so sánh đường cong Entropy và Gini** để thấy rõ quan hệ của chúng.  
+Bạn có muốn mình vẽ luôn không?
+
+Entropy và Gini Impurity đều là thước đo “độ hỗn loạn” (impurity) trong một node của cây quyết định, nhưng cách tính khác nhau:
+
+**Giống nhau**
+
+- Cùng đạt 0 khi node hoàn toàn thuần khiết.
+    
+- Cùng đạt cực đại khi các lớp phân bố đều.
+    
+- Dùng để chọn cách chia dữ liệu tốt nhất trong Decision Tree.
+    
+
+**Khác nhau**
+
+|Tiêu chí|Gini Impurity|Entropy|
+|---|---|---|
+|Công thức|Gini=1−∑pi2Gini = 1 - \sum p_i^2|Entropy=−∑pilog⁡2piEntropy = -\sum p_i \log_2 p_i|
+|Ý nghĩa|Xác suất sai nếu gán nhãn ngẫu nhiên theo phân bố|Lượng thông tin cần để mô tả phân bố|
+|Phạm vi (2 lớp)|0 → 0.5|0 → 1|
+|Tính toán|Nhanh hơn (không log)|Chậm hơn (có log)|
+|Độ nhạy|Ít nhạy hơn với phân bố cực đoan|Nhạy hơn một chút|
+
+**Mối quan hệ**
+
+- Với cùng phân bố, giá trị của hai chỉ số này biến thiên gần như cùng dạng; thường dẫn đến chọn cùng feature để chia.
+    
+- Với bài toán 2 lớp, cả hai đều đạt giá trị lớn nhất ở p=0.5p = 0.5 và giảm dần về 0 khi phân bố lệch hẳn về một lớp.
+---
+
+```
+Entropy & Gini khi theo đuổi 1 người:
+
+- **Entropy = 0** → Kết quả đã chắc chắn 100% (người ta thích mình hoặc _không_ thích mình) → về lý thuyết thì không cần tốn thêm “bit” nào để giải mã thông tin.
+    
+- **Gini = 0** → Node “thuần khiết” tuyệt đối, không có sự “lẫn lộn” giữa các khả năng → xác suất bị đoán sai là 0%.
+    
+- Nhưng trong **tình cảm**, “người chơi hệ niềm tin” lại override lý thuyết: dù xác suất = 0 thì vẫn coi như còn “một chút hy vọng lượng tử” 🤭.
+    
+
+**Tóm gọn:**
+
+- Entropy = 0 và Gini = 0 → Không còn bất định, mọi thứ đã rõ như ban ngày:
+    
+    - ✅ 100% chắc chắn người ta thích mình
+        
+    - ❌ 100% chắc chắn người ta _không_ thích mình
+```
