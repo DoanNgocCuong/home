@@ -1364,3 +1364,9 @@ Có hai cách để chia numerical feature thành 3 nhóm trong cây quyết đ�
 * Áp dụng được nếu chuyển numerical thành categorical bins trước khi huấn luyện, hoặc dùng thuật toán hỗ trợ multi-way split trực tiếp (như ID3/C4.5 cho dữ liệu rời rạc).
 
 * Ví dụ: Tạo feature `AgeGroup` = { "Young" (< 20), "Middle" (20–40), "Old" (> 40) }, rồi cho cây tách 3 nhánh một lần.
+
+![[Pasted image 20250813224837.png]]
+
+
+Minfh chonj 0 
+gaf
