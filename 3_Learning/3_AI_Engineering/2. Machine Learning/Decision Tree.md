@@ -1336,3 +1336,31 @@ Bạn có muốn mình làm sơ đồ này không?
 ---
 
 Cho em hỏi là nếu cây quyết định phải phân 3 nhóm (node) numerical feature ( vd như tuổi) thì làm ntn ah
+
+```
+Có bro ạ, nó là dạng mở rộng của 2 nhóm.  
+
+- bro chia làm 2 lần, mỗi lần 2 nhóm. Ví dụ tuổi >40, tuổi < 40, sau đó lại so tiếp tuổi > 20, tuổi <20, xong lại so tiếp.    
+    
+- Hoặc là 1 phát 3 nhóm
+```
+
+**Trả lời gợi ý:**
+
+Có hai cách để chia numerical feature thành 3 nhóm trong cây quyết định:
+
+1. **Chia nhị phân nhiều lần** (mở rộng từ 2 nhóm):
+
+* Bước 1: Chia lần đầu, ví dụ: `Age ≤ 40` và `Age > 40`.
+
+* Bước 2: Ở nhánh `Age ≤ 40`, chia tiếp `Age ≤ 20` và `Age > 20`.
+
+* Kết quả: 3 nhóm tuổi `< 20`, `20–40`, và `> 40`.
+
+→ Đây là cách các thuật toán như CART thực hiện vì mặc định chỉ hỗ trợ binary split.
+
+2. **Chia một lần ra 3 nhóm** (multi-way split):
+
+* Áp dụng được nếu chuyển numerical thành categorical bins trước khi huấn luyện, hoặc dùng thuật toán hỗ trợ multi-way split trực tiếp (như ID3/C4.5 cho dữ liệu rời rạc).
+
+* Ví dụ: Tạo feature `AgeGroup` = { "Young" (< 20), "Middle" (20–40), "Old" (> 40) }, rồi cho cây tách 3 nhánh một lần.
