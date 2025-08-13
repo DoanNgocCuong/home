@@ -1117,6 +1117,23 @@ Entropy & Gini khi theo đuổi 1 người:
 ```
 
 
+Entropy & Gini khi theo đuổi 1 người:
+
+- **Entropy = 0** → Kết quả đã chắc chắn 100% (người ta thích mình hoặc _không_ thích mình) → về lý thuyết thì không cần tốn thêm “bit” nào để giải mã thông tin.
+    
+- **Gini = 0** → Node “thuần khiết” tuyệt đối, không có sự “lẫn lộn” giữa các khả năng → xác suất bị đoán sai là 0%.
+    
+- Nhưng trong **tình cảm**, “người chơi hệ niềm tin” lại override lý thuyết: dù xác suất = 0 thì vẫn coi như còn “một chút hy vọng lượng tử” 🤭.
+    
+
+**Tóm gọn:**
+
+- Entropy = 0 và Gini = 0 → Không còn bất định, mọi thứ đã rõ như ban ngày:
+    
+    - ✅ 100% chắc chắn người ta thích mình
+        
+    - ❌ 100% chắc chắn người ta _không_ thích mình
+
 ## 2. Khi nào dùng?
 
 **Dùng Gini khi:**
