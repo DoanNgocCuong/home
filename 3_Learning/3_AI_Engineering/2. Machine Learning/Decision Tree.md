@@ -1160,3 +1160,10 @@ Entropy & Gini khi theo đuổi 1 người:
     - Yêu cầu giải thích (chọn Entropy)
         
     - Tốc độ (chọn Gini)
+
+--
+
+@Cường Đoàn Ngọc Không khác biệt nhiều lắm, Gini chạy nhanh hơn chút xíu. Tuy nhiên thường dùng Gini trước, Entropy dùng dự phòng khi có tình huống nào đó Gini không hiệu quả, tạo ra các nhánh không tối ưu
+
+
+![[Pasted image 20250813212312.png]]
