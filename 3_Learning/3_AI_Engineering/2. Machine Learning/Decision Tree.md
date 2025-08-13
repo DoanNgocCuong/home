@@ -1175,3 +1175,9 @@ Entropy & Gini khi theo đuổi 1 người:
 ![[Pasted image 20250813212617.png]]
 
 
+
+
+![[Pasted image 20250813214359.png]]
+
+
+![[Pasted image 20250813214528.png]]
