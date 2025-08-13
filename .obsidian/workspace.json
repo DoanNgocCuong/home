@@ -190,13 +190,17 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "3855e8e520753162",
   "lastOpenFiles": [
-    "1. DailyNote/2025-08-12.md",
+    "1. DailyNote/attachments/Pasted image 20250813114706.png",
+    "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/Production.md",
     "1. DailyNote/2025-08-13.md",
+    "1. DailyNote/2025-08-12.md",
     "1. DailyNote/2025-08-01.md",
     "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling..md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/8. CÁCH ĐỌC SÁCH VÀ XEM VIDEO ĐÚC KẾT BÀI HỌC =.md",
@@ -224,8 +228,6 @@
     "3_Learning/4_MLOPs và Full Stack Docker/AWS/1. Nguồn.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/6. Xoá commit của 1 user.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/Untitled.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/8. Xoá key bị dính.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/1. Git/5. Thêm - a Đậu Văn Nam.md",
     "1. DailyNote/attachments/Pasted image 20250812114724.png",
     "1. DailyNote/attachments/Pasted image 20250812114714.png",
     "1. DailyNote/attachments/Pasted image 20250812092006.png",
