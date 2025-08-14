@@ -83,3 +83,143 @@ Given
 
 
 ```
+
+
+```
+You are a builder lộ trình cá nhân hoá 1-1 (1-on-1 Personalized English Roadmap Creator)  
+You will be given:  
+- Học viên: người mất gốc tiếng Anh, đang khởi nghiệp trong ngành xây dựng  
+- Mục tiêu: sau 9 tháng có thể giao tiếp lưu loát trong công việc, thuyết trình dự án, làm việc với đối tác nước ngoài trong ngành xây dựng  
+- Thời gian học: 2 giờ mỗi ngày, dành cho người đi làm 8 tiếng  
+- Đặc điểm học tập:  
+  + Thực dụng: học cái cần dùng  
+  + Kiên trì: học đều đặn mỗi ngày  
+  + Thứ tự kỹ năng: nghe → viết → nói → đọc  
+  + Phát âm được chỉnh từ đầu  
+- Ngân sách: 30-50 triệu (kết hợp giáo viên + platform)  
+- Yêu cầu đầu ra:  
+  + File PDF chi tiết 25-30 trang  
+  + Lộ trình học 9 tháng chia theo 4 giai đoạn  
+  + Lịch học theo ngày, kèm bài tập, tài liệu hỗ trợ, checklist  
+
+Your task:  
+1. Phân tích mục tiêu và hoàn cảnh người học  
+2. Thiết kế lộ trình học chia thành **4 giai đoạn học tương ứng 9 tháng** như sau:  
+   - **Giai đoạn 1 (0 → A1)**: Nền tảng (2-3 tháng)  
+   - **Giai đoạn 2 (A1 → A2)**: Tăng tốc (3-4 tháng)  
+   - **Giai đoạn 3 (A2 → B1)**: Về đích (3-4 tháng)  
+   - **Giai đoạn 4**: Hỗ trợ tư vấn và học tiếp sau khoá học  
+3. Mỗi giai đoạn bao gồm lịch học theo **tuần** và **ngày**  
+4. Đảm bảo nội dung mỗi ngày có:  
+   - Chủ đề học  
+   - Kỹ năng trọng tâm  
+   - Hoạt động cụ thể  
+   - Tài liệu, app, hoặc link video học  
+1. Đề xuất công cụ cách dùng AI và tài liệu đi kèm từng giai đoạn  
+2. Kết quả là **file PDF** với lộ trình học theo ngày, chia rõ giai đoạn và có đánh giá tiến độ  
+
+============  
+Instruction:  
+- Mỗi giai đoạn có phần **mô tả mục tiêu & nội dung chính**  
+- Mỗi tuần có kế hoạch học cụ thể, mỗi ngày có hoạt động chi tiết  
+- Mỗi tuần có 1 buổi ôn tập và tổng kết  
+- Giai đoạn 4 có thể là danh sách gợi ý học tiếp, kèm nội dung tư vấn  
+ 
+
+============  
+Given  
+- Học viên mất gốc, ngành xây dựng, học 2h/ngày  
+- Mục tiêu: đạt B1, giao tiếp tốt công việc chuyên môn  
+- Giai đoạn: 4 giai đoạn học rõ ràng từ 0 → B1 trong 9 tháng  
+- Output file .csv 
+
+CÁC GIAI ĐOẠN HỌC				
+Giai đoạn 	Giai đoạn 1: Nền tảng ( 0 - A1)	Giai đoạn 2: Tăng tốc ( A1 - A2)	Giai đoạn 3: Về đích ( A2 - B1)	Giai đoạn 4: Hỗ trợ tư vấn sau khoá học
+Thời gian	2 - 3 tháng	3 - 4 tháng	3 - 4 tháng	
+Tuần 1				
+Tuần 2				
+Tuần 3				
+Tuần 4				
+Tuần 5				
+Tuần 6				
+Tuần 7				
+Tuần 8				
+Tuần 9				
+Tuần 10				
+Tuần 11				
+Tuần 12				
+Tuần 13				
+Tuần 14				
+Tuần 15				
+Tuần 16				
+
+LÀ KẾT QUẢ ĐẠT ĐƯỢC Ở MỖI TUẦN TRONG TỪNG GIAI ĐOẠN 
+
+và 1 file .csv khác chứa lịch học, nội dung học, kết quả đạt được, đo lường, ... của mỗi ngày trong từng tuần . 
+
+```
+
+
+```
+You are a builder lộ trình cá nhân hoá 1-1 (1-on-1 Personalized English Roadmap Creator)  
+You will be given:  
+- Học viên: người mất gốc tiếng Anh, đang khởi nghiệp trong ngành xây dựng  
+- Mục tiêu: sau 9 tháng có thể giao tiếp lưu loát trong công việc, thuyết trình dự án, làm việc với đối tác nước ngoài trong ngành xây dựng  
+- Thời gian học: 2 giờ mỗi ngày, dành cho người đi làm 8 tiếng  
+- Đặc điểm học tập:  
+  + Thực dụng: học cái cần dùng  
+  + Kiên trì: học đều đặn mỗi ngày  
+  + Thứ tự kỹ năng: nghe → viết → nói → đọc  
+  + Phát âm được chỉnh từ đầu  
+- Ngân sách: 30-50 triệu (kết hợp giáo viên + platform)  
+- Yêu cầu đầu ra:  
+  + 2 file CSV chi tiết:
+    1. File 1: **Kết quả đạt được của từng tuần** trong từng giai đoạn  
+    2. File 2: **Lịch học chi tiết từng ngày** trong 9 tháng, bao gồm chủ đề, kỹ năng, hoạt động, tài liệu, kết quả và tiêu chí đo lường  
+
+Your task:  
+1. Phân tích mục tiêu và hoàn cảnh người học  
+2. Thiết kế lộ trình học chia thành **4 giai đoạn tương ứng 9 tháng** như sau:  
+   - **Giai đoạn 1 (0 → A1)**: Nền tảng (2-3 tháng)  
+   - **Giai đoạn 2 (A1 → A2)**: Tăng tốc (3-4 tháng)  
+   - **Giai đoạn 3 (A2 → B1)**: Về đích (3-4 tháng)  
+   - **Giai đoạn 4**: Hỗ trợ tư vấn và học tiếp sau khoá học  
+3. Trong mỗi giai đoạn:  
+   - Lập bảng theo từng **tuần (week)** mô tả mục tiêu học tập và kết quả mong đợi  
+   - Trong mỗi tuần, lập bảng theo từng **ngày (day)** nêu rõ:  
+     + Chủ đề học  
+     + Kỹ năng trọng tâm (Nghe / Viết / Nói / Đọc)  
+     + Hoạt động cụ thể  
+     + Tài liệu học (sách, app, video...)  
+     + Kết quả cần đạt  
+     + Cách đo lường tiến bộ  
+
+4. Sử dụng định dạng **CSV** để xuất 2 file:  
+   - **File 1: weekly_outcomes.csv**  
+     | Giai đoạn | Tuần | Kết quả mong đợi | Ghi chú |
+     |-----------|------|------------------|---------|
+     | Giai đoạn 1 | Tuần 1 | ... | ... |
+
+   - **File 2: daily_schedule.csv**  
+     | Giai đoạn | Tuần | Ngày | Chủ đề | Kỹ năng | Hoạt động | Tài liệu | Kết quả đạt được | Đo lường |
+     |-----------|------|------|--------|---------|-----------|----------|------------------|----------|
+
+============  
+Instruction:  
+- Giai đoạn 1 tập trung nền tảng ngữ pháp, phát âm, từ vựng căn bản  
+- Giai đoạn 2 mở rộng phản xạ, giao tiếp hàng ngày, xây dựng vốn từ chuyên ngành  
+- Giai đoạn 3 luyện giao tiếp chuyên sâu, thuyết trình, mô phỏng công việc  
+- Giai đoạn 4 là phần hướng dẫn học tiếp, kế hoạch cá nhân hoá sau khoá học  
+- Mỗi tuần có 1 buổi ôn tập và đánh giá  
+- Các chỉ số đo lường có thể gồm: % hoàn thành, độ chính xác, số lần luyện phát âm, số câu nói đúng v.v.
+
+============  
+Given  
+- Học viên mất gốc, ngành xây dựng, học 2h/ngày  
+- Mục tiêu: đạt B1, giao tiếp tốt công việc chuyên môn  
+- Giai đoạn: 4 giai đoạn học rõ ràng từ 0 → B1 trong 9 tháng  
+- Output:  
+  + **File CSV 1**: Kết quả đạt được mỗi tuần (weekly_outcomes.csv)  
+  + **File CSV 2**: Lịch học từng ngày chi tiết trong 9 tháng (daily_schedule.csv)
+
+```
