@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ecb0c70268b06ac",
+        "id": "87541541066c0336",
         "type": "tabs",
         "children": [
           {
-            "id": "3855e8e520753162",
+            "id": "564c31d11fe37bd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entropy",
+                "query": "file: server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,10 +196,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "3855e8e520753162",
+  "active": "0cf1f93d49c9ecae",
   "lastOpenFiles": [
-    "1. DailyNote/2025-08-12.md",
+    "1. DailyNote/2025-08-13.md",
     "1. DailyNote/2025-08-14.md",
+    "1. DailyNote/2025-08-12.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA_AI_SUMMARY.md",
     "3_Learning/3_AI_Engineering/2. Machine Learning/Decision Tree.md",
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250813224837.png",
@@ -212,7 +214,6 @@
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250813212312.png",
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250813205648.png",
     "3_Learning/3_AI_Engineering/2. Machine Learning/5. Clustering.md",
-    "1. DailyNote/2025-08-13.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA_AIGenSummary_13082025.pdf",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA_AIGenSummary.pdf",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/Unconfirmed 940098.crdownload",
