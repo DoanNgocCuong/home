@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,8 +197,12 @@
   },
   "active": "564c31d11fe37bd0",
   "lastOpenFiles": [
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
+    "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling..md",
+    "1. DailyNote/2025-07-30 - TẤM BẢN ĐỒ - NGUỒN LỰC NỘI TẠI - THE ROAD THE IMPACT THE POWER   - STRUCTURE - SYSTEM DESIGN CHỊ TRANG SHARE.md",
+    "1. DailyNote/2025-07-29 Problem Solving - Structure Storytelling.md",
     "1. DailyNote/2025-08-14.md",
+    "1. DailyNote/2025-04-23 AI Day Step Up.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "1. DailyNote/attachments/Pasted image 20250814124807.png",
     "1. DailyNote/attachments/Pasted image 20250814123814.png",
     "1. DailyNote/2025-08-13.md",
@@ -222,7 +225,6 @@
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/9. NGOẠI LỰC (DOPAMINE, TESTOSTERONE, 4 LOẠI NGOẠI ĐỘNG LỰC DISC)  - NỘI LỰC (MINDSET, TRÒ CHƠI TÂM TRÍ, NIỀM TIN GIỚI HẠN) - TỨ NIỆM XỨ, BÁT CHÁNH ĐẠO (THIỀN DÙNG TÂM ĐÁNH BẠI TÂM).md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/Production.md",
     "1. DailyNote/2025-08-01.md",
-    "1. DailyNote/2025-07-29 -  3O1T - OKRs - Problem Solving - Structure Storytelling..md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/5. Đánh giá 1 số Job - DNSE - MSB - Domain Tài chính DNSE vs Giáo dục Step Up Education Chiến lược 40-50 năm.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/Quant.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/7_3_Phản biện gì không 5 Lý Do Chính và Quan Trọng Nhất Trong Việc Chọn Domain (Kèm So Sánh AI Education vs AI Finance).md",
@@ -234,8 +236,6 @@
     "1. DailyNote/2025-08-11.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/3.2. XỬ LÝ VẤN ĐỀ ĐA NHIỆM - THÓI QUEN XẤU - LÀM 2 VIỆC 1 LÚC.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/3.1 Learning - PP HỌC TẬP THIÊN TÀI.md",
-    "3_Learning/3_AI_Engineering/Tài liệu Finetune Lora - Góc cầu cứu.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/0. Nguồn học Big Data và Syllabus.md",
     "3_Learning/Untitled 1",
     "3_Learning/Untitled",
     "3_Learning/3_AI_Engineering/4. DeepLearning NLP RAG/attachments",
