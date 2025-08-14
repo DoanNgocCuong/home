@@ -1,304 +1,232 @@
-# ![II-Agent Logo](https://pikasaia.stepup.edu.vn/_next/image?url=%2Flogo-ll-agent.png&w=96&q=75)Pika Step Up
+Tuyệt vời! Để xây dựng một chương trình **1-1 coaching tiếng Anh chuyên sâu cho người mất gốc** trong **lĩnh vực xây dựng**, chúng ta sẽ dùng **framework giải quyết vấn đề 7 tầng** mà bạn đã thiết lập để tạo ra **chuỗi câu hỏi định hướng sâu sắc**, giúp:
+
+- Hiểu đúng mục tiêu & hiện trạng
+    
+- Cá nhân hoá chiến lược dạy
+    
+- Đo lường và tối ưu kết quả liên tục
+    
+- Xây dựng hệ sinh thái học tập 10X hiệu quả
+    
+
+---
+
+## ⚙️ **7 Tầng Câu Hỏi Coaching - Lộ Trình Học Tiếng Anh cho Người Mất Gốc (Xây Dựng)**
+
+---
 
-How to PlayFilesShare
+### 🧭 **Tầng 0 – META-ASSESSMENT**
 
-Build chi tiết lộ trình giao tiếp thực tế cho người từ mất gốc. - Giao tiếp cơ bản và giao tiếp trong lĩnh vực xây dựng. - Anh ấy làm khởi nghiệp trong lĩnh vực xây dựng. Trong giai đoạn đầu, muốn a ấy học chắc ngữ pháp, từ ngữ cơ bản xung quanh hàng ngày, sửa phát âm đúng. Sau đấy mới gặp người nước ngoài chuyên môn lĩnh vực đấy.
+> **Đánh giá bối cảnh – Chọn track học phù hợp**
 
-Tôi sẽ xây dựng một lộ trình giao tiếp tiếng Anh chi tiết cho người mất gốc, tập trung vào giao tiếp cơ bản và chuyên ngành xây dựng. Lộ trình sẽ được chia thành các giai đoạn rõ ràng, từ nền tảng cơ bản đến giao tiếp chuyên môn với người nước ngoài.
+1. Bạn cần dùng tiếng Anh cho mục tiêu nào trong 6-12 tháng tới?
+    
+2. Mức độ gấp rút của việc sử dụng tiếng Anh trong công việc hiện tại là gì? Crisis hay Planned?
+    
+3. Bạn đã từng học tiếng Anh ở đâu? Có trải nghiệm tiêu cực nào không?
+    
+4. Có sẵn bao nhiêu thời gian học mỗi ngày/tuần?
+    
+5. Có người đồng hành/mentor nào hỗ trợ bạn không?
+    
+
+✅ **Mục tiêu:** Chọn đúng “track học”:
+
+- **Quick Track** nếu deadline gấp (giao tiếp với đối tác trong 3 tháng)
+    
+- **Standard Track** nếu học song song khi đi làm
+    
+- **Innovation Track** nếu muốn đạt B1–B2 + dùng trong startup quốc tế
+    
 
-Tôi sẽ tạo một tài liệu chi tiết bao gồm:
+---
 
-1. Đánh giá trình độ hiện tại và mục tiêu
-2. Giai đoạn 1: Xây dựng nền tảng (ngữ pháp, từ vựng cơ bản, phát âm)
-3. Giai đoạn 2: Giao tiếp hàng ngày
-4. Giai đoạn 3: Từ vựng và giao tiếp chuyên ngành xây dựng
-5. Giai đoạn 4: Thực hành với người nước ngoài
-6. Kế hoạch học tập cụ thể theo tuần/tháng
-7. Tài liệu và công cụ hỗ trợ
+### 🎯 **Tầng 1 – Định Hướng & Mục Tiêu**
 
-Hãy để tôi bắt đầu nghiên cứu và xây dựng lộ trình này.
+> **Tại sao học tiếng Anh? Học để làm gì?**
 
-Creating Filetodo.md
+6. Điều gì sẽ thay đổi nếu bạn giỏi tiếng Anh chuyên ngành? (Tự do, phát triển công ty, mở rộng thị trường...)
+    
+7. Nếu không học, 6 tháng nữa có gì khiến bạn tiếc nuối không?
+    
+8. Bạn muốn dùng tiếng Anh để: [ ] Giao tiếp đời sống, [ ] Viết email kỹ thuật, [ ] Gặp gỡ đối tác nước ngoài, [ ] Đọc tài liệu kỹ thuật?
+    
+9. Bạn thấy mục tiêu học tiếng Anh liên quan thế nào đến tầm nhìn dài hạn (10 năm) trong ngành xây dựng?
+    
+10. Hãy mô tả 1 tình huống lý tưởng sau 3 tháng: bạn dùng tiếng Anh để làm việc gì?
+    
+
+✅ Đầu ra:
+
+- OKRs rõ ràng (O: Giao tiếp công việc ngành xây dựng – KR: 20 tình huống mẫu + 300 từ chuyên ngành + 30 giờ nghe nói chuyên sâu)
+    
+- Tránh học lan man → tập trung đúng đích
+    
 
-SearchingEnglish learning roadmap for beginners from zero grammar vocabulary pronunciation
+---
 
-Editing Filetodo.md
+### 🔍 **Tầng 2 – Truy tìm nguyên nhân lõi**
 
-Creating Fileconstruction_vocabulary.md
+> **Vì sao mất gốc? Vấn đề thật là gì?**
 
-Editing Filetodo.md
+11. Tại sao bạn thấy mình học tiếng Anh mãi không tiến bộ?
+    
+12. Lúc trước bạn học theo phương pháp nào? Có phù hợp với phong cách học của bạn không?
+    
+13. Bạn gặp khó khăn nhất ở kỹ năng nào: Nghe / Nói / Từ vựng / Phát âm / Ngữ pháp?
+    
+14. Thời gian nào trong ngày bạn có thể tập trung học tốt nhất?
+    
+15. Có thói quen xấu nào đang cản trở việc học? (Ví dụ: đa nhiệm, trì hoãn...)
+    
+
+✅ Đầu ra:
+
+- Phân loại rõ: mất gốc do thiếu kỹ năng nền hay do tâm lý/thiếu động lực
+    
+- Tạo bài test nhỏ để xác định điểm yếu lõi
+    
 
-Creating Filepronunciation_guide.md
+---
 
-Editing Filetodo.md
+### 💡 **Tầng 3 – Tư duy sáng tạo & phương án giải pháp cá nhân hóa**
 
-Creating Filebasic_grammar.md
+> **Xây chiến lược học cá nhân hóa – Không dùng mẫu chung**
 
-Editing Filetodo.md
+16. Nếu bạn chỉ có 2h mỗi ngày, bạn muốn học thế nào để hiệu quả nhất? (Nghe trước? Ghi nhớ qua hình ảnh?...)
+    
+17. Có thể tích hợp tiếng Anh vào công việc thực tế hàng ngày không? (Ví dụ: gọi vật liệu, thuyết trình sơ đồ...)
+    
+18. Nếu học 1-1, bạn muốn người dạy là: [ ] Nghiêm khắc, [ ] Thân thiện, [ ] Có kinh nghiệm startup?
+    
+19. Bạn có sẵn sàng luyện phát âm bằng cách ghi âm và nghe lại chính mình?
+    
+20. Bạn học tốt nhất qua: [ ] Video, [ ] Flashcard, [ ] Bài tập tình huống, [ ] Gặp gỡ thật?
+    
+
+✅ Đầu ra:
+
+- Xây chương trình cá nhân hóa 100%
+    
+- Học đi đôi với thực hành thực tế
+    
 
-BrowserCodeTerminal
+---
 
-![](https://pikasaia.stepup.edu.vn/favicon/favicon-32x32.png)
+### 📊 **Tầng 4 – Đánh giá & phân tích lựa chọn học**
 
-Explain
+> **Chọn mô hình học phù hợp nhất với ngân sách, thời gian, và mục tiêu**
+
+21. Bạn ưu tiên: [ ] Tiết kiệm chi phí, [ ] Tăng tốc kết quả, [ ] Giao tiếp thực chiến?
+    
+22. Bạn có thể đầu tư bao nhiêu cho tiếng Anh 3 tháng tới?
+    
+23. Bạn thích học: [ ] Online 1-1, [ ] Offline trực tiếp, [ ] Hybrid?
+    
+24. Có cần tài liệu chuyên ngành xây dựng ngay từ tháng 2 không?
+    
+25. Thời gian mỗi buổi học lý tưởng là bao lâu? (30-60-90 phút?)
+    
+
+✅ Đầu ra:
 
-Beta
+- So sánh các mô hình học (chi phí – tốc độ – hiệu quả)
+    
+- Chọn đúng chiến lược học theo ngân sách & nhu cầu
+    
 
-666 / 5000used queries
+---
 
-1
+### ✅ **Tầng 5 – Quyết định & cam kết học**
 
+> **Chốt kế hoạch học và ký cam kết hành động**
 
-```
-1. 3 keywords chính:
+26. Bạn cam kết học liên tục mỗi ngày bao nhiêu phút?
+    
+27. Có cần người theo sát bạn mỗi tuần để review?
+    
+28. Cam kết dùng tiếng Anh mỗi ngày ít nhất 15 phút trong công việc thật (gọi vật tư, đọc bản vẽ...) được không?
+    
+29. Khi mệt, bạn muốn được thúc đẩy bằng cách nào? (Ghi nhận tiến bộ, thưởng nhỏ, được phản hồi?)
+    
+30. Bạn sẽ tự thưởng/đặt hình phạt nào nếu bỏ dở chương trình học?
+    
 
-- Kiên trì => đều đặn hàng ngày, tạo môi trường dùng tiếng anh nhiều nhất có thể.
+✅ Đầu ra:
 
-- Thực dụng: cái gì cần thì học, Học từ những cái cơ bản nhất xung quanh mình + chuyên ngành
+- Commitment ≥ 80%
+    
+- Có hệ thống accountability
+    
 
-2. Một ngày học mấy tiếng: 2h. Lên lộ trình cho người đi làm 8h.
+---
 
-3. Thứ tự nghe nói đọc viết là như nào : nghe - viết - nói - đọc.
+### 🔁 **Tầng 6 – Thực thi – Giao bài học & lộ trình theo ngày/tuần**
 
-+, Nghe đầu tiên
+> **Biến chiến lược thành hành động cụ thể**
 
-+, Viết: take note xuống để nhớ sâu. để chữ map với nội dung.
+31. Lịch học tối ưu trong tuần sẽ là thế nào (theo công việc)?
+    
+32. Bạn có thể theo dõi tiến độ bằng bảng chấm điểm/Notion/Excel không?
+    
+33. Mỗi tuần cần học bao nhiêu từ chuyên ngành?
+    
+34. Có thể luyện phát âm và ghi âm gửi cho mentor sửa không?
+    
+35. Kế hoạch luyện nói thực chiến với mentor chuyên ngành bắt đầu từ tuần mấy?
+    
 
-(The Anh English cũng nghe đi nghe lại và chép để nhớ xong nói đi nói lại và sửa )
+✅ Đầu ra:
 
-+, Nói:
+- Timeline chi tiết theo tuần
+    
+- Task checklist đo được tiến độ
+    
 
-4.
-```
+---
 
+### 🔁 **Tầng 7 – KAIZEN – Cải tiến hệ thống học liên tục**
 
-# B
+> **Tạo “máy học” – Phản hồi – Cập nhật – Cải tiến**
 
+36. Cuối mỗi tuần bạn có thể tự đánh giá theo 3 tiêu chí: học đủ giờ, hiểu sâu, áp dụng thực tế?
+    
+37. Có thể họp 1-1 check-in hàng tuần để update phương pháp không?
+    
+38. Mỗi tháng bạn muốn "thực chiến" trong tình huống nào (thuyết trình, gặp đối tác, video...)
+    
+39. Bạn có hệ thống ghi chú / feedback / lưu tài nguyên học không?
+    
+40. Khi gặp khó, bạn thường bỏ cuộc hay tự tìm cách giải quyết?
+    
 
+✅ Đầu ra:
 
+- Hệ thống học tự điều chỉnh
+    
+- Tạo “feedback loop” hàng tuần & hàng tháng
+    
 
+---
 
-# ![II-Agent Logo](https://pikasaia.stepup.edu.vn/_next/image?url=%2Flogo-ll-agent.png&w=96&q=75)Pika Step Up
+## 🎯 Tổng kết:
 
-How to PlayFilesShare
+- Đây là **chuỗi 40 câu hỏi chuyên sâu theo framework 7 tầng**
+    
+- Áp dụng tốt sẽ giúp bạn **biến việc học tiếng Anh thành tài sản**, liên kết chặt với mục tiêu startup ngành xây dựng
+    
+- Có thể dùng để xây dựng **giáo trình 1-1**, phỏng vấn đầu vào học viên, hoặc gắn vào lộ trình đào tạo 12 tuần.
+    
 
-Deep Research khoá 1-1 từ mất gốc lên B1, là bao nhiêu tiền trong bao lâu, ở Việt Nam, kinh nghiệm từ các bậc thầy kèm 1-1 uy tín nhất cả nước. ---
+---
 
-Tôi sẽ giúp bạn nghiên cứu sâu về khóa học 1-1 từ mất gốc lên B1 tại Việt Nam, bao gồm chi phí, thời gian và kinh nghiệm từ các giáo viên uy tín nhất. Đây là một chủ đề quan trọng và tôi sẽ thu thập thông tin toàn diện từ nhiều nguồn khác nhau.
+👉 Bạn muốn tôi giúp gì tiếp theo?
 
-**Kế hoạch nghiên cứu:**
+-  Chuyển chuỗi này thành form khảo sát Google Form?
+    
+-  Thiết kế bảng tính đánh giá năng lực?
+    
+-  Viết tài liệu hướng dẫn dạy 1-1 theo lộ trình này?
+    
 
-1. Tìm hiểu về các trung tâm/giáo viên dạy kèm 1-1 uy tín nhất Việt Nam
-2. Phân tích chi phí khóa học từ mất gốc lên B1
-3. Thời gian học cần thiết cho từng mức độ
-4. Kinh nghiệm và phương pháp của các bậc thầy hàng đầu
-5. So sánh các lựa chọn và đưa ra khuyến nghị
-
-Tôi sẽ bắt đầu nghiên cứu ngay bây giờ.
-
-Creating Filetodo.md
-
-Searchingtrung tâm tiếng Anh dạy kèm 1-1 uy tín nhất Việt Nam 2024
-
-Searchinggiáo viên tiếng Anh 1-1 nổi tiếng Việt Nam chi phí học phí
-
-Navigating to URLhttps://www.google.com
-
-Clicking Element
-
-Entering Texttrung tâm tiếng Anh dạy kèm 1-1 uy tín Việt Nam
-
-Waiting for Page to Load
-
-Clicking Element
-
-Browsinghttps://ila.edu.vn/
-
-Navigating to URLhttps://ila.edu.vn/
-
-Scrolling Down
-
-Scrolling Down
-
-Creating Fileresearch_notes.md
-
-Navigating to URLhttps://wse.edu.vn/
-
-Navigating to URLhttps://www.google.com/search?q=Wall+Street+English+Vietnam+1-1+tutoring+price
-
-Clicking Element
-
-Navigating to URLhttps://www.google.com/search?q=học+phí+tiếng+Anh+1-1+Việt+Nam+2024
-
-Scrolling Down
-
-Clicking Element
-
-Navigating to URLhttps://www.google.com/search?q=giáo+viên+tiếng+Anh+1-1+nổi+tiếng+Việt+Nam
-
-Scrolling Down
-
-Navigating to URLhttps://www.google.com/search?q=thời+gian+học+tiếng+Anh+từ+mất+gốc+lên+B1
-
-Scrolling Down
-
-Clicking Element
-
-Editing Fileresearch_notes.md
-
-Viewing Fileresearch_notes.md
-
-Editing Fileresearch_notes.md
-
-Navigating to URLhttps://vus.edu.vn/
-
-Scrolling Down
-
-Scrolling Down
-
-Navigating to URLhttps://apollo.edu.vn/
-
-Scrolling Down
-
-Navigating to URLhttps://www.google.com/search?q=bảng+giá+học+phí+tiếng+Anh+1-1+tại+Hà+Nội+TP.HCM+2024
-
-Scrolling Down
-
-Clicking Element
-
-Navigating to URLhttps://www.google.com/search?q="giáo+viên+tiếng+Anh+1-1"+review+kinh+nghiệm+Việt+Nam
-
-Scrolling Down
-
-Navigating to URLhttps://preply.com/en/vietnam/english-tutors
-
-Scrolling Down
-
-Scrolling Down
-
-Editing Fileresearch_notes.md
-
-Navigating to URLhttps://www.google.com/search?q=site:facebook.com+"giáo+viên+tiếng+Anh+1-1"+Hà+Nội+TP.HCM
-
-Scrolling Down
-
-Navigating to URLhttps://www.google.com/search?q="IELTS+Fighter"+"Ms+Hoa"+"cô+Hoa"+tiếng+Anh+1-1
-
-Scrolling Down
-
-Navigating to URLhttps://www.google.com/search?q="thầy+Tú+IELTS"+"cô+Quỳnh+Anh"+tiếng+Anh+online+1-1
-
-Scrolling Down
-
-Creating Filefamous_teachers.md
-
-Navigating to URLhttps://www.google.com/search?q=chi+phí+học+tiếng+Anh+1-1+tại+nhà+Hà+Nội+2024
-
-Scrolling Down
-
-Clicking Element
-
-Navigating to URLhttps://www.google.com/search?q="Wall+Street+English"+Vietnam+học+phí+1-1+private
-
-Scrolling Down
-
-Navigating to URLhttps://wallstreetenglish.edu.vn/
-
-Scrolling Down
-
-Scrolling Down
-
-Creating Filecost_analysis.md
-
-Editing Filetodo.md
-
-Viewing Filetodo.md
-
-Editing Filetodo.md
-
-Navigating to URLhttps://www.google.com/search?q="phương+pháp+dạy+tiếng+Anh+mất+gốc"+hiệu+quả+nhất+Việt+Nam
-
-Scrolling Down
-
-Creating Fileteaching_methods.md
-
-Editing Filetodo.md
-
-Creating Filefinal_report.md
-
-Editing Filetodo.md
-
-Tôi đã hoàn thành nghiên cứu sâu về khóa học tiếng Anh 1-1 từ mất gốc lên B1 tại Việt Nam. Đây là báo cáo chi tiết với những thông tin quan trọng:
-
-## TÓM TẮT CHÍNH:
-
-**THỜI GIAN:** 8-12 tháng (nhanh hơn học nhóm 30-40%)
-
-**CHI PHÍ THAM KHẢO:**
-
-- Giáo viên Việt Nam có kinh nghiệm: 30 triệu VNĐ
-- Giáo viên bản ngữ: 77 triệu VNĐ
-- Platform online: 29 triệu VNĐ
-- Kết hợp tối ưu: 47 triệu VNĐ
-
-**GIÁO VIÊN UY TÍN:**
-
-- IELTS Fighter (Ms. Hoa): 400-600k/giờ
-- Thầy Tú IELTS: 350-500k/giờ
-- Cô Quỳnh Anh: 300-450k/giờ
-
-**KHUYẾN NGHỊ THEO NGÂN SÁCH:**
-
-- Dưới 30 triệu: Platform online + giáo viên part-time
-- 30-50 triệu: Giáo viên Việt Nam có kinh nghiệm
-- Trên 50 triệu: Kết hợp hoặc trung tâm lớn
-
-Báo cáo đầy đủ bao gồm lộ trình học chi tiết, phương pháp giảng dạy hiệu quả, và so sánh toàn diện các lựa chọn. Tất cả thông tin đều được nghiên cứu từ các nguồn uy tín và kinh nghiệm thực tế tại Việt Nam.
-
-Build chi tiết lộ trình giao tiếp thực tế cho người từ mất gốc. - Giao tiếp cơ bản và giao tiếp trong lĩnh vực xây dựng. - Anh ấy làm khởi nghiệp trong lĩnh vực xây dựng. Trong giai đoạn đầu, muốn a ấy học chắc ngữ pháp, từ ngữ cơ bản xung quanh hàng ngày, sửa phát âm đúng. Sau đấy mới gặp người nước ngoài chuyên môn lĩnh vực đấy. === BUILD LỘ TRÌNH CHI TIẾT HÀNG NGÀY TRONG 3 THÁNG. CHI TIẾT. PDF 25-30 TRANG
-
-Tôi sẽ xây dựng lộ trình học tiếng Anh chi tiết 3 tháng cho người khởi nghiệp xây dựng, từ mất gốc đến có thể giao tiếp chuyên môn. Lộ trình sẽ tập trung vào:
-
-1. **Tháng 1**: Nền tảng cơ bản - ngữ pháp, từ vựng hàng ngày, phát âm
-2. **Tháng 2**: Giao tiếp thực tế và từ vựng xây dựng cơ bản
-3. **Tháng 3**: Chuyên môn xây dựng và chuẩn bị gặp đối tác nước ngoài
-
-Tôi sẽ tạo PDF chi tiết 25-30 trang với lộ trình hàng ngày cụ thể, bài tập thực hành và tài liệu tham khảo.
-
-Creating Filetodo_construction_english.md
-
-Creating Fileconstruction_english_roadmap.md
-
-## 📋 Task Completed - Documents Attached
-
-The following documents have been generated and are attached for your review:
-
-- **cost_analysis.md** (MD) - /app/workspace/6f6393d4-6f0b-4412-a137-1cfb39a33465/cost_analysis.md
-- **famous_teachers.md** (MD) - /app/workspace/6f6393d4-6f0b-4412-a137-1cfb39a33465/famous_teachers.md
-- **final_report.md** (MD) - /app/workspace/6f6393d4-6f0b-4412-a137-1cfb39a33465/final_report.md
-- **research_notes.md** (MD) - /app/workspace/6f6393d4-6f0b-4412-a137-1cfb39a33465/research_notes.md
-- **teaching_methods.md** (MD) - /app/workspace/6f6393d4-6f0b-4412-a137-1cfb39a33465/teaching_methods.md
-- **todo.md** (MD) - /app/workspace/6f6393d4-6f0b-4412-a137-1cfb39a33465/todo.md
-- **todo_construction_english.md** (MD) - /app/workspace/6f6393d4-6f0b-4412-a137-1cfb39a33465/todo_construction_english.md
-
-### Document Summary:
-
-- Total files: 7
-- Document types: MD
-- Workspace: /app/workspace/6f6393d4-6f0b-4412-a137-1cfb39a33465
-
-You can download individual files or view them in the workspace files panel.
-
-II-Agent has completed the current task.
-
-BrowserCodeTerminal
-
-![](https://pikasaia.stepup.edu.vn/favicon/favicon-32x32.png)
-
-Explain
-
-Beta
-
-666 / 5000used queries
-
-1
+Bạn chọn nhé.
