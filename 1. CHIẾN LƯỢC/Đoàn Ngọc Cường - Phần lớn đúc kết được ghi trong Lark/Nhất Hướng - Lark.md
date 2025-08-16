@@ -22,10 +22,936 @@ Mình là Cường. Mình tu tập theo Pháp GOSINGA, những điều ghi chú 
 ### Use Case:
 
 > 1. Tự nhiên mất động lực, năng lượng => KO SUY NGHĨ / NGHĨ ĐÚNG SỰ THẬT = cách nghe và sử dụng SI. https://youtube.com/playlist?list=PLfFdoGwLbh5XSIVtGRibB_cZxSDoB1itF&feature=shared
+>     
 
+  
 
+  
+
+  
+
+# **1.0 TỨ NIỆM XỨ: NHẤT HƯỚNG LY THAM ĐOẠN DIỆT, AN TỊNH, THẮNG TRÍ, GIÁC NGỘ, NIẾT BÀN >< SÂN SI SỢ**
+
+## 1. VĂN TUỆ: MỤC ĐÍCH CUỘC SỐNG => Chấm dứt việc băn khoăn - Không bao giờ chủ quan trong tu tập cẩn thận khủng hoảng những năm tháng về sau.
+
+  
+
+[3. P1.1 [MỤC ĐÍCH CUỘC SỐNG]_TsTỳ Kheo Nguyên Tuệ-Gosinga.](https://youtube.com/playlist?list=PLfFdoGwLbh5UvpnaQ3Pk6EUoYhdzS_JyX&feature=shared)
+
+  
+
+MỤC ĐÍCH CUỘC SỐNG: CHẤM DỨT KHỔ(Con người không có mong muốn ĐI TÌM KIẾM HẠNH PHÚC, họ chỉ mong muốn CHẤM DỨT KHỔ MÀ THÔI. Vô Minh: TÌM KIẾM niềm vui hạnh phúc chỉ ĐỔI KHỔ NÀY LẤY KHỔ KHÁC, KO BAO GIỜ chấm dứt được khổ. THỰC TẠI LÀ CẢM THỌ: NIỀM VUI HẠNH PHÚC LÀ CẢM GIÁC, là tâm, có vị ngọt, VỊ NGỌT không nguy hiểm, THAM ÁI VỊ NGỌT thì nguy hiểm, ĐẶT ĐẦU HẠNH PHÚC XUỐNG tức là "KO THAM ÁI VỚI LẠC THỌ", chứ không phải "TỪ BỎ LẠC THỌ").
 
 ---
+
+1. **Dẫn chứng: Khi lên cơn nghiện chúng ta chỉ dùng tình dục để chấm dứt khổ chứ chẳng ai lúc ko bị cảm giác khó chịu mà đem tình dục ra làm suốt ngày cả.**
+    
+
+  
+
+![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ODI4NTgxOWFlZWY0NTg0YjVlNzM5MGFkMjU0MjA4MTJfU25qb0lLdlJRMHBBR3hQMkdGWnJHZlhEaUd6VUVoNzVfVG9rZW46S1BVcWIzaWN6bzd5Ukx4T2l2OWxNcURvZ1hnXzE3NTUzMzU0NjQ6MTc1NTMzOTA2NF9WNA)
+
+  
+
+---
+
+## 2. TƯ TUỆ - TRẠCH PHÁP:
+
+[3. P1.2 Tư Tuệ Trạch Pháp_TsTỳ Kheo Nguyên Tuệ-Gosinga.](https://www.youtube.com/playlist?list=PLfFdoGwLbh5VJth0HzZd0aSSLpD-vKduK)
+
+![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=OTU0NTIxYThhYThhNjhmODQ1OTQ5ODRmYTdhNzRjNDFfRkRHTnVNb1k5ZnN4ek1CNzZVTjFwRUtjTXFVMnFHMmRfVG9rZW46S2RrM2JvSDlLbzlBVkF4Z3pJbWxmZ2hxZ0NoXzE3NTUzMzU0NjQ6MTc1NTMzOTA2NF9WNA)
+
+  
+
+[LẶP ĐI LẶP LẠI TIẾN TRÌNH QUY NẠP - DIỄN DỊCH - KAIZEN]
+
+1. QUY NẠP: QUAN SÁT - PHÂN TÍCH - ĐÚC KẾT
+    
+2. DIỄN DỊCH: KẾT LUẬN được ỨNG DỤNG MỌI TRƯỜNG HỢP => ĐÚNG/SAI
+    
+3. KẾT LUẬN: DO CÁI GÌ CÓ MẶT MÀ CÁI KIA CÓ MẶT, DO CÁI GÌ KHÔNG CÓ MẶT MÀ CÁI KIA KHÔNG CÓ MẶT
+    
+
+---
+
+Mối quan hệ với các thành phần:
+
+1. TIẾN TRÌNH HỌC: MENTOR - VĂN TƯ TU (HỌC HIỂU HÀNH) - DỰ ÁN THẬT - CHIA SẺ LẠI.
+    
+2. Học tập có HƯỚNG, TUẦN TỰ, LIÊN TỤC, NHẤT QUÁN.
+    
+3. GIẢI QUYẾT VẤN ĐỀ: QUAN SÁT PHÂN TÍCH ĐÚC KẾT để tìm ra: VẤN ĐỀ NGUYÊN NHÂN GIẢI PHÁP BÀI HỌC. Để làm toàn bộ các tasks được hiệu quả.
+    
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/E7nGdmPvMsPx48bItnxlyIJ3gCg
+
+#### CÔNG THỨC TRẠCH PHÁP
+
+ĐỀ MỤC 0. CÔNG THỨC: LIỄU TRI VẤN ĐỀ VÔ MINH VÀ MINH - Hiểu đúng TÊN GỌI VÀ NỘI HÀM - Một việc không có Vô Minh hay Minh, chỉ có HIỂU BIẾT VỀ VIỆC ĐÓ mới có Vô Minh hay Minh. 1. Tuệ Tri Vấn Đề chưa? (1.Vô Minh 2.Minh (TRÍ TUỆ, CHÁNH KIẾN) 3. Lưu ý + Ví dụ.) 2. Tuệ Tri 3 Nguyên Nhân chưa? (Từ góc độ Vô Minh). 3. 3 Giải Pháp chưa? (Theo LÝ DUYÊN KHỞI, TRÍ TUỆ, CHÁNH KIẾN) 4. Con Đường Đoạn Diệt chưa?: Lộ trình tâm, tứ niệm xứ, bát chánh đạo.
+
+## 3. TU TUỆ: THÂN - THỌ - TÂM - PHÁP - TUẦN TỰ, LIÊN TỤC.
+
+  
+
+### 3.1 KHỔ THỌ TÌNH DỤC và TÂM SI (Trở ngại lớn nhất) VẤN ĐỀ LỚN NHẤT: CẢM GIÁC TÌNH DỤC KHỔ THỌ TRÊN THÂN - THẤT THOÁT TINH KHÍ THẦN - HỶ LẠC NỘI TÂM - NỘI LỰC HẠNH PHÚC BÊN TRONG, ĐỘNG LỰC BỀN VỮNG => dùng TD hoặc dùng TÂM ĐÁNH BẠI TÂM.
+
+1. CẢM GIÁC NỔI TRỘI. **(Có thể dùng 4 loại động lực chính để tạo).**
+
+2. TOẠ THIỀN THƯỜNG XUYÊN => để khắc sâu bộ nhớ, từ đó lúc BUỒN KHỔ, TÂM SI khởi lên mới đối trọi được.
+
+**THỰC HÀNH THÂN THỌ TÂM PHÁP** 1. QUÁN THÂN: NHẮC THẦM THẤY RÕ CẢM GIÁC NỔI TRỘI, Có Tầm Có Tứ - Automatic, ĐỂ TỰ NHIÊN, Ko Tầm Ko Tứ. - BẮT ĐẦU: THƯ GIÃN THẢ LỎNG, "BUÔNG BUÔNG". - CẢM GIÁC NỔI TRỘI NƠI THÂN: cảm giác Nín thở, Ngậm chặt răng lưỡi, Nghe nhạc nơi tai, cảm giác nắm nắm bàn tay xoa tay. CẢM GIÁC PHÁP TRẦN, THAM SÂN SI - BUÔNG BUÔNG. ()
+
+  
+
+**Bổ sung thêm:**
+
+> - NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI" đan xen: 1. cảm giác NGƯNG THỞ, 2. Cảm giác Chuyểnđộng TOÀN THÂN <gồm cảm giác nơi 6 xúc xứ: cảm giác hình ảnh, cảm giác âm thanh>, 3. ĐỂ TỰ NHIÊN (theo nhịp thở đi làm việc, bút vẽ lên xuống, xoay tròn sang ngang. VÔ NGƯNG RA NGƯNG). - TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC ; 2. Tuệ tri TÂM TRẠNG TÍCH CỰC VUI THOẢI MÁI
+
+> THỰC HÀNH:
+> 
+> 1. Tuệ tri CẢM GIÁC NỔI TRỘI và sự CHÚ TÂM LIÊN TỤC. - Case: khi mình nắm nắm bàn tay để tạo cảm giác nổi trội nơi tay
+>     
+> 2. Tuệ tri TÂM TRẠNG TÍCH CỰC VUI THOẢI MÁI
+>     
+
+- Lời nhắc - Nhạc: Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời).
+
+  
+
+**BÀI TOÁN GẶP NHIỀU: KHỔ THỌ TÌNH DỤC. ? LỜI GIẢI NHƯ NÀO.**
+
+**1. Là có thông tin tác động tới THÔNG TIN PHÁP TRẦN TÌNH DỤC**
+
+**2. Là TÂM SI - CHÁN NẢN - theo thói quen tìm THAM, tìm đến CẢM GIÁC PHÁP TRẦN TD. ĐẨY CẢM GIÁC SỢ, CÓ RỒI LẠI MUỐN CÓ THÊM; CHỈ ĐỔI KHỔ NÀY LẤY KHỔ KHÁC:**
+
+> - KHÓ QUÁ: (cùng đường, gặp bài toán khó, stress ko hướng giải quyết, rối ngợp vì quá nhiều thứ) => NGỦ 1 GIẤC SÂU SẠC 300% PIN LOẠI BỎ HẾT NGỔN NGANG ĐẦU ĐƯỢC LÀM MỚI , khoảng lặng, nghỉ ngơi, thể thao, đọc sách, chạy bộ,thiền gosinga 9 ngày,... Case: Làm đồ án đến đoạn bi bí, hoặc giải 1 đề đến đoạn bi bí => TÌM KIẾM CẢM GIÁC KHÓ CHỊU, BEGIN WITH THE END X3 IN MIND.
+> 
+> - NHÀN QUÁ:
+> 
+> +, Case: Sau bao ngày cày cuốc với mindset KẺ CHIẾN THẮNG => Tự nhiên dự án gần thành công thì mất đi cảm giác KẺ CHIẾN THẮNG => Tâm Si: KO THÍCH KO GHÉT NHƯNG TÌM KIẾM CẢM GIÁC DỄ CHỊU (Kẻ chiến thắng). +, Case: Không có việc gì làm => Mong muốn chuẩn bị cho tương lai => TÂM SI. +, Case: Không có việc gì quá gấp, ở nhà 1 mình => Cảm giác thói quen cũ ùa về, 1 cách vô thức xem đ đ đ.
+
+**3. THÔNG TIN PHÁP TRẦN TRONG QUÁ KHỨ -> RẤT DỄ THÍCH CON GÁI (các chị hơn 1-chục tuổi mà chưa gia đình, xinh xắn, mình vẫn có sự giao động. Đặc biệt là chị hơn 1-3 tuổi, 1-7 tuổi giao động vẫn rất mạnh, ... chưa nói đến em).**
+
+**4. VẤN ĐỀ THỜI GIAN: Thói quen này đã lặp lại gần 10 năm => Tiêu tốn rất nhiều thời gian, năng lượng, cơ hội của mình? => BẮT BUỘC PHẢI CHẤM DỨT ĐI!**
+
+---
+
+  
+
+**GIẢI PHÁP CÀNH LÁ:**
+
+  
+
+1. BTĐ XẤU HỔ SỢ HÃI với BÊN NGOÀI => chuyển dần sang BCĐ HIỆP THẾ: xấu hổ sợ hãi với THAM SÂN SI của chính mình
+    
+
+> Ăn được bát cơm phở 50k LÀM 1 CÁI lại ra hết, mặt mụn như gẻ, mồm hôi người hôi thối như CỨT => Cơ thể bạc nhược yếu ớt, GẦY GÒ ngủ suốt ngày, phải ngủ bù năng lượng 3h, mất hết THẦN KHÍ ÁNH MẮT GIỌNG NÓI: LỜ ĐỜ LÈ NHÈ KO RA HƠI. => Yếu sl vợ nó bỏ, lục đục đủ điều CHIA TAY => NGHIỆN MA TUÝ, GÁI GÚ CỜ BẠC: gầy dơ xương MA TUÝ ĐÁ ĐI TÙ bị đánh như chó CHẾT BỜ BỤI => Dễ NHẠY CẢM, ĐÀO HOA trước vẻ ngoài da thịt con gái => Mất thời gian, mất năng lượng, CẢM GIÁC TÌNH DỤC QUÁ DỄ SINH KHỞI. (Tổn thương cơ quan sinh dục: Gây viêm nhiễm, sẹo và tổn thương mô. => CẮT CHIM KO LÀ TOÀN THÂN BỊ NHIỄM TRÙNG. Suy giảm sức khỏe tổng thể: Mệt mỏi, suy nhược và giảm khả năng miễn dịch. => LIỆT DƯƠNG, CƠ THỂ NẰM LA LIỆT NHƯ NGƯỜI THỰC VẬT KO CÓ SỨC ĐỀ KHÁNG. Tác hại tinh thần: Gây trầm cảm, lo âu, cảm giác tội lỗi, lệ thuộc và ám ảnh. => KO DÁM GẶP AI, NGƯỜI HÔI THỐI, MẮT THÂM QUẦNG CỦA NGƯỜI THỦ. Tác hại xã hội: Ảnh hưởng đến công việc, học tập, cô lập xã hội, giảm chất lượng mối quan hệ. => CÔ LẬP, THẤT NGHIỆP, KO TIỀN KO MỐI QUAN HỆ, BỐ MẸ ACE HỌ HÀNG COI THƯỜNG). - Lên group18+ tìm bạn chat, show, KO BỀN DỄ TAN vì môi trường tìm bạn QUÁ THAM ĐẮM tỉ lệ độc hại cao(chat mình dám, còn gặp mình KO DÁM), FWB BỊ CẮT RỤNG CON CHIM, HIV-AIDS, FWB quen ny ĂN CỨT mãi ko có ny, Dính bầu với gái giang hồ về nó xiên chết cả nhà. <Content địa ngục>. Tình dục chỉ là 1 phần, 1 khía cạnh, ko nên là TOÀN BỘ cuộc sống. Có những giai đoạn như 95 tuổi bạn chỉ có thể nghĩ về nó hoặc nói về nó chứ ko thể làm, có giai đoạn trẻ bạn có thể sẽ rất say đắm. Tình dục THƯỚC ĐO SỰ KIỀM CHẾ, BÁT CHÁNH ĐẠO. Không chỉ tinh trùng mà tất cả tế bào đều là những nguyên liệu khác nhau tạo nên món súp khác nhau, TIỀM NĂNG TO LỚN.
+
+2. **BƯỚC VÀO TÌNH YÊU HÔN NHÂN - CÁC DỤC VUI ÍT KHỔ NHIỀU, NÃO NHIỀU, NGUY HIỂM CÀNG NHIỀU [NGỌT KO KHỔ, THAM ÁI VỊ NGỌT MỚI KHỔ] => MỞ RỘNG RA ĐỘI NHÓM** **=> dùng TD vợ chồng - phương tiện để chấm dứt khổ (như đồng tiền): Có vị ngọt. Tham Ái Vị Ngọt thì khổ.** **=> Nếu chọn TYHN: nên chọn người cùng Pháp là tốt nhất.**
+    
+
+> 1. MỞ PHỄU ĐÚNG THỊ TRƯỜNG: VẪN CHỌN NGƯỜI PHÙ HỢP NHẤT, XINH NHẤT ĐẸP NHẤT. NHƯNG: NẾU KHÔNG ĐỔI TÂM TỪ BÁT TÀ ĐẠO SANG BÁT CHÁNH ĐẠO, thì KHÔNG CHẠY ĐÂU CHO THOÁT KHỔ (chỉ đổi khổ này lấy khổ khác).
+>     
+> 
+>   
+> 
+> 2. SỰ THẬT VỀ CHUNG THUỶ - thực hành đúng KO CÓ CHÁN NẢN, MÀ HOÀN TOÀN BÌNH THẢN: - Khi gặp người khác giới, nếu LỘ TRÌNH TÂM là BÁT TÀ ĐẠO thì quý vị khởi lên THÍCH CHÁN GHÉT so sánh người đó với ny/vợ mình. - Còn nếu LỘ TRÌNH TÂM là BÁT CHÁNH ĐẠO, quý vị KHÔNG THÍCH KHÔNG CHÁN KHÔNG GHÉT, thì KHÔNG CÓ CHUNG THUỶ, cũng CHẲNG CÓ NGOẠI TÌNH, quý vị HOÀN TOÀN BÌNH THẢN, VUI, THOẢI MÁI.
+>     
+
+  
+
+#### Use cases:
+
+> 1. 08/08/2025 [SAU 6 NGÀY ĂN UỐNG SIÊU ĐẦY ĐỦ VÀ NO NÊ + SỬ DỤNG TRIẾT LÝ BẠN MUỐN ĐÁNH ĐỔI 5MIN SUNG SUÓNG NGẮN NGỦI LẤY VIỆC CƠ THỂ MẤT 1-2 TUẦN PHỤC HỒI? => MÌNH GIỮ TÂM RẤT TỐT. Cho đến tối nay sau khi tắm xong, mình cũng ko có nhu cầu gì lắm, chỉ do thói quen và ở nhà 1 mình -> mở xem 1 tí, cũng chưa có gì quá kích thích cơ mà mình lộn c 1 phát, nó ra quá là nhiều => ]
+>     
+
+### 3.2 THỰC HÀNH THÂN THỌ TÂM PHÁP :
+
+- https://www.youtube.com/playlist?list=PLfFdoGwLbh5X1rtIKley3_3uEXzXdZ8-i
+    
+
+  
+
+2. QUÁN THỌ: THỰC TẠI LÀ CẢM GIÁC - Tương tác căn trần đều là TƯƠNG TÁC THÔNG TIN, LÀ TÂM - CẢM GIÁC HẠNH PHÚC CẢM GIÁC VỊ NGỌT - NGUYÊN NHÂN CỦA KHỔ THAM SÂN SI] (Thấy, Nghe, Cảm nhận mọi thứ đều biết nó là Cảm Giác) - Khi chọn thái độ Nhất Hướng, Nhàm Chán, Ly Tham, Đoạn Diệt là chúng ta đối xử với Tâm, cụ thể là các Cảm giác chứ không phải với Cảnh, với hoàn cảnh sống. Có 2 loại thực tại là Thực Tại Thế Gian (Bất Tịnh), và Thực Tại Xuất Thế Gian(Thanh Tịnh) thì cũng đều là các khái niệm của Tâm, chứ ko phải Cảnh. Chỉ có Tâm Bất Tịnh và Tâm Thanh Tịnh, chứ không có Cảnh Bất Tịnh và Cảnh Thanh Tịnh. - Không có việc làm là MINH hay VÔ MINH, chỉ có HIỂU BIẾT VỀ VIỆC ĐÓ mới có MINH hay VÔ MINH. - Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau, cho dù đổi cảnh hay không đổi cản. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. - "Buông" là BUÔNG TƯ TƯỞNG làm chủ, tư tưởng sở hữu; Không phải "Buông bỏ", vứt bỏ đi thế giới vật chất. "Sử dụng mà không sở hữu". **Lưu ý:** Không ràng buộc vào kết quả là không khổ vui với kết quả chứ không phải không quan tâm và không cần cải thiện dù kết quả không đi đúng hướng. - BUÔNG = "GIEO NHÂN" * "BUÔNG KỲ VỌNG" = "LÀM TỐT NHẤT" * "SẴN SÀNG CHO ĐIỀU TỆ NHẤT" = CÙNG LẮM THÌ, TÔI VẪN CỨ NỖ LỰC = "BẠN ĐƯỢC QUYỀN BẬT CÔNG TẮC" * "NHƯNG SÁNG HAY KHÔNG LÀ CHUYỆN BÓNG ĐÈN".
+
+3. XỬ LÝ CẢM GIÁC KHỔ THỌ TÌNH DỤC:
+    
+
+  
+
+3. Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) - NÍN THỞ QUÁN THÂN: Tùy vào cường độ của dục tưởng, nếu nhẹ thì có thể quán luôn, còn nếu mãnh liệt thì nên sử dụng pháp đối trị NÍN THỞ như ở mục 01 trước. Sau khi lắng dịu hơn thì thực hành quán như ở dưới đây để xóa dần đi thông tin về tham ái tình dục. - Quán Thọ: Bản chất dục tưởng chính là tư tưởng về tình dục, xuất hiện với sự nối dài của cảm giác pháp trần liên tục đan xen với cảm giác xúc chạm do nội xúc từ tâm hành tham, nên mình cần quán đây là cảm thọ, thuộc phạm trù tâm, là cảnh ảo, vô minh thì cho rằng đây là thế giới vật chất, có cô gái A, chàng trai B là chủ nhân chủ sở hữu của hình tướng kia,... - Quán Tâm: Quán tâm biết ý thức tà tri kiến với nội dung vô minh - chấp ngã. Quán tâm hành tham, dục, khổ đang khởi sinh. Hiểu biết đúng sự thật về các tâm hành này trên 8TĐ, có tính chất duyên khởi, vô thường, vô ngã. - Quán Pháp: Nhân loại khát ái tìm cầu hỷ lạc chỗ này chỗ nọ, như dục ái, hữu ái, phi hữu ái.. Nơi nào có tham dục, nơi đó có chấp thủ, nơi nào có chấp thủ, nơi đó có khổ-vui. Các dục vui ít, khổ nhiều, não nhiều, nguy hiểm các nhiều hơn. Bao lâu nay, mình đã bị dục đanh vây, tàn phá, trấn áp như thế này đây. Phải giải thoát khỏi chướng ngại đã đầy ải nhân loại từ vô thủy đến nay. - NÍN THỞ QUÁN THÂN: Sau khi quán thì hãy ngưng thở một đoạn để hoàn toàn yên lặng, ghi nhận cảm giác toàn thân, sau đó thở mạnh theo nhịp rồi tác ý nhè nhẹ dần, nếu hết dục tưởng thì quay trở lại thực hành Định-Tuệ bình thường. 3.1 PHẢI NHỚ PHẢI NHỚ: HIỂU ĐÚNG VỊ NGỌT, VỊ NGỌT - LY THAM. - Phải nhớ phải nhớ: VỊ NGỌT - CẢM GIÁC HẠNH PHÚC (do Chánh Niệm sinh, hoặc, duyên xúc bên ngoài). THÍCH CHÁN RỒI GHÉT, NGỌT NHẠT RỒI ĐẮNG. SINH DIỆT liên tục, lặp đi lặp lại. CHẲNG ĐÁNG LÀ BAO, tà niệm kích hoạt, mà ta làm quá. - Chỉ khi thực nếm, vị ngọt chánh niệm, đến để mà thấy, siêu thế khởi lên. DÙ THẤY GÁI XINH, NHỚ PHIM 18, TÂM SI SINH KHỞI: Vị ấy ly tham, nhìn ngắm vẻ đẹp, ko có tư tưởng làm chủ sở hữu, ko nhảy tìm trăng, không khổ vô ích. - Phải nhớ phải nhớ: Cảm thọ Căn Trần, tiếp xúc với nhau. Thông tin pháp trần, tế bào thần kinh, tồn tại đồng thời, độc lập với nhau, (y như máy móc, chạy theo lập trình, trong cái gọi là, đồng hồ quả lắc). chứ không phải là… - CHẤP CÓ DUY VẬT, CHẤP KHÔNG DUY TÂM, chấp ngọt sẵn có, chấp do tâm tạo. VỊ NGỌT CÓ ĐÓ, DO DUYÊN MÀ SANH, Thọ Tưởng đồng sinh, Tưởng đọc Vị ngọt, của đối tượng thấy, chứ không phải là, cần niệm kích hoạt, mới có vị ngọt, - Trong TÌNH YÊU: Được chọn VẪN CHỌN NGƯỜI PHÙ HỢP NHẤT, XINH NHẤT ĐẸP NHẤT. NHƯNG: NẾU KHÔNG ĐỔI TÂM TỪ BÁT TÀ ĐẠO SANG BÁT CHÁNH ĐẠO, thì KHÔNG CHẠY ĐÂU CHO THOÁT KHỔ (chỉ đổi khổ này lấy khổ khác). - Chúng ta tu tập để đổi tâm và có thể cải thiện hoàn cảnh (nếu cần thiết), chứ không phải tìm cách thay đổi hoàn cảnh để nghĩ rằng sẽ tu tập thuận lợi hơn. Tránh tình trạng đi học về, Tâm thì ko thấy đổi, lại đi thay đổi ngay hoàn cảnh sống khiến cho người thân, bạn bè thấy bất an, lo lắng. - Nhàm chán, Ly Tham là ly tham với thọ khi tiếp xúc với các trần cảnh, chứ không phải ly tham với các trần cảnh đó. Chúng ta không ghét bỏ, xua đuổi chúng, mà để chúng tự đến và tự đi. - Như vậy cho dù đổi cảnh hay không đổi cảnh, miễn đổi được tâm từ BTD sang BCD thì sẽ không có khổ và là tu đúng. Còn trường hợp được quyền đổi cảnh để có lạc thọ hợp pháp thì đổi chứ đâu có dại gì mà phải để im để kham nhẫn với khổ thọ. - TRUNG ĐẠO: ko chối bỏ, không tham đắm lạc thọ. Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. 3.2 PHẢI NHỚ PHẢI NHỚ CẢM THỌ VÔ THƯỜNG - Đối tượng thấy..., là tâm cảm thọ, đặt tên: danh từ, là cô con gái, cái con người thấy, chính là thông tin chứ không phải là thế giới vật chất, như hiểu biết sai, lầm tưởng trước đây. - Cảm giác vị ngọt, hoặc nhạt hoặc đắng, được Tưởng ghi nhận, mới tinh cứng coong, xuất hiện 1 lần, sinh diệt tức khắc, sinh diệt kéo dài mà ta làm quá, chứ không phải là, thường hằng thường trú, biến đổi vật chất, như hiểu biết sai, lầm tưởng trước đây. 3.3 PHẢI NHỚ PHẢI NHỚ: DUYÊN KHỞI - VÔ NGÃ - Phải nhớ phải nhớ: Duyên người thế giới, đặt tên: động từ, là quét là chạy, chứ không có cái, điều khiển cái kia, ko có linh hồn, không sinh không diệt, điều khiển thân xác! - Tất cả các sự vật hiện tượng (tất cả các pháp) đều là do Duyên Khởi (2 nhân bình đẳng tương tác/tiếp xúc cùng diệt mới phát sinh quả). = Tất cả các pháp đều vô thường (Sinh diệt), đều vô chủ vô sở hữu (vô ngã).
+
+#### Use cases 3. Tu Tuệ:
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/AmYzdmBzosNhhpbRk60lOTvZgDb
+
+# 1.1 Ứng dụng 4 đòn bẩy trong mọi việc - THỰC HÀNH TRONG ĐỜI SỐNG - System (Sức khoẻ, Mối quan hệ Networking - Sự Nghiệp) - theo đuôi Mentor
+
+**Tâm Trí kiểm soát các khía cạnh khác:** Bạn đã thể hiện rõ mối liên hệ giữa tâm trí và các khía cạnh khác:
+
+- **Sức Khỏe:** Bạn đã phân tích sâu về "KHỔ THỌ TÌNH DỤC và TÂM SI" và cách chúng "Thất thoát tinh khí thần", dẫn đến suy giảm sức khỏe thể chất và tinh thần. Giải pháp là "dùng TD hoặc dùng TÂM ĐÁNH BẠI TÂM", cho thấy tâm trí là chìa khóa để vượt qua những cám dỗ và giữ gìn sức khỏe. "HỶ LẠC NỘI TÂM - NỘI LỰC HẠNH PHÚC BÊN TRONG" là nguồn động lực bền vững, vượt trội so với các niềm vui bên ngoài.
+    
+- **Tài Chính:** Quyết định sự nghiệp, lựa chọn hướng đi (AI Engineering, KOL, Business Model) đều dựa trên những "Niềm tin giới hạn" hoặc "Niềm tin không giới hạn" của tâm trí. Bạn đã dùng các ví dụ về "chạy 1 dặm dưới 4 phút" hay "bài toán khó" để minh chứng rằng "giới hạn ko nằm ở khả năng mà là ở niềm tin", tức là ở tâm trí.
+    
+- **Mối Quan Hệ:** Bạn đề cập đến "SỰ THU HÚT đến từ SỰ TƯƠNG HỢP THÔNG TIN", và "SỰ ĐỦ ĐẦY TỪ BÊN TRONG". Việc "Buông xả làm tốt nhất, sáng hay không là chuyện của bóng đèn" trong các mối quan hệ cũng là một trạng thái tâm lý không chấp thủ vào kết quả. Hơn nữa, việc chuyển từ "LỘ TRÌNH TÂM là BÁT TÀ ĐẠO" sang "BÁT CHÁNH ĐẠO" là cách để đạt được sự "HOÀN TOÀN BÌNH THẢN" trong các mối quan hệ, vượt lên trên sự thích, chán, ghét hay so sánh.
+    
+
+# **1. MÔI TRƯỜNG SỐNG, THÓI QUEN + BỨT PHÁ SỢ, NGẠI, NIỀM TIN GIỚI HẠN BẰNG CHÁNH KIẾN - TULA THẦN LĨNH VỰC, NIỀM TIN KO GIỚI HẠN KO BỊ CHẶN TRÊN - THE ROAD CON ĐƯỜNG TÔI CHỌN, KHÔNG AI ĐI TÔI VẪN ĐI.**
+
+## **1.1 MÔI TRƯỜNG SỐNG, THÓI QUEN: Bên trong: HIỂU THƯƠNG bài tập rà nghiệp, đúc kết vector + THẦN KHÍ + HÀNH VI THÁI ĐỘ SỐNG.**
+
+> **Chánh kiến về xu hướng tính cách: 1 cách tương đối nên mới gọi là xu hướng bởi lẽ bây giờ ngay cả bảo mình summary lại về xu hướng tính cách của mình cũng khó, vì Pháp do duyên khởi, do thói quen**
+> 
+> - Môi trường sống nhiều cám dỗ: xăm, thuốc lá rượu bia cờ bạc. (- Khánh Ly
+>     
+> - Môi trường sống và thói quen: trai gái gợi cảm uốn éo khoe da khoe thịt quá nhiều.
+>     
+
+### **1.1.1 PHÁN ĐOÁN bằng bộ môn huyền học**: DISC, Thần số, Nhân tướng:
+
+- Đo lường: '''Trí Tuệ: Trán cao, Mũi thông thiên, Tai to + Mắt tinh anh, Lời nói rõ ràng dễ hiểu Góc nhìn ĐA CHIỀU, SÂU SẮC + Tam bảo. *** Nghị Lực: Mũi thông thiên, + Động tác dứt khoát, Mắt có uy, Giọng nói + Tĩnh lặng trước BUỒN VUI + Thích làm chơi việc khó khăn mạo hiểm, Dấu ấn khó. *** Đạo Đức: Gò má lưỡng quyền, quai hàm bạnh (ngang bướng, đanh nghiến) + Ánh mắt Giọng nói BỊ HÚT VÀO SẮC VÀ TIỀN, ánh mắt LỘ, THẦN BẤT TÚC, HAY SO BÌ + Thiện nguyện ít dính mắc.'''
+    
+
+### **1.1.2 QUAN SÁT THẦN KHÍ + HÀNH VI THÁI ĐỘ SỐNG**
+
+- +, THẦN KHÍ(THẦN HỮU DƯ, THẦN TĨNH: mắt, cử động,. KHÍ biểu hiện qua: xương cốt, da thịt, râu tóc, lông mày, âm thanh, khẩu khí).
+    
+- +, HÀNH VI THÁI ĐỘ SỐNG (nhất là khi có biến động).
+    
+- +, Đo lường: '''8 Phép chọn tướng Trần Hưng Đạo Gia Cát Lượng: TRÍTUỆ: Hỏi đúng sai, xem chí hướng, rõ ràng? Cật vấn đến kỳ cùng? Hỏi mưu lược, xem tri thức?ĐẠOĐỨC: Qs đa chiều xem đức hạnh? Gián điệp thử xem có trung thành? Giao việc, xem chữ tín?NGHỊLỰC: Lấy của thử? lấy sắc đẹp thử? lấy việc khó thử? Rượu cho uống say, tâm có say không?'''
+    
+- (Ng quân tử TIẾN THOÁI QUẢ QUYẾT, XEM NGƯỜI THANH THẢN VUI TƯƠI, CHÍ TRỪ TÀN BẠO, khí độ ng Tướng Quốc. Thấy ÁC KO GIẬN LÀNHKOMỪNG, NHANSẮCKOTHAYĐỔI, lượngcủaThiênTử).
+    
+
+  
+
+## **1.2 Bài học về Niềm tin giới hạn Đêm 25/04/2025 = Tôi tài giỏi bạn cũng thế + GOSINGA về mục đích cuộc đời + Nhân dạng, trở thành hay trải nghiệm, hoàn thành trước, hoàn hảo sau X3 + Wecommit100x làm theo system lãi kép và nỗi sợ chỉ mất khi bạn hành động**
+
+- **NIỀM TIN KO GIỚI HẠN KO BỊ CHẶN TRÊN - NGAY KHI BẠN NGHĨ RẰNG BẠN ĐÃ CHẠM MỨC GIỚI HẠN THÌ THẬT RA BẠN MỚI CHẠM MỨC 20% THÔI.**
+    
+
+20/05/2025
+
+1. Nỗi sợ là CẢM GIÁC do ...
+    
+2. Tìm kiếm cảm giác khó chịu giúp ta mạnh hơn
+    
+
+- David goggins: Tự tẩy não mình để thèm khát, tìm kiếm CẢM GIÁC KHÓ CHỊU. => Càng khó chịu ta càng mạnh hơn.
+    
+- Nỗi sợ chỉ làm ta mạnh hơn khi mà ta thoát ra. (bài Rap: Let'em know Mason Nguyen).
+    
+
+3. Sợ bị đánh giá: Tào tháo nói "Ta làm, họ có động đến sợi lông chân nào của ta đâu mà ta sợ :> " Việc đúng đắn thì ta cứ làm, đó là cuộc sống của ta. Làm cái méo gì cũng ko ngại: ko mắc các sai lầm thì xin info thì rủ đi chơi (chiến lược hoàn toàn khác so với ngày xưa, ngày xưa có tiêu chí 1, 2, 3 thì ở giai đoạn nào, ... khó áp dụng), xin nghỉ ,nhắn tin trong nhóm chung, thuyết trình trước mn, nói chuyện với tầng C-level bứt phá ko giới hạn niềm tin để thoải mái nói chuyện với tầng C-level, ...
+    
+4. Sợ ta không đủ khả năng: Nhiều khi 1 bài toán lớp 5 thả vào đề lớp 1 ta làm được, đến lúc bài lớp 1 thả vào đề lớp 5 ta lại có khi ko làm được -> vì nỗi sợ giới hạn khả năng của ta.
+    
+
+(câu chuyện chạy 1 dặm dưới ít hơn 4min khi 1 người chạy được thì hàng trăm người chạy được ngay sau đó vì họ đã phá được niềm tin giới hạn)
+
+(hay 1 ông nhà toán học đến muộn, thầy giáo viết trên bảng 2 bài toán khó nhất thế giới bấy giờ, ông tưởng BVN thế là về làm xong nộp)
+
+5. LÀM ĐI SỢ MÉO GÌ, BẢO VỆ BẢN THÂN VÀ TOÀN THỂ NGƯỜI THÂN, HUYNH ĐỆ ĐỒNG ĐỘI VÀ MENTOR CỦA MÌNH
+    
+
+---
+
+> **Gọi tên nỗi sợ**: "Mày là ảo giác. Mày không điều khiển được tao."
+> 
+> **Tích bánh quy**: "Chúc mừng: thêm 1 nỗi sợ nữa bị tiêu diệt"
+
+  
+
+Các nỗi sợ phổ biến và cách mình vượt qua.
+
+1. Đầu năm 2025: Sợ đánh giá trên mạng xã hội khi mình chạy, quay video, đăng bài. Đánh giá độ sợ 5/10, =>Với mình mình ko quá sợ điều này, vì đây là quyền tự do của mình, TIỀN CẢ,...
+    
+2. T6/2025: Sợ "KO CÓ LÝ DO ĐỂ XIN INFO" khi xin info các bạn nữ (nếu người ngồi cạnh/đối diện thì dễ, còn người quay mặt vào cửa sổ khiến mình DO DỰ: 30min, 1h rưỡi. **=> Bài học: "KO CÓ LÝ DO CŨNG LÀ LÝ DO" + "Cảm xúc muốn hành động chính là lý do" + “Tôi không cần cảm thấy có lý do để hành động. Tôi hành động, rồi lý do sẽ xuất hiện.”**
+    
+
+> _ 08/06/2025 gpt và Cường
+> 
+> **Thông thường: bạn nữ biết tỏng ý định của bạn. => Điều cần làm chỉ là: Thành thật và rõ ràng**: “Không vì gì cả, chỉ là tớ muốn biết tên cậu thôi :)”
+
+---
+
+> 25/04/2025
+> 
+> Đợt này em có cơ hội được làm việc trực tiếp với anh CEO, với chị General Manager (sau mỗi CEO) ở công ty các sếp ạ.
+> 
+> Em cũng mới nhắn khoe sếp @tranquochuy_wecommit tối qua :D
+> 
+> ===
+> 
+> - Khi làm việc với các C-level em CẢM GIÁC LÀ MÌNH CHƯA TƯ DUY ĐƯỢC NHƯ HỌ. Em nhận ra 1 NIỀM TIN GIỚI HẠN của bản thân là khi làm việc cùng anh chị đó là: "MÌNH MỚI RA TRƯỜNG, CHƯA NHIỀU KINH NGHIỆM THÌ CHƯA TƯ DUY ĐƯỢC NHƯ HỌ NHIỀU NĂM KINH NGHIỆM ĐƯỢC ĐÂU. CHÍNH NIỀM TIN NÀY GIỚI HẠN EM TƯ DUY NHƯ 1 C-LEVEL." => Chính niềm tin này cản trợ em tư duy ở tầm C-level.
+>     
+> 
+>   
+> 
+> 1. Câu chuyện về cả thế giới tin là ko thể chạy 1 dăm với ít hơn 4min.
+>     
+> 
+> Sau đó
+> 
+> Vào ngày 6 tháng 5 năm 1954, Roger Bannister, một sinh viên y khoa người Anh, đã trở thành người đầu tiên chạy một dặm (1.609 km) dưới 4 phút, với thời gian 3 phút 59,4 giây tại sân vận động Iffley Road ở Oxford. Thành tích này đã phá vỡ rào cản tâm lý tồn tại lâu dài trong giới điền kinh, khi nhiều người tin rằng con người không thể đạt được tốc độ đó. Chỉ 46 ngày sau, vận động viên người Úc John Landy đã vượt qua kỷ lục này với thời gian 3 phút 58,0 giây. KỲ LẠ LÀ Từ đó, hàng ngàn vận động viên đã vượt qua mốc 4 phút, cho thấy khi niềm tin được khơi dậy, giới hạn tưởng chừng không thể cũng trở nên khả thi.
+> 
+> -> Giới hạn ko nằm ở khả năng mà là ở niềm tin
+> 
+> -> CHO THẤY GIỚI HẠN NIỀM TIN CŨ BỊ PHÁ VỠ : https://www.nationalgeographic.com/science/article/faith-kipyegon-four-minute-mile-run-world-record
+> 
+>   
+> 
+> 2. Hay là hồi em học lớp 3 đã học bài: Tuổi mẹ hiện nay hơn tuổi con là 24, sau 2 năm nữa mẹ gấp 9 lần tuổi con, vậy hiện nay mẹ bao nhiêu, con bao nhiêu. Hồi đó thầy cô ko nói đó là bài cấp 2, nên tụi em vẫn học và giải 1 cách bình thường.
+>     
+> 
+> Hay là học toán HSG lớp 11 đã học đến cả giải tích 1 của đại học, lúc đó vượt cấp thấy thoải mái và tự tin vì bạn bè ai cũng học
+> 
+>   
+> 
+> - Tương tự khi gặp câu hình cuối hay câu cuối.
+>     
+> 
+> Nếu em học lớp 9 thì "niềm tin câu nó dễ" em sẽ giúp em giải nó 1 cách tự tin và thoải mái hơn và giải được có khi nó rất khó.
+> 
+> Hoặc là nếu em học lớp 7 được giao cho đề có 1 câu lớp 7 dược đặt vào trong đề thi lớp 12 thì có khi em "CẢM GIÁC NÓ KHÓ" mà ko dám làm và bảo ngay là ko làm được. Cũng bài đó đặt trong đề lớp 7 có khi lại giải ngon.
+> 
+>   
+> 
+> 3. Ngày xưa có 1 ông Toán học gì đó được thầy giao bài tập về nhà, xong thầy lỡ kẹp bài Toán khó nhất thế giới chưa ai giải được vào, ổng cứ tưởng đấy là bài về nhà xong ngồi hì hục giải từ sáng đến tôi mang lên nộp thầy.
+>     
+> 
+>   
+> 
+> Một giai thoại nổi tiếng trong giới toán học, liên quan đến George Bernard Dantzig, một nhà toán học người Mỹ. Vào năm 1939, khi đang là nghiên cứu sinh tại Đại học California, Berkeley, Dantzig đến muộn trong một buổi học môn thống kê do giáo sư Jerzy Neyman giảng dạy. Trên bảng lúc đó có hai bài toán, thực chất là những vấn đề thống kê nổi tiếng chưa được giải quyết, được giáo sư viết lên làm ví dụ. Tuy nhiên, Dantzig tưởng rằng đó là bài tập về nhà nên đã chép lại và cố gắng giải chúng
+> 
+>   
+> 
+> 1796 (Gauss) giải 3 đề được giáo viên hướng dẫn giao riêng thêm mỗi ngày, mỗi ngày 2 đề, nay tự nhiên có thêm 1 đề: yêu cầu dùng compa thước kẻ ko khắc độ để vẽ 1 hình đúng 17 cạnh, "thầy giao cho em bài toán thứ 3 em phải làm tròn 1 đêm, em đã phụ sự bồi dưỡng của thầy rồi". Bài toán 2000 năm, Archimedes ko giải được, Issac Newton ko, ...->"Nếu có người nói cho tôi biết bài toán này là khó có lịch sử ..."
+> 
+>   
+> 
+> 4. Ngày xưa, khi con voi còn là một chú voi con nhỏ, người ta đã dùng một sợi dây to buộc nó vào một gốc cây. Voi con cố gắng hết sức để thoát ra, nhưng không thể. Dù con voi dùng toàn bộ sức mạnh, sợi dây vẫn giữ nó lại, và con voi cuối cùng từ bỏ cố gắng.
+>     
+> 
+> Khi con voi lớn lên, nó mạnh mẽ và to lớn hơn rất nhiều so với lúc còn nhỏ, nhưng điều kỳ lạ là nó vẫn tiếp tục đứng yên, không cố gắng thoát ra, mặc dù gốc cây và sợi dây đã không còn đủ sức để kiềm chế nó. Lý do chính là, con voi đã từng thất bại khi còn nhỏ, và trong tâm trí nó, sợi dây buộc vẫn có thể cản nó lại. Nó không nhận ra rằng sức mạnh của mình giờ đã vượt xa khả năng của sợi dây.
+> 
+> => Em nhận ra là: câu chuyện về NIỀM TIN GIỚI HẠN: MÌNH ÍT KINH NGHIỆM, MÌNH ÍT CHUYÊN MÔN NÊN CHƯA THỂ TƯ DUY ĐƯỢC NHƯ C-LEVEL ĐÂU, y hệ với việc 1 BÀI TOÁN BỊ ĐẶT TRONG ĐỀ LỚP 12 KHI MÌNH HỌC LỚP 10 KHIẾN MÌNH KO TỰ TIN GIẢI :D
+> 
+>   
+> 
+> :D Giống như sếp Huy vẫn bảo. Khi làm sếp ở công ty nhỏ rồi, tư duy thường nó quen ở tầm cao, rất khó để bạn xuống cấp nhân viên. Có tư duy ở tầng cao trước, dần dần vị trí công việc nó kéo lên theo :D
+
+  
+
+|   |   |
+|---|---|
+|||
+
+  
+
+## 1.3 Thay đổi chính mình - tập trung hoàn toàn vào những gì mình có thể kiểm soát và tin tưởng
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/XiM2dd6gzs8lpkbMk9vlz2Kdg3d
+
+# **2 TÌNH YÊU: TÌNH DỤC - YÊU THƯƠNG KẾT NỐI NETWORKING - BIẾT ƠN: TIỀN - Ý NGHĨA, GIÁ TRỊ - CỘNG ĐỒNG, Ý NGHĨA, BẪY LƯƠNG TÂM THUẦN TUÝ**
+
+## 2.1 Networking: Mentor - Ny - NSKT - Xây dựng đội ngũ - Nguyên tắc chung là check 4 phần trên.
+
+### 2.1.1 MENTOR: FOLLOW THẦY, KO CẦN SUY NGHĨ HƯỚNG ĐI NHIỀU ĐÂU: 4 Người thầy : 1. GOSINGA + 2. Trần Việt Quân BKE GNH - X3 NĂNG SUẤT + 3. THE ANH ENGISH + 4. AIO + 5. Wecommit100x 6. FULL STACK DATA SCIENCE
+
+[1.1 Tiêu chí - Con người phù hợp - Networking](https://csg2ej4iz2hz.sg.larksuite.com/wiki/UN0IwzVq0ikVv8kmWg2lSARKg4e) - Tin tưởng tuyệt đối vào bản thân và mentor -> Hành động vì nghĩ ko đẻ ra con -> TRỞ THÀNH MẢNH GHÉP, LÀM TẤT CẢ MỌI THỨ, PHỤNG SỰ CHO BỨC TRANH CHUNG CỦA THẦY.
+
+1. RA KẾT QUẢ - LÀM ĐƯỢC X NHIỀU LẦN(nhiều lần thất bại, làm liên tục 5-10 năm) + 2. CAO NHÂN XUẤT CAO ĐỒ - NĂNG LỰC ĐÚC KẾT, TRUYỀN ĐAT, THIẾT KẾ MÔI TRƯỜNG, TÂM CHỈ DẠY KHÔNG GIẤU BÀI (có nhiều học trò đã thành tài, theo thầy lâu năm) + 3. TƯƠNG HỢP THÔNG TIN, 4 loại đòn bẩy nội lực.
+
+> **Case 1: T7/21/06/2025: Sau N1 mình chỉ networking được với người bên trái, người bên phải và anh Điệp đi ăn cùng -> 3 người hết.**
+> 
+> **=> Mình về kaizen: QUAN TRỌNG NHẤT LÀ MENTOR, NGƯỜI ẢNH HƯỞNG -> LAN RỘNG RA NHỮNG NGƯỜI ẢNH HƯỞNG.**
+
+**NGƯỜI DUY NHẤT KHÔNG PHẢI TOP 1 FE SYSTEM NHƯNG CÓ MẶT TRONG "WALL OF LOVE"ĐÂU LÀ LÝ DO:**
+
+1. **TIN TƯỞNG TUYỆT ĐỐI VÀO BẢN THÂN, THE ROAD CỦA BẢN THÂN + NGƯỜI THẦY VÀ THE ROAD CỦA NGƯỜI THẦY + SỰ LỰA CHỌN CỦA MÌNH. [KO CÓ GIỚI HẠN]**
+    
+2. **PHỤNG SỰ NGƯỜI THẦY BUILD BỨC TRANH CHUNG: Vì hoàn toàn tin tưởng Wecommit100x, mình viết bài, mình chạy, mình phụng sự cho bức tranh của wecommit100x chung, lên tiếng để bảo vệ cộng đồng lúc sóng gió, đứng chung chiến tuyến.**
+    
+3. **XUẤT HIỆN THƯỜNG XUYÊN: 3 tháng đầu offline, online ko bao giờ vắng 1 buổi. Sau 3 tháng chậm lại tí do việc cá nhân**
+    
+4. **TRỞ THÀNH HỌC TRÒ XUẤT SẮC NHẤT VỚI BEGIN WITH THE END X3-X10 IN MIND:** **- Người thầy mình viết: Em đã có những mindset và bước đi rất đúng đắn trong giai đoạn đầu sự nghiệp, anh tin em sẽ còn tiến xa hơn nữa. =>** **- Kết quả đo lường được: 08/02/2025 vào, cuối tháng 4 top 64 Linkedin VN, cuối tháng 5 cũng top, đầu tháng 5 top 10 AI Content Creator Việt Nam luôn.**
+    
+5. **ĐỒNG THỜI NETWORKING VỚI ACE CHỦ CHỐT XUNG QUANH MENTOR**
+    
+
+## ⚠️ Những lỗi cần tránh khi networking với những người xung quanh:
+
+> - Chỉ tương tác với những người nổi bật, bỏ qua người khác.
+>     
+> - Chỉ quan tâm lợi ích trước mắt thay vì xây dựng mối quan hệ lâu dài.
+>     
+> - Giao tiếp thiếu chân thành, máy móc, không tạo được thiện cảm.
+>     
+
+> 1. **Phân tích chi tiết 5 kỹ thuật bạn đã áp dụng thành công** (tin tưởng tuyệt đối, phụng sự mentor, xuất hiện thường xuyên, trở thành học trò xuất sắc, networking với ace xung quanh)
+>     
+> 2. **Bí mật networking của top 1% thế giới** - những kỹ thuật độc đáo mà ít người biết
+>     
+> 3. **Framework tư duy giải quyết vấn đề** theo phương pháp "do cái gì có mặt mà cái kia có mặt, do cái gì không có mặt thì cái kia không có mặt", "quan sát phân tích đúc kết", "giải quyết vấn đề".
+>     
+> 4. **Ví dụ thực tiễn và case studies** từ những người networking đỉnh cao
+>     
+> 5. **Các lỗi sai cần tránh và cách khắc phục**
+>     
+
+---
+
+> Case 1 (tiếp, 22/06/2025) N2: Kaizen: 1. Bám Mentor thầy dạy hơn tuy chưa có cơ hội nói chuyện. 2. Xin info và chụp chung với chị Nhân sự chủ chốt canh thầy 10 năm 3. Xin chụp ảnh với Trainer Minh, chị Ái, ngồi ăn cạnh chị Nga, chị Nhung, anh Minh Zip, anh Vinh, chị Hẳng, anh Thịnh ảnh chung, anh Diện chị Yến ảnh chung, anh Tươi ảnh chung, anh Đức ảnh chung 4. Đi ăn với ace BTC => Có Trainer, và toàn bộ đội ngũ cạnh thầy. => Trainer bảo: dân X3 sau khi chạy body khoe múi + Kỹ sư CNTT. + 1 lần lên thừa nhận mình nhìn bài = mạnh nhận ra điểm yếu và bẫy tâm lý => Số người biết tăng hẳn, cả chị Yến nhận ra bạn bè FB. => Thành ra: nỗi sợ là do mình tự tưởng tượng ra chứ chị Yến quá nice, quá thân thiện. => TẬP TRUNG VÀO MENTOR, XUẤT HIỆN CẠNH THẦY ĐỂ THẦY NHỚ VÀ NGƯỜI KHÁC NHỚ. [CÓ ẢNH CHUNG VỚI THẦY] => TẬP TRUNG VÀO ĐỘI NGŨ KẾ CẬN. [CÓ ẢNH CHUNG VỚI ĐỘI NGŨ KẾ CẬN]
+> 
+> => XIN INFO CHỤP ẢNH VÌ MÌNH MUỐN!!! (Kí ức về việc vượt qua NỖI SỢ, KO LÝ DO CŨNG LÀ LÝ DO, THE ROAD CON ĐƯỜNG TÔI CHỌN -> xin info con gái mình thích, mình muốn tìm hiểu ở quán caffe Lofi caffe đã là 1 dấu ấn =>Mình đến với buổi X3, xin info, xin chụp ảnh chung với mn. Đặc biệt là xin info CHỊ :3 (96, 2k) và xin chụp cùng trong 1 nốt nhạc. [CẢM GIÁC THÍCH THÍCH MÌNH CHƯA GIẢI THÍCH ĐƯỢC].
+
+#### Use cases - Phụng sự cộng đồng:
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/DmRJdkfgssCFU2b6cdClnXhQgvf
+
+#### 2.1.1.1 Nhân dạng NHÀ LÃNH ĐẠO
+
+...
+
+> Mình hay để ý những bạn:
+> 
+> – Báo sớm khi có rủi ro
+> 
+> – Không blame, mà cùng fix
+> 
+> – Chủ động "đỡ" người khác, dù không ai yêu cầu
+
+...
+
+### 2.1.2 Ny
+
+**TÂM THẾ, MINDSET, ACTIONS:**
+
+1. **SAI LẦM LỚN NHẤT SỐ 1: CÓ MỚI NỚI CŨ - NĂM 2022 và BÀI HỌC: Vạch ra tiêu chí lựa chọn rõ ràng ngay từ đầu, chính là cách giải mã Paradox of Choice. Tiêu chí này giúp bạn “thấy là chốt”, mà không cần tốn thời gian phân bua 101 tiêu chí phụ khác.**
+    
+
+> Đi Thiền 2022 về, có 1 option khác ngon hơn -> mình nhảy và hỏng hết! => Kéo theo rất nhiều thứ! Sau này đến 2025 mình mới gọi được tên nó là:
+> 
+> - Câu chuyện người nông dân tìm bông lúa tốt nhất đến mức đi đến cuối cánh đồng vẫn tay trắng vì vẫn nghĩ ở phía trước có bông lúa ngon hơn.
+>     
+> - Nghịch lý sự lựa chọn: https://vietcetera.com/vn/paradox-of-choice-tai-sao-ta-van-chon-sai-nguoi-du-nguoi-nhieu-vo-ke
+>     
+> - và Bài học giải mã Paradox of Choice:
+>     
+
+- Use case: tầng dưới có 1 option, tầng trên có 1 option. Sau khi ngồi vào tầng trên thì có vẻ thấy option tầng dưới ngon hơn? => **Dùng khung “Lợi ích dài hạn" + Test option tầng dưới ở quy mô nhỏ (pilot / 20% effort / 1 tuần prototype) → từ đó có thêm insight mà không vứt bỏ những gì đang có.**
+
+2. **MỞ PHỄU ĐÚNG THỊ TRƯỜNG - THU HÚT ĐẾN TỪ TƯƠNG HỢP THÔNG TIN - THE ROAD (Thiền, Thư viện, Caffe học xuyên đêm, ... là thắng tới 80% rồi) VÀ NETWORKING TẠO CƠ HỘI CHO MÌNH (mở rộng dần ra - con số 250 network - số lượng cũng có chất lượng của nó wecommit100x) LÀM QUEN, TUYỂN KỸ - BUÔNG XẢ LÀM TỐT NHẤT, SÁNG HAY KHÔNG LÀ CHUYỆN CỦA BÓNG ĐÈN:**
+    
+
+- Thay đổi mình và người khác cần rất nhiều thời gian.
+    
+- SỰ THU HÚT đến từ SỰ TƯƠNG HỢP THÔNG TIN("ko quan trọng bạn nói gì, quan trọng vẻ ngoài và sự tự tin, ko sợ hãi. Con gái bị cuốn hút bởi sự trung thực đồng nhất cả bên trong lẫn bên ngoài"). **SỰ ĐỦ ĐẦY TỪ BÊN TRONG - TẠO GIÁ TRỊ - THE ROAD (ko ai đi, tôi vẫn đi, bạn đi cùng, tôi đồng hành).** (Ràng buộc vật chất, không ràng buộc nơi tư tưởng sở hữu cảm giác). LÀM QUEN TỐT NHẤT, MỞ LỜI TỐT NHẤT => TỪ CHỐI GIÚP TA TIẾT KIỆM THỜI GIAN VÀ SỨC LỰC, SẴN SÀNG LOẠI BỎ NGAY TỪ ĐẦU
+    
+- Khi số người biết bạn là 1K cơ hội khác, 100K follow cơ hội khác.
+    
+
+> 1. (vì bạn không mất thời gian, năng lượng cố gắng thuyết phục cô gái rằng bạn hấp dẫn). (Nếu tôi không chắc có thể làm việc với người đó trong 1 thời gian dài, tôi sẽ không làm việc với người đó dù chỉ là 1 giờ)(còn đi lâu dài hay không còn tuỳ nhân duyên) ("Vì tôi đã đá rất nhiều người ngay từ đầu vì những việc ngu ngốc như thế này để tôi không còn phải lo về nó nữa. Trong chuyện này thì tôi rất tàn nhẫn. Tôi bỏ đi ngay giữa cuӝc hẹn đầu tiên. Tôi bỏ đi ngay giữa lời nói. Tôi không quan tâm. Tôi không có thời gian với những cô gái tệ. Và kết quả là, hoặc là họ thay đổi phù hӧp với mong đӧi của tôi, hoặc là tôi không bao giờ gặp họ nữa. Tôi tôn trọng bản thân và vì thế sẽ không dành thời gian với những cô gái không tôn trọng tôi. Bạn sẽ tự nhiên nghĩ rằng, “Ồ, vậy có nghĩa mình phải gặp gấp đôi số phө nữ, phải bỏ ra gấp đôi công sức, vì mình sẽ từ chối nửa số người thích mình.” Thật ra, bạn sẽ bỏ ra ít công sức hơn, vì bạn không còn phí nhiều thời gian và năng lưӧng cố gắng thuyết phөc cô ấy rằng bạn là mӝt người đàn ông hấp dẫn. Bạn không còn mệt mỏi nghĩ rằng liệu cô ấy có thích bạn đủ nhiều hay không, hoặc lo lắng làm thế nào để gây ấn tưӧng hay thắng lại cô ấy. Khi cô ấy không hӧp với tiêu chuẩn của bạn, tình huống trở nên cực kỳ dễ dàng cho bạn: bạn bỏ đi. Không nghĩ ngӧi gì hết. Không tranh cãi. Không quay lại ngoạn mөc. Chỉ là: hành vì của cô ấy không hӧp với tiêu chuẩn của mình, mình sẽ gặp mӝt người khác")
+> 
+> 2. “Trí tuệ xúc cảm” của Daniel Goleman - tác phẩm kinh điển nhất về EQ: [https://tinyurl.com/tri-tue-xuc-cam3](https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2Ftri-tue-xuc-cam3%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExQ3hWSXJDRG5pQjhWZHdNZQEeeBwTQnNJ-kuMTpy3cb-S8VQfRbhUhHYjjYUjn8QvWeaZBPm2jPyE8kOHyWg_aem_Clcd98w2NoD56roSeHmQkA&h=AT2SJM8Jf4K6y_Z3YyiXBCNxbHv1jL0owq4CeDqZuWZEJ-RE59O2gIVLIwVR2PZ2Ga_lwiaDBqTW1MW5Y5e9moZ-4cSDd9qD7THEXMaerQM5rRGmkAET2WAMKRBQjOWnUuGpzORG0GGVMgDEEvDd8-ImFUEfQ9d1&__tn__=-UK-R&c[0]=AT2ugb3GtyZG0BXC2h68-yxfTI2Za8vLYCYSGmPgU8QvMjYakhR7Ejs4-mSNQ0QLVesohTLLC_nZSeENCafIp3OtkJaw39EXYYnQhqTXz5vmo1WqP9ORsgVS-RAzjKeEvdPJ5TAGlwbZjbSQDoGFYC25ZcqpQzJOJhuYaEV4L46FrzBdVu6eoIPl8pK8hlipaM-QqBw3C8EIAtfQc5t-70vbgBoR)
+> 
+> - Nỗi đau âm ỉ, Chi phí chìm và "Hiệu ứng cố gắng phi lý" (irrational escalation) – khi bạn đã đầu tư quá nhiều vào một người không rõ ràng, bạn càng khó dừng lại, vì bạn nghĩ: “Mình đã đi xa thế này rồi, chẳng lẽ quay về tay trắng?”
+>     
+> - Rất nhiều người, khi bị đối phương lạnh nhạt, lại chọn hạ tiêu chuẩn: Trước đây muốn yêu một người biết trân trọng – giờ chỉ cần người đó đừng biến mất. Trước đây cần sự rõ ràng – giờ chấp nhận cả sự mập mờ, miễn là không bị bỏ rơi. Bạn không cần co lại để “vừa” với một ai đó. Người xứng đáng là người khiến bạn được là chính mình – chứ không phải phiên bản rút gọn để vừa vặn với sự thờ ơ của họ. <27/06/2025: KLinh nhắn gần 10 tin rep 1-2 tin>
+>     
+> - Và nếu tình yêu ấy khiến bạn phải giành lấy từng chút quan tâm, chờ đợi từng lần phản hồi, tự vấn giá trị bản thân mỗi ngày – thì bạn có quyền rút lui.
+>     
+> 
+> 3. Mua một món đồ giảm giá dù biết là không cần, chỉ vì… hôm nay bạn quá chán nản? 4. Một mối quan hệ khiến bạn phải đoán liên tục. Naval từng nói: "You’re not going to get rich renting out your time.” — bạn cũng sẽ không thể sống sâu khi để sự chú ý của mình bị cho thuê rẻ mạt. <30/06/2025: KLinh nhắn gần 10 tin rep 1-2 tin> 5. VẪN CỐ CHẤP KO CHỊU CẮT LỖ - Quy tắc 3 lần và con số 1.6 <30/06/2025: KLinh nhắn gần 10 tin rep 1-2 tin>: https://www.facebook.com/share/p/1BkMfwe3g6/
+> 
+> - Khi bạn hỏi ai đó một chuyện gì, quá 3 tin nhắn họ chưa trả lời tức là họ không muốn trả lời. Hãy tự tìm hiểu!
+> 
+> - Một người nhờ bạn giúp không công 3 lần, lần thứ 4 trở đi đều được xếp là lợi dụng.
+> 
+> - Khi bạn nhờ ai đó một việc, quá 3 tin nhắn họ chưa xác nhận sẽ giúp, hãy tự làm hoặc tìm người khác.
+> 
+> - “Chúng ta không thuộc về nhau” là khi bạn phải chủ động bắt chuyện quá 3 lần/ngày
+> 
+> - Không nên nhận phần thiệt về mình quá 3 lần, khi bạn có chỗ đứng rồi thì nửa lần cũng không.
+> 
+> - Bạn có thể xuống nước 3 lần để níu kéo một mối quan hệ mà bạn thấy quan trọng. Đến lần thứ 4 làm ơn dẹp đi!
+> 
+> - Mỗi biến cố trong đời đều không nên có quá 3 người biết. Mỗi thành tựu trong đời chỉ cần tối đa 3 người chúc mừng.
+> 
+> - Chồng giàu, đẹp trai, tài giỏi đến mấy, vợ cũng không nên giả mù quá 3 lần.
+> 
+> - Việc gì trì hoãn quá 3 lần đều không tốt.
+> 
+> - Hẹn hò bao nhiêu lần cũng được. Khi kể về người cũ, chọn 3 người tốt nhất mà kể.
+> 
+> - Tích đủ 3 lần vắng mặt trong hoạn nạn, người yêu trở thành người dưng.
+
+3. **RÕ RÀNG Ý ĐỊNH -> MỐI QUAN HỆ LÀ TÁN NGAY TỪ ĐẦU, TÁN MẠNH (Thẳng thắn: xin fb - ko vòng vo vì người ta biết tỏng ý định rồi)**
+    
+
+- LÀM ĐÃ LEVEL UP DẦN (Giống như việc 3 tháng đầu năm 2025 T2-02/05/2025 mình lần đầu chạy, viết bài chuyên môn, làm video ĐĂNG LÊN ĐỀU ĐẶN - nỗi sợ chỉ mất đi khi mình làm, vô tình cái dự tính Content Creator nó đến nhanh hơn kế hoạch 2-3 năm)
+    
+- BẮT ĐẦU VỚI VIỆC: TIẾN ĐẾN VÀ NÓI "TỚ XIN FB CẬU VỚI", Ý ĐỊNH RÕ RÀNG. (KO MỞ ĐẦU, KO LÝ DO, KO KẾT THÚC).
+    
+
+> - Khánh Ly: Cậu 2k mấy đó, xin facebook được không. (Khánh Ly). Rõ ràng!!!
+>     
+> - Hiền: Bạn khác ở quán caffe 5h sáng mình gọi dậy xin info xong chuồn.
+>     
+> - Khánh: đang ngồi học mình ra: Xin fb cậu với -> xong cũng chuồn.
+>     
+> - ... => Sự thật là trong toàn bộ những lần xin info đợt T5, T6/2025 mình chỉ nói đúng 1 câu : "Tớ xin fb cậu với. (Đa phần ko mở đầu, ko lý do, ko kết thúc)"
+>     
+
+4. **QUAN SÁT: SỰ PHẢN HỒI** **- Nhu cầu các giới, Nhu cầu TÌNH DỤC :** (con gái XINH ƯA NHÌN, con trai KHÉO TINH TẾ). KHỔ THỌ TÌNH DỤC. Có nhu cầu nhưng ko ở mức biến thái. **- Networking - Sự đầu tư cho mình, ny, GIA ĐÌNH/MQH của họ:**
+    
+
+> Investment in Relationship - IR = (Response Frequency + Interest Level + Communication Quality) / 3
+> 
+> +, Tần suất phản hồi / Response Frequency
+> 
+> +, Mức độ quan tâm / Interest Level: đo lường sự quan tâm, chú ý mà người đó dành cho mối quan hệ,
+> 
+> +, Chất lượng giao tiếp / Communication Quality
+> 
+> => KẾT QUẢ: phân 3 nhóm: ĐẦU TƯ NGƯỢC dựa trên TIẾN TRÌNH TỰ NHIÊN của MQH (DUYÊN KHỞI)
+> 
+> - Đèn Xanh (Đáp Lại): gia đình, ny, Mentor - đồng đội thân cận
+>     
+> - Đèn Vàng (Lưng Chừng): MQH xã giao, bạn bè, đối tác tiềm năng
+>     
+> - Đèn Đỏ (Ko đáp lại): 0
+>     
+> 
+> *** Nam và Nữ ***: Phụ nữ suy nghĩ phức tạp, cảm xúc, yêu bằng tai cần ái ngữ chăm sóc yêu thương, TÍNH YÊU THƯƠNG GIÚP ĐỠ CAO >< Đàn ông logic, yêu bằng mắt cần tình dục, TÍNH CHINH PHỤC CAO
+> 
+> Follow fb nhóm đáp lại , bạn thân - Follow story thì để all.
+
+**SỰ LỰA CHỌN/RA QUYẾT ĐỊNH DỰA TRÊN PHẢN HỒI: Hãy làm như cách mình từng khuyên người khác.**
+
+> - 1. Triết lý cốt lõi: "Trung thực là vũ khí!"
+>     
+> - 2. First Date là dịp để thể hiện bản chất thật, không giả tạo.
+>     
+> - 3. Đừng tự trách mình – Định nghĩa lại sai lầm
+>     
+>       Bạn hỏi: “Mình sai ở đâu?”
+>     
+>       Không sai vì trung thực, vì chủ động.
+>     
+>       Nếu sai – thì chỉ là:
+>     
+>       - Bạn đặt cảm xúc quá sớm vào một người chưa rõ ràng.
+>     
+>       - Bạn giao tiếp rõ – nhưng chưa chấp nhận rõ sự thật: họ có thể không hứng thú với bạn, và đó là bình thường.
+>     
+> - 4. Đỏ -> tự động rời đi, ko lý do. Vàng -> nói rõ ý định, Xanh -> chốt đơn!
+>     
+
+5. **STEP LÀM QUEN: 1. MECE CÁC CASES XẢY RA khi tạo cơ hội cho mình - 07/06/2025 - 2. BEGIN WITH THE END IN MIND + TỐC ĐỘ RA QUYẾT ĐỊNH, TỐC ĐỘ TRỞ LẠI, MẶT DÀY TÂM ĐEN, TÌM KIẾM CẢM GIÁC KHÓ CHỊU, BUÔNG BUÔNG CẢM GIÁC + 3. SẴN SÀNG RA QUYẾT ĐỊNH TRONG TÌNH TRẠNG BẤT LỢI/THUẬN LỢI NGOÀI DỰ ĐOÁN: LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN: HÀNH ĐỘNG NGAY HAY BỎ LỠ ĐỂ RỒI HỐI HẬN**
+    
+
+**5.1 END IN MIND :**
+
+> - Mục tiêu làm quen: 1. NY: Có tiêu chí rõ ràng -> NÓI RA ĐIỀU MÌNH MUỐN. HÀNH ĐỘNG THAY VÌ VỀ NHÀ SẼ TIẾC. 2. TĂNG SỐ NGƯỜI BIẾT: KHÔNG BAO GIỜ RỜI ĐI MÀ KO XIN OFFER. Với mục tiêu này thì: mình có crush hay người ta có crush thì cũng thế. - HOW? kiếm mentor, chia sẻ lại.
+
+**5.2 NÓI RA ĐIỀU MÌNH MUỐN:**
+
+> **-** **TỐC ĐỘ RA QUYẾT ĐỊNH, TỐC ĐỘ TRỞ LẠI, MẶT DÀY TÂM ĐEN, TÌM KIẾM CẢM GIÁC KHÓ CHỊU, BUÔNG BUÔNG CẢM GIÁC** **- "KO CÓ LÝ DO CŨNG LÀ LÝ DO" + "Cảm xúc muốn hành động chính là lý do" + “Tôi không cần cảm thấy có lý do để hành động. Tôi hành động, rồi lý do sẽ xuất hiện.”**
+> 
+> **- TRẢI NGHIỆM HAY TRỞ THÀNH "NGƯỜI ĐÀN ÔNG, NGƯỜI CHỒNG HẠNH PHÚC".**
+
+##### 5.3 XỬ LÝ TÌNH HUỐNG BẤT NGỜ: **LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN**: HÀNH ĐỘNG NGAY HAY BỎ LỠ ĐỂ RỒI HỐI HẬN
+
+> **Vấn đề:** (Case mình chủ động xin ở giữa/cuối đều oke. Case mà cô gái về trong lúc mình đang tập trung + case thuận lợi quá trong lúc mình đang tập trung )
+> 
+> **Điều chỉnh Tâm Thế: Ưu Tiên Cơ Hội:**
+> 
+>   **"KHÔNG BAO GIỜ RỜI ĐI MÀ KHÔNG XIN OFFER", KO XIN THỂ NÀO VỀ CŨNG HỐI HẬN:** Khi có cơ hội làm quen, nó phải là ưu tiên hàng đầu, dù bạn đang làm gì.
+> 
+>   **Thực dụng với thời gian, Không sợ gián đoạn:** Hiểu rằng **cơ hội làm quen là hữu hạn** trong một khoảng thời gian nhất định, trong khi việc học/làm việc có thể tiếp tục sau đó. Chấp nhận rằng việc gián đoạn vài phút để xin thông tin là hoàn toàn xứng đáng.
+> 
+>   **LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN: LÀM HAY BỎ LỠ ĐỂ RỒI HỐI HẬN: Tư duy linh hoạt, sẵn sàng chiến đấu bất cứ lúc nào, Cơ hội ẩn mình:** Nắm bắt thay đổi nhỏ nhất, luôn trong trạng thái chiến. Luôn ý thức rằng cơ hội có thể xuất hiện bất cứ lúc nào, ngay cả trong những khoảnh khắc tưởng chừng bình thường nhất.
+> 
+>   
+> 
+> **9.1 (Case 06/06/2025): Cô gái rời đi khi bạn đang tập trung, ko kịp/ko dám hành động vì nghĩ là cứ phải chuẩn bị đã ??? => LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN**
+> 
+> - **Nguyên nhân chính: Ưu tiên chưa rõ ràng, chưa có sự chuẩn bị, e ngại gián đoạn việc học**.
+>     
+> 
+> **9.2 (Case 07/06/2025) Tình huống thuận lợi bất ngờ (ví dụ: chỉ còn hai người trong phòng):** Một cơ hội "trời cho" xuất hiện, nhưng bạn lại bị bất ngờ và không biết cách nắm bắt. => **LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN**:
+> 
+> - **Nguyên nhân chính: bất ngờ thuận lợi mà chưa chuẩn bị. => ĐẾCH BIẾT GÌ CŨNG TIẾN.**
+>     
+
+  
+
+---
+
+  
+
+##### 5.1 MECE các cases xảy ra:
+
+- Không đúng gu (mắc phải 1 trong các tiêu chí sai: có ny, ... -> Bỏ.
+    
+- Có khả năng:
+    
+
+> **1. CÔ GÁI NGỒI 1 MÌNH / CÔ GÁI NGỒI 1-2 NỮ ÍT NGƯỜI** **/ NGỒI VỚI NHÓM ĐÔNG NHƯNG ĐÃ TÁCH RA**
+> 
+> - **CASE 1: NGỒI CẠNH:** **"TỚ NGỒI CẠNH CẬU ĐƯỢC KHÔNG" - KO CẦN LÝ DO (MẶC DÙ XUNG QUANH CÒN ĐẦY GHẾ TRỐNG/MẶC DÙ ĐANG NGỒI YÊN 1 CHỖ RỒI VẪN ĐỔI CHỖ ĐỂ ĐẠT MỤC TIÊU) => DỄ XIN INFO (do tự nó là lý do). => ĐƯA MỌI THỨ VỀ NGỒI CẠNH.**
+>     
+> - **CASE 2: NGỒI ĐỐI DIỆN =****> DỄ XIN INFO (do tự nó là lý do).**
+>     
+> - **CASE 3: KO NGỒI CẠNH/KO NGỒI ĐỐI DIỆN: CASE CHẠM MẮT NHIỀU LẦN, BẠN NỮ QUAY MẶT VÀO CỬA SỔ.** **- NỖI SỢ: Sợ không có lý do hợp lý.** **- MINDSET ĐÚNG: Khi bạn bước đến, cô gái đã biết quá rõ ý định của bạn rồi => Nói ra điều mình muốn.** **=> Option 1: (thường làm) TIẾN LÊN VÀ 1 ĐẬP, THẬM CHÍ KO MỞ ĐẦU KO LÝ DO KO KẾT THÚC: "TỚ XIN FB CẬU ĐƯỢC KO"** **=> Option 2: (an toàn hơn) -> đưa về CASE 1 NGỒI CẠNH.**
+>     
+> - CASE CHƯA CHẠM MẮT, ...?
+>     
+> 
+> - Case có chỗ ngồi cùng: 23/05/2025. Dược 2k4 tiến lại rất đơn giản là xin ngồi cùng bên cạnh => hỏi được tuổi và ngành học ->ko xin info lúc a Huy chưa tới tiếc, ko xin info vì a Huy bên cạnh tiếc. MÌNH ĐI CÙNG BẠN THÌ ĐÃ SAO VIỆC PHẢI LÀM. NGỒI 1 MÌNH VÀ MÌNH ĐẾN NGỒI CẠNH? **=> Rất đơn giản là xin ngồi cạnh.** - Case có chỗ ngồi cùng: 30/05/2025. Case DTr Minh khác cô gái 1 mình bàn 4 chỗ, mình hỏi có ai ngồi chưa -> xong ngồi đối diện. **=> Rất đơn giản là xin ngồi đối diện.** - Case 30/5/2025 chọn chỗ ngồi có khoảng trống để người khác chủ động ngồi cùng (Kiều Oanh kéo ghế ngồi sát mình) ->sau đó xin info thì lại chưa quá hợp lúc: lúc đó chay mặt vãi (vì đã quá mệt sau hơn 24 h ko ngủ) ngáo luôn mà (bạn cổ đánh giá ko care nữa rồi). **=> Rất đơn giản là xin info vì ngồi cạnh** - Case Hiền ngày 25/05/2025 ko có chỗ ngồi cùng: mình ngồi ở 1 góc và chạm mắt Hiền kha khá -> cơ hội đã đến, cuối buổi đánh thức dậy và xin info, thậm chí: KO CÓ LÝ DO. Cô gái đi cùng 1 người bạn. 2 người để ý nhau từ lúc còn ngồi ở 2 chỗ xa nhau. Ít nhất chạm mắt nhau 4-5 lần. Mình trần trừ 30min ko xin ????Bạn cô gái ngồi xa cổ mà, ko đến cúa đợi. Bạn cô gái ngủ rồi mà, ko lên cứ đợi. Cô gái đang ngủ, đánh thức dậy xin. Ngại bạn cô gái, ngại 1 đôi nam nữ nữa đang ngồi bên cạnh. ... ? : mình tiến lại gần ở khoảng cách siêu xa sau 1 đêm dài học xa vị trí nhau, xin info mà ko 1 lý do, "mình xin info của bạn được không" - bạn nữ trần trừ 1s xong đưa điện thoại, xong cái mình đi luôn, ko nói thêm gì. => Bản thân mất 30min để đưa ra quyết định và cuối cùng HÀNH ĐỘNG vì biết rõ rằng: KO LÀM LÀ TIẾC. **=> Oke không vi phạm 4 tiêu chí + có chạm mắt 3 lần (mục tiêu đã bị ghim khi chạm mắt)** **=> Mất 30min để tiến lên (ko có lý do xin info vẫn xin)** **=> Chốt vì: Ko làm thể nào về cũng tiếc cho mà xem. Sau đó mình lên xin và chỉ nói: mình xin fb cậu được ko và bạn nữ oke luôn.** - Case 07/06/2025 Thảo Linh: bị miss lần "cô gái đi về trong lúc mình tập trung" ở trước đó (tối M6), mình bật chế độ: sẵn sàng gác lại việc đang học để xin info. **=> Chỉ mất 1min để tiến lên (ngồi đối diện, lý do quá rõ ràng).** - Case 07/06/2025 Khánh ko có chỗ ngồi cùng: thậm chí bạn nữ còn quay vào tường để học bài. Có lý do là bên viện toán, chạm mắt nhau. Sau cùng mình vẫn trần trừ 1h30min. (trước đó thì có chạm mắt mấy lần, chạm mắt là xác suất thành công cao, y như case của Hiền). Tuy nhiên: NỖI SỢ, DO DỰ,... SỢ 'KO CÓ LÝ DO"? đâu là nỗi sợ lớn nhất + sau đó đưa giải pháp: CẢM GIÁC KHÓ CHỊU, TỐC ĐỘ HÀNH ĐỘNG, TỐC ĐỘ QUAY TRỞ LẠI, MẶT DÀY TÂM ĐEN NÓI RA ĐIỀU MÌNH MUỐN, và BUÔNG BUÔNG BUÔNG --- 1 CẢM GIÁC KHÓ CHỊU TỘT CÙNG KHI NỖI SỢ BAO VÂY MÌNH. Sau 1h30min chần chừ như thế (các lần khác của mình chỉ từ 0.5min-30min chần chừ) còn lần này quá lâu. Khi đang định bước đến thì crush nhỏ đến véo má, mấy đứa bạn xung quanh thì bảo: quả này tối nay khỏi ăn cơm. Mình khóc nghẹn luôn. Sau đó chờ 2min-3min, chuông báo đồ uống hắn kêu mình tiến lại và lấy info bạn nữ, và vẫn là câu đã chuẩn bị "Xin chào, mình xin fb của bạn được không, ..." và bạn nữ rút điện thoại cho luôn rồi. (vì cơ bản là chạm mắt nhau 1 số lần là xác định cao sẽ có info). **=> Duyệt oke, có chạm mắt 3-5 lần => khả năng có số cao!** **=> Mất 1h30min (ko có lý do xin info tự bịa ra 1 cái), do dự, sợ hãi.** **=>Chốt vì: Mình đã chờ rất lâu rồi 1h30min, ko thể rời đi mà ko xin offer được, dù có ny rồi đi chăng nữa. Sau đó tiến lên cũng chỉ nói : hello, mình xin fb cậu được ko là bạn nữ oke rồi. (Nói thêm đoạn: mình muốn hỏi thêm về liên chi, ... chỉ là cái cớ cơ mà bạn cũng ko cần cái đó đâu là đã cho info rồi).** **=> Điều gì khiến mình do dự, nỗi sợ, cảm giác đau khó chịu lâu vậy**
+> 
+> **XỬ LÝ VẤN ĐỀ PHÂN VÂN DO DỰ, KO CÓ LÝ DO ?** **=>"KO CÓ LÝ DO CŨNG LÀ LÝ DO" + "Cảm xúc muốn hành động chính là lý do" + “Tôi không cần cảm thấy có lý do để hành động. Tôi hành động, rồi lý do sẽ xuất hiện.”**
+> 
+>   
+> 
+> - Case Như Ngọc: 12/06/2025 Ban đầu vào ngồi từ 12h rưỡi - 15h40 (mình ngồi đó lâu rồi), ban đầu mình chấm tầm 5/10 thôi cơ mà ngồi chéo nhau mà đảo mắt chạm nhau nhiều quá 3-5 lần. Đến lần thứ 4 là mình quyết định đây là mục tiêu ngày hôm nay rồi Mình cảm nhận viết ra sổ tay như hôm nọ sẽ thấm hơn, mình tìm sổ, tìm bút không có -> Mở vội NotePad lên và viết vội đọc đến 'Cảm xúc muốn hành động chính là lý do -> mình làm luôn'. Đi theo xuống dưới tầng ra hẳn ngoài. "Bạn gì ơi mình xin fb được không" bạn ngưng 3s, làm gì ạ, mình 'mình cũng hay học ở đây ý' -> oke luôn. ---- Mình có phần "run tay" (ko run khi nói vì lúc nói tập trung nói lấy gì mà run, run khi mà cầm điện thoại bấm tên)
+> 
+> **=> The road: Con đường tôi chọn. Đây là con đường tôi chọn.** **"KO CÓ LÝ DO CŨNG LÀ LÝ DO" + "Cảm xúc muốn hành động chính là lý do" + “Tôi không cần cảm thấy có lý do để hành động. Tôi hành động, rồi lý do sẽ xuất hiện.”** **LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN** => Sau khoảng 4h check thì thấy bị huỷ kết bạn rùi. => **Luôn sẵn sàng chấp nhận sự từ chối một cách lịch sự:** Nếu đối phương không muốn, hãy tôn trọng quyết định của họ. **TỪ CHỐI SỚM THẬM CHÍ GIÚP MÌNH TIẾT KIỆM RẤT NHIỀU THỜI GIAN.**
+> 
+>   
+> 
+> 2. BẠN CỦA BẠN MÌNH / MÌNH NGỒI CÙNG BẠN, ANH, CHỊ MÌNH, BỐ MẸ.. (Sợ người xung quanh đánh giá + bạn, bố mẹ, người thân mình đánh giá) - Khánh Ly đã tiến tới: hỏi tên gì, xin facebook luôn. - Lúc đi đám cưới: ... - Case: 01/05/2025 Đám cưới a Kha, 3 khoảnh khắc do dự: 1. Em gái vợ a Kha 2. Liễu con cô Vẻ 3. Con cô gì gì đó ?
+> 
+> - Liễu con cô Vẻ: hỏi được tên -> ko nói được gì thêm, và ko xin được info => Về gg: bác Vui, cô Vẻ ->xem fb cô Vẻ ko ra, sau search Liễu ra info chị bạn ấy -> ra info bạn này. https://www.facebook.com/lieuhoang26905 - Add fr xong lại huỷ để TRÁNH RỦI RO.
+>     
+> - Em gái vợ a Kha: ko biết tên -> biết tên chị Lê Hà Phương (Lê Ứng - Phạm Hoài Thu)-> vào trng cá nhân search Le (Từ 1 bài: https://www.facebook.com/share/p/15Qc2qGmsf/ -> Lê Hoài Phương https://www.facebook.com/profile.php?id=100063655276053 )
+>     
+> 
+> 3. CÔ GÁI NGỒI VỚI BẠN ĐÔNG: Luôn sẵn sàng thời cơ cô gái tách riêng ra / Lao vào cả nhóm.
+> 
+> - Case cổ ngồi chung với 4 bạn nữ khác và quay vào tường làm bài => Bỏ qua / Chờ thời điểm họ tách ra hoặc ko tập trung nữa / 1 lý do cực kỳ hợp lý. **=> BỎ LỠ** - Case 07/06/2025 Khánh: có 1 đội bên liên chi Toán ứng dụng ngồi chấm bài điểm chung HUST, **=> Oke gu, chạm mắt 3-5 lần.** **=> Khi chung, giả sử: "mn bên liên chi nào đấy. Xong quay sang bạn nữ chủ tịch để xin info"** **=> Còn ở riêng thì cứ: 1 đập. "mình xin info của bạn được ko, mình muốn hỏi 1 chút về liên chi của bạn".** - Case 09/06/2025 Vũ Trà Trà NEU: ngồi 1 nhóm 6 người (1 nam, 5 nữ). Ban đầu quét 1 lượt ai cũng như nhau. Sau thấy 1 bạn nổi bật, nhìn và bạn nữ chạm mắt 3-5 lần, bạn còn ngại mắt mình => lên thôi. => Khi chung: (Sau 20h thức, mình cũng tính lao vào luôn chứ ko đợi nhóm chia nhỏ nữa). "Xin chào, mình cũng làm Sản phẩm, mình có thể xin fb của cậu không". => Khi riêng: (nghe loáng thoáng bạn đó hay bạn bên cạnh bạn đó ở lại đến đêm). => Ở lại vậy (cơ mà đi ngủ chứ mỏi mắt rồi). **[CHỜ ĐỢI VỚI TÂM THẾ LUÔN SẴN SÀNG VỚI BẤT LỢI/THUẬN LỢI BẤT NGỜ]**
+> 
+> +, Sau đó vẫn đợi đến cuối tầm 23h, nhóm mn đứng lên về, sau 18min thu dọn đồ và ngồi đợi vừa viết RAG vừa viết các câu: -> mình lên và nói: 'bạn gì ơi, mình xin fb của bạn được ko' Bạn ngẩn người ra 5s, mình nói tiếp 'mình cũng làm product ý, xin để có gì connect', bạn gật (3 bạn nữ còn lại, và 1 nam thấy mình xin thì cũng đi trước ra ngoài đợi). => Về ib ko rep **=> Duyệt oke, có chạm mắt 3-5 lần => khả năng có số cao!** **=> Tốc độ hành động: Mất 3min, chờ đợi mn bên đó thu đồ.** **=> Lúc đó tiến lên vì: THE ROAD Con đường tôi chọn, Không lý do cũng là lý do - tiến lên chính là lý do** 4. ĐANG KHÔNG ĐỂ Ý: - Case 12/06/2025: 1 bạn nữ ngồi nhóm 3, mình đến lúc 0h30 ban đầu mình cũng có care. Sau đó đến tầm 2h mình đang ngồi bàn bên cạnh thì 1 nhóm đến ngồi cùng nên trong khoảng thời gian 2h mình ko nhìn sang bàn bên nhiều nữa, 4h thì mình đang focus vào nghiên cứu phần: Problem Solving quá, 4h50 thì vào zoom với ae ko thoát ra được, **=> BỎ LỠ: 1. CHƯA CHẠM MẮT NHAU + 2. KO ĐỂ Ý ĐẾN BẠN NỮ LIÊN TỤC.**
+
+  
+
+#### 2.2.1.1 Đi ra ngoài Caffe học bài - chuyển việc Flow vào buổi sáng đuê -
+
+1. Mục tiêu chính: Học bài / Ngồi với bạn.
+    
+2. Chọn đồ uống: 5s chọn đồ uống rẻ nhất. Vì mục tiêu chính là học bài.
+    
+3. Khi nào thì làm quen: ? - Mục tiêu làm quen: 1. NY: Có tiêu chí rõ ràng -> NÓI RA ĐIỀU MÌNH MUỐN. HÀNH ĐỘNG THAY VÌ VỀ NHÀ SẼ TIẾC. 2. TĂNG SỐ NGƯỜI BIẾT: KHÔNG BAO GIỜ RỜI ĐI MÀ KO XIN OFFER. Với mục tiêu này thì: mình có crush hay người ta có crush thì cũng thế.
+    
+
+---
+
+1. Ưu tiên 1: Ngồi 1 mình và có chỗ trống -> oke
+    
+2. Sai lầm 1: ngồi quay mặt vào tường mà không có ghế ở bên cạnh (nếu có ghế bên cạnh thì xác suất người khác ngồi cạnh cao hơn). -> góc ngồi tốt là: xung quanh nhiều chỗ trống và góc nhìn bao quát rộng
+    
+
+#### 2.2.1.2 TÂM LÝ HỌC - Thứ lương tâm mang yếu tố chủ quan - 22/06/2025!!!
+
+> MONEYosophy -> Có keywords là mình search được: https://www.facebook.com/ecoblader + Cấp Độ 1 Đến 100 Tình Huống Đạo Đức Khó Xử: https://youtu.be/OwxDnXx6m9w?feature=shared +
+> 
+> 1. COPY Bài của bạn, nhanh chóng hoàn thành mục tiêu => Ăn mừng => Giúp đỡ người khác.
+>     
+> 2. Nhặt được chiếc Ipad Mini 6 ở lớp không ai biết, có mang về nhà không, đắn đo đắn đo => Và mang về nhà? Lương tâm ?
+>     
+> 3. Cây xoài nhà hàng xóm, vặt trộm vặt trộm.
+>     
+> 4. Chọn ny? nghịch lý của sự lựa chọn, đầu tư dài hạn, ...
+>     
+> 
+> Sau 2 ngày rất ??? với vấn đề LƯƠNG TÂM THẾ THÌ KHÔNG QUAN TÂM ĐẾN ĐẠO ĐỨC À => MÌNH NHẬN RA: NÓ GIỐNG HỆT GOSINGA. LÀM THIỆN CHƯA CHẮC GẶP QUẢ VUI, LÀM ÁC CHƯA CHẮC GẶP QUẢ ÁC. QUẢ CỦA NGHIỆP LÀ BẤT KHẢ TƯ NGHÌ.
+
+  
+
+1. **Lương tâm, đạo đức mang tính chủ quan! Cẩn thận với 'bẫy lương tâm thuần tuý'**
+    
+2. **Thích nghi: dựa vào điều kiện đầy đủ của từng tình huống để ra quyết định cho mình. QUẢ CỦA NGHIỆP LÀ BẤT KHẢ TƯ NGHÌ!**
+    
+
+  
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/V4ymdGJJIs1zSdbYKjzl880hghc
+
+#### Use cases:
+
+  https://csg2ej4iz2hz.sg.larksuite.com/sync/SwD8dVvTbsx8zqbPneMlqIxWgXc
+
+  
+
+### 2.1.3 Đồng Đội và NSKT - Nhà tù hay thiền viện (Đóng gói, chuyển giao cho đồng đội là để có thời gian làm những việc quan trọng hơn, chứ không phải để thoát ra)
+
+1. NHÂN SỰ KẾ THỪA: 1. KHIÊM HẠ, TÔN SƯ TRỌNG ĐẠO, HỌC HÀNH NGHIÊM TÚC SỬA MÌNH LIÊN TỤC - KHI HỌC TRÒ SẴN SÀNG NGƯỜI THẦY XUẤT HIỆN (dễ thương, ham học hỏi, cầu thị, nước sông chảy về biển vì biển thấp hơn mọi dòng sông, lúa càng chín càng cúi đầu) + 2. HÀO PHÓNG KIẾN THỨC - GIỎI RỒI DẠY LẠI KO DẤU NGHỀ KO DẤU BÀI - ĐỒNG HÀNH CÙNG ĐỒNG ĐỘI XÂY ĐỘI NHÓM MẠNH THÂN NHAU.
+    
+
+A1 (tiếp) TỨ NHIẾP PHÁP/CHIÊU MỘ WIN WIN: - QUAN SÁT MÌNH VÀ ĐỘI NGŨ NHIỀU LÊN, HIỂU THƯƠNG/COACHING(ĐỌC NGUỘI + LIÊN KẾT CÂU CHUYỆN + ĐẶT CÂU HỎI MỞ + KỂ CHUYỆN). - TUYỂN KỸ => SAU 1 THỜI GIAN: LIÊN TỤC SẮP XẾP BÀN CỜ DỤNG NHÂN NHƯ DỤNG MỘC [Chấp nhận/Dứt khoát loại bỏ(hời hợt Gắn kết Ekip)]. ĐỘI NGŨ THÂN NHAU TỰ QUẢN, BIẾN ĐỒNG ĐỘI THÀNH BẠN THÂN: GAME HIỂU THƯƠNG + TỨ NHIẾP PHÁP + ĐỆ NHỊ THÂN + LỤC HOÀ. - MENTOR THẦY GIỎI giúp mình nhìn: BÀI TOÁN CHIA LÀM SAO ĐỂ AE WIN WIN 6 LOẠI ĐỘNG LỰC + CON NGƯỜI TIN TƯỞNG (có tầm nhìn đường hướng, tâm thức tốt) + GAME ĐỦ HAY ĐỦ HẤP DẪN HỌ. - Khiêm hạ NHỜ ĐỒNG ĐỘI => bố thí ái ngữ lợi hành đồng sự đồng cam cộng khổ TẬN GIA ĐÌNH(Bánh Mỳ Kẹp Giáo Dục). ÁI NGỮ? (nói mượt, khích lệ ae, xem video, tập chia sẻ nhiều...) Tạo sóng gió ĐẬP ĐI XÂY LẠI để ae thân. Leader làm gương, cày chịu khổ, phạt X2. [1 bữa nọ TTG đi về mua 1 cái bánh mì bate cho mình, Tulingo mua mình 1 hộp cơm, a Tiến đãi bữa mì cay, Cường phát quà bánh đậu xanh và nước cốt cafe cho Tulingo TTG - Tứ Nhiếp Pháp]. - Dành bao nhiêu thời gian Hiểu Thương đồng đội, thuộc hết thông tin ae. - Không gian an toàn, Trung thực sửa mình bóc điểm yếu.
+
+  
+
+A1 (tiếp) 1 số phần chưa xử lý ĐỀ MỤC 2. TOP MINDSET Làm việc nhóm: KHIÊM HẠ SỬA MÌNH + TƯ DUY THỦ KHOA(Vượt ngưỡng, Làm Việc Khó Ra Tác Phẩm, Trao quyền và SẴN SÀNG GÁNH TEAMs) + BUÔNG XẢ(LÀM TỐT NHẤT sẵn sàng cho ĐIỀU TỆ NHẤT). 4.1 KHIÊM HẠ + BUÔNG XẢ => tận dụng tối đa ĐÒN BẨY CON NGƯỜI - DỤNG NHÂN NHƯ DỤNG MỘC với sự THÍCH NGHI (dù khúc gỗ dài ngắn ra sao, dù là bất kỳ ai, ở bất kỳ đâu, ko phân biệt môi trường NHƯ Ý HAY BẤT NHƯ Ý). - Khiêm hạ người giỏi sẽ về, Khiêm hạ được chỉ dạy. Còn cầu thị còn phát triển, cạn khiêm tốn bắt đầu lùi. Cách rèn: 1. LẤY PHỤNG SỰ ĐỂ RÈN TÂM 2. TẬP NHẬN LỖI DÙ MÌNH ĐÚNG HAY SAI 3. NHƯ LÝ TÁC Ý, RÈN TRÍ NHỚ CHÁNH: Cầu cho con khiêm hạ sửa mình. - BẢN NGÃ: TA HƠN, TA KÉM, TA BẰNG => MẤT KHIÊM HẠ, MẤT ĐÒN BẨY CON NGƯỜI(Khiêm hạ với người GIỎI HƠN MÌNH mà BẰNG/KÉM TUỔI MÌNH, khiêm hạ với người KÉM HƠN MÌNH vì RẤT NHIỀU ĐIỀU MẠNH mình có thể học KHI ĐA CHIỀU KHÔNG VỘI ĐÁNH GIÁ, KO CẮT DUYÊN vì KẺ THÙ DẠY TA NHIỀU BÀI HỌC QUÝ GIÁ)(Câu chuyện: 2021 từ ta hơn rơi xuống ta kém ta bằng + học BKE xong unfriend hết các bạn + được, anh ủng hộ, vừa học bổng, vừa project thì sao, làm được x2, x3 người khác không). => ÁI NGỮ XUẤT HIỆN khi THỰC SỰ KHIÊM HẠ, THẤY ĐIỂM TỐT CỦA HUYNH ĐỆ. - Mỹ Linh, Khánh Linh gánh Teams. 5.1 TẠO NHÓM - GOM AE LẠI: - Có cần thiết gom ae lại ko, đó có phải việc của mình ko? - TUYỂN KỸ => DỄ GẮN KẾT, DỄ ĐÀO TẠO. Hiểu RÕ MONG MUỐN riêng từng ae (tránh việc lập nhóm cái bụp chưa rõ ae muốn gì) - XÁC ĐỊNH CARE ĐƯỢC NHÓM (mới lập nhóm, nhân duyên chưa chín đi lập nhóm là oải). "KO PHẢI ĐỢI LÀ LEADER GIỎI MỚI LEAD NHÓM, MÀ LEAD NHÓM NHIỀU MỚI CÀNG TIẾN BỘ" - XÂY VĂN HOÁ HIỂU THƯƠNG NGAY TỪ ĐẦU, VÀO NHÓM GIỚI THIỆU ae HIỂU THƯƠNG NGAY(đã lập nhóm rồi xong tương tác bị đơn chiều, đến lúc mới ĐƯA HIỂU THƯƠNG VÀO SẼ KHÓ HƠN). - LEADER: BỊ NHÂN SỰ KÉM TUỔI HƠN NÓI RA ĐIỂM YẾU MẤT BÌNH TĨNH. (Nam Khúc vỗ ra điểm yếu NĂNG LỰC THỰC THI + TRIỂN KHAI HIỂU THƯƠNG NGAY TỪ ĐẦU ĐI). 5.2 ĐÀO TẠO: - Từ Member => LÀM X10 ĐƯỢC GIAO + HOÀ HỢP VĂN HOÁ 10 ĐIỂM (Tứ Nhiếp Pháp với SẾP, Huynh đệ,... CÙNG ăn chơi học hành chịu khổ cùng nhau) => ĐƯỢC TIN TƯỞNG LÊN LEAD - CÓ CƠ HỘI ĐƯA VĂN HOÁ VỀ ĐỘI NHÓM or CHUYỂN NƠI LÀM. - LEADER LÀM GƯƠNG 1-2 KEY WORDs TRIỂN KHAI THỰC TẾ LUÔN CHO RA KẾT QUẢ, NHÂN SỰ TỰ ĐÚC KẾT(tránh đưa đống lý thuyết về, trì hoãn việc triển khai)+ VẾT DẦU LOANG, CỦI KHÔ CHÁY TRƯỚC + WHY 6 LOẠI ĐỘNG LỰC(ĐẨY NỖI ĐAU ĐẾN TẬN CÙNG, nhân sự đòi làm thay vì mình bảo làm) + SET MÔI TRƯỜNG CHẶT CHẼ KO LÀM KO ĐƯỢC (MÔI TRƯỜNG MẠNH HƠN Ý CHÍ). - Mục tiêu chung Teams giúp gì cho MỤC TIÊU, NỖI ĐAU của TEAM, SẾP, NHÂN SỰ (dự án Cộng Đồng: Sếp có đang lãng phí thời gian của mình, để share những cái không phải mong muốn của Nhân Sự?)? Làm thế nào để mn CÙNG NỖ LỰC VÌ 1 MỤC TIÊU CHUNG(tránh sếp giao quản lý, quản lý giao nhân viên): "CÙNG NHAU THIẾT LẬP"(KRs Key Results, KAs Action Plans). - "RÈN GIỌNG NÓI LỰC KHÍ" mạnh hơn. 1. NỘI LỰC - NĂNG LƯỢNG - LÀM NHIỀU HƠN NÓI - MONG MUỐN TRUYỀN ĐẠT NHƯ NÀO. 2. Bên ngoài: THIẾU HƠI, HỤT HƠI => TẬP NÓI TO, DIỄN ĐẠT TRUYỀN CẢM.
+
+  
+
+#### Use cases:
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/BaCsdxxmOsrpirbpAPHlKhKggWd
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/FBpud9Uj0sVmoeb6JKUlcWLwghh
+
+# 6. KHỔ THỌ TÌNH DỤC và TÂM SI (Trở ngại lớn nhất)
+
++, 1. CẢM GIÁC NỔI TRỘI.
+
++, 2. NHẮC THẦM : THẤY THẤY, NHỚ ĐẾN TÍCH CỰC CHÚ TÂM THẤY RÕ CẢM GIÁC CHUYỂN ĐỘNG CẢM GIÁC XÚC CHẠM TOÀN THÂN, THEO NHỊP THỞ ĐI LÀM VIỆC. +, 3. TOẠ THIỀN THƯỜNG XUYÊN => để khắc sâu bộ nhớ, từ đó lúc BUỒN KHỔ, TÂM SI khởi lên mới đối trọi được.
+
+```SQL
+Mục 1.2. KHỔ THỌ TÌNH DỤC - NỘI LỰC - BÁT CHÁNH ĐẠO. [LÝ DUYÊN KHỞI - CẢM THỌ - KHỔ NGUYÊN NHÂN KHỔ - NHẤT HƯỚNG]
+
+VẤN ĐỀ LỚN NHẤT: CẢM GIÁC TÌNH DỤC KHỔ THỌ TRÊN THÂN - THẤT THOÁT TINH KHÍ THẦN - HỶ LẠC NỘI TÂM - NỘI LỰC HẠNH PHÚC BÊN TRONG, ĐỘNG LỰC BỀN VỮNG => dùng TD hoặc dùng TÂM ĐÁNH BẠI TÂM.
+Thường xảy ra khi: 1. Là có thông tin tác động tới THÔNG TIN PHÁP TRẦN TÌNH DỤC 2. Là TÂM SI - CHÁN NẢN - theo thói quen tìm THAM, tìm đến CẢM GIÁC PHÁP TRẦN TD. ĐẨY CẢM GIÁC SỢ, CÓ RỒI LẠI MUỐN CÓ THÊM; CHỈ ĐỔI KHỔ NÀY LẤY KHỔ KHÁC:  
+- Ăn được bát cơm phở 50k LÀM 1 CÁI lại ra hết, mặt mụn như gẻ, mồm hôi người hôi thối như CỨT => Cơ thể bạc nhược yếu ớt, GẦY GÒ ngủ suốt ngày, phải ngủ bù năng lượng 3h, mất hết THẦN KHÍ ÁNH MẮT GIỌNG NÓI: LỜ ĐỜ LÈ NHÈ KO RA HƠI. => Yếu sl vợ nó bỏ, lục đục đủ điều CHIA TAY  => NGHIỆN MA TUÝ, GÁI GÚ CỜ BẠC: gầy dơ xương MA TUÝ ĐÁ ĐI TÙ bị đánh như chó CHẾT BỜ BỤI => Dễ NHẠY CẢM, ĐÀO HOA trước vẻ ngoài da thịt con gái => Mất thời gian, mất năng lượng, CẢM GIÁC TÌNH DỤC QUÁ DỄ SINH KHỞI.
+(Tổn thương cơ quan sinh dục: Gây viêm nhiễm, sẹo và tổn thương mô. => CẮT CHIM KO LÀ TOÀN THÂN BỊ NHIỄM TRÙNG. 
+Suy giảm sức khỏe tổng thể: Mệt mỏi, suy nhược và giảm khả năng miễn dịch. => LIỆT DƯƠNG, CƠ THỂ NẰM LA LIỆT NHƯ NGƯỜI THỰC VẬT KO CÓ SỨC ĐỀ KHÁNG. 
+Tác hại tinh thần: Gây trầm cảm, lo âu, cảm giác tội lỗi, lệ thuộc và ám ảnh. => KO DÁM GẶP AI, NGƯỜI HÔI THỐI, MẮT THÂM QUẦNG CỦA NGƯỜI THỦ. 
+Tác hại xã hội: Ảnh hưởng đến công việc, học tập, cô lập xã hội, giảm chất lượng mối quan hệ. => CÔ LẬP, THẤT NGHIỆP, KO TIỀN KO MỐI QUAN HỆ, BỐ MẸ ACE HỌ HÀNG COI THƯỜNG). 
+- Lên group18+ tìm bạn chat, show, KO BỀN DỄ TAN vì môi trường tìm bạn QUÁ THAM ĐẮM tỉ lệ độc hại cao(chat mình dám, còn gặp mình KO DÁM), FWB BỊ CẮT RỤNG CON CHIM, HIV-AIDS, FWB quen ny ĂN CỨT mãi ko có ny, Dính bầu với gái giang hồ về nó xiên chết cả nhà. <Content địa ngục>. Tình dục chỉ là 1 phần, 1 khía cạnh, ko nên là TOÀN BỘ cuộc sống. Có những giai đoạn như 95 tuổi bạn chỉ có thể nghĩ về nó hoặc nói về nó chứ ko thể làm, có giai đoạn trẻ bạn có thể sẽ rất say đắm. Tình dục THƯỚC ĐO SỰ KIỀM CHẾ, BÁT CHÁNH ĐẠO. Không chỉ tinh trùng mà tất cả tế bào đều là những nguyên liệu khác nhau tạo nên món súp khác nhau, TIỀM NĂNG TO LỚN. 
+
+----------------
+
+```
+
+```SQL
+Mục 1.2. KHỔ THỌ TÌNH DỤC - NỘI LỰC - BÁT CHÁNH ĐẠO. (tiếp)
+CÁCH 2: [MÔI TRƯỜNG MẠNH Ý CHÍ MẠNH] 
+- Bản chất: thông tin khác nổi trội hơn thông tin tình dục: ngủ lắng xuống, lên trường học bài. 
+- BTĐ XẤU HỔ SỢ HÃI với BÊN NGOÀI => chuyển dần sang BCĐ HIỆP THẾ: xấu hổ sợ hãi với THAM SÂN SI của chính mình
+
+CÁCH 3: 
+```
+
+BƯỚC VÀO TÌNH YÊU HÔN NHÂN - CÁC DỤC VUI ÍT KHỔ NHIỀU, NÃO NHIỀU, NGUY HIỂM CÀNG NHIỀU [NGỌT KO KHỔ, THAM ÁI VỊ NGỌT MỚI KHỔ] => MỞ RỘNG RA ĐỘI NHÓM => dùng TD vợ chồng -phương tiện để chấm dứt khổ (như đồng tiền): Có vị ngọt. Tham Ái Vị Ngọt thì khổ. => Nếu chọn TYHN: nên chọn người cùng Pháp là tốt nhất. ------------------------------------------------------------ 1. SỰ ĐỦ ĐẦY TỪ BÊN TRONG. (Ràng buộc vật chất, không ràng buộc nơi tư tưởng sở hữu cảm giác). SỬA MÌNH NHIỀU LÊN, THỰC CHIẾN RA KẾT QUẢ, LEADER LÀM GƯƠNG 2. MỞ PHỄU ĐÚNG THỊ TRƯỜNG - LÀM QUEN, TUYỂN KỸ - BUÔNG XẢ LÀM TỐT NHẤT, SÁNG HAY KHÔNG LÀ CHUYỆN CỦA BÓNG ĐÈN: - CHỌN ĐÚNG MÔI TRƯỜNG => Bớt Tham bớt kỳ vọng(do hiểu Môi trường) => TỰ TIN HƠN, THOẢI MÁI HƠN(Chẳng hạn khi ngồi cạnh con gái ở thư viện thấy thoải mái hơn vì bớt kỳ vọng vì biết con gái ở đây khó làm quen hơn, XÁC SUẤT NGƯỜI PHÙ HỢP THẤP hơn ở môi trường BKE GOSIGNA - THỰC HÀNH "KO PHẢI ĐỢI ĐỌC VỊ GIỎI HƠN MỚI LÀM QUEN, MÀ LÀ LÀM QUEN NHIỀU THÌ ĐỌC VỊ MỚI GIỎI LÊN"). Cùng là NGỒI CẠNH BÊN 1 cô gái xinh, hôm nào khởi lên MUỐN LÀM QUEN => HỒI HỘP, CỐ GẮNG QUÁ MỨC NÊN KHỔ . Hôm ko khởi lên thì BÌNH AN, KO QUÁ CỐ GẮNG KO KHỔ (CÓ CƠ HỘI NÓI CHUYỆN THÌ NÓI KO CỐ GẮNG TÌM KIẾM QUÁ MỨC). - SỰ THU HÚT đến từ SỰ TƯƠNG HỢP THÔNG TIN("ko quan trọng bạn nói gì, quan trọng vẻ ngoài và sự tự tin, ko sợ hãi. Con gái bị cuốn hút bởi sự trung thực đồng nhất cả bên trong lẫn bên ngoài"). - LÀM QUEN TỐT NHẤT, MỞ LỜI TỐT NHẤT, TUYỂN KỸ NHẤT CÓ THỂ => TỪ CHỐI GIÚP TA TIẾT KIỆM THỜI GIAN VÀ SỨC LỰC, SẴN SÀNG LOẠI BỎ NGAY TỪ ĐẦU(vì bạn không mất thời gian, năng lượng cố gắng thuyết phục cô gái rằng bạn hấp dẫn). (Nếu tôi không chắc có thể làm việc với người đó trong 1 thời gian dài, tôi sẽ không làm việc với người đó dù chỉ là 1 giờ)(còn đi lâu dài hay không còn tuỳ nhân duyên) ("Vì tôi đã đá rất nhiều người ngay từ đầu vì những việc ngu ngốc như thế này để tôi không còn phải lo về nó nữa. Trong chuyện này thì tôi rất tàn nhẫn. Tôi bỏ đi ngay giữa cuӝc hẹn đầu tiên. Tôi bỏ đi ngay giữa lời nói. Tôi không quan tâm. Tôi không có thời gian với những cô gái tệ. Và kết quả là, hoặc là họ thay đổi phù hӧp với mong đӧi của tôi, hoặc là tôi không bao giờ gặp họ nữa. Tôi tôn trọng bản thân và vì thế sẽ không dành thời gian với những cô gái không tôn trọng tôi. Bạn sẽ tự nhiên nghĩ rằng, “Ồ, vậy có nghĩa mình phải gặp gấp đôi số phө nữ, phải bỏ ra gấp đôi công sức, vì mình sẽ từ chối nửa số người thích mình.” Thật ra, bạn sẽ bỏ ra ít công sức hơn, vì bạn không còn phí nhiều thời gian và năng lưӧng cố gắng thuyết phөc cô ấy rằng bạn là mӝt người đàn ông hấp dẫn. Bạn không còn mệt mỏi nghĩ rằng liệu cô ấy có thích bạn đủ nhiều hay không, hoặc lo lắng làm thế nào để gây ấn tưӧng hay thắng lại cô ấy. Khi cô ấy không hӧp với tiêu chuẩn của bạn, tình huống trở nên cực kỳ dễ dàng cho bạn: bạn bỏ đi. Không nghĩ ngӧi gì hết. Không tranh cãi. Không quay lại ngoạn mөc. Chỉ là: hành vì của cô ấy không hӧp với tiêu chuẩn của mình, mình sẽ gặp mӝt người khác") - RÕ RÀNG MỐI QUAN HỆ LÀ TÁN NGAY TỪ ĐẦU, TÁN MẠNH. 2 hướng: 1 TỎ TÌNH NGAY TỪ ĐẦU 2. CỨ TÁN ĐÃ TỎ TÌNH RA. 3. SỰ THẬT VỀ CHUNG THUỶ - thực hành đúng KO CÓ CHÁN NẢN, MÀ HOÀN TOÀN BÌNH THẢN: - Khi gặp người khác giới, nếu LỘ TRÌNH TÂM là BÁT TÀ ĐẠO thì quý vị khởi lên THÍCH CHÁN GHÉT so sánh người đó với ny/vợ mình. - Còn nếu LỘ TRÌNH TÂM là BÁT CHÁNH ĐẠO, quý vị KHÔNG THÍCH KHÔNG CHÁN KHÔNG GHÉT, thì KHÔNG CÓ CHUNG THUỶ, cũng CHẲNG CÓ NGOẠI TÌNH, quý vị HOÀN TOÀN BÌNH THẢNG, VUI, THOẢI MÁI. - Con trai cơ bản giống nhau. Đợt này tui ra ngoài đường cũng bị váy ngắn của con gái hút hồn luôn đây nè. - Không có người yêu / người yêu sắp chia tay => dễ bị con gái bên ngoài hút hồn, xong ib tán tỉnh này kia - Còn khi có người yêu kiểu ổn định rùi ý => đều đặn ib ny tình cảm nhẹ nhàng. (là đủ nhu cầu ý, giống như kiểu ăn nhiều quá thì bị no ko thể ăn được => nên chẳng còn tâm hơi mà nhắn con gái khác). Chỉ TRỪ KHI CÓ NGƯỜI CON GÁI KHÁC CÓ THỂ THAY THẾ ĐƯỢC+ MỐI QUAN HỆ CŨ THẤY KO ỔN => MỚI CÓ Ý ĐỊNH NÀY KIA. (như đợt tôi với ny cũ đang ổn tự nhiên người ta kêu tạm dừng + có người con gái khác có thể thay thế được ny => xong tui mới bẫng 1 thời gian, xong rủ chị kia đi hiến máu đôi năm ngoái đó xong về còn ôm nhau)
+
+```SQL
+ĐỀ MỤC 0: CẢM GIÁC TRUNG TÍNH(3 Loại CẢM GIÁC: Cảm giác dễ chịu, Cảm giác khó chịu - nhất là CGTD/Gặp task khó bí ko ra, cảm giác TRUNG TÍNH NHƯNG LẠI DỄ ĐI TÌM CẢM GIÁC DỄ CHỊU, nhất là của TÌNH DỤC. 
+
+BÃO TỐ VÀ AN NHÀN (BÌNH AN ĐỘT PHÁ TRƯỚC BIẾN ĐỘNG - SÓNG YÊN). 
+- BÃO TỐ/vấn đề : 90% Tâm SẠC NĂNG LƯỢNG, NƯƠNG TAM BẢO, MÀI RŨA MŨI KHOAN + 10% Thân (nghỉ mắt, lưng, ngủ lúc buồn ngủ chỉ chợp mắt 10min ngang với việc ngủ 3h, đi bộ nghe mp4 ...) ăn uống, đứng dậy, thể thao, ngủ
+(cùng đường, gặp bài toán khó, stress ko hướng giải quyết, rối ngợp vì quá nhiều thứ) thì (NGỦ 1 GIẤC SÂU SẠC 300% PIN LOẠI BỎ HẾT NGỔN NGANG ĐẦU ĐƯỢC LÀM MỚI , khoảng lặng, nghỉ ngơi, thể thao, đọc sách, chạy bộ,thiền gosinga 9 ngày,...). 
+
+- AN NHÀN/cơ hội (nhàn nhã sinh tâm Si, cảm giác chán nản tìm tham): MŨI KHOAN DÀI HẠN + TẬP TRUNG, ÁP SUẤT LÚC NHÀN RỖI + MỞ RỘNG liên quan.
+1. Chuẩn bị kỹ lưỡng. 
+2. Tư duy "thợ săn" chủ động tìm kiếm - Đánh nhanh rút gọn - Lựa chọn đúng NẮM VÀ BUÔNG. 
+3. TẠO BIẾN ĐỘNG ĐẬP ĐI XÂY LẠI + CHỌN MŨI KHOAN NÉM VÀO ÁP SUẤT  
+4. BẬT CÔNG TẮC LÀM TỐT NHẤT, SÁNG HAY KHÔNG CÒN Ở BÓNG ĐÈN. 
+
+ĐỀ MỤC 2: XỬ LÝ BẤT NHƯ Ý. 
+- TH1: Dắt xe ra đi làm buổi đầu, xe đề mãi không nổ 15 phút ko được dắt xe ra quán sửa, 9h vào làm, 9h30 sửa xong dắt xe về nhà, chiều đi làm sau. 
+=> Kinh nghiệm thế gian: 1. Ko để xe dưới mái hiên tránh bị nước xối + 2. Tranh thủ sửa xe Take Note công việc vào sổ. 
+=> Trạch Pháp: Hiểu đúng về vô thường. 
+```
+
+## Use cases:
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/Qx13dRTkGsDUNKbNeP1lLdJagj3
+
+  
+
+  
+
+1. # THỰC HÀNH THÂN THỌ TÂM PHÁP :
+    
+
+- https://www.youtube.com/playlist?list=PLfFdoGwLbh5X1rtIKley3_3uEXzXdZ8-i
+    
+
+THỰC HÀNH THÂN THỌ TÂM PHÁP - Quán Thân - Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) 1. QUÁN THÂN: Rụt củi, NHẮC THẦM THẤY RÕ CẢM GIÁC NỔI TRỘI, Có Tầm Có Tứ - Automatic, ĐỂ TỰ NHIÊN, Ko Tầm Ko Tứ. - BẮT ĐẦU: THƯ GIÃN THẢ LỎNG. - TẠO CẢM GIÁC NỔI TRỘI: cảm giác Nín thở, Ngậm chặt răng lưỡi, Nghe nhạc nơi tai. <CHÚ TÂM CẢM GIÁC NỔI TRỘI - THAM SÂN SI nơi DỤC TƯỞNG VẮNG MẶT> - NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI" đan xen: 1. cảm giác NGƯNG THỞ, 2. Cảm giác Chuyểnđộng TOÀN THÂN <gồm cảm giác nơi 6 xúc xứ: cảm giác hình ảnh, cảm giác âm thanh>, 3. ĐỂ TỰ NHIÊN (theo nhịp thở đi làm việc, bút vẽ lên xuống, xoay tròn sang ngang. VÔ NGƯNG RA NGƯNG). - TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC - Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời). 2. QUÁN THỌ: THỰC TẠI LÀ CẢM GIÁC - Tương tác căn trần đều là TƯƠNG TÁC THÔNG TIN, LÀ TÂM - CẢM GIÁC HẠNH PHÚC CẢM GIÁC VỊ NGỌT - NGUYÊN NHÂN CỦA KHỔ THAM SÂN SI] (Thấy, Nghe, Cảm nhận mọi thứ đều biết nó là Cảm Giác) - Khi chọn thái độ Nhất Hướng, Nhàm Chán, Ly Tham, Đoạn Diệt là chúng ta đối xử với Tâm, cụ thể là các Cảm giác chứ không phải với Cảnh, với hoàn cảnh sống. Có 2 loại thực tại là Thực Tại Thế Gian (Bất Tịnh), và Thực Tại Xuất Thế Gian(Thanh Tịnh) thì cũng đều là các khái niệm của Tâm, chứ ko phải Cảnh. Chỉ có Tâm Bất Tịnh và Tâm Thanh Tịnh, chứ không có Cảnh Bất Tịnh và Cảnh Thanh Tịnh. - Không có việc làm là MINH hay VÔ MINH, chỉ có HIỂU BIẾT VỀ VIỆC ĐÓ mới có MINH hay VÔ MINH. - Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau, cho dù đổi cảnh hay không đổi cản. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. - "Buông" là BUÔNG TƯ TƯỞNG làm chủ, tư tưởng sở hữu; Không phải "Buông bỏ", vứt bỏ đi thế giới vật chất. "Sử dụng mà không sở hữu". **Lưu ý:** Không ràng buộc vào kết quả là không khổ vui với kết quả chứ không phải không quan tâm và không cần cải thiện dù kết quả không đi đúng hướng. - BUÔNG = "GIEO NHÂN" * "BUÔNG KỲ VỌNG" = "LÀM TỐT NHẤT" * "SẴN SÀNG CHO ĐIỀU TỆ NHẤT" = CÙNG LẮM THÌ, TÔI VẪN CỨ NỖ LỰC = "BẠN ĐƯỢC QUYỀN BẬT CÔNG TẮC" * "NHƯNG SÁNG HAY KHÔNG LÀ CHUYỆN BÓNG ĐÈN". 3. Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) - NÍN THỞ QUÁN THÂN: Tùy vào cường độ của dục tưởng, nếu nhẹ thì có thể quán luôn, còn nếu mãnh liệt thì nên sử dụng pháp đối trị NÍN THỞ như ở mục 01 trước. Sau khi lắng dịu hơn thì thực hành quán như ở dưới đây để xóa dần đi thông tin về tham ái tình dục. - Quán Thọ: Bản chất dục tưởng chính là tư tưởng về tình dục, xuất hiện với sự nối dài của cảm giác pháp trần liên tục đan xen với cảm giác xúc chạm do nội xúc từ tâm hành tham, nên mình cần quán đây là cảm thọ, thuộc phạm trù tâm, là cảnh ảo, vô minh thì cho rằng đây là thế giới vật chất, có cô gái A, chàng trai B là chủ nhân chủ sở hữu của hình tướng kia,... - Quán Tâm: Quán tâm biết ý thức tà tri kiến với nội dung vô minh - chấp ngã. Quán tâm hành tham, dục, khổ đang khởi sinh. Hiểu biết đúng sự thật về các tâm hành này trên 8TĐ, có tính chất duyên khởi, vô thường, vô ngã. - Quán Pháp: Nhân loại khát ái tìm cầu hỷ lạc chỗ này chỗ nọ, như dục ái, hữu ái, phi hữu ái.. Nơi nào có tham dục, nơi đó có chấp thủ, nơi nào có chấp thủ, nơi đó có khổ-vui. Các dục vui ít, khổ nhiều, não nhiều, nguy hiểm các nhiều hơn. Bao lâu nay, mình đã bị dục đanh vây, tàn phá, trấn áp như thế này đây. Phải giải thoát khỏi chướng ngại đã đầy ải nhân loại từ vô thủy đến nay. - NÍN THỞ QUÁN THÂN: Sau khi quán thì hãy ngưng thở một đoạn để hoàn toàn yên lặng, ghi nhận cảm giác toàn thân, sau đó thở mạnh theo nhịp rồi tác ý nhè nhẹ dần, nếu hết dục tưởng thì quay trở lại thực hành Định-Tuệ bình thường. 3.1 PHẢI NHỚ PHẢI NHỚ: HIỂU ĐÚNG VỊ NGỌT, VỊ NGỌT - LY THAM. - Phải nhớ phải nhớ: VỊ NGỌT - CẢM GIÁC HẠNH PHÚC (do Chánh Niệm sinh, hoặc, duyên xúc bên ngoài). THÍCH CHÁN RỒI GHÉT, NGỌT NHẠT RỒI ĐẮNG. SINH DIỆT liên tục, lặp đi lặp lại. CHẲNG ĐÁNG LÀ BAO, tà niệm kích hoạt, mà ta làm quá. - Chỉ khi thực nếm, vị ngọt chánh niệm, đến để mà thấy, siêu thế khởi lên. DÙ THẤY GÁI XINH, NHỚ PHIM 18, TÂM SI SINH KHỞI: Vị ấy ly tham, nhìn ngắm vẻ đẹp, ko có tư tưởng làm chủ sở hữu, ko nhảy tìm trăng, không khổ vô ích. - Phải nhớ phải nhớ: Cảm thọ Căn Trần, tiếp xúc với nhau. Thông tin pháp trần, tế bào thần kinh, tồn tại đồng thời, độc lập với nhau, (y như máy móc, chạy theo lập trình, trong cái gọi là, đồng hồ quả lắc). chứ không phải là… - CHẤP CÓ DUY VẬT, CHẤP KHÔNG DUY TÂM, chấp ngọt sẵn có, chấp do tâm tạo. VỊ NGỌT CÓ ĐÓ, DO DUYÊN MÀ SANH, Thọ Tưởng đồng sinh, Tưởng đọc Vị ngọt, của đối tượng thấy, chứ không phải là, cần niệm kích hoạt, mới có vị ngọt, - Trong TÌNH YÊU: Được chọn VẪN CHỌN NGƯỜI PHÙ HỢP NHẤT, XINH NHẤT ĐẸP NHẤT. NHƯNG: NẾU KHÔNG ĐỔI TÂM TỪ BÁT TÀ ĐẠO SANG BÁT CHÁNH ĐẠO, thì KHÔNG CHẠY ĐÂU CHO THOÁT KHỔ (chỉ đổi khổ này lấy khổ khác). - Chúng ta tu tập để đổi tâm và có thể cải thiện hoàn cảnh (nếu cần thiết), chứ không phải tìm cách thay đổi hoàn cảnh để nghĩ rằng sẽ tu tập thuận lợi hơn. Tránh tình trạng đi học về, Tâm thì ko thấy đổi, lại đi thay đổi ngay hoàn cảnh sống khiến cho người thân, bạn bè thấy bất an, lo lắng. - Nhàm chán, Ly Tham là ly tham với thọ khi tiếp xúc với các trần cảnh, chứ không phải ly tham với các trần cảnh đó. Chúng ta không ghét bỏ, xua đuổi chúng, mà để chúng tự đến và tự đi. - Như vậy cho dù đổi cảnh hay không đổi cảnh, miễn đổi được tâm từ BTD sang BCD thì sẽ không có khổ và là tu đúng. Còn trường hợp được quyền đổi cảnh để có lạc thọ hợp pháp thì đổi chứ đâu có dại gì mà phải để im để kham nhẫn với khổ thọ. - TRUNG ĐẠO: ko chối bỏ, không tham đắm lạc thọ. Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. 3.2 PHẢI NHỚ PHẢI NHỚ CẢM THỌ VÔ THƯỜNG - Đối tượng thấy..., là tâm cảm thọ, đặt tên: danh từ, là cô con gái, cái con người thấy, chính là thông tin chứ không phải là thế giới vật chất, như hiểu biết sai, lầm tưởng trước đây. - Cảm giác vị ngọt, hoặc nhạt hoặc đắng, được Tưởng ghi nhận, mới tinh cứng coong, xuất hiện 1 lần, sinh diệt tức khắc, sinh diệt kéo dài mà ta làm quá, chứ không phải là, thường hằng thường trú, biến đổi vật chất, như hiểu biết sai, lầm tưởng trước đây. 3.3 PHẢI NHỚ PHẢI NHỚ: DUYÊN KHỞI - VÔ NGÃ - Phải nhớ phải nhớ: Duyên người thế giới, đặt tên: động từ, là quét là chạy, chứ không có cái, điều khiển cái kia, ko có linh hồn, không sinh không diệt, điều khiển thân xác! - Tất cả các sự vật hiện tượng (tất cả các pháp) đều là do Duyên Khởi (2 nhân bình đẳng tương tác/tiếp xúc cùng diệt mới phát sinh quả). = Tất cả các pháp đều vô thường (Sinh diệt), đều vô chủ vô sở hữu (vô ngã).
+
+```yaml
+04/01/2025
+
+Mục đích thực hành: 
+- CÓ THAM SÂN SI => CÓ KHỔ. 
+- KHÔNG THAM SÂN SI, 1 là THẤY KO SUY NGHĨ (CHÁNH ĐỊNH), 2 là SUY NGHĨ ĐÚNG SỰ THẬT - Chánh Kiến (Thọ Tâm Pháp)
+---
+
+- 1.1 TẠO CẢM GIÁC NỔI TRỘI (NGUYÊN LÝ: KHI CẢM GIÁC NÀY NỔI TRỘI THÌ CẢM GIÁC KIA KHÔNG NỔI TRỘI): cảm giác Nín thở, Ngậm chặt răng lưỡi/Thấy Răng Lưỡi dán nóc họng, Nghe nhạc nơi tai/nhạc nhẹ love mood/nhạc sâu sắc động lực RAP/nhạc tình cảm gia đình chảy nước mắt,
+
+ NỔI TRỘI <CẢM GIÁC NỔI TRỘI - THAM SÂN SI nơi DỤC TƯỞNG VẮNG MẶT>
+
+- 1.2 NIỆM - TRÍ NHỚ: 
++, NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI, CẢM GIÁC CHUYỂN ĐỘNG XÚC CHẠM TOÀN THÂN"  
+
+- 1.3 ĐỂ TỰ NHIÊN KO TẦM KO TỨ (theo nhịp thở đi làm việc, bút vẽ LÊN XUỐNG SANG NGANG, XOAY TRÒN từng đối tương, VÔ NGƯNG RA NGƯNG).
+
+- 1.4 TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC
+
+- Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời). Không ai ăn 1 bữa đòi no cả đời, rụt củi cần liên tục, đun nước sôi 100 độ. 
+
+```
+
+2. # SAI LẦM: Mình có 1 niềm tin là chỉ cần TRÁNH ĐƯỢC TOÀN BỘ CÁC DANH SÁCH SAI LẦM => THÌ BẠN NGON. (a Huy Wecommit100x)
+    
+
+  
+
+## 5.1 Sai lầm :
+
+## 06/04/2025:
+
+Đang lướt facebook thì thấy 1 cái tên. Search google thử => Ra video -> Xem. => Comment dạo Linkedin => **Summary + Nghe nhạc:** **https://youtube.com/playlist?list=PLfFdoGwLbh5Vc9qzKLL9_b99e3xUHNppc&feature=shared**
+
+## 23/04/2025: T4
+
+Thức khuya để lên plan cho thời gian sắp tới => Do lưu trữ các nhóm chat + căng thẳng khi lên plan mới (chạy bộ chia ra mùa hè chạy sáng, mùa đông chạy tối, nhiều thứ mới cần học) => nghĩ đến sếp T, học sinh HA và ra.
+
+=> **Giải pháp: 1. BÁT CHÁNH ĐẠO thấy việc lên plan chẳng có gì căng thẳng cả + sẵn sàng cắt bỏ những thứ thích thích mà KO CÓ GIÁ TRỊ VALUE VỀ MẶT DÀI HẠN, MỤC ĐÍCH CUỘC SỐNG**
+
+# 27/04/2025: Tối thứ 7
+
+xem đ đ đ - sự kiện này có tính lặp lại hàng tuần, ae nên có phương án xử lý - tuần vừa rồi có mỗi hôm nay, bảo sao ra nhiều - CHÚC MỪNG CHO SỰ KIỆN TUẦN RỒI CÓ MỖI THỨ 7 - CHỦ NHẬT -> XỬ LÝ LÀ XONG, BẢO SAO BẮN NHIỀU.
+
+=> Sau khi xong là 1 cảm giác GHÊ TỞM, MỆT MỎI, VÀ CHÁN CẢM GIÁC TD, tranh thủ xoá vết
+
+=> Lên 1 lịch ngồi cafe full tối thứ 7, ngày chủ nhật + Liên tục nhớ ?
+
+  
+
+# 29/04/2025: trưa T3 ở quê nghỉ lễ
+
+- tự dưng nhớ đến các đường link -> xong vào link ở lark -> rất nhanh => GIẢI PHÁP ĐỀ RA: Biết 1 cốc nước ngọt có độc mà vẫn uống?
+    
+
+## 5.2 Các sai lầm khác
+
+1. Chở Hồ Dũng và chở anh Thái Tâm xong lại quên ko xin ảnh chụp cùng
+    
+2. Bảo vào Hiệp ăn cơm, xong sau lại nhắn tin bảo ko vào -> NGHĨ KĨ ĐI RỒI QUYẾT BỪA.
+    
+3. Phí 30min chỉ để reply tin nhắn bên công ty - vì rep xong và hẹn lịch nhưng chưa thể xử lý nhanh được ngay - mất thời gian giao tiếp giữa các bên.
+    
+4. Vừa đăng video lên các nền tảng vừa nghe video sâu về não bộ (Video cách xây dựng ý chí mạnh mẽ và kỷ luật phi thường - TÌM KIẾM SỰ KHÓ CHỊU).
+    
+
+Đa nhiệm chỉ hiệu quả khi 1 việc nhẹ, không cần suy nghĩ nhiều (như chạy bộ, rửa bát) và 1 việc cần não ít (nghe podcast, học nhẹ). Nếu cả hai việc đều cần tập trung, làm cùng lúc sẽ mất hết – không nhớ gì, không hiệu quả. Muốn làm nhiều mà vẫn tốt: **ghép việc đơn giản với việc chính**, tránh ghép 2 việc nặng. Sau mỗi lần, nên tự hỏi: “Mình nhớ được gì?” – nếu không nhớ gì, lần sau đừng ghép kiểu đó nữa.
+
+5. be
+    
+
+---
+
+  
+
+  
+
+# 6. KHỔ THỌ TÌNH DỤC và TÂM SI (Trở ngại lớn nhất)
+
++, 1. CẢM GIÁC NỔI TRỘI.
+
++, 2. NHẮC THẦM : THẤY THẤY, NHỚ ĐẾN TÍCH CỰC CHÚ TÂM THẤY RÕ CẢM GIÁC CHUYỂN ĐỘNG CẢM GIÁC XÚC CHẠM TOÀN THÂN, THEO NHỊP THỞ ĐI LÀM VIỆC. +, 3. TOẠ THIỀN THƯỜNG XUYÊN => để khắc sâu bộ nhớ, từ đó lúc BUỒN KHỔ, TÂM SI khởi lên mới đối trọi được.
+
+```SQL
+Mục 1.2. KHỔ THỌ TÌNH DỤC - NỘI LỰC - BÁT CHÁNH ĐẠO. [LÝ DUYÊN KHỞI - CẢM THỌ - KHỔ NGUYÊN NHÂN KHỔ - NHẤT HƯỚNG]
+
+VẤN ĐỀ LỚN NHẤT: CẢM GIÁC TÌNH DỤC KHỔ THỌ TRÊN THÂN - THẤT THOÁT TINH KHÍ THẦN - HỶ LẠC NỘI TÂM - NỘI LỰC HẠNH PHÚC BÊN TRONG, ĐỘNG LỰC BỀN VỮNG => dùng TD hoặc dùng TÂM ĐÁNH BẠI TÂM.
+Thường xảy ra khi: 1. Là có thông tin tác động tới THÔNG TIN PHÁP TRẦN TÌNH DỤC 2. Là TÂM SI - CHÁN NẢN - theo thói quen tìm THAM, tìm đến CẢM GIÁC PHÁP TRẦN TD. ĐẨY CẢM GIÁC SỢ, CÓ RỒI LẠI MUỐN CÓ THÊM; CHỈ ĐỔI KHỔ NÀY LẤY KHỔ KHÁC:  
+- Ăn được bát cơm phở 50k LÀM 1 CÁI lại ra hết, mặt mụn như gẻ, mồm hôi người hôi thối như CỨT => Cơ thể bạc nhược yếu ớt, GẦY GÒ ngủ suốt ngày, phải ngủ bù năng lượng 3h, mất hết THẦN KHÍ ÁNH MẮT GIỌNG NÓI: LỜ ĐỜ LÈ NHÈ KO RA HƠI. => Yếu sl vợ nó bỏ, lục đục đủ điều CHIA TAY  => NGHIỆN MA TUÝ, GÁI GÚ CỜ BẠC: gầy dơ xương MA TUÝ ĐÁ ĐI TÙ bị đánh như chó CHẾT BỜ BỤI => Dễ NHẠY CẢM, ĐÀO HOA trước vẻ ngoài da thịt con gái => Mất thời gian, mất năng lượng, CẢM GIÁC TÌNH DỤC QUÁ DỄ SINH KHỞI.
+(Tổn thương cơ quan sinh dục: Gây viêm nhiễm, sẹo và tổn thương mô. => CẮT CHIM KO LÀ TOÀN THÂN BỊ NHIỄM TRÙNG. 
+Suy giảm sức khỏe tổng thể: Mệt mỏi, suy nhược và giảm khả năng miễn dịch. => LIỆT DƯƠNG, CƠ THỂ NẰM LA LIỆT NHƯ NGƯỜI THỰC VẬT KO CÓ SỨC ĐỀ KHÁNG. 
+Tác hại tinh thần: Gây trầm cảm, lo âu, cảm giác tội lỗi, lệ thuộc và ám ảnh. => KO DÁM GẶP AI, NGƯỜI HÔI THỐI, MẮT THÂM QUẦNG CỦA NGƯỜI THỦ. 
+Tác hại xã hội: Ảnh hưởng đến công việc, học tập, cô lập xã hội, giảm chất lượng mối quan hệ. => CÔ LẬP, THẤT NGHIỆP, KO TIỀN KO MỐI QUAN HỆ, BỐ MẸ ACE HỌ HÀNG COI THƯỜNG). 
+- Lên group18+ tìm bạn chat, show, KO BỀN DỄ TAN vì môi trường tìm bạn QUÁ THAM ĐẮM tỉ lệ độc hại cao(chat mình dám, còn gặp mình KO DÁM), FWB BỊ CẮT RỤNG CON CHIM, HIV-AIDS, FWB quen ny ĂN CỨT mãi ko có ny, Dính bầu với gái giang hồ về nó xiên chết cả nhà. <Content địa ngục>. Tình dục chỉ là 1 phần, 1 khía cạnh, ko nên là TOÀN BỘ cuộc sống. Có những giai đoạn như 95 tuổi bạn chỉ có thể nghĩ về nó hoặc nói về nó chứ ko thể làm, có giai đoạn trẻ bạn có thể sẽ rất say đắm. Tình dục THƯỚC ĐO SỰ KIỀM CHẾ, BÁT CHÁNH ĐẠO. Không chỉ tinh trùng mà tất cả tế bào đều là những nguyên liệu khác nhau tạo nên món súp khác nhau, TIỀM NĂNG TO LỚN. 
+
+----------------
+
+```
+
+```SQL
+Mục 1.2. KHỔ THỌ TÌNH DỤC - NỘI LỰC - BÁT CHÁNH ĐẠO. (tiếp)
+CÁCH 2: [MÔI TRƯỜNG MẠNH Ý CHÍ MẠNH] 
+- Bản chất: thông tin khác nổi trội hơn thông tin tình dục: ngủ lắng xuống, lên trường học bài. 
+- BTĐ XẤU HỔ SỢ HÃI với BÊN NGOÀI => chuyển dần sang BCĐ HIỆP THẾ: xấu hổ sợ hãi với THAM SÂN SI của chính mình
+
+CÁCH 3: 
+```
+
+BƯỚC VÀO TÌNH YÊU HÔN NHÂN - CÁC DỤC VUI ÍT KHỔ NHIỀU, NÃO NHIỀU, NGUY HIỂM CÀNG NHIỀU [NGỌT KO KHỔ, THAM ÁI VỊ NGỌT MỚI KHỔ] => MỞ RỘNG RA ĐỘI NHÓM => dùng TD vợ chồng -phương tiện để chấm dứt khổ (như đồng tiền): Có vị ngọt. Tham Ái Vị Ngọt thì khổ. => Nếu chọn TYHN: nên chọn người cùng Pháp là tốt nhất. ------------------------------------------------------------ 1. SỰ ĐỦ ĐẦY TỪ BÊN TRONG. (Ràng buộc vật chất, không ràng buộc nơi tư tưởng sở hữu cảm giác). SỬA MÌNH NHIỀU LÊN, THỰC CHIẾN RA KẾT QUẢ, LEADER LÀM GƯƠNG 2. MỞ PHỄU ĐÚNG THỊ TRƯỜNG - LÀM QUEN, TUYỂN KỸ - BUÔNG XẢ LÀM TỐT NHẤT, SÁNG HAY KHÔNG LÀ CHUYỆN CỦA BÓNG ĐÈN: - CHỌN ĐÚNG MÔI TRƯỜNG => Bớt Tham bớt kỳ vọng(do hiểu Môi trường) => TỰ TIN HƠN, THOẢI MÁI HƠN(Chẳng hạn khi ngồi cạnh con gái ở thư viện thấy thoải mái hơn vì bớt kỳ vọng vì biết con gái ở đây khó làm quen hơn, XÁC SUẤT NGƯỜI PHÙ HỢP THẤP hơn ở môi trường BKE GOSIGNA - THỰC HÀNH "KO PHẢI ĐỢI ĐỌC VỊ GIỎI HƠN MỚI LÀM QUEN, MÀ LÀ LÀM QUEN NHIỀU THÌ ĐỌC VỊ MỚI GIỎI LÊN"). Cùng là NGỒI CẠNH BÊN 1 cô gái xinh, hôm nào khởi lên MUỐN LÀM QUEN => HỒI HỘP, CỐ GẮNG QUÁ MỨC NÊN KHỔ . Hôm ko khởi lên thì BÌNH AN, KO QUÁ CỐ GẮNG KO KHỔ (CÓ CƠ HỘI NÓI CHUYỆN THÌ NÓI KO CỐ GẮNG TÌM KIẾM QUÁ MỨC). - SỰ THU HÚT đến từ SỰ TƯƠNG HỢP THÔNG TIN("ko quan trọng bạn nói gì, quan trọng vẻ ngoài và sự tự tin, ko sợ hãi. Con gái bị cuốn hút bởi sự trung thực đồng nhất cả bên trong lẫn bên ngoài"). - LÀM QUEN TỐT NHẤT, MỞ LỜI TỐT NHẤT, TUYỂN KỸ NHẤT CÓ THỂ => TỪ CHỐI GIÚP TA TIẾT KIỆM THỜI GIAN VÀ SỨC LỰC, SẴN SÀNG LOẠI BỎ NGAY TỪ ĐẦU(vì bạn không mất thời gian, năng lượng cố gắng thuyết phục cô gái rằng bạn hấp dẫn). (Nếu tôi không chắc có thể làm việc với người đó trong 1 thời gian dài, tôi sẽ không làm việc với người đó dù chỉ là 1 giờ)(còn đi lâu dài hay không còn tuỳ nhân duyên) ("Vì tôi đã đá rất nhiều người ngay từ đầu vì những việc ngu ngốc như thế này để tôi không còn phải lo về nó nữa. Trong chuyện này thì tôi rất tàn nhẫn. Tôi bỏ đi ngay giữa cuӝc hẹn đầu tiên. Tôi bỏ đi ngay giữa lời nói. Tôi không quan tâm. Tôi không có thời gian với những cô gái tệ. Và kết quả là, hoặc là họ thay đổi phù hӧp với mong đӧi của tôi, hoặc là tôi không bao giờ gặp họ nữa. Tôi tôn trọng bản thân và vì thế sẽ không dành thời gian với những cô gái không tôn trọng tôi. Bạn sẽ tự nhiên nghĩ rằng, “Ồ, vậy có nghĩa mình phải gặp gấp đôi số phө nữ, phải bỏ ra gấp đôi công sức, vì mình sẽ từ chối nửa số người thích mình.” Thật ra, bạn sẽ bỏ ra ít công sức hơn, vì bạn không còn phí nhiều thời gian và năng lưӧng cố gắng thuyết phөc cô ấy rằng bạn là mӝt người đàn ông hấp dẫn. Bạn không còn mệt mỏi nghĩ rằng liệu cô ấy có thích bạn đủ nhiều hay không, hoặc lo lắng làm thế nào để gây ấn tưӧng hay thắng lại cô ấy. Khi cô ấy không hӧp với tiêu chuẩn của bạn, tình huống trở nên cực kỳ dễ dàng cho bạn: bạn bỏ đi. Không nghĩ ngӧi gì hết. Không tranh cãi. Không quay lại ngoạn mөc. Chỉ là: hành vì của cô ấy không hӧp với tiêu chuẩn của mình, mình sẽ gặp mӝt người khác") - RÕ RÀNG MỐI QUAN HỆ LÀ TÁN NGAY TỪ ĐẦU, TÁN MẠNH. 2 hướng: 1 TỎ TÌNH NGAY TỪ ĐẦU 2. CỨ TÁN ĐÃ TỎ TÌNH RA. 3. SỰ THẬT VỀ CHUNG THUỶ - thực hành đúng KO CÓ CHÁN NẢN, MÀ HOÀN TOÀN BÌNH THẢN: - Khi gặp người khác giới, nếu LỘ TRÌNH TÂM là BÁT TÀ ĐẠO thì quý vị khởi lên THÍCH CHÁN GHÉT so sánh người đó với ny/vợ mình. - Còn nếu LỘ TRÌNH TÂM là BÁT CHÁNH ĐẠO, quý vị KHÔNG THÍCH KHÔNG CHÁN KHÔNG GHÉT, thì KHÔNG CÓ CHUNG THUỶ, cũng CHẲNG CÓ NGOẠI TÌNH, quý vị HOÀN TOÀN BÌNH THẢNG, VUI, THOẢI MÁI. - Con trai cơ bản giống nhau. Đợt này tui ra ngoài đường cũng bị váy ngắn của con gái hút hồn luôn đây nè. - Không có người yêu / người yêu sắp chia tay => dễ bị con gái bên ngoài hút hồn, xong ib tán tỉnh này kia - Còn khi có người yêu kiểu ổn định rùi ý => đều đặn ib ny tình cảm nhẹ nhàng. (là đủ nhu cầu ý, giống như kiểu ăn nhiều quá thì bị no ko thể ăn được => nên chẳng còn tâm hơi mà nhắn con gái khác). Chỉ TRỪ KHI CÓ NGƯỜI CON GÁI KHÁC CÓ THỂ THAY THẾ ĐƯỢC+ MỐI QUAN HỆ CŨ THẤY KO ỔN => MỚI CÓ Ý ĐỊNH NÀY KIA. (như đợt tôi với ny cũ đang ổn tự nhiên người ta kêu tạm dừng + có người con gái khác có thể thay thế được ny => xong tui mới bẫng 1 thời gian, xong rủ chị kia đi hiến máu đôi năm ngoái đó xong về còn ôm nhau)
+
+```SQL
+ĐỀ MỤC 0: CẢM GIÁC TRUNG TÍNH(3 Loại CẢM GIÁC: Cảm giác dễ chịu, Cảm giác khó chịu - nhất là CGTD/Gặp task khó bí ko ra, cảm giác TRUNG TÍNH NHƯNG LẠI DỄ ĐI TÌM CẢM GIÁC DỄ CHỊU, nhất là của TÌNH DỤC. 
+
+BÃO TỐ VÀ AN NHÀN (BÌNH AN ĐỘT PHÁ TRƯỚC BIẾN ĐỘNG - SÓNG YÊN). 
+- BÃO TỐ/vấn đề : 90% Tâm SẠC NĂNG LƯỢNG, NƯƠNG TAM BẢO, MÀI RŨA MŨI KHOAN + 10% Thân (nghỉ mắt, lưng, ngủ lúc buồn ngủ chỉ chợp mắt 10min ngang với việc ngủ 3h, đi bộ nghe mp4 ...) ăn uống, đứng dậy, thể thao, ngủ
+(cùng đường, gặp bài toán khó, stress ko hướng giải quyết, rối ngợp vì quá nhiều thứ) thì (NGỦ 1 GIẤC SÂU SẠC 300% PIN LOẠI BỎ HẾT NGỔN NGANG ĐẦU ĐƯỢC LÀM MỚI , khoảng lặng, nghỉ ngơi, thể thao, đọc sách, chạy bộ,thiền gosinga 9 ngày,...). 
+
+- AN NHÀN/cơ hội (nhàn nhã sinh tâm Si, cảm giác chán nản tìm tham): MŨI KHOAN DÀI HẠN + TẬP TRUNG, ÁP SUẤT LÚC NHÀN RỖI + MỞ RỘNG liên quan.
+1. Chuẩn bị kỹ lưỡng. 
+2. Tư duy "thợ săn" chủ động tìm kiếm - Đánh nhanh rút gọn - Lựa chọn đúng NẮM VÀ BUÔNG. 
+3. TẠO BIẾN ĐỘNG ĐẬP ĐI XÂY LẠI + CHỌN MŨI KHOAN NÉM VÀO ÁP SUẤT  
+4. BẬT CÔNG TẮC LÀM TỐT NHẤT, SÁNG HAY KHÔNG CÒN Ở BÓNG ĐÈN. 
+
+ĐỀ MỤC 2: XỬ LÝ BẤT NHƯ Ý. 
+- TH1: Dắt xe ra đi làm buổi đầu, xe đề mãi không nổ 15 phút ko được dắt xe ra quán sửa, 9h vào làm, 9h30 sửa xong dắt xe về nhà, chiều đi làm sau. 
+=> Kinh nghiệm thế gian: 1. Ko để xe dưới mái hiên tránh bị nước xối + 2. Tranh thủ sửa xe Take Note công việc vào sổ. 
+=> Trạch Pháp: Hiểu đúng về vô thường. 
+```
+
+  
+
+  
+
+  
+
+  
+
+3. # THỰC HÀNH THÂN THỌ TÂM PHÁP :
+    
+
+- https://www.youtube.com/playlist?list=PLfFdoGwLbh5X1rtIKley3_3uEXzXdZ8-i
+    
+
+THỰC HÀNH THÂN THỌ TÂM PHÁP - Quán Thân - Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) 1. QUÁN THÂN: Rụt củi, NHẮC THẦM THẤY RÕ CẢM GIÁC NỔI TRỘI, Có Tầm Có Tứ - Automatic, ĐỂ TỰ NHIÊN, Ko Tầm Ko Tứ. - BẮT ĐẦU: THƯ GIÃN THẢ LỎNG. - TẠO CẢM GIÁC NỔI TRỘI: cảm giác Nín thở, Ngậm chặt răng lưỡi, Nghe nhạc nơi tai. <CHÚ TÂM CẢM GIÁC NỔI TRỘI - THAM SÂN SI nơi DỤC TƯỞNG VẮNG MẶT> - NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI" đan xen: 1. cảm giác NGƯNG THỞ, 2. Cảm giác Chuyểnđộng TOÀN THÂN <gồm cảm giác nơi 6 xúc xứ: cảm giác hình ảnh, cảm giác âm thanh>, 3. ĐỂ TỰ NHIÊN (theo nhịp thở đi làm việc, bút vẽ lên xuống, xoay tròn sang ngang. VÔ NGƯNG RA NGƯNG). - TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC - Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời). 2. QUÁN THỌ: THỰC TẠI LÀ CẢM GIÁC - Tương tác căn trần đều là TƯƠNG TÁC THÔNG TIN, LÀ TÂM - CẢM GIÁC HẠNH PHÚC CẢM GIÁC VỊ NGỌT - NGUYÊN NHÂN CỦA KHỔ THAM SÂN SI] (Thấy, Nghe, Cảm nhận mọi thứ đều biết nó là Cảm Giác) - Khi chọn thái độ Nhất Hướng, Nhàm Chán, Ly Tham, Đoạn Diệt là chúng ta đối xử với Tâm, cụ thể là các Cảm giác chứ không phải với Cảnh, với hoàn cảnh sống. Có 2 loại thực tại là Thực Tại Thế Gian (Bất Tịnh), và Thực Tại Xuất Thế Gian(Thanh Tịnh) thì cũng đều là các khái niệm của Tâm, chứ ko phải Cảnh. Chỉ có Tâm Bất Tịnh và Tâm Thanh Tịnh, chứ không có Cảnh Bất Tịnh và Cảnh Thanh Tịnh. - Không có việc làm là MINH hay VÔ MINH, chỉ có HIỂU BIẾT VỀ VIỆC ĐÓ mới có MINH hay VÔ MINH. - Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau, cho dù đổi cảnh hay không đổi cản. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. - "Buông" là BUÔNG TƯ TƯỞNG làm chủ, tư tưởng sở hữu; Không phải "Buông bỏ", vứt bỏ đi thế giới vật chất. "Sử dụng mà không sở hữu". **Lưu ý:** Không ràng buộc vào kết quả là không khổ vui với kết quả chứ không phải không quan tâm và không cần cải thiện dù kết quả không đi đúng hướng. - BUÔNG = "GIEO NHÂN" * "BUÔNG KỲ VỌNG" = "LÀM TỐT NHẤT" * "SẴN SÀNG CHO ĐIỀU TỆ NHẤT" = CÙNG LẮM THÌ, TÔI VẪN CỨ NỖ LỰC = "BẠN ĐƯỢC QUYỀN BẬT CÔNG TẮC" * "NHƯNG SÁNG HAY KHÔNG LÀ CHUYỆN BÓNG ĐÈN". 3. Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) - NÍN THỞ QUÁN THÂN: Tùy vào cường độ của dục tưởng, nếu nhẹ thì có thể quán luôn, còn nếu mãnh liệt thì nên sử dụng pháp đối trị NÍN THỞ như ở mục 01 trước. Sau khi lắng dịu hơn thì thực hành quán như ở dưới đây để xóa dần đi thông tin về tham ái tình dục. - Quán Thọ: Bản chất dục tưởng chính là tư tưởng về tình dục, xuất hiện với sự nối dài của cảm giác pháp trần liên tục đan xen với cảm giác xúc chạm do nội xúc từ tâm hành tham, nên mình cần quán đây là cảm thọ, thuộc phạm trù tâm, là cảnh ảo, vô minh thì cho rằng đây là thế giới vật chất, có cô gái A, chàng trai B là chủ nhân chủ sở hữu của hình tướng kia,... - Quán Tâm: Quán tâm biết ý thức tà tri kiến với nội dung vô minh - chấp ngã. Quán tâm hành tham, dục, khổ đang khởi sinh. Hiểu biết đúng sự thật về các tâm hành này trên 8TĐ, có tính chất duyên khởi, vô thường, vô ngã. - Quán Pháp: Nhân loại khát ái tìm cầu hỷ lạc chỗ này chỗ nọ, như dục ái, hữu ái, phi hữu ái.. Nơi nào có tham dục, nơi đó có chấp thủ, nơi nào có chấp thủ, nơi đó có khổ-vui. Các dục vui ít, khổ nhiều, não nhiều, nguy hiểm các nhiều hơn. Bao lâu nay, mình đã bị dục đanh vây, tàn phá, trấn áp như thế này đây. Phải giải thoát khỏi chướng ngại đã đầy ải nhân loại từ vô thủy đến nay. - NÍN THỞ QUÁN THÂN: Sau khi quán thì hãy ngưng thở một đoạn để hoàn toàn yên lặng, ghi nhận cảm giác toàn thân, sau đó thở mạnh theo nhịp rồi tác ý nhè nhẹ dần, nếu hết dục tưởng thì quay trở lại thực hành Định-Tuệ bình thường. 3.1 PHẢI NHỚ PHẢI NHỚ: HIỂU ĐÚNG VỊ NGỌT, VỊ NGỌT - LY THAM. - Phải nhớ phải nhớ: VỊ NGỌT - CẢM GIÁC HẠNH PHÚC (do Chánh Niệm sinh, hoặc, duyên xúc bên ngoài). THÍCH CHÁN RỒI GHÉT, NGỌT NHẠT RỒI ĐẮNG. SINH DIỆT liên tục, lặp đi lặp lại. CHẲNG ĐÁNG LÀ BAO, tà niệm kích hoạt, mà ta làm quá. - Chỉ khi thực nếm, vị ngọt chánh niệm, đến để mà thấy, siêu thế khởi lên. DÙ THẤY GÁI XINH, NHỚ PHIM 18, TÂM SI SINH KHỞI: Vị ấy ly tham, nhìn ngắm vẻ đẹp, ko có tư tưởng làm chủ sở hữu, ko nhảy tìm trăng, không khổ vô ích. - Phải nhớ phải nhớ: Cảm thọ Căn Trần, tiếp xúc với nhau. Thông tin pháp trần, tế bào thần kinh, tồn tại đồng thời, độc lập với nhau, (y như máy móc, chạy theo lập trình, trong cái gọi là, đồng hồ quả lắc). chứ không phải là… - CHẤP CÓ DUY VẬT, CHẤP KHÔNG DUY TÂM, chấp ngọt sẵn có, chấp do tâm tạo. VỊ NGỌT CÓ ĐÓ, DO DUYÊN MÀ SANH, Thọ Tưởng đồng sinh, Tưởng đọc Vị ngọt, của đối tượng thấy, chứ không phải là, cần niệm kích hoạt, mới có vị ngọt, - Trong TÌNH YÊU: Được chọn VẪN CHỌN NGƯỜI PHÙ HỢP NHẤT, XINH NHẤT ĐẸP NHẤT. NHƯNG: NẾU KHÔNG ĐỔI TÂM TỪ BÁT TÀ ĐẠO SANG BÁT CHÁNH ĐẠO, thì KHÔNG CHẠY ĐÂU CHO THOÁT KHỔ (chỉ đổi khổ này lấy khổ khác). - Chúng ta tu tập để đổi tâm và có thể cải thiện hoàn cảnh (nếu cần thiết), chứ không phải tìm cách thay đổi hoàn cảnh để nghĩ rằng sẽ tu tập thuận lợi hơn. Tránh tình trạng đi học về, Tâm thì ko thấy đổi, lại đi thay đổi ngay hoàn cảnh sống khiến cho người thân, bạn bè thấy bất an, lo lắng. - Nhàm chán, Ly Tham là ly tham với thọ khi tiếp xúc với các trần cảnh, chứ không phải ly tham với các trần cảnh đó. Chúng ta không ghét bỏ, xua đuổi chúng, mà để chúng tự đến và tự đi. - Như vậy cho dù đổi cảnh hay không đổi cảnh, miễn đổi được tâm từ BTD sang BCD thì sẽ không có khổ và là tu đúng. Còn trường hợp được quyền đổi cảnh để có lạc thọ hợp pháp thì đổi chứ đâu có dại gì mà phải để im để kham nhẫn với khổ thọ. - TRUNG ĐẠO: ko chối bỏ, không tham đắm lạc thọ. Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. 3.2 PHẢI NHỚ PHẢI NHỚ CẢM THỌ VÔ THƯỜNG - Đối tượng thấy..., là tâm cảm thọ, đặt tên: danh từ, là cô con gái, cái con người thấy, chính là thông tin chứ không phải là thế giới vật chất, như hiểu biết sai, lầm tưởng trước đây. - Cảm giác vị ngọt, hoặc nhạt hoặc đắng, được Tưởng ghi nhận, mới tinh cứng coong, xuất hiện 1 lần, sinh diệt tức khắc, sinh diệt kéo dài mà ta làm quá, chứ không phải là, thường hằng thường trú, biến đổi vật chất, như hiểu biết sai, lầm tưởng trước đây. 3.3 PHẢI NHỚ PHẢI NHỚ: DUYÊN KHỞI - VÔ NGÃ - Phải nhớ phải nhớ: Duyên người thế giới, đặt tên: động từ, là quét là chạy, chứ không có cái, điều khiển cái kia, ko có linh hồn, không sinh không diệt, điều khiển thân xác! - Tất cả các sự vật hiện tượng (tất cả các pháp) đều là do Duyên Khởi (2 nhân bình đẳng tương tác/tiếp xúc cùng diệt mới phát sinh quả). = Tất cả các pháp đều vô thường (Sinh diệt), đều vô chủ vô sở hữu (vô ngã).
+
+```yaml
+04/01/2025
+
+Mục đích thực hành: 
+- CÓ THAM SÂN SI => CÓ KHỔ. 
+- KHÔNG THAM SÂN SI, 1 là THẤY KO SUY NGHĨ (CHÁNH ĐỊNH), 2 là SUY NGHĨ ĐÚNG SỰ THẬT - Chánh Kiến (Thọ Tâm Pháp)
+---
+
+- 1.1 TẠO CẢM GIÁC NỔI TRỘI (NGUYÊN LÝ: KHI CẢM GIÁC NÀY NỔI TRỘI THÌ CẢM GIÁC KIA KHÔNG NỔI TRỘI): cảm giác Nín thở, Ngậm chặt răng lưỡi/Thấy Răng Lưỡi dán nóc họng, Nghe nhạc nơi tai/nhạc nhẹ love mood/nhạc sâu sắc động lực RAP/nhạc tình cảm gia đình chảy nước mắt,
+
+ NỔI TRỘI <CẢM GIÁC NỔI TRỘI - THAM SÂN SI nơi DỤC TƯỞNG VẮNG MẶT>
+
+- 1.2 NIỆM - TRÍ NHỚ: 
++, NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI, CẢM GIÁC CHUYỂN ĐỘNG XÚC CHẠM TOÀN THÂN"  
+
+- 1.3 ĐỂ TỰ NHIÊN KO TẦM KO TỨ (theo nhịp thở đi làm việc, bút vẽ LÊN XUỐNG SANG NGANG, XOAY TRÒN từng đối tương, VÔ NGƯNG RA NGƯNG).
+
+- 1.4 TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC
+
+- Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời). Không ai ăn 1 bữa đòi no cả đời, rụt củi cần liên tục, đun nước sôi 100 độ. 
+
+```
+
+  
+
+# Chiến lược và tính toán theo các giai đoạn:
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/MVUFd8zmfsPsnJbbBmJl7XjogVh
+
+  
+
+  
+
+---
+
 
 **Đường này đến thế gian. Đường kia đến niết bàn, tỳ kheo đệ tử Phật, phải hiểu biết rõ ràng.**
 
@@ -448,7 +1374,7 @@ A1 (tiếp) 1 số phần chưa xử lý ĐỀ MỤC 2. TOP MINDSET Làm việc 
 
 ---
 
-![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=Yjk4Nzc0MDcwMDgyOTFhYWQwZGJlNjk1MGUwNTFmY2VfYkJ4WEVtQWRPeUxLYUF3OGR2UmgxenVYbUlNcHNycXFfVG9rZW46S2xRS2JKWFBUb014QXF4QjBjWmxFY2o3ZzlKXzE3NTQ3MzMyMjI6MTc1NDczNjgyMl9WNA)
+![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NjlmZTg4MjE2Y2Q5N2U0OGNhNWYyYzk5NDcwYzAzNjJfZ3A1czF1c0x3dHdTd21VQ0g5MVNyOUdWNW84UFJXQ1pfVG9rZW46S2xRS2JKWFBUb014QXF4QjBjWmxFY2o3ZzlKXzE3NTUzMzU0OTQ6MTc1NTMzOTA5NF9WNA)
 
 ---
 
@@ -504,7 +1430,7 @@ e Cường:
 
 Loading Sheets. Please try again after it's finished.
 
-![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=M2Y2ODFhOTQ0MTBiZDE3NmI1Y2FmYjBiYmNhYTdlM2ZfOUhqRHEycG40c2tKa2h4N2lKc2t3VE8yQ3BrdU94MGNfVG9rZW46VzN4OGJzbFhYb0V2Tjh4VGluN2xxbFdKZzNkXzE3NTQ3MzMyMjI6MTc1NDczNjgyMl9WNA)
+![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ZGZlNTc1NzhiOTc4MDFhYmY3Mjk3ZTlkZGRmZTA3MGFfalo0cGo3UGRlSXJrMmV3QWF5bmljMVdxNkJzMUpyaVBfVG9rZW46VzN4OGJzbFhYb0V2Tjh4VGluN2xxbFdKZzNkXzE3NTUzMzU0OTQ6MTc1NTMzOTA5NF9WNA)
 
 #### 2.1.1.1 Use case 1: Phân vân 10-16/3/2025: ở lại công ty hiện tại 9 tháng hay RỜI ĐI VÀO BANK - Góc nhìn AI Product vs AI Banking .
 
@@ -1003,7 +1929,85 @@ Chốt: 16/3/2025: SAU GẦN 1 TUẦN CÂN NHẮC => NẾU BÊN KIÊN LONG BANK 
 
 #### 2.1.1.7 Cuối tháng 7, ngồi với sếp công ty EduTech hiện tại, ký offer 12 củ thử việc 2 tháng, sau 2 tháng oke lên 15 củ: Chiến lược cố gắng hết sức ở công ty hiện tại + Tính toán RISK KHI NHẢY SANG FINANCE + CHUẨN BỊ CHO VIỆC NHẢY? **- Đọc thêm ở link sau để biết mình đã ra quyết định như nào? :** **https://github.com/DoanNgocCuong/home/tree/main/1.%20CHI%E1%BA%BEN%20L%C6%AF%E1%BB%A2C**
 
-  
+#### 2.1.1.8 20250809 5 Lý Do Chính và Quan Trọng Nhất Trong Việc Chọn Domain (Kèm So Sánh AI Education vs AI Finance)
+
+> ##### 5 Lý Do Chính và Quan Trọng Nhất Trong Việc Chọn Domain (Kèm So Sánh AI Education vs AI Finance)
+> 
+> Dựa trên phân tích các tài liệu đã cung cấp, dưới đây là 5 lý do chính và quan trọng nhất khi lựa chọn một domain (lĩnh vực/con đường sự nghiệp), cùng với so sánh cụ thể giữa AI Education và AI Finance:
+> 
+> 1. **Tiềm năng Thu nhập và Tích lũy Vốn (Income & Capital Accumulation Potential):**
+>     
+>     1. **Lý do:** Đây là một yếu tố then chốt, đặc biệt được nhấn mạnh trong việc so sánh giữa AI Education và AI Finance. Lĩnh vực có tiềm năng thu nhập cao hơn sẽ giúp đạt được mục tiêu tích lũy vốn nhanh hơn, hỗ trợ cho các mục tiêu dài hạn như trở thành nhà đầu tư.
+>         
+>     2. **So sánh:**
+>         
+>         - **AI Education:** Thu nhập thấp hơn (Entry Level: $80K - $120K, Senior Level: $180K - $250K). Tiềm năng tích lũy vốn thấp hơn.
+>             
+>         - **AI Finance:** Thu nhập cao hơn đáng kể (Quant Developer Associate: $200K - $250K total, Senior Positions: $500K - $800K+ total compensation). Có lợi thế rõ rệt về lương thưởng (cao hơn 2-3 lần), dẫn đến tiềm năng tích lũy vốn cao hơn.
+>             
+> 2. **Sự phù hợp với Mục tiêu Dài hạn (Alignment with Long-term Goals):**
+>     
+>     1. **Lý do:** Việc lựa chọn domain cần phải phù hợp và hỗ trợ trực tiếp cho các mục tiêu cá nhân và sự nghiệp dài hạn.
+>         
+>     2. **So sánh:**
+>         
+>         - **AI Education:** Hạn chế tiếp xúc với thị trường tài chính, tích lũy vốn thấp hơn, ít cơ hội networking trong ngành tài chính, thiếu kinh nghiệm đầu tư thực tế. Lộ trình trở thành nhà đầu tư dài hơn (8-12 năm để có vốn đáng kể).
+>             
+>         - **AI Finance:** Tiếp xúc trực tiếp với thị trường tài chính, tiềm năng tích lũy vốn cao hơn, mạng lưới quan hệ vững chắc trong cộng đồng đầu tư, kinh nghiệm thực tế với định giá và rủi ro. Lộ trình trở thành nhà đầu tư ngắn hơn (5-8 năm để có vốn đáng kể). Có sự phù hợp tốt hơn đáng kể với mục tiêu trở thành nhà đầu tư.
+>             
+> 3. **Cơ hội Thị trường và Giá trị Ứng dụng (Market Opportunities & Application Value):**
+>     
+>     1. **Lý do:** Domain được chọn cần có thị trường phát triển mạnh mẽ, các ứng dụng có giá trị cao và khả năng tạo ra doanh thu trực tiếp. Điều này đảm bảo rằng công sức và đầu tư vào domain đó sẽ mang lại lợi nhuận và cơ hội phát triển bền vững.
+>         
+>     2. **So sánh:**
+>         
+>         - **AI Education:** Thị trường đang phát triển nhanh (CAGR 17.5%), tác động xã hội cao, nhu cầu ổn định, môi trường ít áp lực hơn. Tuy nhiên, mô hình kiếm tiền hạn chế, tăng trưởng doanh thu chậm hơn, hạn chế về ngân sách từ các tổ chức, biên lợi nhuận thấp hơn.
+>             
+>         - **AI Finance:** Các ứng dụng có giá trị cao, tạo ra doanh thu trực tiếp, mô hình định giá cao cấp, cơ sở chứng minh ROI mạnh mẽ, tiếp cận các cơ hội đầu tư. Tuy nhiên, môi trường áp lực cao hơn, sự phức tạp về quy định pháp lý, tác động từ sự biến động của thị trường, môi trường cạnh tranh.
+>             
+> 4. **Khả năng Chuyển đổi Kỹ năng (Skills Transferability):**
+>     
+>     1. **Lý do:** Một domain tốt cho phép các kỹ năng hiện có có thể được chuyển đổi và áp dụng một cách hiệu quả. Điều này giúp giảm thiểu thời gian và công sức cần thiết để thích nghi với lĩnh vực mới, đồng thời tận dụng được nền tảng kiến thức đã có.
+>         
+>     2. **So sánh:**
+>         
+>         - **Từ Education sang Finance:** Khả năng chuyển đổi cao (90%+) đối với các thuật toán Machine Learning, phân tích dữ liệu và thống kê, lập trình Python/R, phát triển và kiểm định mô hình, phương pháp luận nghiên cứu. Khả năng chuyển đổi trung bình (60-80%) đối với kiến thức chuyên ngành tài chính, hiểu biết về quy định, khái niệm quản lý rủi ro, toán tài chính. Khả năng chuyển đổi thấp (30-50%) đối với các ứng dụng đặc thù của ngành, yêu cầu tuân thủ, kiến thức về hệ thống giao dịch. Việc chuyển đổi khả thi với 6-12 tháng học tập tập trung.
+>             
+> 5. **Cơ hội Xây dựng Mạng lưới Quan hệ (Networking Opportunities):**
+>     
+>     1. **Lý do:** Mạng lưới quan hệ trong domain được chọn đóng vai trò quan trọng trong việc mở rộng cơ hội nghề nghiệp, học hỏi từ các chuyên gia và tiếp cận các nguồn lực quý giá.
+>         
+>     2. **So sánh:**
+>         
+>         - **AI Education:** Ít cơ hội kết nối trong ngành tài chính.
+>             
+>         - **AI Finance:** Mạng lưới quan hệ vững chắc trong cộng đồng đầu tư, tiếp cận các cơ hội đầu tư. Network trong finance là ưu tiên nếu mục tiêu là trở thành nhà đầu tư.
+>             
+
+#### 2.1.1.9 ROADMAP SỰ NGHIỆP & TỰ DO TÀI CHÍNH: TỪ AI ENGINEER ĐẾN NHÀ ĐẦU TƯ GIÁ TRỊ - 10/08/2025
+
+## 🚀 ROADMAP SỰ NGHIỆP & TỰ DO TÀI CHÍNH: TỪ AI ENGINEER ĐẾN NHÀ ĐẦU TƯ GIÁ TRỊ
+
+Tên: Đoàn Ngọc Cường
+
+Tuổi: 22 | Xuất phát điểm: AI Engineer (EduTech)
+
+Đích đến: Nhà đầu tư Giá trị & Tự do Tâm trí
+
+Kim chỉ nam: "NHẤT HƯỚNG BÁT CHÁNH ĐẠO. Tích lũy có hệ thống, nhất quán, dài hạn; Tái sử dụng siêu cao." **(TỰ DO TÂM TRÍ - TỰ DO MQH, TÀI CHÍNH, SỨC KHOẺ)**
+
+### **🎯 TẦM NHÌN 15 NĂM SỰ NGHIỆP, TÀI CHÍNH (VISION 2025**-2040)
+
+Mục tiêu không chỉ là các con số tài chính, mà là xây dựng một sự nghiệp có "Con hào Kinh tế" (Economic Moat) vững chắc, kết hợp 4 trụ cột:
+
+1. AI Engineering (FinTech): Trở thành chuyên gia hàng đầu về MLOps & System Design trong lĩnh vực tài chính.
+    
+2. Creator & Community Leader: Xây dựng thương hiệu cá nhân uy tín, dẫn dắt cộng đồng về AI Finance.
+    
+3. Global Perspective: Áp dụng kiến thức và xây dựng sản phẩm có tầm nhìn toàn cầu.
+    
+4. Value Investor: Tích lũy vốn và kiến thức để trở thành nhà đầu tư giá trị thành công.
+    
 
 ## 2.2 HIỂU BIẾT MINH-VÔ MÌNH (GOSINGA) VÀ MINDSET -> NGUỒN LỰC BÊN TRONG -> NGUỒN LỰC BÊN NGOÀI: FIND MENTOR, INVESTOR (PROBLEM SOLVING: CÔNG CỤ SIÊU MẠNH ĐỂ CÔNG PHÁ)
 
@@ -1080,21 +2084,27 @@ Chốt: 16/3/2025: SAU GẦN 1 TUẦN CÂN NHẮC => NẾU BÊN KIÊN LONG BANK 
 
 ### ⚡ 3 MINDSET GIÁNG THẲNG VÀO TÂM THỨC CỦA NGƯỜI NGHIỆN
 
-💥 **MINDSET 1: “Testosterone không phải năng lượng tình dục — đó là ‘thuốc tăng trưởng’ phóng đại mọi thứ tôi có. Tôi chuyển hóa nó để giải quyết vấn đề khó, xây dựng sự nghiệp và nâng tầm bản thân. Tôi không phí phạm nó cho khoái cảm tầm thường.”**
-
-> _Mỗi lần đứng trước cám dỗ, tôi nhắc mình: Chỉ kẻ yếu mới dùng nội lực để tìm khoái cảm tức thời. Người mạnh dùng nội lực để tạo kết quả lớn._
-
-💥 **MINDSET 2: “Tôi không thật sự muốn tình dục — tôi chỉ muốn chấm dứt cảm giác khổ. Tham ái, dục lạc cũng giống như người khát mà đi uống nước muối: càng uống càng khát, càng thỏa mãn càng trống rỗng.”**
+💥 **MINDSET 1: “Tôi không thật sự muốn tình dục — tôi chỉ muốn chấm dứt cảm giác khổ. Tham ái, dục lạc cũng giống như người khát mà đi uống nước muối: càng uống càng khát, càng thỏa mãn càng trống rỗng.”**
 
 > _Tôi tỉnh táo nhận ra: thứ mình thật sự cần là bình an, nghỉ ngơi, kết nối thật sự – không phải giải pháp tạm thời đầy nguy hiểm. Chẳng khác gì biết cốc có độc mà vẫn đớp._
 
-#### 💥 MINDSET 3: **“5 PHÚT KHOÁI CẢM = 100 TUẦN MẤT KHÍ CHẤT VÀ Ý CHÍ”**
+#### 💥 MINDSET 2: **“BẠN CHỌN ĐÁNH ĐỔI 100 GIỜ VÀ LỖ KÉP CHỈ ĐỂ ĐỔI LẤY 5 GIÂY KHOÁI CẢM”**
 
 > Tôi đánh đổi sự tỉnh táo, sự sáng tạo, khí chất, bản lĩnh – lấy vài phút vô thức? Đó không phải là nghỉ ngơi. Đó là **một cuộc giao dịch ngu xuẩn** – tôi tự làm yếu mình đi.
 
-💥 **MINDSET 4: LỖ KÉP KHOÁI CẢM TẦM THƯỜNG VÀ LÃI KÉP SÁT THẦN LĨNH VỰC - TẬN DỤNG SỨC MẠNH LỚN LAO CỦA TD ĐỂ BỨT PHÁ MỌI GIỚI HẠN hay TỤT LÙI TRONG ÂM THẦM**
+💥 **MINDSET 3: LỖ KÉP KHOÁI CẢM TẦM THƯỜNG HAY LÃI KÉP SÁT THẦN LĨNH VỰC - TỤT LÙI TRONG ÂM THẦM hay TẬN DỤNG SỨC MẠNH LỚN LAO CỦA TD ĐỂ BỨT PHÁ MỌI GIỚI HẠN.**
 
+> **Testosterone không phải năng lượng tình dục — đó là ‘thuốc tăng trưởng’ phóng đại mọi thứ tôi có**
+> 
 > **“Mỗi lần đầu hàng khoái cảm tầm thường, tôi lại khoan thêm một ‘lỗ kép’ vào thuyền ý chí, khiến bản lĩnh và tương lai rò rỉ dần không hay biết. Nhưng mỗi lần kiểm soát và chuyển hóa, tôi lại cộng thêm một ‘lãi kép sát thần’ – ý chí, khí chất, trí tuệ, sức mạnh lĩnh vực của mình đều được nhân lên gấp bội, từng ngày từng ngày hóa thành chiến thần không gì cản phá.”**
+
+  
+
+  
+
+  
+
+  
 
 💥 **MINDSET 5: BIẾN XUNG ĐỘNG THÀNH NĂNG LƯỢNG HÀNH ĐỘNG**
 
@@ -1102,9 +2112,38 @@ Chốt: 16/3/2025: SAU GẦN 1 TUẦN CÂN NHẮC => NẾU BÊN KIÊN LONG BANK 
 
   
 
+1. **Xử lý ngay khi cơn lên cao** (cấp cứu)
+    
+
+**_1. Cắt nguồn kích thích**: ĐÓNG MỌI THỨ LẠI, SHUTDOWN VÀ TẮT NGUỒN. _2. TẬP KHÁNG LỰC NGAY (hít đất 50 cái) -> KÍCH HOẠT CẢM GIÁC NỔI TRỘI
+
+**_3. Thở 4-4-4-4** (Box breathing): hít 4 giây – giữ 4 giây – thở 4 giây – giữ 4 giây → lặp 5 vòng. _4. HÀNH THIỀN.
+
+2. **Giảm tần suất lâu dài** (phòng ngừa)
+    
+
+- **Nạp năng lượng vào việc khác**: tập thể dục hàng ngày, học kỹ năng mới, làm project cá nhân.
+    
+- **Thiền sáng + tối**: ít nhất 10 phút, tập chú tâm vào hơi thở hoặc body scan.
+    
+- **Tránh môi trường kích dục**: hạn chế nội dung 18+, chọn lọc giải trí (podcast, sách, thể thao).
+    
+- **Viết nhật ký kỷ luật dục**: mỗi lần vượt qua ham muốn là một “lần thắng” – ghi lại để thấy tiến bộ.
+    
+- **Chuyển hoá thành sáng tạo**: khi thấy ham muốn, mở máy viết, vẽ, code, hoặc làm việc tay chân.
+    
+
 #### Use Cases:
 
 > 08/08/2025: [SAU 6 NGÀY ĂN UỐNG SIÊU ĐẦY ĐỦ VÀ NO NÊ + SỬ DỤNG TRIẾT LÝ BẠN MUỐN ĐÁNH ĐỔI 5MIN SUNG SUÓNG NGẮN NGỦI LẤY VIỆC CƠ THỂ MẤT 1-2 TUẦN PHỤC HỒI? => MÌNH GIỮ TÂM RẤT TỐT. Cho đến tối nay sau khi tắm xong, mình cũng ko có nhu cầu gì lắm, chỉ do thói quen và ở nhà 1 mình -> mở xem 1 tí, cũng chưa có gì quá kích thích cơ mà mình lộn c 1 phát, nó ra quá là nhiều => ] Mình bắn trong trạng thái Tham rất nhẹ. THỨ DIỆU KỲ LẦN ĐẦU MÌNH CẢM NHẬN ĐƯỢC.
+> 
+> 14/08/2025: TÂM TRÍ TỐT ĐẾN MỨC ở nhà 1 mình từ 11h-3h30 nhưng ko phung phí - Nhớ lại case đau đớn: app ghép 200k, sau đóng dự kiến 2 triệu để duyệt người thật -> trò mồi của bọn kia, tiền đóng băng trên App cay ko làm gì được - Nay chat với 1 ông, ổng giả gái, bị ổng chụp màn hình, may ko quay video đoạn chat. - 11H-3H30 nhưng KO RA . TUYỆT VỜI.
+> 
+> **Cơ chế não bộ: Dopamine đã không đủ để đẩy bạn tới ngưỡng “kích hoạt”** - Đã quen với các thể loại đó. - Xem **với sự tỉnh táo** (không say mê), - Không “chạm kích” đúng vùng thèm khát thật sự trong não limbic,
+> 
+> → thì **não chỉ tiết dopamine ở mức thấp**, không đủ để đẩy bạn đến hành ... Nói cách khác: **Bạn xem như “một người quan sát” hơn là một kẻ bị kéo theo.** Dopamine là "MUỐN" chứ không phải "THÍCH".
+> 
+> 15, 16/08: SAU 7 NGÀY -> B. Nguyên nhân: > thứ 6 tối về xem xong lên phơi quần áo, cầm vào ... -> ra luôn Hôm sau, T7 Đức về quê, xem 1 tiếng. Cách mình dùng: ib cho nyc Huyền, ib cho Hoà để hẹn qua phòng mục đích dùng phương pháp thế gian. +, Sau đó tắt laptop. +, Hít đất đúng 50 cái, máu từ ... chuyển lên cơ và não +, Thở và thiền. Sau đó bật laptop lên và lại bắn. Sau bắn xong thường ngủ khoảng 2h
 
   
 
@@ -1161,6 +2200,10 @@ Chốt: 16/3/2025: SAU GẦN 1 TUẦN CÂN NHẮC => NẾU BÊN KIÊN LONG BANK 
 
 2. FIX CỨNG """KAs FOR KEY RESULTS""" thành các KHOẢNG THỜI GIAN CỐ ĐỊNH [có thể di chuyển nếu dính lịch hẹn]. (Tránh việc phải suy nghĩ cho nó nhiều, và thuận lợi di chuyển nếu dính lịch hẹn). => **MINI HABIT của CÁC NHÂN DẠNG năm 2025**
     
+
+> - Giai đoạn năm 2024-cuối tháng 7 năm 2025 mình đều làm việc này: Fix cứng các khoảng thời gian như: lịch học, lịch đi làm, lịch đi chạy, ... Nhưng 1. là lịch thường chỉ dừng lại ở lịch cố định/hẹn dài khoảng 2h-8h => Cho đến khi: 1. Rõ THE ROAD - TẤM BẢN ĐỒ 2. Làm đồ án 28h và nhận raTIME BLOCKING 5min của Elon Musk và BẢN CHẤT POMODORO HAY DEEPWORK CŨNG LÀ TIME BLOCKING => then, divide time smaller 5-15min-30min tuân thủ theo chiến lược TimeBlocking 5min-Pomodoro-Deepwork như đợt đồ án.
+>     
+
 3. Nếu mà làm 1 việc gì đó 7-10 ngày thì nó chỉ là nhất thời thôi, nhưng nếu làm việc đó 100 ngày, 1000 ngày nắng mưa ko bỏ => dần dần nó trở thành CON NGƯỜI, trở thành TÍNH CÁCH của bạn. Lúc này: bạn có cảm giác mình đủ KỶ LUẬT, NHẤT QUÁN để chơi những trận đường dài hơn trong cả mối quan hệ và sự nghiệp => TƯ DUY DÀI HẠN HƠN. Công thức: SYSTEM + NHẤT QUÁN + THỜI GIAN.
     
 
@@ -1245,7 +2288,7 @@ MENTOR chỉ điểm Chiến lược đại dương xanh 3C: mình mạnh, khác
 >     
 > 2. MONEYosophy -> Youtube recommend (lương tâm, game theory). Cấp Độ 1 Đến 100 Tình Huống Đạo Đức Khó Xử: https://youtu.be/OwxDnXx6m9w?feature=shared + Có keywords là mình search được: https://www.facebook.com/ecoblader và https://www.facebook.com/hieuungchimmoi (hiệu ứng chim mồi, tâm lý đầu tư, tâm lý mối quan hệ, xử lý tâm lý, ... trường phái có gì đó khang khác/giông giống với BKE GNH Tham Sân Si Đạo Đức Trí Tuệ Nghị Lực)
 >     
-> 3. https://www.youtube.com/@baihoc10phut (Kênh quá khớp Youtube recommend): Chi phí chìm (nỗi đau nhói và nỗi đau âm ỉ, đi được 2/3 chặng đường, chi phí chìm là thứ đã mất đi rồi hãy nhìn vào hiện tại tương lai), thế lưỡng nan của 2 người tù (chạy đua vũ trang, giày cao gót, đùn đẩy nhau dọn nhà, ...)
+> 3. https://www.youtube.com/@baihoc10phut (Kênh quá khớp Youtube recommend): Chi phí chìm (nỗi đau nhói và nỗi đau âm ỉ, đi được 2/3 chặng đường, chi phí chìm là thứ đã mất đi rồi hãy nhìn vào hiện tại tương lai), thế lưỡng nan của 2 người tù (chạy đua vũ trang, giày cao gót, đùn đẩy nhau dọn nhà, ...) - Bỏ 1 con Ếch vào nồi nước đang sôi: https://www.youtube.com/watch?v=jmp2CG4s-5c
 >     
 > 4. Genspark: "Theory of Games and Economic Behavior", **"Tư duy chiến lược - Lý thuyết trò chơi thực hành" - Avinash K. Dixit và Barry J. Nalebuff;** **"The Art of Strategy"** - Avinash Dixit & Barry Nalebuff (**"Thinking Strategically"**), "Mặt dày tâm đen", "Cổ học kỳ thư"
 >     
@@ -1281,7 +2324,7 @@ Hiệu ứng chi phí chìm: Nỗi đau nhói và nỗi đau âm ỉ, đi đư�
 
 ### 2.2.6 LEARNING STRATEGY- HỌC SÂU KO HỌC RỘNG -
 
-![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NzlkYjA1MGFmZTFhYjU2NWRkODljODBmYjZlNGYxYjZfQTV2cmNLQlg4bFI4b3c2WEpEMkJ6STVRWUUxeEo1VmFfVG9rZW46SHZmSGJyWjFsb2lUQWx4cGxiemxmRTNtZ2dmXzE3NTQ3MzMyMjI6MTc1NDczNjgyMl9WNA)
+![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=OTk3NjEwMmI5NDM0NzkwNGM4Y2NlMWRiMDU0Y2QwMjFfUUQ4NXFYZW1JUTRuTDZZRVJTSHlGY2ZBZnJqVzJQRFBfVG9rZW46SHZmSGJyWjFsb2lUQWx4cGxiemxmRTNtZ2dmXzE3NTUzMzU0OTQ6MTc1NTMzOTA5NF9WNA)
 
   
 
@@ -1302,6 +2345,52 @@ Hiệu ứng chi phí chìm: Nỗi đau nhói và nỗi đau âm ỉ, đi đư�
     
 4. **ĐI SÂU VÀO TỪNG CHI TIẾT NHỎ ĐỂ HIỂU CÁCH MÀ TỔNG THỂ VẬN HÀNH.**
     
+5. TÔI ĐÃ TÌM RA MINDSET MẠNH NHẤT VỀ HỌC TẬP - ĐẦU THÁNG 8 / 2025. - TOÁN, TÂM LÝ HỌC VÀ TIỀN - https://www.facebook.com/tamlihocdamdong - https://www.facebook.com/ecoblader/ + KẾT HỢP VỚI IDEA CỦA BẠN ĐỨC VỀ VIỆC: FULLTIME USE ENGLISH.
+    
+
+> Đỉnh cao của học là… quên hết.
+> 
+> Trong Ỷ Thiên Đồ Long Ký, có một cảnh rất lạ: Trương Tam Phong truyền thụ tâm pháp Thái Cực Kiếm cho Trương Vô Kỵ. Khi ông hỏi “đã nhớ chưa?”, Trương Vô Kỵ ban đầu đáp: “Đã quên một nửa.” Rồi sau đó, sau khi ngẫm nghĩ, lại trả lời “đã quên hết rồi”. Khi đó, Trương Tam Phong mới gật đầu, tỏ ra hài lòng.
+> 
+> Người ngoài nghe thấy thì khó hiểu. Học võ mà quên hết thì đánh làm sao?
+> 
+> Nhưng với một cao thủ võ công như Trương Tam Phong, ông biết rằng, càng quên mới càng thấm, càng không nghĩ mới càng đúng lúc.
+> 
+> Chỉ khi không còn phải nhớ, con người mới thật sự hành động một cách nhuần nhuyễn. Không còn qua trung gian của lý trí, mà phát ra từ thân thể, như một dòng nước chảy không vấp. Đó không còn là kỹ thuật — mà là bản năng đã được mài dũa.
+> 
+> Hãy quan sát những người làm giỏi nhất trong lĩnh vực của họ.
+> 
+> Một vũ công điêu luyện không cần đếm nhịp trong đầu. Một tay kiếm lành nghề không cần nghĩ từng chiêu. Một đầu bếp nêm nếm bằng tay, không cần chiếc muỗng đong. Một thợ mộc lão luyện chỉ cần vuốt nhẹ là biết mặt gỗ đã bằng chưa.
+> 
+> Họ không cố nhớ, không gồng mình diễn lại bài học cũ. Mọi thứ diễn ra như thể họ sinh ra đã biết làm điều đó. Nhưng đằng sau sự tự nhiên ấy là hàng ngàn giờ luyện tập đến mức nguyên tắc, kỹ thuật, cảm nhận… ngấm vào cơ bắp, vào hơi thở, vào máu.
+> 
+> Paul Graham từng nói: “Khi bạn thật sự hiểu một điều gì đó, bạn không cần phải cố nhớ nó.” Vì hiểu thật sâu không nằm ở việc lặp lại, mà nằm ở việc không còn cần lặp lại. Kiến thức đã chuyển từ bên ngoài vào bên trong, trở thành cấu trúc của chính bạn.
+> 
+> Không còn học trò đang diễn lại bài thầy dạy, mà là chính bạn — ứng biến tự do bằng cái biết không lời. Bạn không còn cần lý thuyết để hành động, vì từng hành động của bạn đã trở thành sự chứng minh cho tri thức đó.
+> 
+> Ta thường nghĩ học là tích lũy: học nhiều, nhớ nhiều, giỏi hơn. Nhưng nghịch lý nằm ở chỗ: càng học cao, càng cần buông bớt. Học sâu không phải là biết thêm, mà là giữ lại ít hơn nhưng vận dụng trúng hơn.
+> 
+> Khi mới học cưỡi ngựa, ta căng người, cứng tay, run rẩy. Nhưng khi đã quen rồi, ta thả lỏng – vì cơ thể đã tự điều chỉnh. Khi mới học ngoại ngữ, ta dịch từng chữ trong đầu. Nhưng khi đã thông thạo, ta không còn nghĩ bằng tiếng mẹ đẻ nữa — ngôn ngữ trôi ra như hơi thở.
+> 
+> Ta chuyển từ gồng gánh chủ động sang nhuần nhuyễn thụ động — và đó mới là thành thạo thực sự. Như con chim đã học bay, nó không còn nghĩ về đôi cánh.
+> 
+> Muốn đạt đến trình độ ấy, bạn phải đi qua ba lớp học:
+> 
+> + Học bằng lý trí — hấp thu tri thức, hiểu nguyên tắc, hỏi vì sao.
+> 
+> + Luyện bằng hành động — lặp lại, sai, sửa, sai nữa, sửa tiếp.
+> 
+> + Và cuối cùng, quên bằng phản xạ — buông lý thuyết, hành động tự nhiên, để tri thức sống qua thân thể.
+> 
+> Ở lớp học cuối cùng, bảng đen biến mất, thầy giáo rút lui. Chỉ còn bạn và thế giới, và cách bạn ứng xử sẽ là lời trả bài không lời.
+> 
+> Đừng sợ việc “quên”. Vì quên là khi bạn không còn nghĩ “làm sao để làm đúng”, mà cứ thế làm đúng. Đó là sự tròn đầy không tên.
+> 
+> Học chưa chắc đã giỏi. Nhớ chưa chắc đã hiểu. Chỉ khi đã quên, thì lúc ấy, bạn mới vượt qua cánh cửa cuối cùng.
+> 
+> *
+> 
+> Xin giới thiệu một quyển sách hay nói về cách đúng để thành công: CHÓ SỦA NHẦM CÂY - Tại sao những gì ta biết về thành công có khi lại sai. Sách đang có giá tốt tại [https://s.shopee.vn/709bIUwj7I](https://l.facebook.com/l.php?u=https%3A%2F%2Fs.shopee.vn%2F709bIUwj7I%3Ffb_content_id%3DQ9-wBQFPJdUlMkxwpQ1d3kidPKTmsluW30YcmUZO-8bMWLWsotk8pPYgr4DIQh-G1A%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExRlFDNTJqQXJMeDhLa2RmdQEebzsHaa30o5xhZyTenI_8bum1cxSGP-3ZEnnRSqXL2loBQ1m3bbRwhdgtkvQ_aem_nbkCv8PnsqjsDUYCeudiCA&h=AT31C-AC0_ybmaCwFvdHjwvPs7GnypozOKX8oXzUW2-w3gFcsUWG5mSDZblLXftQZfSyCXE5kILr0Gq9CagOqND_SetHugGn1ftNSaq0qnvEXHPNiOGuRd8imfivCM6Ji9jDRENP9dBSpvcG&__tn__=-UK-y-R&c[0]=AT0DVzLtew-xObeml1WePN0rUNGlpnoVdvkYzw0psKpC5f-FRkgypCnUfyB6cjP_MXYsOrdGN5EtMQY9GI4wj3e6uSEf7i0Qow6FZ_CcB1q0H6yFPYN6Tb_Tow6F1GifftudFo4mRKIw6IqMM5KfiSedgETHFPCpDVtNJ-Ywsvkjt1E5wAJzc-UtlTHFdPXo6wTEQ27hiLRPp_RSRAqTYA)
 
   
 
@@ -1544,31 +2633,33 @@ Chi tiết nghiên cứu xem tại: https://github.com/DoanNgocCuong/home/tree/m
 
   
 
-|   |   |
-|---|---|
-|**3O1T**|**OKRs**|
-|✅ **Objective**|Objective cảm hứng và hướng mục tiêu dài hạn|
-|🎯 **Outcome**: Là _tác động_, _giá trị_ hoặc _thay đổi_ tạo ra nhờ các output.<br>- 📊 **Metrics**: tập trung đo **outcome** để đảm bảo nỗ lực của bạn thực sự có giá trị.|Why?<br><br>Đánh giá ưu tiên<br><br>- Mentor đánh giá?<br><br>- Impact (Làm thì sao, không làm thì sao)<br><br>- Time (có gấp không)<br><br>- Risk (Tệ nhất là gì? giảm cái tệ đi được bằng cách nào không?)|
-|📦 **Output**: Là _sản phẩm_, _kết quả trực tiếp_ của công việc,<br>- ✔ **Define to Done**: checklist|Key Results 1, 2, 3 cụ thể, đo lường được|
-|🧩 **Tasks**|🧩Actions|
-|1. Vấn đề + Objective, Outcome, Metrics + Output - Key Results Output<br>||
-|2. Nguyên nhân + Dẫn chứng<br> <br>||
-|3. Giải pháp + Dẫn chứng (Tasks, Actions)||
-|4. Người khác recommend||
-|||
-|Result (Hook: ở đây có ai muốn đạt được điều gì đó)||
-|Situation||
-|Think (nghĩ, cảm thấy Feel, <br>vì sao đặt câu hỏi phản biện Nếu ) - 80-20||
-|Action||
-|Results||
-|Call to action||
+|   |
+|---|
+|**3O1T** - **OKRs**|
+|✅ **Objective** - Objective cảm hứng và hướng mục tiêu dài hạn|
+|🎯 **Outcome**: Là _tác động_, _giá trị_ hoặc _thay đổi_ tạo ra nhờ các output.<br>- 📊 **Metrics**: tập trung đo **outcome** để đảm bảo nỗ lực của bạn thực sự có giá trị.<br>Why?<br>Đánh giá ưu tiên <br>- Mentor đánh giá? <br>- Impact (Làm thì sao, ko làm thì sao)<br>- Time (có gấp ko)<br>- Risk (Tệ nhất là gì? giảm cái tệ đi được|
+|📦 **Output**: Là _sản phẩm_, _kết quả trực tiếp_ của công việc,<br>- ✔ **Define to Done**: checklist<br>- Key Results 1, 2, 3 cụ thể, đo lường được|
+|🧩 **Tasks** - 🧩Actions|
+|1. Vấn đề + Objective, Outcome, Metrics + Output - Key Results Output<br>|
+|2. Nguyên nhân + Dẫn chứng<br> <br>|
+|3. Giải pháp + Dẫn chứng (Tasks, Actions)|
+|4. Người khác recommend|
+||
+|Result (Hook: ở đây có ai muốn đạt được điều gì đó)|
+|Situation|
+|Think (nghĩ, cảm thấy Feel, <br>vì sao đặt câu hỏi phản biện Nếu ) - 80-20|
+|Action|
+|Results|
+|Call to action|
+
+  
 
 #### Problem Solving 8 tầng
 
 |Tầng|Mô Tả Tầng|Các Yếu Tố & Câu Hỏi Then Chốt|Công Cụ/Framework Hỗ Trợ|Các Sai Lầm Tâm Lý, Mindset Thường Mắc|Cổng Chất Lượng|Cơ Chế Lặp Lại|
 |---|---|---|---|---|---|---|
-||||||||
-|**1. Định Hướng & Mục Tiêu** (25%)<br><br>- THE ROAIMPORTANT IN LONG-TERM<br>    <br>- SYSTEM<br>    <br>- CONSISTENCE<br>    <br>- TIME<br>    <br>- HƯỚNG ĐI ĐÚNG, LỰA CHỌN ĐÚNG QUAN TRỌNG HƠN TỐC ĐỘ, NỖ LỰC<br>    <br>- OUTCOME - OUTPUT - VALUE<br>    <br>- BEGIN WITH THE END IN MIND|Tầng nền tảng xác định "TẠI SAO" và "ĐI ĐÂU" - đảm bảo mọi quyết định đều phục vụ mục tiêu lớn.|1. **IMPACT TẤM BẢN ĐỒ = Importance (I)** **Importance I = (2LifeAndLongPurpose + NotDoing + Doing) / 4** **1.1 Nhất Hướng (Life Purpose) - HƯỚNG THE ROAD:** +, Việc này có hướng tới NHẤT HƯỚNG LY THAM ĐOẠN DIỆT AN TỊNH THẮNG TRÍ GIÁC NGỘ NIẾT BÀN không. [Tâm Trí] => Do Exercise: Create Cảm Giác Nổi Trội (Tự động: Chú tâm liên tục - Buông thứ khác, Tích cực vui thoải mái) +, Có phải điểm cần đi trên THE ROAD (Tự do tài chính, sức khỏe, MQH) không? +, 10-30-50 năm sau nhìn lại có thấy hối tiếc không? +, Có vi phạm PHÁP LUẬT? - Bỏ qua thứ Lương Tâm thuần túy. Có lợi mình, lợi người, lợi thiên nhiên?<br><br>> TỰ DO TÂM TRÍ. Bonus: Tiền bạc, Mối quan hệ, Thời gian<br><br>  <br><br>> **SYSTEM + NHẤT QUÁN + TIME** **1 MŨI TÊN TRÚNG N ĐÍCH + LÀM 1 LẦN XÀI N LẦN + CHIẾN LƯỢC ĐẠI DƯƠNG XANH.** **BỀN VỮNG CÓ GIÁ TRỊ TRONG DÀI HẠN.**<br><br>**1.2 NotDoing = Impact of Not Doing (Tác động nếu không làm) (10/10 là việc quan trọng, ko làm thì hậu quả nghiêm trọng). KHÔNG LÀM THÌ SAO:**<br><br>> - Risk Not Doing? Không làm thì hệ quả gì, có đang né tránh nỗi đau không, Lặp lại lâu thì sao? - Benifit Not Doing: Không làm chẳng sao, thế thì thôi để ưu tiên cho DÀI HẠN, BỀN VỮNG, TÁI SỬ DỤNG.<br><br>  <br><br>1.3 Doing = Impact of Doing (Tác động nếu làm). LÀM THÌ SAO(Impace of Doing):<br><br>> - Benifit Doing: CHẮC QUAN TRỌNG KO, BỎ ĐI THÌ SAO, BỎ ĐI 4/5 ĐI? (Có đáng với thời gian bỏ ra ko, có đang tự tạo việc vặt ko, có đang tách ra nhiều quá không? Cộng tác tìm tướng Co-founder/Nhân bản NSKT chuyển giao/Thuê ngoài được không? Nếu buộc phải cắt giảm 4/5 khối lượng công việc thì sao?) - Risk Doing: rủi ro nếu làm?<br><br>  <br><br>1. **MENTOR:** - Mentor họ học từ N người thầy khác. MENTOR THEO CẤP SỐ MŨ N^ vô cùng. - Mentor: Kèm cặp định hướng - liên tục Kaizen: "Không biết mình ko biết" => Tự kiểm chứng 1-1, 1-2, 1-N <KHOAN VỘI TIN KHOAN VỘI BÁC BỎ - TỰ HỌC - ĐÚC KẾT - PHẢN BIỆN - ĐỘT PHÁ?><br>    <br><br>**2. Leverage: MENTOR + INVESTOR + CHIẾN LƯỢC THÔNG MINH**<br><br>- Cấp hướng đi đúng<br>    <br>- Cấp nguồn lực (Tiền, MQH, Lợi thế bất công ...)<br>    <br><br>### **CHIẾN LƯỢC X3 HIỆU SUẤT**<br><br>1. **Mũi khoan 80/20**<br>    <br>2. **Làm 1 lần xài N lần**<br>    <br>3. **1 mũi tên trúng N đích**<br>    <br>4. **Đòn bẩy con người**<br>    <br>5. **Đòn bẩy công nghệ**<br>    <br>6. **Đòn bẩy trí tuệ**<br>    <br>7. **Đòn bẩy tài chính**<br>    <br>8. **Đòn bẩy xu hướng / Đòn bẩy đám đông**<br>    <br>9. **Cho đi vô điều kiện + đòn bẩy MXH**<br>    <br>10. **Áp suất tạo kim cương** _(gồm đốt thuyền, ăn con ếch, deadline ngắn, Pomodoro, giảm 1 miếng...)_<br>    <br>11. **Cải tiến 1% mỗi ngày (Máy Kaizen)**<br>    <br>12. **Đại dương xanh (làm khác đi)**<br>    <br>13. **Môi trường mạnh hơn ý chí**<br>    <br>14. **Sản phẩm 1X → Tác phẩm 10X**<br>    <br>15. **3 nguyên tắc thực thi**<br>    <br>16. **Cá về với nước**<br>    <br>17. **Bắn đạn nhỏ >< Đốt thuyền**<br>    <br>18. **Tạo phước + Như lý tác ý**<br>    <br>19. **Mục tiêu SMART**<br>    <br><br>  <br><br>---<br><br>c) Urgency (U): KHẨN CẤP URGENCY, and time (10/10): Hậu quả của trì hoãn? d) Easy Score-BEFORE OKRs= (10 - RequiredResourcesEst + 10 - RISK&EXCEPTIONS_with_Contingency_Plan)/2 = [10 - TimeEst * (HR*0.7 + MR*0.3)/2 + RISK&EXCEPTIONS_with_Contingency_Plan]*Leverage Factor (Đòn bẩy thông minh: Chiến lược đại dương xanh, ngách, mentor, ...)/2 - RequiredResourcesEst: Required Resources Estimation (including Time estimation, Human Resources, Material Resources) => OPTIMIZE NGUỒN LỰC. +, Time: Framework: """ Đường găng (Critical Path Method) """ +, HR = Human Resources: MENTOR - TƯỚNG?, Đồng đội, Nhân sự kế thừa, OUTSOURCE + với: Thời gian, năng lực(kỹ năng kiến thức), năng lượng(sự thích nghi). +, MR = Material Resurces: ĐÒN BẨY TREND ĐÁM ĐÔNG, CÔNG NGHỆ, TÀI CHÍNH. Phát huy được điểm mạnh, tự do không gian, thời gian. - RISK&EXCEPTIONS_with_Contingency_Plan [10/10 khi rủi ro thấp] +, Framework: thời gian bắt đầu sớm nhất (ES), thời gian kết thúc sớm nhất (EF), thời gian bắt đầu muộn nhất (LS), thời gian kết thúc muộn nhất (LF), và thời gian dự trữ (Slack). """ Phân tích tính khả thi \| Ðiểm cộng và điểm trừ \| Phản hồi từ các bên liên quan \| Phân tích tác động của các phương án \| Ưu tiên \| Benchmarking (so sánh với chỉ số của những bên làm tốt nhất) \| Test tính khả thi \| Xác định các nút thắt \| Dự báo kết quả. """ --------------------------------------------------------------------------------------------------------------- Final Score = Mentor * 0.2 + Importance * 0.3 + Urgency * 0.3 + (Easy BEFORE OKRs) * 0.2 +, Importance = (2LifePurpose + NotDoing + Doing * Leverage) / 4) +, Easy Score BEFORE OKRs = [10 - TimeEst * (HR*0.7 + MR*0.3)/2 + RISK&EXCEPTIONS_with_Contingency_Plan]/2|- Golden Circle (Why-How-What) - Values Assessment Matrix - Long-term Vision Mapping - Purpose-Profit Matrix - Ethical Decision Framework - Strategic Alignment Check<br><br>  <br><br>---<br><br>- ĐI QUA TỪNG MILESTONES (CỦA TẤM BẢN ĐỒ) = OKRs, 3O1T<br><br>  <br><br>**Copy and Development (Who?) → Begin with the End in Mind (Why?) → OKRs (What? Vượt mục tiêu với tư duy thủ khoa) → SMART (How?) → KPI (Progress?) + HACKTIME(Gantt Chart + Parkinson) 🎯** → Copy and Development - Đòn bẩy trí tuệ (Who?) → Begin with the End in Mind - Why? → Chuyển hóa thành chiến lược cụ thể với OKRs (Objective lớn + Key Results đo lường - What?) → Key Results các kết quả then chốt theo SMART (Specific, Measurable, Achievable, Relevant, Time-bound - How?) → Theo dõi hiệu suất bằng KPI để đánh giá tiến độ và tối ưu chiến lược (Progress?). 🎯 - KR1: <số đo lường + deadline ngắn cụ thể + cam kết + dự đoán nguồn lực + chia nhỏ 3 KAs> +, KA1.1: <số đo lường + deadline cụ thể + cam kết + dự đoán nguồn lực>, KA1.2, KA1.3<br><br>  <br><br>OKRs and SMART. *** **O: DUY NHẤT 1 OBJECTIVE(**các việc khác vẫn làm, nhưng tại 1 thời điểm chỉ siêu tập trung duy nhất 1 thứ) + RÕ RÀNG TẠO DỄ DÀNG trực quan + VỪA SỨC THỬ THÁCH (6/10 ko quá khó, tự tin làm được - phát sinh động lực chinh phục, ko phát sinh sợ hãi) + CẢM HỨNG HƯỚNG HÀNH ĐỘNG? - Smart: rõ, dễ hiểu, nhớ >< Sơ sài + R: Rất quan trọng >< R : + Available: niềm tin >< AI biết. *** 3KRs: 3KRs GIẢI QUYẾT O? 3KRs, 3KAs đã xử lý 100% O chưa? - Mỗi KRs đều: ĐO LƯỜNG BẤT KỲ LÚC NÀO + DEADLINE NGẮN (Dự án thực - Deadline ngắn, cụ thể rõ ràng) + CAM KẾT(Cái giá phải trả thật đau - đốt thuyền) + OPTIMIZE Comlexity cho mỗi KRs, KAs theo công thức + CHIA NHỎ 3 KAs - Measure: đo lường % ở bất kỳ lúc nào >< Mơ màng => KO NÓI SỐ KO CÓ HIỆU SUẤT + T: Time out ><T: thích nào xong thì xong. - KR1: <số đo lường + deadline ngắn cụ thể + cam kết + dự đoán nguồn lực + chia nhỏ 3 KAs> - KA1.1: <số đo lường + deadline cụ thể + cam kết + dự đoán nguồn lực>, KA1.2, KA1.3<br><br>---<br><br>PHỤ LỤC: CHIẾN LƯỢC X3 NĂNG SUẤT<br><br>  <br><br>  <br><br>- CHIẾN LƯỢC ĐẠI DƯƠNG XANH: LỰA CHỌN THÔNG THÁI? (Người thông minh có nhiều lựa chọn, người thông thái biết chọn cái gì ngon nhất). 7 loại thị trường mãi xanh: 1. Relationship 2. Make Money (giúp người khác kiếm gì) 3. Being Parents 4. Beauty 5. Health&Wellness 6. Personal Development 7. Tâm linh<br><br>- LỢI THẾ BẤT CÔNG: CHUYÊN MÔN + CON NGƯỜI +, Chuyên môn: GIAO CỦA NHIỀU THỨ! **AI Engineering (NLP, LLM, MLOps, System Desgin, ...) + Creator - KOL Leader Community + Product & Business Model & Consulting+ Finance (Personal Finance and Investment)** +, CON NGƯỜI (SYSTEM, NHẤT QUÁN, KỶ LUẬT, NĂNG LƯỢNG, NHIỆT TÌNH, ...). - VÒNG XOÁY CON ỐC: """NGÁCH NHỎ thật nhỏ, CHỌN MŨI NHỌN, KHOAN + TẬP TRUNG CAO THÀNH SỐ 1 MASTER VÔ CÙNG XUẤT SẮC, tập trung vào những thứ LÀM 1 LẦN XÀI N LẦN + MỞ RỘNG LIÊN QUAN đến thế mạnh đang có, HỆ SINH THÁI (TẬN DỤNG SỰ TÍCH LUỸ TRƯỚC ĐÓ).""" - 1-In-60 Rule: Nếu một máy bay bay lệch khỏi đường bay dự định một độ (1°) trong khoảng cách 60 hải lý (nautical miles), thì máy bay sẽ bị lệch khoảng 1 hải lý so với vị trí dự định trên đường bay. - 1 MŨI TÊN TRÚNG N ĐÍCH, LÀM 1 LẦN XÀI N LẦN.<br><br>> - 1 MŨI TÊN N ĐÍCH ------ N ĐÍCH THEO CHIỀU SÂU - TƯ DUY MŨI KHOAN Phân biệt 1-N với 2-2(Đa Nhiệm): (đi bộ vừa được cái này vừa được cái kia) KHÁC (vừa đi bộ vừa họp) ------ N ĐÍCH THEO CHIỀU NGANG (LỰA CHỌN ĐÚNG + NỖ LỰC): (đích quan trọng nhất: Nhất Hướng. Ngoài ra các đích khác coi chừng gián tiếp đưa đến Khổ: 6 loại động lực: giỏi lên, tiền, mqh, điểm mạnh, sức khoẻ, tâm bình an, say mê, phát huy được điểm mạnh, Sự nghiệp + Tâm, Trí + Dạy con + Báo hiếu chữa lành gđ + Vợ chồng rủ vợ học cùng làm giáo dục hỗ trợ vợ + MQH tốt tam bảo có những người xem lén họ trên youtube giờ nói chuyện cùng + Giải trí + Thời gian nơi chốn được tự do thời gian nào làm cái gì với ai ở đâu tự quyết. ...), Gợi ý: 1. Đẩy giáo dục Nhất Hướng vào công việc hàng ngày. 2. Bổ sung/Dịch chuyển Business Model thông minh( cấu trúc sản phẩm mua 1 lần sang chi trả định kỳ, đổi tệp khách hàng nghèo sang giàu sang bậc cao họ ko kỳ kèo có mối quan hệ mới xịn còn nghèo mình cho đi, đổi mô hình kd hệ thống franchise licencing online tự quản xanh ngọc) + 3. Thả nhân sự vào đúng điểm mạnh, giúp họ đạt mục tiêu tổ chức vừa đạt mục tiêu cá nhân. - LÀM 1 LẦN XÀI N LẦN(quan trọng nhất trả lời Mục đích cuộc đời, đóng gói, automation 100%, thu nhập thụ động, khách hàng mua đi mua lại định kỳ, dùng lâu dài 30-40 năm, thị trường mãi xanh, ), ĐÒN BẨY THÔNG MINH(Có tự do không gian thời gian, ...) ko? LÀM 1 LẦN XÀI N LẦN, ĐÓNG GÓI CHUYỂN GIAO nhàn hơn, dễ cải tiến (công thức hoá, sơ đồ slide hoá, số hoá). ------ Rào cản: KHE HỞ THỜI GIAN, RỦI RO CÙNG LẮM THÌ, TẦM NHÌN DÀI HẠN, MENTOR CHỈ ĐIỂM CÁI MÌNH KHÔNG BIẾT. (Đóng gói HIỂU BIẾT VÔ MINH VÀ MINH, MINDSET TÂM THẾ KINH NGHIỆM THẾ GIAN, THÓI QUEN TỐT, THẦY MENTOR ĐỒNG ĐỘI MẠNH tìm 1 lần xài N lần, mô hình kinh doanh marketing truyền miệng, tuyển sinh 1 lần, AI bot đóng gói, ) ------ RÕ RÀNG SINH DỄ DÀNG (Hạn mức định mức 1 việc, Take note nhỏ gắn kết, KHÁC BIỆT VÀ NỔI TRỘI, ĐƠN GIẢN) ------ QUY TRÌNH, ĐÓNG GÓI BIẾN NHÂN SỰ PHÙ HỢP => CHUYÊN GIA NHANH HƠN (rút 2 tháng đào tạo Sales 80% xuống còn 3 ngày áp suất). ------ QUY TRÌNH việc STEP BY STEP, vào việc nhỏ và nhỏ CẢI TIẾN NHỎ LIÊN TỤC. CẢI TIẾN QUÁ TRÌNH + KẾT QUẢ đã đủ chưa? ĐO LƯỜNG như nào? ------ Phối hợp với OKRs: OKRs tổng quan truyền cảm hứng, KRs – KAs – KAss: việc lặp đi lặp lại: ĐÓNG GÓI VÀ QUY TRÌNH LẠI. ------ QUY TRÌNH HOÁ LỊCH BIỂU CÁ NHÂN LẶP ĐI LẶP LẠI??? Quy trình hoá lịch cá nhân để thực hiện mục tiêu dài hạn. ------ 6 STEPs: 1. MỤC TIÊU DÀI HẠN + 2. XẾP VIỆC CẦN LÀM, NGƯỜI PHỤ TRÁCH + 3. NOTE LƯU Ý CHIẾN THUẬT NHỎ 4. HOÀN THIỆN TRƯỚC HOÀN HẢO SAU KAIZEN LIÊN TỤC 5. NGƯỜI TRIỂN KHAI VIẾT CHÍNH, CẤP CAO CÓ THỂ KO XÀI nhằm sự ĐỘT PHÁ.|- **Né tránh PROBLEM** => Tự tẩy não mình để thèm khát CẢM GIÁC KHÓ CHỊU. - Ưa thích giải quyết vấn đề của mình và người khác, đặc biệt là VẤN ĐỀ CÀNG KHÓ CÀNG THÍCH. - Nhầm lẫn MỤC TIÊU (thiên đường) và HƯỚNG ĐI (nấc thang) === - **Nghe về tư duy dài hạn nhiều mà không biết cách ứng dụng:** Là vì bạn chưa có 1 HỆ THỐNG (như hệ thống sự nghiệp Wecommit100x) or TẤM BẢN ĐỒ MAP THE ROAD X3NS - **BẪY LƯƠNG TÂM THUẦN TÚY:** +, COPY ĐÁP ÁN, BÁNH XE CÓ SẴN => THÀNH CÔNG => ĂN MỪNG VÀ GIÚP ĐỠ NGƯỜI KHÁC.|✅ Values alignment ≥ 7/10 ✅ Strategic fit confirmed ✅ Long-term impact assessed ✅ Ethical considerations addressed|Trigger**:** Values conflict detected → Loop back để tái định nghĩa mục tiêu Micro-loop: Clarify purpose within stage Macro-loop: Từ Tầng 6 feedback về strategic alignment|
+|**0. META-ASSESSMENT** (Mới)|Đánh giá bối cảnh và chọn lộ trình phù hợp trước khi bắt đầu quá trình ra quyết định.|- **Context Classification:** Đây là quyết định Simple/Complicated/Complex? Mức độ urgency: Crisis/Urgent/Planned? Stakeholder involvement: Individual/Team/Organization? - **Track Selection:** Quick Track (Crisis), Standard Track (Normal), Innovation Track (Complex). - **Quality Gate:** ✅ Track selected & time allocated.|- Cynefin Framework- Eisenhower Matrix- RACI Matrix- Time Boxing- Decision Tree- Decision Complexity Assessment Tool|- **Context Misreading:** Đánh giá sai độ phức tạp. - **Time Pressure:** Chọn track quá phức tạp. - **Over-simplification:** Đánh giá thấp độ phức tạp của vấn đề.|✅ Context classified ✅ Track selected ✅ Time allocated ✅ Stakeholder roles clarified|**Trigger:** Context mismatch → Loop back để chọn lại track **Micro-loop:** Refine context understanding **Macro-loop:** Từ Tầng 6 feedback về hiệu quả của track đã chọn|
+|**1. Định Hướng & Mục Tiêu** (25%)<br><br>- THE ROAIMPORTANT IN LONG-TERM<br>    <br>- SYSTEM<br>    <br>- CONSISTENCE<br>    <br>- TIME<br>    <br>- HƯỚNG ĐI ĐÚNG, LỰA CHỌN ĐÚNG QUAN TRỌNG HƠN TỐC ĐỘ, NỖ LỰC<br>    <br>- OUTCOME - OUTPUT - VALUE<br>    <br>- BEGIN WITH THE END IN MIND|Tầng nền tảng xác định "TẠI SAO" và "ĐI ĐÂU" - đảm bảo mọi quyết định đều phục vụ mục tiêu lớn.<br><br>---<br><br>CÓ VẺ NHƯ NHIỀU QUYẾT ĐỊNH CHỈ CẦN PHÂN TÍCH TẦNG 1 LÀ RA ĐƯỢC.|1. **IMPACT TẤM BẢN ĐỒ = Importance (I)** **Importance I = (2LifeAndLongPurpose + NotDoing + Doing) / 4** **1.1 Nhất Hướng (Life Purpose) - HƯỚNG THE ROAD:** +, Việc này có hướng tới NHẤT HƯỚNG LY THAM ĐOẠN DIỆT AN TỊNH THẮNG TRÍ GIÁC NGỘ NIẾT BÀN không. [Tâm Trí] => Do Exercise: Create Cảm Giác Nổi Trội (Tự động: Chú tâm liên tục - Buông thứ khác, Tích cực vui thoải mái) +, Có phải điểm cần đi trên THE ROAD (Tự do tài chính, sức khỏe, MQH) không? +, 10-30-50 năm sau nhìn lại có thấy hối tiếc không? +, Có vi phạm PHÁP LUẬT? - Bỏ qua thứ Lương Tâm thuần túy. Có lợi mình, lợi người, lợi thiên nhiên?<br><br>> TỰ DO TÂM TRÍ. Bonus: Tiền bạc, Mối quan hệ, Thời gian<br><br>  <br><br>> **SYSTEM + NHẤT QUÁN + TIME** **1 MŨI TÊN TRÚNG N ĐÍCH + LÀM 1 LẦN XÀI N LẦN + CHIẾN LƯỢC ĐẠI DƯƠNG XANH.** **BỀN VỮNG CÓ GIÁ TRỊ TRONG DÀI HẠN.**<br><br>**1.2 NotDoing = Impact of Not Doing (Tác động nếu không làm) (10/10 là việc quan trọng, ko làm thì hậu quả nghiêm trọng). KHÔNG LÀM THÌ SAO:**<br><br>> - Risk Not Doing? Không làm thì hệ quả gì, có đang né tránh nỗi đau không, Lặp lại lâu thì sao? - Benifit Not Doing: Không làm chẳng sao, thế thì thôi để ưu tiên cho DÀI HẠN, BỀN VỮNG, TÁI SỬ DỤNG.<br><br>  <br><br>1.3 Doing = Impact of Doing (Tác động nếu làm). LÀM THÌ SAO(Impace of Doing):<br><br>> - Benifit Doing: CHẮC QUAN TRỌNG KO, BỎ ĐI THÌ SAO, BỎ ĐI 4/5 ĐI? (Có đáng với thời gian bỏ ra ko, có đang tự tạo việc vặt ko, có đang tách ra nhiều quá không? Cộng tác tìm tướng Co-founder/Nhân bản NSKT chuyển giao/Thuê ngoài được không? Nếu buộc phải cắt giảm 4/5 khối lượng công việc thì sao?) - Nếu làm nó thì có mất cơ hội gì ko? - Risk Doing: rủi ro nếu làm?<br><br>  <br><br>1. **MENTOR:** - Mentor họ học từ N người thầy khác. MENTOR THEO CẤP SỐ MŨ N^ vô cùng. - Mentor: Kèm cặp định hướng - liên tục Kaizen: "Không biết mình ko biết" => Tự kiểm chứng 1-1, 1-2, 1-N <KHOAN VỘI TIN KHOAN VỘI BÁC BỎ - TỰ HỌC - ĐÚC KẾT - PHẢN BIỆN - ĐỘT PHÁ?><br>    <br><br>**2. Leverage: MENTOR + INVESTOR + CHIẾN LƯỢC THÔNG MINH**<br><br>- Cấp hướng đi đúng<br>    <br>- Cấp nguồn lực (Tiền, MQH, Lợi thế bất công ...)<br>    <br><br>### **CHIẾN LƯỢC X3 HIỆU SUẤT**<br><br>1. **Mũi khoan 80/20**<br>    <br>2. **Làm 1 lần xài N lần**<br>    <br>3. **1 mũi tên trúng N đích**<br>    <br>4. **Đòn bẩy con người**<br>    <br>5. **Đòn bẩy công nghệ**<br>    <br>6. **Đòn bẩy trí tuệ**<br>    <br>7. **Đòn bẩy tài chính**<br>    <br>8. **Đòn bẩy xu hướng / Đòn bẩy đám đông**<br>    <br>9. **Cho đi vô điều kiện + đòn bẩy MXH**<br>    <br>10. **Áp suất tạo kim cương** _(gồm đốt thuyền, ăn con ếch, deadline ngắn, Pomodoro, giảm 1 miếng...)_<br>    <br>11. **Cải tiến 1% mỗi ngày (Máy Kaizen)**<br>    <br>12. **Đại dương xanh (làm khác đi)**<br>    <br>13. **Môi trường mạnh hơn ý chí**<br>    <br>14. **Sản phẩm 1X → Tác phẩm 10X**<br>    <br>15. **3 nguyên tắc thực thi**<br>    <br>16. **Cá về với nước**<br>    <br>17. **Bắn đạn nhỏ >< Đốt thuyền**<br>    <br>18. **Tạo phước + Như lý tác ý**<br>    <br>19. **Mục tiêu SMART**<br>    <br><br>  <br><br>---<br><br>c) Urgency (U): KHẨN CẤP URGENCY, and time (10/10): Hậu quả của trì hoãn? d) Easy Score-BEFORE OKRs= (10 - RequiredResourcesEst + 10 - RISK&EXCEPTIONS_with_Contingency_Plan)/2 = [10 - TimeEst * (HR*0.7 + MR*0.3)/2 + RISK&EXCEPTIONS_with_Contingency_Plan]*Leverage Factor (Đòn bẩy thông minh: Chiến lược đại dương xanh, ngách, mentor, ...)/2 - RequiredResourcesEst: Required Resources Estimation (including Time estimation, Human Resources, Material Resources) => OPTIMIZE NGUỒN LỰC. +, Time: Framework: """ Đường găng (Critical Path Method) """ +, HR = Human Resources: MENTOR - TƯỚNG?, Đồng đội, Nhân sự kế thừa, OUTSOURCE + với: Thời gian, năng lực(kỹ năng kiến thức), năng lượng(sự thích nghi). +, MR = Material Resurces: ĐÒN BẨY TREND ĐÁM ĐÔNG, CÔNG NGHỆ, TÀI CHÍNH. Phát huy được điểm mạnh, tự do không gian, thời gian. - RISK&EXCEPTIONS_with_Contingency_Plan [10/10 khi rủi ro thấp] +, Framework: thời gian bắt đầu sớm nhất (ES), thời gian kết thúc sớm nhất (EF), thời gian bắt đầu muộn nhất (LS), thời gian kết thúc muộn nhất (LF), và thời gian dự trữ (Slack). """ Phân tích tính khả thi \| Ðiểm cộng và điểm trừ \| Phản hồi từ các bên liên quan \| Phân tích tác động của các phương án \| Ưu tiên \| Benchmarking (so sánh với chỉ số của những bên làm tốt nhất) \| Test tính khả thi \| Xác định các nút thắt \| Dự báo kết quả. """ --------------------------------------------------------------------------------------------------------------- Final Score = Mentor * 0.2 + Importance * 0.3 + Urgency * 0.3 + (Easy BEFORE OKRs) * 0.2 +, Importance = (2LifePurpose + NotDoing + Doing * Leverage) / 4) +, Easy Score BEFORE OKRs = [10 - TimeEst * (HR*0.7 + MR*0.3)/2 + RISK&EXCEPTIONS_with_Contingency_Plan]/2|- Golden Circle (Why-How-What) - Values Assessment Matrix - Long-term Vision Mapping - Purpose-Profit Matrix - Ethical Decision Framework - Strategic Alignment Check<br><br>  <br><br>---<br><br>- ĐI QUA TỪNG MILESTONES (CỦA TẤM BẢN ĐỒ) = OKRs, 3O1T<br><br>  <br><br>**Copy and Development (Who?) → Begin with the End in Mind (Why?) → OKRs (What? Vượt mục tiêu với tư duy thủ khoa) → SMART (How?) → KPI (Progress?) + HACKTIME(Gantt Chart + Parkinson) 🎯** → Copy and Development - Đòn bẩy trí tuệ (Who?) → Begin with the End in Mind - Why? → Chuyển hóa thành chiến lược cụ thể với OKRs (Objective lớn + Key Results đo lường - What?) → Key Results các kết quả then chốt theo SMART (Specific, Measurable, Achievable, Relevant, Time-bound - How?) → Theo dõi hiệu suất bằng KPI để đánh giá tiến độ và tối ưu chiến lược (Progress?). 🎯 - KR1: <số đo lường + deadline ngắn cụ thể + cam kết + dự đoán nguồn lực + chia nhỏ 3 KAs> +, KA1.1: <số đo lường + deadline cụ thể + cam kết + dự đoán nguồn lực>, KA1.2, KA1.3<br><br>  <br><br>OKRs and SMART. *** **O: DUY NHẤT 1 OBJECTIVE(**các việc khác vẫn làm, nhưng tại 1 thời điểm chỉ siêu tập trung duy nhất 1 thứ) + RÕ RÀNG TẠO DỄ DÀNG trực quan + VỪA SỨC THỬ THÁCH (6/10 ko quá khó, tự tin làm được - phát sinh động lực chinh phục, ko phát sinh sợ hãi) + CẢM HỨNG HƯỚNG HÀNH ĐỘNG? - Smart: rõ, dễ hiểu, nhớ >< Sơ sài + R: Rất quan trọng >< R : + Available: niềm tin >< AI biết. *** 3KRs: 3KRs GIẢI QUYẾT O? 3KRs, 3KAs đã xử lý 100% O chưa? - Mỗi KRs đều: ĐO LƯỜNG BẤT KỲ LÚC NÀO + DEADLINE NGẮN (Dự án thực - Deadline ngắn, cụ thể rõ ràng) + CAM KẾT(Cái giá phải trả thật đau - đốt thuyền) + OPTIMIZE Comlexity cho mỗi KRs, KAs theo công thức + CHIA NHỎ 3 KAs - Measure: đo lường % ở bất kỳ lúc nào >< Mơ màng => KO NÓI SỐ KO CÓ HIỆU SUẤT + T: Time out ><T: thích nào xong thì xong. - KR1: <số đo lường + deadline ngắn cụ thể + cam kết + dự đoán nguồn lực + chia nhỏ 3 KAs> - KA1.1: <số đo lường + deadline cụ thể + cam kết + dự đoán nguồn lực>, KA1.2, KA1.3<br><br>---<br><br>PHỤ LỤC: CHIẾN LƯỢC X3 NĂNG SUẤT<br><br>  <br><br>  <br><br>- CHIẾN LƯỢC ĐẠI DƯƠNG XANH: LỰA CHỌN THÔNG THÁI? (Người thông minh có nhiều lựa chọn, người thông thái biết chọn cái gì ngon nhất). 7 loại thị trường mãi xanh: 1. Relationship 2. Make Money (giúp người khác kiếm gì) 3. Being Parents 4. Beauty 5. Health&Wellness 6. Personal Development 7. Tâm linh<br><br>- LỢI THẾ BẤT CÔNG: CHUYÊN MÔN + CON NGƯỜI +, Chuyên môn: GIAO CỦA NHIỀU THỨ! **AI Engineering (NLP, LLM, MLOps, System Desgin, ...) + Creator - KOL Leader Community + Product & Business Model & Consulting+ Finance (Personal Finance and Investment)** +, CON NGƯỜI (SYSTEM, NHẤT QUÁN, KỶ LUẬT, NĂNG LƯỢNG, NHIỆT TÌNH, ...). - VÒNG XOÁY CON ỐC: """NGÁCH NHỎ thật nhỏ, CHỌN MŨI NHỌN, KHOAN + TẬP TRUNG CAO THÀNH SỐ 1 MASTER VÔ CÙNG XUẤT SẮC, tập trung vào những thứ LÀM 1 LẦN XÀI N LẦN + MỞ RỘNG LIÊN QUAN đến thế mạnh đang có, HỆ SINH THÁI (TẬN DỤNG SỰ TÍCH LUỸ TRƯỚC ĐÓ).""" - 1-In-60 Rule: Nếu một máy bay bay lệch khỏi đường bay dự định một độ (1°) trong khoảng cách 60 hải lý (nautical miles), thì máy bay sẽ bị lệch khoảng 1 hải lý so với vị trí dự định trên đường bay. - 1 MŨI TÊN TRÚNG N ĐÍCH, LÀM 1 LẦN XÀI N LẦN.<br><br>> - 1 MŨI TÊN N ĐÍCH ------ N ĐÍCH THEO CHIỀU SÂU - TƯ DUY MŨI KHOAN Phân biệt 1-N với 2-2(Đa Nhiệm): (đi bộ vừa được cái này vừa được cái kia) KHÁC (vừa đi bộ vừa họp) ------ N ĐÍCH THEO CHIỀU NGANG (LỰA CHỌN ĐÚNG + NỖ LỰC): (đích quan trọng nhất: Nhất Hướng. Ngoài ra các đích khác coi chừng gián tiếp đưa đến Khổ: 6 loại động lực: giỏi lên, tiền, mqh, điểm mạnh, sức khoẻ, tâm bình an, say mê, phát huy được điểm mạnh, Sự nghiệp + Tâm, Trí + Dạy con + Báo hiếu chữa lành gđ + Vợ chồng rủ vợ học cùng làm giáo dục hỗ trợ vợ + MQH tốt tam bảo có những người xem lén họ trên youtube giờ nói chuyện cùng + Giải trí + Thời gian nơi chốn được tự do thời gian nào làm cái gì với ai ở đâu tự quyết. ...), Gợi ý: 1. Đẩy giáo dục Nhất Hướng vào công việc hàng ngày. 2. Bổ sung/Dịch chuyển Business Model thông minh( cấu trúc sản phẩm mua 1 lần sang chi trả định kỳ, đổi tệp khách hàng nghèo sang giàu sang bậc cao họ ko kỳ kèo có mối quan hệ mới xịn còn nghèo mình cho đi, đổi mô hình kd hệ thống franchise licencing online tự quản xanh ngọc) + 3. Thả nhân sự vào đúng điểm mạnh, giúp họ đạt mục tiêu tổ chức vừa đạt mục tiêu cá nhân. - LÀM 1 LẦN XÀI N LẦN(quan trọng nhất trả lời Mục đích cuộc đời, đóng gói, automation 100%, thu nhập thụ động, khách hàng mua đi mua lại định kỳ, dùng lâu dài 30-40 năm, thị trường mãi xanh, ), ĐÒN BẨY THÔNG MINH(Có tự do không gian thời gian, ...) ko? LÀM 1 LẦN XÀI N LẦN, ĐÓNG GÓI CHUYỂN GIAO nhàn hơn, dễ cải tiến (công thức hoá, sơ đồ slide hoá, số hoá). ------ Rào cản: KHE HỞ THỜI GIAN, RỦI RO CÙNG LẮM THÌ, TẦM NHÌN DÀI HẠN, MENTOR CHỈ ĐIỂM CÁI MÌNH KHÔNG BIẾT. (Đóng gói HIỂU BIẾT VÔ MINH VÀ MINH, MINDSET TÂM THẾ KINH NGHIỆM THẾ GIAN, THÓI QUEN TỐT, THẦY MENTOR ĐỒNG ĐỘI MẠNH tìm 1 lần xài N lần, mô hình kinh doanh marketing truyền miệng, tuyển sinh 1 lần, AI bot đóng gói, ) ------ RÕ RÀNG SINH DỄ DÀNG (Hạn mức định mức 1 việc, Take note nhỏ gắn kết, KHÁC BIỆT VÀ NỔI TRỘI, ĐƠN GIẢN) ------ QUY TRÌNH, ĐÓNG GÓI BIẾN NHÂN SỰ PHÙ HỢP => CHUYÊN GIA NHANH HƠN (rút 2 tháng đào tạo Sales 80% xuống còn 3 ngày áp suất). ------ QUY TRÌNH việc STEP BY STEP, vào việc nhỏ và nhỏ CẢI TIẾN NHỎ LIÊN TỤC. CẢI TIẾN QUÁ TRÌNH + KẾT QUẢ đã đủ chưa? ĐO LƯỜNG như nào? ------ Phối hợp với OKRs: OKRs tổng quan truyền cảm hứng, KRs – KAs – KAss: việc lặp đi lặp lại: ĐÓNG GÓI VÀ QUY TRÌNH LẠI. ------ QUY TRÌNH HOÁ LỊCH BIỂU CÁ NHÂN LẶP ĐI LẶP LẠI??? Quy trình hoá lịch cá nhân để thực hiện mục tiêu dài hạn. ------ 6 STEPs: 1. MỤC TIÊU DÀI HẠN + 2. XẾP VIỆC CẦN LÀM, NGƯỜI PHỤ TRÁCH + 3. NOTE LƯU Ý CHIẾN THUẬT NHỎ 4. HOÀN THIỆN TRƯỚC HOÀN HẢO SAU KAIZEN LIÊN TỤC 5. NGƯỜI TRIỂN KHAI VIẾT CHÍNH, CẤP CAO CÓ THỂ KO XÀI nhằm sự ĐỘT PHÁ.|- **Né tránh PROBLEM** => Tự tẩy não mình để thèm khát CẢM GIÁC KHÓ CHỊU. - Ưa thích giải quyết vấn đề của mình và người khác, đặc biệt là VẤN ĐỀ CÀNG KHÓ CÀNG THÍCH. - Nhầm lẫn MỤC TIÊU (thiên đường) và HƯỚNG ĐI (nấc thang) === - **Nghe về tư duy dài hạn nhiều mà không biết cách ứng dụng:** Là vì bạn chưa có 1 HỆ THỐNG (như hệ thống sự nghiệp Wecommit100x) or TẤM BẢN ĐỒ MAP THE ROAD X3NS - **BẪY LƯƠNG TÂM THUẦN TÚY:** +, COPY ĐÁP ÁN, BÁNH XE CÓ SẴN => THÀNH CÔNG => ĂN MỪNG VÀ GIÚP ĐỠ NGƯỜI KHÁC.|✅ Values alignment ≥ 7/10 ✅ Strategic fit confirmed ✅ Long-term impact assessed ✅ Ethical considerations addressed|Trigger**:** Values conflict detected → Loop back để tái định nghĩa mục tiêu Micro-loop: Clarify purpose within stage Macro-loop: Từ Tầng 6 feedback về strategic alignment|
 |**2. TRUY TÌM NGUYÊN NHÂN LÕI - FIRST PRICIPLE (**15%) - **STRUCTURE - BÍ MẬT CỦA TÁCH LỚP (PROBLEM - STRUCTURE PROCESS - PLAN, ACTION)** - **HỌC SÂU HƠN HỌC RỘNG: Đối thủ có thể biết nhiều về thái cực quyền hơn tôi, nhưng tôi RẤT GIỎI TRONG NHỮNG GÌ TÔI BIẾT.** - REFLECTION: Problem Solving as Money Diary - STRUCTURING: Bóc tách vấn đề một cách hệ thống|Tầng này đảm bảo chúng ta hiểu đúng vấn đề và có đủ thông tin để quyết định.|- **Problem Definition:** Vấn đề thực sự là gì? (không phải symptom). Root cause đã được xác định chưa? - **Information Quality:** Data có đủ accurate, complete, timely không? Source có reliable không? **- Bias Check:** Có đang bị thiên vị trong việc thu thập thông tin không? - **Stakeholder Analysis:** Ai bị impact? Power-Interest level? Conflict of interest nào cần lưu ý? - **Context Understanding:** Hiểu rõ bối cảnh, ràng buộc, điều kiện.|- **5 Whys + Fishbone Diagram**<br><br>- **First Principles Thinking**<br><br>- **MECE Framework**<br><br>- **Stakeholder Power-Interest Grid**<br><br>- **Information Quality Assessment**<br><br>- **Systems Thinking Canvas**<br><br>- **Problem Statement Template**<br><br>- **Data Validation Checklist**<br><br>---<br><br>Mục tiêu của tôi là:<br><br>Hãy giúp tôi giải quyết vấn đề trên<br><br>Nhưng đầu tiên hãy tách lớp thành cấu trúc 4-5 phần quan trọng nhất tác động đến B ....... (sắp xếp theo thứ tự)<br><br>Trong mỗi cấu trúc nhỏ chỉ rõ kết quả đầu ra rõ ràng|- **Định nghĩa sai vấn đề:** Giải quyết triệu chứng thay vì nguyên nhân gốc rễ. - **Thiếu thông tin/Thông tin sai lệch:** Quyết định dựa trên dữ liệu không đầy đủ hoặc không chính xác. - **Thiên vị xác nhận (Confirmation Bias):** Chỉ tìm kiếm thông tin xác nhận niềm tin có sẵn. - **Analysis Paralysis:** Phân tích mãi không xong.|✅ Problem statement validated by 2+ stakeholders✅ Root cause identified with confidence ≥70%✅ Key information gaps filled✅ Stakeholder analysis completed|**Trigger:** New critical info → Loop back để update understanding**Micro-loop:** Refine problem definition**Macro-loop:** Từ Tầng 3 feedback về missing information|
 |**3.** OUTSIDE THE BOX THINKING (10%) - TƯ DUY TÁC PHẨM. - MỤC TIÊU X3, GIẢI PHÁP X3|Tầng này tạo ra và đánh giá các phương án sáng tạo và đột phá cho vấn đề phức tạp (chỉ áp dụng cho Innovation Track).|- **Divergent Thinking:** Đã tạo ra ≥5 phương án khác biệt chưa? Có phương án nào "outside the box"? - **Innovation Potential:** Có tận dụng được tech/trend mới không? Có potential tạo competitive advantage? - **Scenario Planning:** Best/Worst/Most likely scenarios? Contingency cho mỗi scenario?<br><br>**Phá vỡ tư duy cũ: kẻ phá cách (Break patterns)** Ví dụ: Đặt câu hỏi "Nếu không làm thế này thì sao?", hoặc "Nếu mọi thứ ngược lại thì thế nào?"<br><br>**Kết nối những thứ không liên quan (Making unusual connections)** Ví dụ: "Nếu kết hợp điện thoại và máy ảnh, chúng ta được gì?"<br><br>**Nhìn vấn đề ở góc độ mới (Change perspectives)** Ví dụ: "Khách hàng sẽ nhìn sản phẩm này ra sao? Người già sẽ thấy gì?"<br><br>**Đơn giản hóa hoặc phức tạp hóa vấn đề (Simplify or complicate)** Ví dụ: "Nếu sản phẩm này chỉ có 1 tính năng thì sao? Nếu thêm 10 tính năng thì sao?"|- **Design Thinking Process**<br><br>- **SCAMPER Technique**<br><br>- **Brainstorming**<br><br>- **Brainwriting**<br><br>- **Mind Mapping**<br><br>- **Concept Mapping**<br><br>- **Scenario Planning Matrix**<br><br>- **Innovation Canvas**<br><br>- **Blue Ocean Strategy**<br><br>- **Jobs-to-be-Done Framework**|- **Functional Fixedness:** Kẹt trong tư duy cũ.- **Groupthink:** Tư duy đồng nhất.- **Risk Aversion:** Sợ ý tưởng táo bạo.- **Perfectionism:** Tìm kiếm giải pháp hoàn hảo thay vì good enough.|✅ Minimum 3 viable + 2 breakthrough options✅ Scenario analysis completed✅ Innovation potential assessed✅ Creative constraints identified|**Trigger:** Insufficient options → Loop back để brainstorm thêm**Micro-loop:** Expand creative thinking**Macro-loop:** Từ Tầng 4 feedback về option viability|
 |**4. Đánh Giá & Phân Tích** (30%)|Tầng này đánh giá chi tiết các phương án dựa trên tiêu chí khách quan.|- **Evaluation Criteria:** Criteria có SMART và weighted không? Có cân nhắc short-term vs long-term impact?- **Quantitative Analysis:** ROI, NPV, Payback period? Risk probability × impact?- **Qualitative Assessment:** Strategic fit? Cultural fit? Implementation complexity?- **Sensitivity Analysis:** Key assumptions là gì? Nếu sai thì sao?|- **Multi-Criteria Decision Analysis (MCDA)**<br><br>- **Weighted Decision Matrix**<br><br>- **SWOT + TOWS Analysis**<br><br>- **Cost-Benefit Analysis + NPV**<br><br>- **Risk Assessment Matrix**<br><br>- **Sensitivity Analysis**<br><br>- **Monte Carlo Simulation**<br><br>- **Real Options Valuation**<br><br>- **Pugh Matrix**|- **Analysis Paralysis:** Phân tích quá chi tiết.- **Overconfidence Bias:** Quá tin vào số liệu.- **Anchoring:** Bị ảnh hưởng bởi số đầu tiên.- **Sunk Cost Fallacy:** Tiếp tục đầu tư vào phương án tệ vì đã bỏ nhiều công sức.|✅ Top 3 options scored with confidence ≥70%✅ Risk assessment completed✅ Sensitivity analysis performed✅ Evaluation criteria validated|**Trigger:** Inconsistent results → Loop back để refine analysis**Micro-loop:** Adjust scoring criteria**Macro-loop:** Từ Tầng 5 feedback về analysis quality|
@@ -1579,6 +2670,14 @@ Chi tiết nghiên cứu xem tại: https://github.com/DoanNgocCuong/home/tree/m
 #### Các tiêu chí đánh giá Framework Quyết định phiên bản 10/10
 
 Loading Sheets. Please try again after it's finished.
+
+#### SIMULATION: Lấy ý tưởng từ việc GIẢ LẬP ĐẦU TƯ - MONEYOsophy module 2.
+
+|   |   |
+|---|---|
+|Simulated Problem|Optional|
+|Tình huống giả lập – “Bước rẽ năm 2027”<br><br>Bối cảnh:<br><br>- Năm 2027, bạn 24 tuổi, đang là Tech Lead AI với thu nhập 42 triệu/tháng (35 chính + 7 freelance).<br>    <br>- Mục tiêu dài hạn: **FIRE 15 tỷ vào 2040**, dựa trên 3 giai đoạn Lean – Regular – Fat FIRE.<br>    <br>- Bạn đã xây dựng thương hiệu cá nhân trên LinkedIn (\~5000 followers) và có 1 AI product/service nhỏ.<br>    <br>- Nguyên tắc sống: Nhất Hướng hướng về Tự do tài chính, Sức khỏe, MQH chất lượng, và Tâm trí tự tại.<br>    <br><br>**Tình huống xảy ra:**<br><br>Một công ty BigTech quốc tế mời bạn sang Singapore làm Senior AI Researcher.<br><br>- **Offer**: 110 triệu VND/tháng (net), 2 năm hợp đồng, bonus \~3 tháng lương/năm.<br>    <br>- **Điều kiện**: Không được vận hành công khai AI startup hiện tại trong thời gian hợp đồng.<br>    <br>- **Cơ hội**: Tiếp cận công nghệ cutting-edge, mở rộng network quốc tế, tăng kỹ năng R\&D.<br>    <br>- **Rủi ro**:<br>    <br>    - Gián đoạn 2 năm phát triển sản phẩm AI riêng → mất đà thị trường.<br>        <br>    - Không trực tiếp phát triển kênh thu nhập thụ động từ business → chậm mục tiêu FIRE.<br>        <br>    - Chi phí sống ở Singapore cao → tiết kiệm không quá đột phá nếu không quản lý tốt.<br>        <br>- **Điểm cộng**:<br>    <br>    - Thu nhập cao hơn gấp \~2,6 lần hiện tại.<br>        <br>    - Môi trường học hỏi cực mạnh, cơ hội tìm co-founder quốc tế.<br>        <br>    - Cơ hội PR cá nhân trong cộng đồng AI quốc tế.|1. LifePurpose (2x): **Đánh giá:** 6/10 → vì tài chính tăng, nhưng mất nhịp tích lũy dài hạn và không trực tiếp đẩy Nhất Hướng.<br><br>2. NotDoing: 4/10<br>    <br><br>“Không làm chẳng sao, để ưu tiên dài hạn” → nghĩa là rủi ro thấp, hậu quả không nghiêm trọng.<br><br>3. Doing: **Đánh giá:** 8/10 (lợi ích tài chính mạnh, nhưng đánh đổi rõ ràng).<br>    <br><br>  <br><br>=> **Kết quả:** Importance = [0(2×6)+4+8] / 4 = **6** **6/10** → Dưới ngưỡng 7/10 → _không nên ưu tiên cao_.<br><br>=> KL:<br><br>- Với Importance = 6, nếu dùng nguyên tắc của bạn, quyết định **đi Singapore** không nằm trong top ưu tiên dài hạn.<br>    <br>- Nếu đi, phải biến nó thành **đòn bẩy**:<br>    <br>    - Xây network để 2 năm sau quay về khởi nghiệp mạnh hơn.<br>        <br>    - Tích lũy vốn đầu tư FIRE.<br>        <br>- Nếu ở lại, cần **chiến lược X3 thu nhập tại VN** trong 2 năm bằng AI product, consulting, và xây kênh thu nhập định kỳ.|
+|1 tình huống chọn ny (chọn giữa 2-3 cô gái và chọn có đợi tiếp tương lai ko )<br><br>**Bối cảnh:**<br><br>- Bạn 25 tuổi, đã có sự nghiệp AI ổn định (thu nhập tốt, mục tiêu FIRE rõ ràng).<br>    <br>- Nguyên tắc sống: Nhất Hướng gồm **Tự do tài chính – Sức khỏe – Mối quan hệ chất lượng – Tâm trí tự tại**.<br>    <br>- Bạn gặp 3 cô gái, mỗi người có ưu & nhược riêng, và cả 3 đều có tiềm năng trở thành bạn đời.<br>    <br><br>  <br><br>**C1 – Minh Anh**<br><br>- Tính cách: Năng động, ham học hỏi, sẵn sàng đồng hành cùng bạn trong công việc AI/Startup.<br>    <br>- Điểm cộng: Có kiến thức tài chính, hỗ trợ được mục tiêu FIRE, tư duy dài hạn.<br>    <br>- Điểm trừ: Chưa thực sự kiên nhẫn trong việc xử lý stress.<br>    <br><br>**C2 – Thu Trang**<br><br>- Tính cách: Dịu dàng, quan tâm, chăm sóc sức khỏe & tinh thần tốt.<br>    <br>- Điểm cộng: Giúp bạn cân bằng tâm trí, sức khỏe.<br>    <br>- Điểm trừ: Ít hứng thú với công nghệ/khởi nghiệp, khó chia sẻ tầm nhìn FIRE.<br>    <br><br>**C3 – Mai Ly**<br><br>- Tính cách: Quyết đoán, có sự nghiệp riêng (MC, KOL).<br>    <br>- Điểm cộng: Mối quan hệ xã hội rộng, có thể giúp bạn mở rộng network.<br>    <br>- Điểm trừ: Công việc bận rộn, ít thời gian cho gia đình.||
 
 ### 2.2.3 PROBLEM SOLVING VÀ ĐỘNG LỰC THỰC THI - ĐÒN BẨY ĐỘNG LỰC THỰC THI - LÀM ĐIỀU ĐÚNG ĐẮN, TUẦN TỰ LIÊN TỤC NHẤT QUÁN KHÔNG DỪNG LẠI - TRẢI NGHIỆM HAY TRỞ THÀNH: KẾ HOẠCH KO THỂ THÀNH NẾU THIẾU THỰC THI. nguyên lý: RÈN LUYỆN TRÍ NHỚ CHÁNH = VIỆC ĐO LƯỜNG, TRACKING, CHECKIN, MÔI TRƯỜNG MẠNH HƠN Ý CHÍ, CHÚ TÂM LIÊN TỤC KHÔNG TẬP TRUNG.
 
@@ -1641,7 +2740,7 @@ Nguyên tắc: KO OT.
 
   
 
-![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ZjRjZGU4NDY5NjYyMTY3ZTU5MjU3NGVmY2Q5NjdhNDFfeGF1Zko3eFhPZ1hWeUNZQ1BXVEY0UTlZWkx1YUFkd0NfVG9rZW46TmVmUWI1dDNOb2MxVTZ4b2VCWGxmVXkwZ3ZmXzE3NTQ3MzMyMjI6MTc1NDczNjgyMl9WNA)
+![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NDdiOWZhY2I2OTI2ZjY2MjliNzMwNzhiZDI5MTM4YWNfczVvc01ENWlucmhDZnFRSnpYZnRWRlpwQktXNEdVUzZfVG9rZW46TmVmUWI1dDNOb2MxVTZ4b2VCWGxmVXkwZ3ZmXzE3NTUzMzU0OTQ6MTc1NTMzOTA5NF9WNA)
 
   
 
@@ -1816,7 +2915,7 @@ Nguyên tắc: KO OT.
 
 **MINDSET: XUỐNG SÂN CỎ: TRẢI NGHIỆM HAY TRỞ THÀNH. (Muốn trở thành 1 nhà lãnh đạo, phải sở hữu TƯ DUY, LỐI SỐNG, CÁCH HÀNH ĐỘNG SUY NGHĨ CỦA HỌ. Nếu ko bạn chỉ đang mong muốn trải nghiệm chứ không thể trở thành)**
 
-![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MDExMjEyYzg5NzlmYmEyZGFjZTQ2Yzg3MjUyNTcwZGNfNDk2T0VobFRTYWdrYmFZZzZCcG82YWJmYUxtOEJNZmdfVG9rZW46S0N4dGJSbnd1b21MQVN4TWVUN2wxYkcwZzkyXzE3NTQ3MzMyMjI6MTc1NDczNjgyMl9WNA)
+![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ZWVhYzVhODE1MmNiZjAyNDcyNjAyMjBlMGE3ODI5OThfUXNETTJnYVBHRXNXRVpJcHhVWUFTeFE5QVk0OXhGUWpfVG9rZW46S0N4dGJSbnd1b21MQVN4TWVUN2wxYkcwZzkyXzE3NTUzMzU0OTQ6MTc1NTMzOTA5NF9WNA)
 
   
 
@@ -1834,15 +2933,151 @@ https://csg2ej4iz2hz.sg.larksuite.com/sync/HFmVdWUQBsuVpAbdIBllwaKeg7c
 
 [https://csg2ej4iz2hz.sg.larksuite.com/sync/UpajdHbpBsKDJibOdzAlKDThgnh](https://csg2ej4iz2hz.sg.larksuite.com/sync/UpajdHbpBsKDJibOdzAlKDThgnh)
 
-  
+![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MjI0MTZjMjRkYjYxYzJiYTNhOGM4YTM0ZTBhOTc2MTJfSVFibVJvWnVTUWJrZDQzb3N2cTNGaThueGRxNjhQUDdfVG9rZW46RWhzZWJjWUxVb2JVYUR4VWtycGxYS29IZ2xRXzE3NTUzMzU0OTQ6MTc1NTMzOTA5NF9WNA)
 
   
 
-#### Use cases:
+#### Use cases Kaizen:
+
+> 1. Chạy đo được => đợt K8 mỗi ngày tăng 100-200m.
+>     
+> 2. Đợt K18 : mỗi ngày cũng đặt mục tiêu tăng 100-200m, nhưng quen rồi, nên là cứ xỏ giày vào chạy tối đa + sao cho hôm sau phải hơn hôm trước => 2km-3km-5.5km luôn.
+>     
+> 3. Yahho đến 1 lúc ko chịu cập nhật.
+>     
+> 4. The Coach liên tục ra những sản phẩm mới: IELTS Coach, Onion World, Robot (chỉ trong vòng 6 tháng mình ở công ty thấy công ty ra 4 phần mới VÀ ĐỀU ĐÃ CÓ MVP nó mới kinh).
+>     
+> 5. Đăng bài đều đặn trong GROUP: HỌC TIẾNG ANH + CHỦ ĐỘNG TẠO POST ở HỌC AI + Đăng bài RÈN LUYỆN trong BTC GOSINGA - 22/01/2025:
+>     
+> 6. Tui tính như này. @zackerville Ae nào làm trước thì ghi GROUP 4: NLP, Large Language Models. Xong nộp bài và tag 1 ae. https://youtu.be/rhinwC4Eyy4?feature=shared
+>     
+> 7. Xin lỗi cả team nay em điền muộn ạ. Cảm ơn anh @Hoang Duc Minh đã gọi em ạ. 🥹
+>     
+> 8. Em cảm ơn anh Cường nhiều ạ, lần đầu được cầm luồng 1 sản phẩm cũng thích phết ạ
+>     
+> 
+> (đi cùng với nó là các bugs và vấn đề cần xử lý ạ) 😃
+> 
+> Dạ vâng ạ, em cảm ơn anh nhiều ạ.
+> 
+> Nhiều chỗ em còn yếu, vẫn còn ngại đi xin feedback mọi người sợ bị ace xiên 🐧 ======== Tính ra nói xin lỗi cảm ơn ace trong X3 rất dễ và rất thoải mái, còn ở công ty: xin lỗi ngại, cảm ơn ngại, xin feedback ngại. Ở nhà thì ban đầu: nói cảm ơn ngại, xin lỗi ngại, feedback ngại (cảm ơn hồi này ngon rồi, cảm ơn bố mẹ ace suốt).
+> 
+> 9. Tối ưu 60s còn 10s + (team AI thì có em Intern, 1 PO, 1PM) nói chung phần AI này em lên plan rồi tự quẩy, tự connect các bên. Vì AI là core rồi nên là contribute của em vào sản phẩm là khoảng 40-50% (ngoài ra còn các bên Học thuật, BE, FE, ...)\
+> 
+> 10. ...
+>     
+> 11. Đánh giá thử: - Ngủ: thường ae ngủ mình ngủ: Sáng, Đêm => Ra quán => Còn chiều và tối? - Đ: ko ae nào ở nhà/đêm: => Ra quán => Ở nhà nếu: Chiều và tối + có người ở nhà - Ồn: tối => **Ở nhà nếu: Chiều/Tối + Có người ở nhà + Ko ồn. (Kaizen, Hệ thống, Quy trình làm 1 lần xài N lần).**
+>     
+> 12. [KAIZEN CUỐI TUẦN] => VẤN ĐỀ GIẢI PHÁP - 2 GIÁ TRỊ - 3 DẪN CHỨNG
+>     
+> 
+> Em đề xuất thêm 1 buổi (khoảng tối đa 30mins), team ngồi report, tự Kaizen với nhau vào thứ 6 ạ.
+> 
+> <Có thể là anh Cường, a Trúc bận thì không tham gia cũng ukila ạ. 4 đứa tụi em triển ạ>
+> 
+> ---
+> 
+> Value:
+> 
+> 13. Mn có những góc nhìn khác có thể improve cho nhau.
+>     
+> 
+> - Chẳng hạn như việc: Chúng ta thường giỏi hơn trong việc giải quyết vấn đề, đưa lời khuyên cho người khác.
+>     
+> 
+> +, Dẫn chứng: Khi em ở với đứa bạn ở chung, vấn đề của đứa kia mình lại là đứa đưa góc nhìn giúp nó gỡ
+> 
+> 2. Tăng tốc độ nhận feedback và kaizen chéo.
+>     
+> 3. Đội nhóm hiểu các phần việc của mn đang làm hơn, dễ phối hợp khi cần ạ.
+>     
 
 [https://csg2ej4iz2hz.sg.larksuite.com/sync/JKzMd2YY5sJeJJbxktllIVLYgtb](https://csg2ej4iz2hz.sg.larksuite.com/sync/JKzMd2YY5sJeJJbxktllIVLYgtb)
 
 #### Use Cases:
+
+> - SMART: Tháng 10 năm sau anh muốn ký giấy kết hôn với em.
+>     
+> 
+> 1. Ngay từ năm 3 đã chạy thêm đồ án: 1 triệu rưỡi, 2 triệu. Lên năm 4 làm đồ án: 3 triệu, 4 triệu rưỡi, 10 triệu, ... => Đây cũng là cách trong 6 tháng cuối năm : lương cứng 30 triệu + 3 đồ án: 2 triệu, 4 triệu rưỡi, 3 triệu rưõi, dạy thêm 2 triệu => 40 triệu.
+>     
+> 2. Ngay từ năm 3 đã chạy thêm đồ án: 1 triệu rưỡi, 2 triệu. Lên năm 4 làm đồ án: 3 triệu, 4 triệu rưỡi, 10 triệu, ... => Đây cũng là cách trong 6 tháng cuối năm : lương cứng 30 triệu + 3 đồ án: 2 triệu, 4 triệu rưỡi, 3 triệu rưõi, dạy thêm 2 triệu => 40 triệu.
+>     
+> 3. KẾ HOẠCH BÍ NGÔ:
+>     
+> 
+> SẾP TRẦN QUỐC HUY: [https://www.linkedin.com/posts/huytq_wecommit100xshare-activity-7315652386729906177-7Lyk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC3wojwBYfkOk3q0b6y8Z_UF_N5ELvjQYVI](https://www.linkedin.com/posts/huytq_wecommit100xshare-activity-7315652386729906177-7Lyk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC3wojwBYfkOk3q0b6y8Z_UF_N5ELvjQYVI)
+> 
+> Tôi mất 9 năm xây dựng sự nghiệp và bạn chỉ cần 5 phút để đọc đúc kết này.
+> 
+> Đây là lý do phần lớn anh em Dev nhảy ra ngoài tự làm và cuối cùng chẳng thấy tiền đâu cả.
+> 
+> 4. Tập trung vào làm những dịch vụ Outsourcing giá rẻ.
+>     
+> 
+> Khi thành lập Wecommit vào 2016, tôi sợ rằng sẽ không có công ty nào sử dụng dịch vụ tối ưu Database của mình cả, do đó tôi hướng tới cung cấp các dịch vụ giá thấp thôi, khách hàng nào cũng được.
+> 
+> Nhưng tôi thấy rằng, khách hàng trả càng ít tiền, họ lại càng có nhiều yêu cầu vô lý, họ khó tính hơn và thường quan tâm nhiều tới "quá trình làm", thay vì tập trung ở kết quả.
+> 
+> Các khách hàng này chiếm hết thời gian, tốn hết tất cả năng lượng mỗi ngày, tôi và anh em không còn khoảng trông để đi tìm khách hàng mới. Cũng chẳng có thời gian để R&D phát triển thêm chất lượng dịch vụ.
+> 
+> Sau đó tôi chuyển chiến lược, tập trung vào khách hàng cao cấp, họ quan tâm tới KẾT QUẢ và sẵn sàng trả nhiều $$ nếu chúng tôi cung cấp 1 dịch vụ vượt trội.
+> 
+> Mọi thứ quanh sự nghiệp của tôi khác hẳn từ đó.
+> 
+> 5. Làm nhiều thứ khác nhau là dễ tự toạch
+>     
+> 
+> Sau một thời gian làm việc với khách hàng, tôi có sự tin tưởng từ kết quả các dự án trước đó, và tôi được biết nhiều hơn về những kế hoạch dự án tới của khách hàng.
+> 
+> Tôi biết được các dự án mà khách hàng sẽ dự định triển khai trong năm tới.
+> 
+> Thường chỗ này anh em sẽ cố nhảy vào nhận hết, xin dự án để được làm mà đôi khi dự án ấy lại không thuộc sở trường của mình.
+> 
+> Đây là thứ rủi ro lớn vãi chưởng. Vì lúc này anh em đã rời xa CORE VALUE, rời xa thứ thật sự mà khách hàng trả tiền và tìm tới mình.
+> 
+> Tôi đem giới thiệu các dự án đó cho những bạn bè và đối tác của mình chứ không nhận làm.
+> 
+> Mọi việc lại dễ thở hơn và tốt đẹp.
+> 
+> 6. Lúc ban đầu cung cấp 1 lố dịch vụ, cái gì cũng có
+>     
+> 
+> Những năm đầu tiên, trong danh mục dịch vụ của Wecommit có rất nhiều hạng mục
+> 
+> - Tối ưu Database
+>     
+> - Triển khai các mô hình có tính sẵn sàng cao
+>     
+> - Đào tạo cho doanh nghiệp
+>     
+> - Dịch vụ tư vấn
+>     
+> 
+> Làm 1 hồi chẳng thấy $$ đâu cả.
+> 
+> Tôi chuyển thành tập trung làm 1 thứ và hướng tới 1 tập khách hàng (công ty tài chính).
+> 
+> Tôi đỡ tốn thời gian giải thích về việc mình làm gì, mạnh nhất là gì.
+> 
+> Khách hàng đến với tôi là họ hiểu ngay sẽ dùng dịch vụ gì.
+> 
+> Làm 1 sản phẩm, cho 1 khách hàng và $$$ về thật, một thời gian sau thì về nhiều.
+> 
+> Kết luận: Một số đúc kết của tôi
+> 
+> - Xây dựng sự nghiệp là 1 bài toán chiến lược và nó giống như ta xây 1 SYSTEM, chứ không phải là chỉ có mỗi chuyên môn.
+>     
+> - Làm ít hơn đôi khi lại có kết quả nhiều hơn.
+>     
+> - Chiến lược, System quan trọng hơn là chuyên môn
+>     
+> 
+> Nếu bạn muốn nhận thêm các chia sẻ về kinh nghiệm xây dựng sự nghiệp cho lập trình viên, hãy kết nối với tôi nhé.
+> 
+> hashtag#wecommit100xshare
+> 
+> Show translation
 
 [https://csg2ej4iz2hz.sg.larksuite.com/sync/D5JydwH1PsRyalbARXnl01J1gVb](https://csg2ej4iz2hz.sg.larksuite.com/sync/D5JydwH1PsRyalbARXnl01J1gVb)
 
@@ -1916,7 +3151,20 @@ https://flowcv.com/resume/uvu27vsw0l
     4. **Community & networking tốt** (nhưng phần mentor thực chiến chưa sâu, chủ yếu tự học, tự làm)
         
 
-5. ## **Business Model:**
+  
+
+> 20251008:
+> 
+> 1. **Focus the** **`main job`** **at the company => Write a PROBLEM SOLVING diary => Level Up Problem Solving Skills in both Technology and Mind.**
+>     
+> 2. **English fulltime**
+>     
+> 3. **AIO - MLOps - System Design - Database Optimization - full tối T2-tối CN. + Cả ngày CN**
+>     
+> 4. **Finance: Full cuối tuần thứ 7.**
+>     
+
+2. ## **Business Model:**
     
 
 https://chatgpt.com/g/g-6889d46ba27c81918104714e2b9ebb49-das-vn-cabis-strategy
@@ -1981,7 +3229,7 @@ This content is only supported in a Lark Docs
 
   
 
-![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NGI4MzI4NGVmM2IzZjc5ODdiYWI4NzNkMjE4NDg0ZWJfWWRqU2h0bXcydTRBS1JTRTV6alRGN0lhVUJSTTZxeGVfVG9rZW46WHExdGJmNGtYb3VlbnR4b3MxVmxZUmpVZ0NmXzE3NTQ3MzMyMjI6MTc1NDczNjgyMl9WNA)
+![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NDcyMTI4NzRlNTI4ZWYxN2EzYzZjZDIxYTc0YTlhNWVfVHlUSlZEMFZReEhmNW02eDQzNEViRHllR3UzVU5yRDZfVG9rZW46WHExdGJmNGtYb3VlbnR4b3MxVmxZUmpVZ0NmXzE3NTUzMzU0OTQ6MTc1NTMzOTA5NF9WNA)
 
 Thiết kế 1 giải pháp giá trị cao trước, bán nó cho khách hàng kim cương => Cắt nội dung ra để làm cộng đồng.
 
@@ -2131,822 +3379,6 @@ This content is only supported in a Lark Docs
 # Chiến lược và tính toán theo các giai đoạn:
 
 [https://csg2ej4iz2hz.sg.larksuite.com/sync/H5RBdxgEMsOkoQbLUOAlTT9wg08](https://csg2ej4iz2hz.sg.larksuite.com/sync/H5RBdxgEMsOkoQbLUOAlTT9wg08)
-
-  
-
-  
-
----
-
-  
-
-  
-
-  
-
-# **1.0 TỨ NIỆM XỨ: NHẤT HƯỚNG LY THAM ĐOẠN DIỆT, AN TỊNH, THẮNG TRÍ, GIÁC NGỘ, NIẾT BÀN >< SÂN SI SỢ**
-
-## 1. VĂN TUỆ: MỤC ĐÍCH CUỘC SỐNG => Chấm dứt việc băn khoăn - Không bao giờ chủ quan trong tu tập cẩn thận khủng hoảng những năm tháng về sau.
-
-  
-
-[3. P1.1 [MỤC ĐÍCH CUỘC SỐNG]_TsTỳ Kheo Nguyên Tuệ-Gosinga.](https://youtube.com/playlist?list=PLfFdoGwLbh5UvpnaQ3Pk6EUoYhdzS_JyX&feature=shared)
-
-  
-
-MỤC ĐÍCH CUỘC SỐNG: CHẤM DỨT KHỔ(Con người không có mong muốn ĐI TÌM KIẾM HẠNH PHÚC, họ chỉ mong muốn CHẤM DỨT KHỔ MÀ THÔI. Vô Minh: TÌM KIẾM niềm vui hạnh phúc chỉ ĐỔI KHỔ NÀY LẤY KHỔ KHÁC, KO BAO GIỜ chấm dứt được khổ. THỰC TẠI LÀ CẢM THỌ: NIỀM VUI HẠNH PHÚC LÀ CẢM GIÁC, là tâm, có vị ngọt, VỊ NGỌT không nguy hiểm, THAM ÁI VỊ NGỌT thì nguy hiểm, ĐẶT ĐẦU HẠNH PHÚC XUỐNG tức là "KO THAM ÁI VỚI LẠC THỌ", chứ không phải "TỪ BỎ LẠC THỌ").
-
----
-
-1. **Dẫn chứng: Khi lên cơn nghiện chúng ta chỉ dùng tình dục để chấm dứt khổ chứ chẳng ai lúc ko bị cảm giác khó chịu mà đem tình dục ra làm suốt ngày cả.**
-    
-
-  
-
-![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=YmI4ZjE4NjM4MDU2ZGYwZjViNWE4MzUxMmRkYWVjZThfYWxKaEF0aDdYOFNIOEVxQWpHZWRScDEzdVExVmVTYnVfVG9rZW46S1BVcWIzaWN6bzd5Ukx4T2l2OWxNcURvZ1hnXzE3NTQ3MzMyMDA6MTc1NDczNjgwMF9WNA)
-
-  
-
----
-
-## 2. TƯ TUỆ - TRẠCH PHÁP:
-
-[3. P1.2 Tư Tuệ Trạch Pháp_TsTỳ Kheo Nguyên Tuệ-Gosinga.](https://www.youtube.com/playlist?list=PLfFdoGwLbh5VJth0HzZd0aSSLpD-vKduK)
-
-![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NGI3Mzg3ZTg3ZjcwODQzYzhjM2M4YzE3ZGQ2MDZhMDlfekVQbWY1SlYwQzB4VXQ0M2NibTZ1dFVZNVZLTnY1NGhfVG9rZW46S2RrM2JvSDlLbzlBVkF4Z3pJbWxmZ2hxZ0NoXzE3NTQ3MzMyMDA6MTc1NDczNjgwMF9WNA)
-
-  
-
-[LẶP ĐI LẶP LẠI TIẾN TRÌNH QUY NẠP - DIỄN DỊCH - KAIZEN]
-
-1. QUY NẠP: QUAN SÁT - PHÂN TÍCH - ĐÚC KẾT
-    
-2. DIỄN DỊCH: KẾT LUẬN được ỨNG DỤNG MỌI TRƯỜNG HỢP => ĐÚNG/SAI
-    
-3. KẾT LUẬN: DO CÁI GÌ CÓ MẶT MÀ CÁI KIA CÓ MẶT, DO CÁI GÌ KHÔNG CÓ MẶT MÀ CÁI KIA KHÔNG CÓ MẶT
-    
-
----
-
-Mối quan hệ với các thành phần:
-
-1. TIẾN TRÌNH HỌC: MENTOR - VĂN TƯ TU (HỌC HIỂU HÀNH) - DỰ ÁN THẬT - CHIA SẺ LẠI.
-    
-2. Học tập có HƯỚNG, TUẦN TỰ, LIÊN TỤC, NHẤT QUÁN.
-    
-3. GIẢI QUYẾT VẤN ĐỀ: QUAN SÁT PHÂN TÍCH ĐÚC KẾT để tìm ra: VẤN ĐỀ NGUYÊN NHÂN GIẢI PHÁP BÀI HỌC. Để làm toàn bộ các tasks được hiệu quả.
-    
-
-https://csg2ej4iz2hz.sg.larksuite.com/sync/E7nGdmPvMsPx48bItnxlyIJ3gCg
-
-#### CÔNG THỨC TRẠCH PHÁP
-
-ĐỀ MỤC 0. CÔNG THỨC: LIỄU TRI VẤN ĐỀ VÔ MINH VÀ MINH - Hiểu đúng TÊN GỌI VÀ NỘI HÀM - Một việc không có Vô Minh hay Minh, chỉ có HIỂU BIẾT VỀ VIỆC ĐÓ mới có Vô Minh hay Minh. 1. Tuệ Tri Vấn Đề chưa? (1.Vô Minh 2.Minh (TRÍ TUỆ, CHÁNH KIẾN) 3. Lưu ý + Ví dụ.) 2. Tuệ Tri 3 Nguyên Nhân chưa? (Từ góc độ Vô Minh). 3. 3 Giải Pháp chưa? (Theo LÝ DUYÊN KHỞI, TRÍ TUỆ, CHÁNH KIẾN) 4. Con Đường Đoạn Diệt chưa?: Lộ trình tâm, tứ niệm xứ, bát chánh đạo.
-
-## 3. TU TUỆ: THÂN - THỌ - TÂM - PHÁP - TUẦN TỰ, LIÊN TỤC.
-
-  
-
-### 3.1 KHỔ THỌ TÌNH DỤC và TÂM SI (Trở ngại lớn nhất) VẤN ĐỀ LỚN NHẤT: CẢM GIÁC TÌNH DỤC KHỔ THỌ TRÊN THÂN - THẤT THOÁT TINH KHÍ THẦN - HỶ LẠC NỘI TÂM - NỘI LỰC HẠNH PHÚC BÊN TRONG, ĐỘNG LỰC BỀN VỮNG => dùng TD hoặc dùng TÂM ĐÁNH BẠI TÂM.
-
-1. CẢM GIÁC NỔI TRỘI. **(Có thể dùng 4 loại động lực chính để tạo).**
-
-2. TOẠ THIỀN THƯỜNG XUYÊN => để khắc sâu bộ nhớ, từ đó lúc BUỒN KHỔ, TÂM SI khởi lên mới đối trọi được.
-
-**THỰC HÀNH THÂN THỌ TÂM PHÁP** 1. QUÁN THÂN: NHẮC THẦM THẤY RÕ CẢM GIÁC NỔI TRỘI, Có Tầm Có Tứ - Automatic, ĐỂ TỰ NHIÊN, Ko Tầm Ko Tứ. - BẮT ĐẦU: THƯ GIÃN THẢ LỎNG, "BUÔNG BUÔNG". - CẢM GIÁC NỔI TRỘI NƠI THÂN: cảm giác Nín thở, Ngậm chặt răng lưỡi, Nghe nhạc nơi tai, cảm giác nắm nắm bàn tay xoa tay. CẢM GIÁC PHÁP TRẦN, THAM SÂN SI - BUÔNG BUÔNG. ()
-
-  
-
-**Bổ sung thêm:**
-
-> - NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI" đan xen: 1. cảm giác NGƯNG THỞ, 2. Cảm giác Chuyểnđộng TOÀN THÂN <gồm cảm giác nơi 6 xúc xứ: cảm giác hình ảnh, cảm giác âm thanh>, 3. ĐỂ TỰ NHIÊN (theo nhịp thở đi làm việc, bút vẽ lên xuống, xoay tròn sang ngang. VÔ NGƯNG RA NGƯNG). - TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC ; 2. Tuệ tri TÂM TRẠNG TÍCH CỰC VUI THOẢI MÁI
-
-> THỰC HÀNH:
-> 
-> 1. Tuệ tri CẢM GIÁC NỔI TRỘI và sự CHÚ TÂM LIÊN TỤC. - Case: khi mình nắm nắm bàn tay để tạo cảm giác nổi trội nơi tay
->     
-> 2. Tuệ tri TÂM TRẠNG TÍCH CỰC VUI THOẢI MÁI
->     
-
-- Lời nhắc - Nhạc: Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời).
-
-  
-
-**BÀI TOÁN GẶP NHIỀU: KHỔ THỌ TÌNH DỤC. ? LỜI GIẢI NHƯ NÀO.**
-
-**1. Là có thông tin tác động tới THÔNG TIN PHÁP TRẦN TÌNH DỤC**
-
-**2. Là TÂM SI - CHÁN NẢN - theo thói quen tìm THAM, tìm đến CẢM GIÁC PHÁP TRẦN TD. ĐẨY CẢM GIÁC SỢ, CÓ RỒI LẠI MUỐN CÓ THÊM; CHỈ ĐỔI KHỔ NÀY LẤY KHỔ KHÁC:**
-
-> - KHÓ QUÁ: (cùng đường, gặp bài toán khó, stress ko hướng giải quyết, rối ngợp vì quá nhiều thứ) => NGỦ 1 GIẤC SÂU SẠC 300% PIN LOẠI BỎ HẾT NGỔN NGANG ĐẦU ĐƯỢC LÀM MỚI , khoảng lặng, nghỉ ngơi, thể thao, đọc sách, chạy bộ,thiền gosinga 9 ngày,... Case: Làm đồ án đến đoạn bi bí, hoặc giải 1 đề đến đoạn bi bí => TÌM KIẾM CẢM GIÁC KHÓ CHỊU, BEGIN WITH THE END X3 IN MIND.
-> 
-> - NHÀN QUÁ:
-> 
-> +, Case: Sau bao ngày cày cuốc với mindset KẺ CHIẾN THẮNG => Tự nhiên dự án gần thành công thì mất đi cảm giác KẺ CHIẾN THẮNG => Tâm Si: KO THÍCH KO GHÉT NHƯNG TÌM KIẾM CẢM GIÁC DỄ CHỊU (Kẻ chiến thắng). +, Case: Không có việc gì làm => Mong muốn chuẩn bị cho tương lai => TÂM SI. +, Case: Không có việc gì quá gấp, ở nhà 1 mình => Cảm giác thói quen cũ ùa về, 1 cách vô thức xem đ đ đ.
-
-**3. THÔNG TIN PHÁP TRẦN TRONG QUÁ KHỨ -> RẤT DỄ THÍCH CON GÁI (các chị hơn 1-chục tuổi mà chưa gia đình, xinh xắn, mình vẫn có sự giao động. Đặc biệt là chị hơn 1-3 tuổi, 1-7 tuổi giao động vẫn rất mạnh, ... chưa nói đến em).**
-
-**4. VẤN ĐỀ THỜI GIAN: Thói quen này đã lặp lại gần 10 năm => Tiêu tốn rất nhiều thời gian, năng lượng, cơ hội của mình? => BẮT BUỘC PHẢI CHẤM DỨT ĐI!**
-
----
-
-  
-
-**GIẢI PHÁP CÀNH LÁ:**
-
-  
-
-1. BTĐ XẤU HỔ SỢ HÃI với BÊN NGOÀI => chuyển dần sang BCĐ HIỆP THẾ: xấu hổ sợ hãi với THAM SÂN SI của chính mình
-    
-
-> Ăn được bát cơm phở 50k LÀM 1 CÁI lại ra hết, mặt mụn như gẻ, mồm hôi người hôi thối như CỨT => Cơ thể bạc nhược yếu ớt, GẦY GÒ ngủ suốt ngày, phải ngủ bù năng lượng 3h, mất hết THẦN KHÍ ÁNH MẮT GIỌNG NÓI: LỜ ĐỜ LÈ NHÈ KO RA HƠI. => Yếu sl vợ nó bỏ, lục đục đủ điều CHIA TAY => NGHIỆN MA TUÝ, GÁI GÚ CỜ BẠC: gầy dơ xương MA TUÝ ĐÁ ĐI TÙ bị đánh như chó CHẾT BỜ BỤI => Dễ NHẠY CẢM, ĐÀO HOA trước vẻ ngoài da thịt con gái => Mất thời gian, mất năng lượng, CẢM GIÁC TÌNH DỤC QUÁ DỄ SINH KHỞI. (Tổn thương cơ quan sinh dục: Gây viêm nhiễm, sẹo và tổn thương mô. => CẮT CHIM KO LÀ TOÀN THÂN BỊ NHIỄM TRÙNG. Suy giảm sức khỏe tổng thể: Mệt mỏi, suy nhược và giảm khả năng miễn dịch. => LIỆT DƯƠNG, CƠ THỂ NẰM LA LIỆT NHƯ NGƯỜI THỰC VẬT KO CÓ SỨC ĐỀ KHÁNG. Tác hại tinh thần: Gây trầm cảm, lo âu, cảm giác tội lỗi, lệ thuộc và ám ảnh. => KO DÁM GẶP AI, NGƯỜI HÔI THỐI, MẮT THÂM QUẦNG CỦA NGƯỜI THỦ. Tác hại xã hội: Ảnh hưởng đến công việc, học tập, cô lập xã hội, giảm chất lượng mối quan hệ. => CÔ LẬP, THẤT NGHIỆP, KO TIỀN KO MỐI QUAN HỆ, BỐ MẸ ACE HỌ HÀNG COI THƯỜNG). - Lên group18+ tìm bạn chat, show, KO BỀN DỄ TAN vì môi trường tìm bạn QUÁ THAM ĐẮM tỉ lệ độc hại cao(chat mình dám, còn gặp mình KO DÁM), FWB BỊ CẮT RỤNG CON CHIM, HIV-AIDS, FWB quen ny ĂN CỨT mãi ko có ny, Dính bầu với gái giang hồ về nó xiên chết cả nhà. <Content địa ngục>. Tình dục chỉ là 1 phần, 1 khía cạnh, ko nên là TOÀN BỘ cuộc sống. Có những giai đoạn như 95 tuổi bạn chỉ có thể nghĩ về nó hoặc nói về nó chứ ko thể làm, có giai đoạn trẻ bạn có thể sẽ rất say đắm. Tình dục THƯỚC ĐO SỰ KIỀM CHẾ, BÁT CHÁNH ĐẠO. Không chỉ tinh trùng mà tất cả tế bào đều là những nguyên liệu khác nhau tạo nên món súp khác nhau, TIỀM NĂNG TO LỚN.
-
-2. **BƯỚC VÀO TÌNH YÊU HÔN NHÂN - CÁC DỤC VUI ÍT KHỔ NHIỀU, NÃO NHIỀU, NGUY HIỂM CÀNG NHIỀU [NGỌT KO KHỔ, THAM ÁI VỊ NGỌT MỚI KHỔ] => MỞ RỘNG RA ĐỘI NHÓM** **=> dùng TD vợ chồng - phương tiện để chấm dứt khổ (như đồng tiền): Có vị ngọt. Tham Ái Vị Ngọt thì khổ.** **=> Nếu chọn TYHN: nên chọn người cùng Pháp là tốt nhất.**
-    
-
-> 1. MỞ PHỄU ĐÚNG THỊ TRƯỜNG: VẪN CHỌN NGƯỜI PHÙ HỢP NHẤT, XINH NHẤT ĐẸP NHẤT. NHƯNG: NẾU KHÔNG ĐỔI TÂM TỪ BÁT TÀ ĐẠO SANG BÁT CHÁNH ĐẠO, thì KHÔNG CHẠY ĐÂU CHO THOÁT KHỔ (chỉ đổi khổ này lấy khổ khác).
->     
-> 
->   
-> 
-> 2. SỰ THẬT VỀ CHUNG THUỶ - thực hành đúng KO CÓ CHÁN NẢN, MÀ HOÀN TOÀN BÌNH THẢN: - Khi gặp người khác giới, nếu LỘ TRÌNH TÂM là BÁT TÀ ĐẠO thì quý vị khởi lên THÍCH CHÁN GHÉT so sánh người đó với ny/vợ mình. - Còn nếu LỘ TRÌNH TÂM là BÁT CHÁNH ĐẠO, quý vị KHÔNG THÍCH KHÔNG CHÁN KHÔNG GHÉT, thì KHÔNG CÓ CHUNG THUỶ, cũng CHẲNG CÓ NGOẠI TÌNH, quý vị HOÀN TOÀN BÌNH THẢN, VUI, THOẢI MÁI.
->     
-
-  
-
-#### Use cases:
-
-> 1. 08/08/2025 [SAU 6 NGÀY ĂN UỐNG SIÊU ĐẦY ĐỦ VÀ NO NÊ + SỬ DỤNG TRIẾT LÝ BẠN MUỐN ĐÁNH ĐỔI 5MIN SUNG SUÓNG NGẮN NGỦI LẤY VIỆC CƠ THỂ MẤT 1-2 TUẦN PHỤC HỒI? => MÌNH GIỮ TÂM RẤT TỐT. Cho đến tối nay sau khi tắm xong, mình cũng ko có nhu cầu gì lắm, chỉ do thói quen và ở nhà 1 mình -> mở xem 1 tí, cũng chưa có gì quá kích thích cơ mà mình lộn c 1 phát, nó ra quá là nhiều => ]
->     
-
-### 3.2 THỰC HÀNH THÂN THỌ TÂM PHÁP :
-
-- https://www.youtube.com/playlist?list=PLfFdoGwLbh5X1rtIKley3_3uEXzXdZ8-i
-    
-
-  
-
-2. QUÁN THỌ: THỰC TẠI LÀ CẢM GIÁC - Tương tác căn trần đều là TƯƠNG TÁC THÔNG TIN, LÀ TÂM - CẢM GIÁC HẠNH PHÚC CẢM GIÁC VỊ NGỌT - NGUYÊN NHÂN CỦA KHỔ THAM SÂN SI] (Thấy, Nghe, Cảm nhận mọi thứ đều biết nó là Cảm Giác) - Khi chọn thái độ Nhất Hướng, Nhàm Chán, Ly Tham, Đoạn Diệt là chúng ta đối xử với Tâm, cụ thể là các Cảm giác chứ không phải với Cảnh, với hoàn cảnh sống. Có 2 loại thực tại là Thực Tại Thế Gian (Bất Tịnh), và Thực Tại Xuất Thế Gian(Thanh Tịnh) thì cũng đều là các khái niệm của Tâm, chứ ko phải Cảnh. Chỉ có Tâm Bất Tịnh và Tâm Thanh Tịnh, chứ không có Cảnh Bất Tịnh và Cảnh Thanh Tịnh. - Không có việc làm là MINH hay VÔ MINH, chỉ có HIỂU BIẾT VỀ VIỆC ĐÓ mới có MINH hay VÔ MINH. - Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau, cho dù đổi cảnh hay không đổi cản. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. - "Buông" là BUÔNG TƯ TƯỞNG làm chủ, tư tưởng sở hữu; Không phải "Buông bỏ", vứt bỏ đi thế giới vật chất. "Sử dụng mà không sở hữu". **Lưu ý:** Không ràng buộc vào kết quả là không khổ vui với kết quả chứ không phải không quan tâm và không cần cải thiện dù kết quả không đi đúng hướng. - BUÔNG = "GIEO NHÂN" * "BUÔNG KỲ VỌNG" = "LÀM TỐT NHẤT" * "SẴN SÀNG CHO ĐIỀU TỆ NHẤT" = CÙNG LẮM THÌ, TÔI VẪN CỨ NỖ LỰC = "BẠN ĐƯỢC QUYỀN BẬT CÔNG TẮC" * "NHƯNG SÁNG HAY KHÔNG LÀ CHUYỆN BÓNG ĐÈN".
-
-3. XỬ LÝ CẢM GIÁC KHỔ THỌ TÌNH DỤC:
-    
-
-  
-
-3. Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) - NÍN THỞ QUÁN THÂN: Tùy vào cường độ của dục tưởng, nếu nhẹ thì có thể quán luôn, còn nếu mãnh liệt thì nên sử dụng pháp đối trị NÍN THỞ như ở mục 01 trước. Sau khi lắng dịu hơn thì thực hành quán như ở dưới đây để xóa dần đi thông tin về tham ái tình dục. - Quán Thọ: Bản chất dục tưởng chính là tư tưởng về tình dục, xuất hiện với sự nối dài của cảm giác pháp trần liên tục đan xen với cảm giác xúc chạm do nội xúc từ tâm hành tham, nên mình cần quán đây là cảm thọ, thuộc phạm trù tâm, là cảnh ảo, vô minh thì cho rằng đây là thế giới vật chất, có cô gái A, chàng trai B là chủ nhân chủ sở hữu của hình tướng kia,... - Quán Tâm: Quán tâm biết ý thức tà tri kiến với nội dung vô minh - chấp ngã. Quán tâm hành tham, dục, khổ đang khởi sinh. Hiểu biết đúng sự thật về các tâm hành này trên 8TĐ, có tính chất duyên khởi, vô thường, vô ngã. - Quán Pháp: Nhân loại khát ái tìm cầu hỷ lạc chỗ này chỗ nọ, như dục ái, hữu ái, phi hữu ái.. Nơi nào có tham dục, nơi đó có chấp thủ, nơi nào có chấp thủ, nơi đó có khổ-vui. Các dục vui ít, khổ nhiều, não nhiều, nguy hiểm các nhiều hơn. Bao lâu nay, mình đã bị dục đanh vây, tàn phá, trấn áp như thế này đây. Phải giải thoát khỏi chướng ngại đã đầy ải nhân loại từ vô thủy đến nay. - NÍN THỞ QUÁN THÂN: Sau khi quán thì hãy ngưng thở một đoạn để hoàn toàn yên lặng, ghi nhận cảm giác toàn thân, sau đó thở mạnh theo nhịp rồi tác ý nhè nhẹ dần, nếu hết dục tưởng thì quay trở lại thực hành Định-Tuệ bình thường. 3.1 PHẢI NHỚ PHẢI NHỚ: HIỂU ĐÚNG VỊ NGỌT, VỊ NGỌT - LY THAM. - Phải nhớ phải nhớ: VỊ NGỌT - CẢM GIÁC HẠNH PHÚC (do Chánh Niệm sinh, hoặc, duyên xúc bên ngoài). THÍCH CHÁN RỒI GHÉT, NGỌT NHẠT RỒI ĐẮNG. SINH DIỆT liên tục, lặp đi lặp lại. CHẲNG ĐÁNG LÀ BAO, tà niệm kích hoạt, mà ta làm quá. - Chỉ khi thực nếm, vị ngọt chánh niệm, đến để mà thấy, siêu thế khởi lên. DÙ THẤY GÁI XINH, NHỚ PHIM 18, TÂM SI SINH KHỞI: Vị ấy ly tham, nhìn ngắm vẻ đẹp, ko có tư tưởng làm chủ sở hữu, ko nhảy tìm trăng, không khổ vô ích. - Phải nhớ phải nhớ: Cảm thọ Căn Trần, tiếp xúc với nhau. Thông tin pháp trần, tế bào thần kinh, tồn tại đồng thời, độc lập với nhau, (y như máy móc, chạy theo lập trình, trong cái gọi là, đồng hồ quả lắc). chứ không phải là… - CHẤP CÓ DUY VẬT, CHẤP KHÔNG DUY TÂM, chấp ngọt sẵn có, chấp do tâm tạo. VỊ NGỌT CÓ ĐÓ, DO DUYÊN MÀ SANH, Thọ Tưởng đồng sinh, Tưởng đọc Vị ngọt, của đối tượng thấy, chứ không phải là, cần niệm kích hoạt, mới có vị ngọt, - Trong TÌNH YÊU: Được chọn VẪN CHỌN NGƯỜI PHÙ HỢP NHẤT, XINH NHẤT ĐẸP NHẤT. NHƯNG: NẾU KHÔNG ĐỔI TÂM TỪ BÁT TÀ ĐẠO SANG BÁT CHÁNH ĐẠO, thì KHÔNG CHẠY ĐÂU CHO THOÁT KHỔ (chỉ đổi khổ này lấy khổ khác). - Chúng ta tu tập để đổi tâm và có thể cải thiện hoàn cảnh (nếu cần thiết), chứ không phải tìm cách thay đổi hoàn cảnh để nghĩ rằng sẽ tu tập thuận lợi hơn. Tránh tình trạng đi học về, Tâm thì ko thấy đổi, lại đi thay đổi ngay hoàn cảnh sống khiến cho người thân, bạn bè thấy bất an, lo lắng. - Nhàm chán, Ly Tham là ly tham với thọ khi tiếp xúc với các trần cảnh, chứ không phải ly tham với các trần cảnh đó. Chúng ta không ghét bỏ, xua đuổi chúng, mà để chúng tự đến và tự đi. - Như vậy cho dù đổi cảnh hay không đổi cảnh, miễn đổi được tâm từ BTD sang BCD thì sẽ không có khổ và là tu đúng. Còn trường hợp được quyền đổi cảnh để có lạc thọ hợp pháp thì đổi chứ đâu có dại gì mà phải để im để kham nhẫn với khổ thọ. - TRUNG ĐẠO: ko chối bỏ, không tham đắm lạc thọ. Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. 3.2 PHẢI NHỚ PHẢI NHỚ CẢM THỌ VÔ THƯỜNG - Đối tượng thấy..., là tâm cảm thọ, đặt tên: danh từ, là cô con gái, cái con người thấy, chính là thông tin chứ không phải là thế giới vật chất, như hiểu biết sai, lầm tưởng trước đây. - Cảm giác vị ngọt, hoặc nhạt hoặc đắng, được Tưởng ghi nhận, mới tinh cứng coong, xuất hiện 1 lần, sinh diệt tức khắc, sinh diệt kéo dài mà ta làm quá, chứ không phải là, thường hằng thường trú, biến đổi vật chất, như hiểu biết sai, lầm tưởng trước đây. 3.3 PHẢI NHỚ PHẢI NHỚ: DUYÊN KHỞI - VÔ NGÃ - Phải nhớ phải nhớ: Duyên người thế giới, đặt tên: động từ, là quét là chạy, chứ không có cái, điều khiển cái kia, ko có linh hồn, không sinh không diệt, điều khiển thân xác! - Tất cả các sự vật hiện tượng (tất cả các pháp) đều là do Duyên Khởi (2 nhân bình đẳng tương tác/tiếp xúc cùng diệt mới phát sinh quả). = Tất cả các pháp đều vô thường (Sinh diệt), đều vô chủ vô sở hữu (vô ngã).
-
-#### Use cases 3. Tu Tuệ:
-
-https://csg2ej4iz2hz.sg.larksuite.com/sync/AmYzdmBzosNhhpbRk60lOTvZgDb
-
-# 1.1 Ứng dụng 4 đòn bẩy trong mọi việc - THỰC HÀNH TRONG ĐỜI SỐNG - System (Sức khoẻ, Mối quan hệ Networking - Sự Nghiệp) - theo đuôi Mentor
-
-**Tâm Trí kiểm soát các khía cạnh khác:** Bạn đã thể hiện rõ mối liên hệ giữa tâm trí và các khía cạnh khác:
-
-- **Sức Khỏe:** Bạn đã phân tích sâu về "KHỔ THỌ TÌNH DỤC và TÂM SI" và cách chúng "Thất thoát tinh khí thần", dẫn đến suy giảm sức khỏe thể chất và tinh thần. Giải pháp là "dùng TD hoặc dùng TÂM ĐÁNH BẠI TÂM", cho thấy tâm trí là chìa khóa để vượt qua những cám dỗ và giữ gìn sức khỏe. "HỶ LẠC NỘI TÂM - NỘI LỰC HẠNH PHÚC BÊN TRONG" là nguồn động lực bền vững, vượt trội so với các niềm vui bên ngoài.
-    
-- **Tài Chính:** Quyết định sự nghiệp, lựa chọn hướng đi (AI Engineering, KOL, Business Model) đều dựa trên những "Niềm tin giới hạn" hoặc "Niềm tin không giới hạn" của tâm trí. Bạn đã dùng các ví dụ về "chạy 1 dặm dưới 4 phút" hay "bài toán khó" để minh chứng rằng "giới hạn ko nằm ở khả năng mà là ở niềm tin", tức là ở tâm trí.
-    
-- **Mối Quan Hệ:** Bạn đề cập đến "SỰ THU HÚT đến từ SỰ TƯƠNG HỢP THÔNG TIN", và "SỰ ĐỦ ĐẦY TỪ BÊN TRONG". Việc "Buông xả làm tốt nhất, sáng hay không là chuyện của bóng đèn" trong các mối quan hệ cũng là một trạng thái tâm lý không chấp thủ vào kết quả. Hơn nữa, việc chuyển từ "LỘ TRÌNH TÂM là BÁT TÀ ĐẠO" sang "BÁT CHÁNH ĐẠO" là cách để đạt được sự "HOÀN TOÀN BÌNH THẢN" trong các mối quan hệ, vượt lên trên sự thích, chán, ghét hay so sánh.
-    
-
-# **1. MÔI TRƯỜNG SỐNG, THÓI QUEN + BỨT PHÁ SỢ, NGẠI, NIỀM TIN GIỚI HẠN BẰNG CHÁNH KIẾN - TULA THẦN LĨNH VỰC, NIỀM TIN KO GIỚI HẠN KO BỊ CHẶN TRÊN - THE ROAD CON ĐƯỜNG TÔI CHỌN, KHÔNG AI ĐI TÔI VẪN ĐI.**
-
-## **1.1 MÔI TRƯỜNG SỐNG, THÓI QUEN: Bên trong: HIỂU THƯƠNG bài tập rà nghiệp, đúc kết vector + THẦN KHÍ + HÀNH VI THÁI ĐỘ SỐNG.**
-
-> **Chánh kiến về xu hướng tính cách: 1 cách tương đối nên mới gọi là xu hướng bởi lẽ bây giờ ngay cả bảo mình summary lại về xu hướng tính cách của mình cũng khó, vì Pháp do duyên khởi, do thói quen**
-> 
-> - Môi trường sống nhiều cám dỗ: xăm, thuốc lá rượu bia cờ bạc. (- Khánh Ly
->     
-> - Môi trường sống và thói quen: trai gái gợi cảm uốn éo khoe da khoe thịt quá nhiều.
->     
-
-### **1.1.1 PHÁN ĐOÁN bằng bộ môn huyền học**: DISC, Thần số, Nhân tướng:
-
-- Đo lường: '''Trí Tuệ: Trán cao, Mũi thông thiên, Tai to + Mắt tinh anh, Lời nói rõ ràng dễ hiểu Góc nhìn ĐA CHIỀU, SÂU SẮC + Tam bảo. *** Nghị Lực: Mũi thông thiên, + Động tác dứt khoát, Mắt có uy, Giọng nói + Tĩnh lặng trước BUỒN VUI + Thích làm chơi việc khó khăn mạo hiểm, Dấu ấn khó. *** Đạo Đức: Gò má lưỡng quyền, quai hàm bạnh (ngang bướng, đanh nghiến) + Ánh mắt Giọng nói BỊ HÚT VÀO SẮC VÀ TIỀN, ánh mắt LỘ, THẦN BẤT TÚC, HAY SO BÌ + Thiện nguyện ít dính mắc.'''
-    
-
-### **1.1.2 QUAN SÁT THẦN KHÍ + HÀNH VI THÁI ĐỘ SỐNG**
-
-- +, THẦN KHÍ(THẦN HỮU DƯ, THẦN TĨNH: mắt, cử động,. KHÍ biểu hiện qua: xương cốt, da thịt, râu tóc, lông mày, âm thanh, khẩu khí).
-    
-- +, HÀNH VI THÁI ĐỘ SỐNG (nhất là khi có biến động).
-    
-- +, Đo lường: '''8 Phép chọn tướng Trần Hưng Đạo Gia Cát Lượng: TRÍTUỆ: Hỏi đúng sai, xem chí hướng, rõ ràng? Cật vấn đến kỳ cùng? Hỏi mưu lược, xem tri thức?ĐẠOĐỨC: Qs đa chiều xem đức hạnh? Gián điệp thử xem có trung thành? Giao việc, xem chữ tín?NGHỊLỰC: Lấy của thử? lấy sắc đẹp thử? lấy việc khó thử? Rượu cho uống say, tâm có say không?'''
-    
-- (Ng quân tử TIẾN THOÁI QUẢ QUYẾT, XEM NGƯỜI THANH THẢN VUI TƯƠI, CHÍ TRỪ TÀN BẠO, khí độ ng Tướng Quốc. Thấy ÁC KO GIẬN LÀNHKOMỪNG, NHANSẮCKOTHAYĐỔI, lượngcủaThiênTử).
-    
-
-  
-
-## **1.2 Bài học về Niềm tin giới hạn Đêm 25/04/2025 = Tôi tài giỏi bạn cũng thế + GOSINGA về mục đích cuộc đời + Nhân dạng, trở thành hay trải nghiệm, hoàn thành trước, hoàn hảo sau X3 + Wecommit100x làm theo system lãi kép và nỗi sợ chỉ mất khi bạn hành động**
-
-- **NIỀM TIN KO GIỚI HẠN KO BỊ CHẶN TRÊN - NGAY KHI BẠN NGHĨ RẰNG BẠN ĐÃ CHẠM MỨC GIỚI HẠN THÌ THẬT RA BẠN MỚI CHẠM MỨC 20% THÔI.**
-    
-
-20/05/2025
-
-1. Nỗi sợ là CẢM GIÁC do ...
-    
-2. Tìm kiếm cảm giác khó chịu giúp ta mạnh hơn
-    
-
-- David goggins: Tự tẩy não mình để thèm khát, tìm kiếm CẢM GIÁC KHÓ CHỊU. => Càng khó chịu ta càng mạnh hơn.
-    
-- Nỗi sợ chỉ làm ta mạnh hơn khi mà ta thoát ra. (bài Rap: Let'em know Mason Nguyen).
-    
-
-3. Sợ bị đánh giá: Tào tháo nói "Ta làm, họ có động đến sợi lông chân nào của ta đâu mà ta sợ :> " Việc đúng đắn thì ta cứ làm, đó là cuộc sống của ta. Làm cái méo gì cũng ko ngại: ko mắc các sai lầm thì xin info thì rủ đi chơi (chiến lược hoàn toàn khác so với ngày xưa, ngày xưa có tiêu chí 1, 2, 3 thì ở giai đoạn nào, ... khó áp dụng), xin nghỉ ,nhắn tin trong nhóm chung, thuyết trình trước mn, nói chuyện với tầng C-level bứt phá ko giới hạn niềm tin để thoải mái nói chuyện với tầng C-level, ...
-    
-4. Sợ ta không đủ khả năng: Nhiều khi 1 bài toán lớp 5 thả vào đề lớp 1 ta làm được, đến lúc bài lớp 1 thả vào đề lớp 5 ta lại có khi ko làm được -> vì nỗi sợ giới hạn khả năng của ta.
-    
-
-(câu chuyện chạy 1 dặm dưới ít hơn 4min khi 1 người chạy được thì hàng trăm người chạy được ngay sau đó vì họ đã phá được niềm tin giới hạn)
-
-(hay 1 ông nhà toán học đến muộn, thầy giáo viết trên bảng 2 bài toán khó nhất thế giới bấy giờ, ông tưởng BVN thế là về làm xong nộp)
-
-5. LÀM ĐI SỢ MÉO GÌ, BẢO VỆ BẢN THÂN VÀ TOÀN THỂ NGƯỜI THÂN, HUYNH ĐỆ ĐỒNG ĐỘI VÀ MENTOR CỦA MÌNH
-    
-
----
-
-> **Gọi tên nỗi sợ**: "Mày là ảo giác. Mày không điều khiển được tao."
-> 
-> **Tích bánh quy**: "Chúc mừng: thêm 1 nỗi sợ nữa bị tiêu diệt"
-
-  
-
-Các nỗi sợ phổ biến và cách mình vượt qua.
-
-1. Đầu năm 2025: Sợ đánh giá trên mạng xã hội khi mình chạy, quay video, đăng bài. Đánh giá độ sợ 5/10, =>Với mình mình ko quá sợ điều này, vì đây là quyền tự do của mình, TIỀN CẢ,...
-    
-2. T6/2025: Sợ "KO CÓ LÝ DO ĐỂ XIN INFO" khi xin info các bạn nữ (nếu người ngồi cạnh/đối diện thì dễ, còn người quay mặt vào cửa sổ khiến mình DO DỰ: 30min, 1h rưỡi. **=> Bài học: "KO CÓ LÝ DO CŨNG LÀ LÝ DO" + "Cảm xúc muốn hành động chính là lý do" + “Tôi không cần cảm thấy có lý do để hành động. Tôi hành động, rồi lý do sẽ xuất hiện.”**
-    
-
-> _ 08/06/2025 gpt và Cường
-> 
-> **Thông thường: bạn nữ biết tỏng ý định của bạn. => Điều cần làm chỉ là: Thành thật và rõ ràng**: “Không vì gì cả, chỉ là tớ muốn biết tên cậu thôi :)”
-
----
-
-> 25/04/2025
-> 
-> Đợt này em có cơ hội được làm việc trực tiếp với anh CEO, với chị General Manager (sau mỗi CEO) ở công ty các sếp ạ.
-> 
-> Em cũng mới nhắn khoe sếp @tranquochuy_wecommit tối qua :D
-> 
-> ===
-> 
-> - Khi làm việc với các C-level em CẢM GIÁC LÀ MÌNH CHƯA TƯ DUY ĐƯỢC NHƯ HỌ. Em nhận ra 1 NIỀM TIN GIỚI HẠN của bản thân là khi làm việc cùng anh chị đó là: "MÌNH MỚI RA TRƯỜNG, CHƯA NHIỀU KINH NGHIỆM THÌ CHƯA TƯ DUY ĐƯỢC NHƯ HỌ NHIỀU NĂM KINH NGHIỆM ĐƯỢC ĐÂU. CHÍNH NIỀM TIN NÀY GIỚI HẠN EM TƯ DUY NHƯ 1 C-LEVEL." => Chính niềm tin này cản trợ em tư duy ở tầm C-level.
->     
-> 
->   
-> 
-> 1. Câu chuyện về cả thế giới tin là ko thể chạy 1 dăm với ít hơn 4min.
->     
-> 
-> Sau đó
-> 
-> Vào ngày 6 tháng 5 năm 1954, Roger Bannister, một sinh viên y khoa người Anh, đã trở thành người đầu tiên chạy một dặm (1.609 km) dưới 4 phút, với thời gian 3 phút 59,4 giây tại sân vận động Iffley Road ở Oxford. Thành tích này đã phá vỡ rào cản tâm lý tồn tại lâu dài trong giới điền kinh, khi nhiều người tin rằng con người không thể đạt được tốc độ đó. Chỉ 46 ngày sau, vận động viên người Úc John Landy đã vượt qua kỷ lục này với thời gian 3 phút 58,0 giây. KỲ LẠ LÀ Từ đó, hàng ngàn vận động viên đã vượt qua mốc 4 phút, cho thấy khi niềm tin được khơi dậy, giới hạn tưởng chừng không thể cũng trở nên khả thi.
-> 
-> -> Giới hạn ko nằm ở khả năng mà là ở niềm tin
-> 
-> -> CHO THẤY GIỚI HẠN NIỀM TIN CŨ BỊ PHÁ VỠ : https://www.nationalgeographic.com/science/article/faith-kipyegon-four-minute-mile-run-world-record
-> 
->   
-> 
-> 2. Hay là hồi em học lớp 3 đã học bài: Tuổi mẹ hiện nay hơn tuổi con là 24, sau 2 năm nữa mẹ gấp 9 lần tuổi con, vậy hiện nay mẹ bao nhiêu, con bao nhiêu. Hồi đó thầy cô ko nói đó là bài cấp 2, nên tụi em vẫn học và giải 1 cách bình thường.
->     
-> 
-> Hay là học toán HSG lớp 11 đã học đến cả giải tích 1 của đại học, lúc đó vượt cấp thấy thoải mái và tự tin vì bạn bè ai cũng học
-> 
->   
-> 
-> - Tương tự khi gặp câu hình cuối hay câu cuối.
->     
-> 
-> Nếu em học lớp 9 thì "niềm tin câu nó dễ" em sẽ giúp em giải nó 1 cách tự tin và thoải mái hơn và giải được có khi nó rất khó.
-> 
-> Hoặc là nếu em học lớp 7 được giao cho đề có 1 câu lớp 7 dược đặt vào trong đề thi lớp 12 thì có khi em "CẢM GIÁC NÓ KHÓ" mà ko dám làm và bảo ngay là ko làm được. Cũng bài đó đặt trong đề lớp 7 có khi lại giải ngon.
-> 
->   
-> 
-> 3. Ngày xưa có 1 ông Toán học gì đó được thầy giao bài tập về nhà, xong thầy lỡ kẹp bài Toán khó nhất thế giới chưa ai giải được vào, ổng cứ tưởng đấy là bài về nhà xong ngồi hì hục giải từ sáng đến tôi mang lên nộp thầy.
->     
-> 
->   
-> 
-> Một giai thoại nổi tiếng trong giới toán học, liên quan đến George Bernard Dantzig, một nhà toán học người Mỹ. Vào năm 1939, khi đang là nghiên cứu sinh tại Đại học California, Berkeley, Dantzig đến muộn trong một buổi học môn thống kê do giáo sư Jerzy Neyman giảng dạy. Trên bảng lúc đó có hai bài toán, thực chất là những vấn đề thống kê nổi tiếng chưa được giải quyết, được giáo sư viết lên làm ví dụ. Tuy nhiên, Dantzig tưởng rằng đó là bài tập về nhà nên đã chép lại và cố gắng giải chúng
-> 
->   
-> 
-> 1796 (Gauss) giải 3 đề được giáo viên hướng dẫn giao riêng thêm mỗi ngày, mỗi ngày 2 đề, nay tự nhiên có thêm 1 đề: yêu cầu dùng compa thước kẻ ko khắc độ để vẽ 1 hình đúng 17 cạnh, "thầy giao cho em bài toán thứ 3 em phải làm tròn 1 đêm, em đã phụ sự bồi dưỡng của thầy rồi". Bài toán 2000 năm, Archimedes ko giải được, Issac Newton ko, ...->"Nếu có người nói cho tôi biết bài toán này là khó có lịch sử ..."
-> 
->   
-> 
-> 4. Ngày xưa, khi con voi còn là một chú voi con nhỏ, người ta đã dùng một sợi dây to buộc nó vào một gốc cây. Voi con cố gắng hết sức để thoát ra, nhưng không thể. Dù con voi dùng toàn bộ sức mạnh, sợi dây vẫn giữ nó lại, và con voi cuối cùng từ bỏ cố gắng.
->     
-> 
-> Khi con voi lớn lên, nó mạnh mẽ và to lớn hơn rất nhiều so với lúc còn nhỏ, nhưng điều kỳ lạ là nó vẫn tiếp tục đứng yên, không cố gắng thoát ra, mặc dù gốc cây và sợi dây đã không còn đủ sức để kiềm chế nó. Lý do chính là, con voi đã từng thất bại khi còn nhỏ, và trong tâm trí nó, sợi dây buộc vẫn có thể cản nó lại. Nó không nhận ra rằng sức mạnh của mình giờ đã vượt xa khả năng của sợi dây.
-> 
-> => Em nhận ra là: câu chuyện về NIỀM TIN GIỚI HẠN: MÌNH ÍT KINH NGHIỆM, MÌNH ÍT CHUYÊN MÔN NÊN CHƯA THỂ TƯ DUY ĐƯỢC NHƯ C-LEVEL ĐÂU, y hệ với việc 1 BÀI TOÁN BỊ ĐẶT TRONG ĐỀ LỚP 12 KHI MÌNH HỌC LỚP 10 KHIẾN MÌNH KO TỰ TIN GIẢI :D
-> 
->   
-> 
-> :D Giống như sếp Huy vẫn bảo. Khi làm sếp ở công ty nhỏ rồi, tư duy thường nó quen ở tầm cao, rất khó để bạn xuống cấp nhân viên. Có tư duy ở tầng cao trước, dần dần vị trí công việc nó kéo lên theo :D
-
-  
-
-|   |   |
-|---|---|
-|||
-
-  
-
-This content is only supported in a Lark Docs
-
-## 1.3 Thay đổi chính mình - tập trung hoàn toàn vào những gì mình có thể kiểm soát và tin tưởng
-
-https://csg2ej4iz2hz.sg.larksuite.com/sync/XiM2dd6gzs8lpkbMk9vlz2Kdg3d
-
-# **2 TÌNH YÊU: TÌNH DỤC - YÊU THƯƠNG KẾT NỐI NETWORKING - BIẾT ƠN: TIỀN - Ý NGHĨA, GIÁ TRỊ - CỘNG ĐỒNG, Ý NGHĨA, BẪY LƯƠNG TÂM THUẦN TUÝ**
-
-## 2.1 Networking: Mentor - Ny - NSKT - Xây dựng đội ngũ - Nguyên tắc chung là check 4 phần trên.
-
-### 2.1.1 MENTOR: FOLLOW THẦY, KO CẦN SUY NGHĨ HƯỚNG ĐI NHIỀU ĐÂU: 4 Người thầy : 1. GOSINGA + 2. Trần Việt Quân BKE GNH - X3 NĂNG SUẤT + 3. THE ANH ENGISH + 4. AIO + 5. Wecommit100x 6. FULL STACK DATA SCIENCE
-
-[1.1 Tiêu chí - Con người phù hợp - Networking](https://csg2ej4iz2hz.sg.larksuite.com/wiki/UN0IwzVq0ikVv8kmWg2lSARKg4e) - Tin tưởng tuyệt đối vào bản thân và mentor -> Hành động vì nghĩ ko đẻ ra con -> TRỞ THÀNH MẢNH GHÉP, LÀM TẤT CẢ MỌI THỨ, PHỤNG SỰ CHO BỨC TRANH CHUNG CỦA THẦY.
-
-1. RA KẾT QUẢ - LÀM ĐƯỢC X NHIỀU LẦN(nhiều lần thất bại, làm liên tục 5-10 năm) + 2. CAO NHÂN XUẤT CAO ĐỒ - NĂNG LỰC ĐÚC KẾT, TRUYỀN ĐAT, THIẾT KẾ MÔI TRƯỜNG, TÂM CHỈ DẠY KHÔNG GIẤU BÀI (có nhiều học trò đã thành tài, theo thầy lâu năm) + 3. TƯƠNG HỢP THÔNG TIN, 4 loại đòn bẩy nội lực.
-
-> **Case 1: T7/21/06/2025: Sau N1 mình chỉ networking được với người bên trái, người bên phải và anh Điệp đi ăn cùng -> 3 người hết.**
-> 
-> **=> Mình về kaizen: QUAN TRỌNG NHẤT LÀ MENTOR, NGƯỜI ẢNH HƯỞNG -> LAN RỘNG RA NHỮNG NGƯỜI ẢNH HƯỞNG.**
-
-**NGƯỜI DUY NHẤT KHÔNG PHẢI TOP 1 FE SYSTEM NHƯNG CÓ MẶT TRONG "WALL OF LOVE"ĐÂU LÀ LÝ DO:**
-
-1. **TIN TƯỞNG TUYỆT ĐỐI VÀO BẢN THÂN, THE ROAD CỦA BẢN THÂN + NGƯỜI THẦY VÀ THE ROAD CỦA NGƯỜI THẦY + SỰ LỰA CHỌN CỦA MÌNH. [KO CÓ GIỚI HẠN]**
-    
-2. **PHỤNG SỰ NGƯỜI THẦY BUILD BỨC TRANH CHUNG: Vì hoàn toàn tin tưởng Wecommit100x, mình viết bài, mình chạy, mình phụng sự cho bức tranh của wecommit100x chung, lên tiếng để bảo vệ cộng đồng lúc sóng gió, đứng chung chiến tuyến.**
-    
-3. **XUẤT HIỆN THƯỜNG XUYÊN: 3 tháng đầu offline, online ko bao giờ vắng 1 buổi. Sau 3 tháng chậm lại tí do việc cá nhân**
-    
-4. **TRỞ THÀNH HỌC TRÒ XUẤT SẮC NHẤT VỚI BEGIN WITH THE END X3-X10 IN MIND:** **- Người thầy mình viết: Em đã có những mindset và bước đi rất đúng đắn trong giai đoạn đầu sự nghiệp, anh tin em sẽ còn tiến xa hơn nữa. =>** **- Kết quả đo lường được: 08/02/2025 vào, cuối tháng 4 top 64 Linkedin VN, cuối tháng 5 cũng top, đầu tháng 5 top 10 AI Content Creator Việt Nam luôn.**
-    
-5. **ĐỒNG THỜI NETWORKING VỚI ACE CHỦ CHỐT XUNG QUANH MENTOR**
-    
-
-## ⚠️ Những lỗi cần tránh khi networking với những người xung quanh:
-
-> - Chỉ tương tác với những người nổi bật, bỏ qua người khác.
->     
-> - Chỉ quan tâm lợi ích trước mắt thay vì xây dựng mối quan hệ lâu dài.
->     
-> - Giao tiếp thiếu chân thành, máy móc, không tạo được thiện cảm.
->     
-
-> 1. **Phân tích chi tiết 5 kỹ thuật bạn đã áp dụng thành công** (tin tưởng tuyệt đối, phụng sự mentor, xuất hiện thường xuyên, trở thành học trò xuất sắc, networking với ace xung quanh)
->     
-> 2. **Bí mật networking của top 1% thế giới** - những kỹ thuật độc đáo mà ít người biết
->     
-> 3. **Framework tư duy giải quyết vấn đề** theo phương pháp "do cái gì có mặt mà cái kia có mặt, do cái gì không có mặt thì cái kia không có mặt", "quan sát phân tích đúc kết", "giải quyết vấn đề".
->     
-> 4. **Ví dụ thực tiễn và case studies** từ những người networking đỉnh cao
->     
-> 5. **Các lỗi sai cần tránh và cách khắc phục**
->     
-
----
-
-> Case 1 (tiếp, 22/06/2025) N2: Kaizen: 1. Bám Mentor thầy dạy hơn tuy chưa có cơ hội nói chuyện. 2. Xin info và chụp chung với chị Nhân sự chủ chốt canh thầy 10 năm 3. Xin chụp ảnh với Trainer Minh, chị Ái, ngồi ăn cạnh chị Nga, chị Nhung, anh Minh Zip, anh Vinh, chị Hẳng, anh Thịnh ảnh chung, anh Diện chị Yến ảnh chung, anh Tươi ảnh chung, anh Đức ảnh chung 4. Đi ăn với ace BTC => Có Trainer, và toàn bộ đội ngũ cạnh thầy. => Trainer bảo: dân X3 sau khi chạy body khoe múi + Kỹ sư CNTT. + 1 lần lên thừa nhận mình nhìn bài = mạnh nhận ra điểm yếu và bẫy tâm lý => Số người biết tăng hẳn, cả chị Yến nhận ra bạn bè FB. => Thành ra: nỗi sợ là do mình tự tưởng tượng ra chứ chị Yến quá nice, quá thân thiện. => TẬP TRUNG VÀO MENTOR, XUẤT HIỆN CẠNH THẦY ĐỂ THẦY NHỚ VÀ NGƯỜI KHÁC NHỚ. [CÓ ẢNH CHUNG VỚI THẦY] => TẬP TRUNG VÀO ĐỘI NGŨ KẾ CẬN. [CÓ ẢNH CHUNG VỚI ĐỘI NGŨ KẾ CẬN]
-> 
-> => XIN INFO CHỤP ẢNH VÌ MÌNH MUỐN!!! (Kí ức về việc vượt qua NỖI SỢ, KO LÝ DO CŨNG LÀ LÝ DO, THE ROAD CON ĐƯỜNG TÔI CHỌN -> xin info con gái mình thích, mình muốn tìm hiểu ở quán caffe Lofi caffe đã là 1 dấu ấn =>Mình đến với buổi X3, xin info, xin chụp ảnh chung với mn. Đặc biệt là xin info CHỊ :3 (96, 2k) và xin chụp cùng trong 1 nốt nhạc. [CẢM GIÁC THÍCH THÍCH MÌNH CHƯA GIẢI THÍCH ĐƯỢC].
-
-#### Use cases - Phụng sự cộng đồng:
-
-https://csg2ej4iz2hz.sg.larksuite.com/sync/DmRJdkfgssCFU2b6cdClnXhQgvf
-
-#### 2.1.1.1 Nhân dạng NHÀ LÃNH ĐẠO
-
-...
-
-> Mình hay để ý những bạn:
-> 
-> – Báo sớm khi có rủi ro
-> 
-> – Không blame, mà cùng fix
-> 
-> – Chủ động "đỡ" người khác, dù không ai yêu cầu
-
-...
-
-### 2.1.2 Ny
-
-**TÂM THẾ, MINDSET, ACTIONS:**
-
-1. **SAI LẦM LỚN NHẤT SỐ 1: CÓ MỚI NỚI CŨ - NĂM 2022 và BÀI HỌC: Vạch ra tiêu chí lựa chọn rõ ràng ngay từ đầu, chính là cách giải mã Paradox of Choice. Tiêu chí này giúp bạn “thấy là chốt”, mà không cần tốn thời gian phân bua 101 tiêu chí phụ khác.**
-    
-
-> Đi Thiền 2022 về, có 1 option khác ngon hơn -> mình nhảy và hỏng hết! => Kéo theo rất nhiều thứ! Sau này đến 2025 mình mới gọi được tên nó là:
-> 
-> - Câu chuyện người nông dân tìm bông lúa tốt nhất đến mức đi đến cuối cánh đồng vẫn tay trắng vì vẫn nghĩ ở phía trước có bông lúa ngon hơn.
->     
-> - Nghịch lý sự lựa chọn: https://vietcetera.com/vn/paradox-of-choice-tai-sao-ta-van-chon-sai-nguoi-du-nguoi-nhieu-vo-ke
->     
-> - và Bài học giải mã Paradox of Choice:
->     
-
-- Use case: tầng dưới có 1 option, tầng trên có 1 option. Sau khi ngồi vào tầng trên thì có vẻ thấy option tầng dưới ngon hơn? => **Dùng khung “Lợi ích dài hạn" + Test option tầng dưới ở quy mô nhỏ (pilot / 20% effort / 1 tuần prototype) → từ đó có thêm insight mà không vứt bỏ những gì đang có.**
-
-2. **MỞ PHỄU ĐÚNG THỊ TRƯỜNG - THU HÚT ĐẾN TỪ TƯƠNG HỢP THÔNG TIN - THE ROAD (Thiền, Thư viện, Caffe học xuyên đêm, ... là thắng tới 80% rồi) VÀ NETWORKING TẠO CƠ HỘI CHO MÌNH (mở rộng dần ra - con số 250 network - số lượng cũng có chất lượng của nó wecommit100x) LÀM QUEN, TUYỂN KỸ - BUÔNG XẢ LÀM TỐT NHẤT, SÁNG HAY KHÔNG LÀ CHUYỆN CỦA BÓNG ĐÈN:**
-    
-
-- Thay đổi mình và người khác cần rất nhiều thời gian.
-    
-- SỰ THU HÚT đến từ SỰ TƯƠNG HỢP THÔNG TIN("ko quan trọng bạn nói gì, quan trọng vẻ ngoài và sự tự tin, ko sợ hãi. Con gái bị cuốn hút bởi sự trung thực đồng nhất cả bên trong lẫn bên ngoài"). **SỰ ĐỦ ĐẦY TỪ BÊN TRONG - TẠO GIÁ TRỊ - THE ROAD (ko ai đi, tôi vẫn đi, bạn đi cùng, tôi đồng hành).** (Ràng buộc vật chất, không ràng buộc nơi tư tưởng sở hữu cảm giác). LÀM QUEN TỐT NHẤT, MỞ LỜI TỐT NHẤT => TỪ CHỐI GIÚP TA TIẾT KIỆM THỜI GIAN VÀ SỨC LỰC, SẴN SÀNG LOẠI BỎ NGAY TỪ ĐẦU
-    
-- Khi số người biết bạn là 1K cơ hội khác, 100K follow cơ hội khác.
-    
-
-> 1. (vì bạn không mất thời gian, năng lượng cố gắng thuyết phục cô gái rằng bạn hấp dẫn). (Nếu tôi không chắc có thể làm việc với người đó trong 1 thời gian dài, tôi sẽ không làm việc với người đó dù chỉ là 1 giờ)(còn đi lâu dài hay không còn tuỳ nhân duyên) ("Vì tôi đã đá rất nhiều người ngay từ đầu vì những việc ngu ngốc như thế này để tôi không còn phải lo về nó nữa. Trong chuyện này thì tôi rất tàn nhẫn. Tôi bỏ đi ngay giữa cuӝc hẹn đầu tiên. Tôi bỏ đi ngay giữa lời nói. Tôi không quan tâm. Tôi không có thời gian với những cô gái tệ. Và kết quả là, hoặc là họ thay đổi phù hӧp với mong đӧi của tôi, hoặc là tôi không bao giờ gặp họ nữa. Tôi tôn trọng bản thân và vì thế sẽ không dành thời gian với những cô gái không tôn trọng tôi. Bạn sẽ tự nhiên nghĩ rằng, “Ồ, vậy có nghĩa mình phải gặp gấp đôi số phө nữ, phải bỏ ra gấp đôi công sức, vì mình sẽ từ chối nửa số người thích mình.” Thật ra, bạn sẽ bỏ ra ít công sức hơn, vì bạn không còn phí nhiều thời gian và năng lưӧng cố gắng thuyết phөc cô ấy rằng bạn là mӝt người đàn ông hấp dẫn. Bạn không còn mệt mỏi nghĩ rằng liệu cô ấy có thích bạn đủ nhiều hay không, hoặc lo lắng làm thế nào để gây ấn tưӧng hay thắng lại cô ấy. Khi cô ấy không hӧp với tiêu chuẩn của bạn, tình huống trở nên cực kỳ dễ dàng cho bạn: bạn bỏ đi. Không nghĩ ngӧi gì hết. Không tranh cãi. Không quay lại ngoạn mөc. Chỉ là: hành vì của cô ấy không hӧp với tiêu chuẩn của mình, mình sẽ gặp mӝt người khác")
-> 
-> 2. “Trí tuệ xúc cảm” của Daniel Goleman - tác phẩm kinh điển nhất về EQ: [https://tinyurl.com/tri-tue-xuc-cam3](https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2Ftri-tue-xuc-cam3%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExQ3hWSXJDRG5pQjhWZHdNZQEeeBwTQnNJ-kuMTpy3cb-S8VQfRbhUhHYjjYUjn8QvWeaZBPm2jPyE8kOHyWg_aem_Clcd98w2NoD56roSeHmQkA&h=AT2SJM8Jf4K6y_Z3YyiXBCNxbHv1jL0owq4CeDqZuWZEJ-RE59O2gIVLIwVR2PZ2Ga_lwiaDBqTW1MW5Y5e9moZ-4cSDd9qD7THEXMaerQM5rRGmkAET2WAMKRBQjOWnUuGpzORG0GGVMgDEEvDd8-ImFUEfQ9d1&__tn__=-UK-R&c[0]=AT2ugb3GtyZG0BXC2h68-yxfTI2Za8vLYCYSGmPgU8QvMjYakhR7Ejs4-mSNQ0QLVesohTLLC_nZSeENCafIp3OtkJaw39EXYYnQhqTXz5vmo1WqP9ORsgVS-RAzjKeEvdPJ5TAGlwbZjbSQDoGFYC25ZcqpQzJOJhuYaEV4L46FrzBdVu6eoIPl8pK8hlipaM-QqBw3C8EIAtfQc5t-70vbgBoR)
-> 
-> - Nỗi đau âm ỉ, Chi phí chìm và "Hiệu ứng cố gắng phi lý" (irrational escalation) – khi bạn đã đầu tư quá nhiều vào một người không rõ ràng, bạn càng khó dừng lại, vì bạn nghĩ: “Mình đã đi xa thế này rồi, chẳng lẽ quay về tay trắng?”
->     
-> - Rất nhiều người, khi bị đối phương lạnh nhạt, lại chọn hạ tiêu chuẩn: Trước đây muốn yêu một người biết trân trọng – giờ chỉ cần người đó đừng biến mất. Trước đây cần sự rõ ràng – giờ chấp nhận cả sự mập mờ, miễn là không bị bỏ rơi. Bạn không cần co lại để “vừa” với một ai đó. Người xứng đáng là người khiến bạn được là chính mình – chứ không phải phiên bản rút gọn để vừa vặn với sự thờ ơ của họ. <27/06/2025: KLinh nhắn gần 10 tin rep 1-2 tin>
->     
-> - Và nếu tình yêu ấy khiến bạn phải giành lấy từng chút quan tâm, chờ đợi từng lần phản hồi, tự vấn giá trị bản thân mỗi ngày – thì bạn có quyền rút lui.
->     
-> 
-> 3. Mua một món đồ giảm giá dù biết là không cần, chỉ vì… hôm nay bạn quá chán nản? 4. Một mối quan hệ khiến bạn phải đoán liên tục. Naval từng nói: "You’re not going to get rich renting out your time.” — bạn cũng sẽ không thể sống sâu khi để sự chú ý của mình bị cho thuê rẻ mạt. <30/06/2025: KLinh nhắn gần 10 tin rep 1-2 tin> 5. VẪN CỐ CHẤP KO CHỊU CẮT LỖ - Quy tắc 3 lần và con số 1.6 <30/06/2025: KLinh nhắn gần 10 tin rep 1-2 tin>: https://www.facebook.com/share/p/1BkMfwe3g6/
-> 
-> - Khi bạn hỏi ai đó một chuyện gì, quá 3 tin nhắn họ chưa trả lời tức là họ không muốn trả lời. Hãy tự tìm hiểu!
-> 
-> - Một người nhờ bạn giúp không công 3 lần, lần thứ 4 trở đi đều được xếp là lợi dụng.
-> 
-> - Khi bạn nhờ ai đó một việc, quá 3 tin nhắn họ chưa xác nhận sẽ giúp, hãy tự làm hoặc tìm người khác.
-> 
-> - “Chúng ta không thuộc về nhau” là khi bạn phải chủ động bắt chuyện quá 3 lần/ngày
-> 
-> - Không nên nhận phần thiệt về mình quá 3 lần, khi bạn có chỗ đứng rồi thì nửa lần cũng không.
-> 
-> - Bạn có thể xuống nước 3 lần để níu kéo một mối quan hệ mà bạn thấy quan trọng. Đến lần thứ 4 làm ơn dẹp đi!
-> 
-> - Mỗi biến cố trong đời đều không nên có quá 3 người biết. Mỗi thành tựu trong đời chỉ cần tối đa 3 người chúc mừng.
-> 
-> - Chồng giàu, đẹp trai, tài giỏi đến mấy, vợ cũng không nên giả mù quá 3 lần.
-> 
-> - Việc gì trì hoãn quá 3 lần đều không tốt.
-> 
-> - Hẹn hò bao nhiêu lần cũng được. Khi kể về người cũ, chọn 3 người tốt nhất mà kể.
-> 
-> - Tích đủ 3 lần vắng mặt trong hoạn nạn, người yêu trở thành người dưng.
-
-3. **RÕ RÀNG Ý ĐỊNH -> MỐI QUAN HỆ LÀ TÁN NGAY TỪ ĐẦU, TÁN MẠNH (Thẳng thắn: xin fb - ko vòng vo vì người ta biết tỏng ý định rồi)**
-    
-
-- LÀM ĐÃ LEVEL UP DẦN (Giống như việc 3 tháng đầu năm 2025 T2-02/05/2025 mình lần đầu chạy, viết bài chuyên môn, làm video ĐĂNG LÊN ĐỀU ĐẶN - nỗi sợ chỉ mất đi khi mình làm, vô tình cái dự tính Content Creator nó đến nhanh hơn kế hoạch 2-3 năm)
-    
-- BẮT ĐẦU VỚI VIỆC: TIẾN ĐẾN VÀ NÓI "TỚ XIN FB CẬU VỚI", Ý ĐỊNH RÕ RÀNG. (KO MỞ ĐẦU, KO LÝ DO, KO KẾT THÚC).
-    
-
-> - Khánh Ly: Cậu 2k mấy đó, xin facebook được không. (Khánh Ly). Rõ ràng!!!
->     
-> - Hiền: Bạn khác ở quán caffe 5h sáng mình gọi dậy xin info xong chuồn.
->     
-> - Khánh: đang ngồi học mình ra: Xin fb cậu với -> xong cũng chuồn.
->     
-> - ... => Sự thật là trong toàn bộ những lần xin info đợt T5, T6/2025 mình chỉ nói đúng 1 câu : "Tớ xin fb cậu với. (Đa phần ko mở đầu, ko lý do, ko kết thúc)"
->     
-
-4. **QUAN SÁT: SỰ PHẢN HỒI** **- Nhu cầu các giới, Nhu cầu TÌNH DỤC :** (con gái XINH ƯA NHÌN, con trai KHÉO TINH TẾ). KHỔ THỌ TÌNH DỤC. Có nhu cầu nhưng ko ở mức biến thái. **- Networking - Sự đầu tư cho mình, ny, GIA ĐÌNH/MQH của họ:**
-    
-
-> Investment in Relationship - IR = (Response Frequency + Interest Level + Communication Quality) / 3
-> 
-> +, Tần suất phản hồi / Response Frequency
-> 
-> +, Mức độ quan tâm / Interest Level: đo lường sự quan tâm, chú ý mà người đó dành cho mối quan hệ,
-> 
-> +, Chất lượng giao tiếp / Communication Quality
-> 
-> => KẾT QUẢ: phân 3 nhóm: ĐẦU TƯ NGƯỢC dựa trên TIẾN TRÌNH TỰ NHIÊN của MQH (DUYÊN KHỞI)
-> 
-> - Đèn Xanh (Đáp Lại): gia đình, ny, Mentor - đồng đội thân cận
->     
-> - Đèn Vàng (Lưng Chừng): MQH xã giao, bạn bè, đối tác tiềm năng
->     
-> - Đèn Đỏ (Ko đáp lại): 0
->     
-> 
-> *** Nam và Nữ ***: Phụ nữ suy nghĩ phức tạp, cảm xúc, yêu bằng tai cần ái ngữ chăm sóc yêu thương, TÍNH YÊU THƯƠNG GIÚP ĐỠ CAO >< Đàn ông logic, yêu bằng mắt cần tình dục, TÍNH CHINH PHỤC CAO
-> 
-> Follow fb nhóm đáp lại , bạn thân - Follow story thì để all.
-
-**SỰ LỰA CHỌN/RA QUYẾT ĐỊNH DỰA TRÊN PHẢN HỒI: Hãy làm như cách mình từng khuyên người khác.**
-
-> - 1. Triết lý cốt lõi: "Trung thực là vũ khí!"
->     
-> - 2. First Date là dịp để thể hiện bản chất thật, không giả tạo.
->     
-> - 3. Đừng tự trách mình – Định nghĩa lại sai lầm
->     
->       Bạn hỏi: “Mình sai ở đâu?”
->     
->       Không sai vì trung thực, vì chủ động.
->     
->       Nếu sai – thì chỉ là:
->     
->       - Bạn đặt cảm xúc quá sớm vào một người chưa rõ ràng.
->     
->       - Bạn giao tiếp rõ – nhưng chưa chấp nhận rõ sự thật: họ có thể không hứng thú với bạn, và đó là bình thường.
->     
-> - 4. Đỏ -> tự động rời đi, ko lý do. Vàng -> nói rõ ý định, Xanh -> chốt đơn!
->     
-
-5. **STEP LÀM QUEN: 1. MECE CÁC CASES XẢY RA khi tạo cơ hội cho mình - 07/06/2025 - 2. BEGIN WITH THE END IN MIND + TỐC ĐỘ RA QUYẾT ĐỊNH, TỐC ĐỘ TRỞ LẠI, MẶT DÀY TÂM ĐEN, TÌM KIẾM CẢM GIÁC KHÓ CHỊU, BUÔNG BUÔNG CẢM GIÁC + 3. SẴN SÀNG RA QUYẾT ĐỊNH TRONG TÌNH TRẠNG BẤT LỢI/THUẬN LỢI NGOÀI DỰ ĐOÁN: LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN: HÀNH ĐỘNG NGAY HAY BỎ LỠ ĐỂ RỒI HỐI HẬN**
-    
-
-**5.1 END IN MIND :**
-
-> - Mục tiêu làm quen: 1. NY: Có tiêu chí rõ ràng -> NÓI RA ĐIỀU MÌNH MUỐN. HÀNH ĐỘNG THAY VÌ VỀ NHÀ SẼ TIẾC. 2. TĂNG SỐ NGƯỜI BIẾT: KHÔNG BAO GIỜ RỜI ĐI MÀ KO XIN OFFER. Với mục tiêu này thì: mình có crush hay người ta có crush thì cũng thế. - HOW? kiếm mentor, chia sẻ lại.
-
-**5.2 NÓI RA ĐIỀU MÌNH MUỐN:**
-
-> **-** **TỐC ĐỘ RA QUYẾT ĐỊNH, TỐC ĐỘ TRỞ LẠI, MẶT DÀY TÂM ĐEN, TÌM KIẾM CẢM GIÁC KHÓ CHỊU, BUÔNG BUÔNG CẢM GIÁC** **- "KO CÓ LÝ DO CŨNG LÀ LÝ DO" + "Cảm xúc muốn hành động chính là lý do" + “Tôi không cần cảm thấy có lý do để hành động. Tôi hành động, rồi lý do sẽ xuất hiện.”**
-> 
-> **- TRẢI NGHIỆM HAY TRỞ THÀNH "NGƯỜI ĐÀN ÔNG, NGƯỜI CHỒNG HẠNH PHÚC".**
-
-##### 5.3 XỬ LÝ TÌNH HUỐNG BẤT NGỜ: **LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN**: HÀNH ĐỘNG NGAY HAY BỎ LỠ ĐỂ RỒI HỐI HẬN
-
-> **Vấn đề:** (Case mình chủ động xin ở giữa/cuối đều oke. Case mà cô gái về trong lúc mình đang tập trung + case thuận lợi quá trong lúc mình đang tập trung )
-> 
-> **Điều chỉnh Tâm Thế: Ưu Tiên Cơ Hội:**
-> 
->   **"KHÔNG BAO GIỜ RỜI ĐI MÀ KHÔNG XIN OFFER", KO XIN THỂ NÀO VỀ CŨNG HỐI HẬN:** Khi có cơ hội làm quen, nó phải là ưu tiên hàng đầu, dù bạn đang làm gì.
-> 
->   **Thực dụng với thời gian, Không sợ gián đoạn:** Hiểu rằng **cơ hội làm quen là hữu hạn** trong một khoảng thời gian nhất định, trong khi việc học/làm việc có thể tiếp tục sau đó. Chấp nhận rằng việc gián đoạn vài phút để xin thông tin là hoàn toàn xứng đáng.
-> 
->   **LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN: LÀM HAY BỎ LỠ ĐỂ RỒI HỐI HẬN: Tư duy linh hoạt, sẵn sàng chiến đấu bất cứ lúc nào, Cơ hội ẩn mình:** Nắm bắt thay đổi nhỏ nhất, luôn trong trạng thái chiến. Luôn ý thức rằng cơ hội có thể xuất hiện bất cứ lúc nào, ngay cả trong những khoảnh khắc tưởng chừng bình thường nhất.
-> 
->   
-> 
-> **9.1 (Case 06/06/2025): Cô gái rời đi khi bạn đang tập trung, ko kịp/ko dám hành động vì nghĩ là cứ phải chuẩn bị đã ??? => LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN**
-> 
-> - **Nguyên nhân chính: Ưu tiên chưa rõ ràng, chưa có sự chuẩn bị, e ngại gián đoạn việc học**.
->     
-> 
-> **9.2 (Case 07/06/2025) Tình huống thuận lợi bất ngờ (ví dụ: chỉ còn hai người trong phòng):** Một cơ hội "trời cho" xuất hiện, nhưng bạn lại bị bất ngờ và không biết cách nắm bắt. => **LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN**:
-> 
-> - **Nguyên nhân chính: bất ngờ thuận lợi mà chưa chuẩn bị. => ĐẾCH BIẾT GÌ CŨNG TIẾN.**
->     
-
-  
-
----
-
-  
-
-##### 5.1 MECE các cases xảy ra:
-
-- Không đúng gu (mắc phải 1 trong các tiêu chí sai: có ny, ... -> Bỏ.
-    
-- Có khả năng:
-    
-
-> **1. CÔ GÁI NGỒI 1 MÌNH / CÔ GÁI NGỒI 1-2 NỮ ÍT NGƯỜI** **/ NGỒI VỚI NHÓM ĐÔNG NHƯNG ĐÃ TÁCH RA**
-> 
-> - **CASE 1: NGỒI CẠNH:** **"TỚ NGỒI CẠNH CẬU ĐƯỢC KHÔNG" - KO CẦN LÝ DO (MẶC DÙ XUNG QUANH CÒN ĐẦY GHẾ TRỐNG/MẶC DÙ ĐANG NGỒI YÊN 1 CHỖ RỒI VẪN ĐỔI CHỖ ĐỂ ĐẠT MỤC TIÊU) => DỄ XIN INFO (do tự nó là lý do). => ĐƯA MỌI THỨ VỀ NGỒI CẠNH.**
->     
-> - **CASE 2: NGỒI ĐỐI DIỆN =****> DỄ XIN INFO (do tự nó là lý do).**
->     
-> - **CASE 3: KO NGỒI CẠNH/KO NGỒI ĐỐI DIỆN: CASE CHẠM MẮT NHIỀU LẦN, BẠN NỮ QUAY MẶT VÀO CỬA SỔ.** **- NỖI SỢ: Sợ không có lý do hợp lý.** **- MINDSET ĐÚNG: Khi bạn bước đến, cô gái đã biết quá rõ ý định của bạn rồi => Nói ra điều mình muốn.** **=> Option 1: (thường làm) TIẾN LÊN VÀ 1 ĐẬP, THẬM CHÍ KO MỞ ĐẦU KO LÝ DO KO KẾT THÚC: "TỚ XIN FB CẬU ĐƯỢC KO"** **=> Option 2: (an toàn hơn) -> đưa về CASE 1 NGỒI CẠNH.**
->     
-> - CASE CHƯA CHẠM MẮT, ...?
->     
-> 
-> - Case có chỗ ngồi cùng: 23/05/2025. Dược 2k4 tiến lại rất đơn giản là xin ngồi cùng bên cạnh => hỏi được tuổi và ngành học ->ko xin info lúc a Huy chưa tới tiếc, ko xin info vì a Huy bên cạnh tiếc. MÌNH ĐI CÙNG BẠN THÌ ĐÃ SAO VIỆC PHẢI LÀM. NGỒI 1 MÌNH VÀ MÌNH ĐẾN NGỒI CẠNH? **=> Rất đơn giản là xin ngồi cạnh.** - Case có chỗ ngồi cùng: 30/05/2025. Case DTr Minh khác cô gái 1 mình bàn 4 chỗ, mình hỏi có ai ngồi chưa -> xong ngồi đối diện. **=> Rất đơn giản là xin ngồi đối diện.** - Case 30/5/2025 chọn chỗ ngồi có khoảng trống để người khác chủ động ngồi cùng (Kiều Oanh kéo ghế ngồi sát mình) ->sau đó xin info thì lại chưa quá hợp lúc: lúc đó chay mặt vãi (vì đã quá mệt sau hơn 24 h ko ngủ) ngáo luôn mà (bạn cổ đánh giá ko care nữa rồi). **=> Rất đơn giản là xin info vì ngồi cạnh** - Case Hiền ngày 25/05/2025 ko có chỗ ngồi cùng: mình ngồi ở 1 góc và chạm mắt Hiền kha khá -> cơ hội đã đến, cuối buổi đánh thức dậy và xin info, thậm chí: KO CÓ LÝ DO. Cô gái đi cùng 1 người bạn. 2 người để ý nhau từ lúc còn ngồi ở 2 chỗ xa nhau. Ít nhất chạm mắt nhau 4-5 lần. Mình trần trừ 30min ko xin ????Bạn cô gái ngồi xa cổ mà, ko đến cúa đợi. Bạn cô gái ngủ rồi mà, ko lên cứ đợi. Cô gái đang ngủ, đánh thức dậy xin. Ngại bạn cô gái, ngại 1 đôi nam nữ nữa đang ngồi bên cạnh. ... ? : mình tiến lại gần ở khoảng cách siêu xa sau 1 đêm dài học xa vị trí nhau, xin info mà ko 1 lý do, "mình xin info của bạn được không" - bạn nữ trần trừ 1s xong đưa điện thoại, xong cái mình đi luôn, ko nói thêm gì. => Bản thân mất 30min để đưa ra quyết định và cuối cùng HÀNH ĐỘNG vì biết rõ rằng: KO LÀM LÀ TIẾC. **=> Oke không vi phạm 4 tiêu chí + có chạm mắt 3 lần (mục tiêu đã bị ghim khi chạm mắt)** **=> Mất 30min để tiến lên (ko có lý do xin info vẫn xin)** **=> Chốt vì: Ko làm thể nào về cũng tiếc cho mà xem. Sau đó mình lên xin và chỉ nói: mình xin fb cậu được ko và bạn nữ oke luôn.** - Case 07/06/2025 Thảo Linh: bị miss lần "cô gái đi về trong lúc mình tập trung" ở trước đó (tối M6), mình bật chế độ: sẵn sàng gác lại việc đang học để xin info. **=> Chỉ mất 1min để tiến lên (ngồi đối diện, lý do quá rõ ràng).** - Case 07/06/2025 Khánh ko có chỗ ngồi cùng: thậm chí bạn nữ còn quay vào tường để học bài. Có lý do là bên viện toán, chạm mắt nhau. Sau cùng mình vẫn trần trừ 1h30min. (trước đó thì có chạm mắt mấy lần, chạm mắt là xác suất thành công cao, y như case của Hiền). Tuy nhiên: NỖI SỢ, DO DỰ,... SỢ 'KO CÓ LÝ DO"? đâu là nỗi sợ lớn nhất + sau đó đưa giải pháp: CẢM GIÁC KHÓ CHỊU, TỐC ĐỘ HÀNH ĐỘNG, TỐC ĐỘ QUAY TRỞ LẠI, MẶT DÀY TÂM ĐEN NÓI RA ĐIỀU MÌNH MUỐN, và BUÔNG BUÔNG BUÔNG --- 1 CẢM GIÁC KHÓ CHỊU TỘT CÙNG KHI NỖI SỢ BAO VÂY MÌNH. Sau 1h30min chần chừ như thế (các lần khác của mình chỉ từ 0.5min-30min chần chừ) còn lần này quá lâu. Khi đang định bước đến thì crush nhỏ đến véo má, mấy đứa bạn xung quanh thì bảo: quả này tối nay khỏi ăn cơm. Mình khóc nghẹn luôn. Sau đó chờ 2min-3min, chuông báo đồ uống hắn kêu mình tiến lại và lấy info bạn nữ, và vẫn là câu đã chuẩn bị "Xin chào, mình xin fb của bạn được không, ..." và bạn nữ rút điện thoại cho luôn rồi. (vì cơ bản là chạm mắt nhau 1 số lần là xác định cao sẽ có info). **=> Duyệt oke, có chạm mắt 3-5 lần => khả năng có số cao!** **=> Mất 1h30min (ko có lý do xin info tự bịa ra 1 cái), do dự, sợ hãi.** **=>Chốt vì: Mình đã chờ rất lâu rồi 1h30min, ko thể rời đi mà ko xin offer được, dù có ny rồi đi chăng nữa. Sau đó tiến lên cũng chỉ nói : hello, mình xin fb cậu được ko là bạn nữ oke rồi. (Nói thêm đoạn: mình muốn hỏi thêm về liên chi, ... chỉ là cái cớ cơ mà bạn cũng ko cần cái đó đâu là đã cho info rồi).** **=> Điều gì khiến mình do dự, nỗi sợ, cảm giác đau khó chịu lâu vậy**
-> 
-> **XỬ LÝ VẤN ĐỀ PHÂN VÂN DO DỰ, KO CÓ LÝ DO ?** **=>"KO CÓ LÝ DO CŨNG LÀ LÝ DO" + "Cảm xúc muốn hành động chính là lý do" + “Tôi không cần cảm thấy có lý do để hành động. Tôi hành động, rồi lý do sẽ xuất hiện.”**
-> 
->   
-> 
-> - Case Như Ngọc: 12/06/2025 Ban đầu vào ngồi từ 12h rưỡi - 15h40 (mình ngồi đó lâu rồi), ban đầu mình chấm tầm 5/10 thôi cơ mà ngồi chéo nhau mà đảo mắt chạm nhau nhiều quá 3-5 lần. Đến lần thứ 4 là mình quyết định đây là mục tiêu ngày hôm nay rồi Mình cảm nhận viết ra sổ tay như hôm nọ sẽ thấm hơn, mình tìm sổ, tìm bút không có -> Mở vội NotePad lên và viết vội đọc đến 'Cảm xúc muốn hành động chính là lý do -> mình làm luôn'. Đi theo xuống dưới tầng ra hẳn ngoài. "Bạn gì ơi mình xin fb được không" bạn ngưng 3s, làm gì ạ, mình 'mình cũng hay học ở đây ý' -> oke luôn. ---- Mình có phần "run tay" (ko run khi nói vì lúc nói tập trung nói lấy gì mà run, run khi mà cầm điện thoại bấm tên)
-> 
-> **=> The road: Con đường tôi chọn. Đây là con đường tôi chọn.** **"KO CÓ LÝ DO CŨNG LÀ LÝ DO" + "Cảm xúc muốn hành động chính là lý do" + “Tôi không cần cảm thấy có lý do để hành động. Tôi hành động, rồi lý do sẽ xuất hiện.”** **LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN** => Sau khoảng 4h check thì thấy bị huỷ kết bạn rùi. => **Luôn sẵn sàng chấp nhận sự từ chối một cách lịch sự:** Nếu đối phương không muốn, hãy tôn trọng quyết định của họ. **TỪ CHỐI SỚM THẬM CHÍ GIÚP MÌNH TIẾT KIỆM RẤT NHIỀU THỜI GIAN.**
-> 
->   
-> 
-> 2. BẠN CỦA BẠN MÌNH / MÌNH NGỒI CÙNG BẠN, ANH, CHỊ MÌNH, BỐ MẸ.. (Sợ người xung quanh đánh giá + bạn, bố mẹ, người thân mình đánh giá) - Khánh Ly đã tiến tới: hỏi tên gì, xin facebook luôn. - Lúc đi đám cưới: ... - Case: 01/05/2025 Đám cưới a Kha, 3 khoảnh khắc do dự: 1. Em gái vợ a Kha 2. Liễu con cô Vẻ 3. Con cô gì gì đó ?
-> 
-> - Liễu con cô Vẻ: hỏi được tên -> ko nói được gì thêm, và ko xin được info => Về gg: bác Vui, cô Vẻ ->xem fb cô Vẻ ko ra, sau search Liễu ra info chị bạn ấy -> ra info bạn này. https://www.facebook.com/lieuhoang26905 - Add fr xong lại huỷ để TRÁNH RỦI RO.
->     
-> - Em gái vợ a Kha: ko biết tên -> biết tên chị Lê Hà Phương (Lê Ứng - Phạm Hoài Thu)-> vào trng cá nhân search Le (Từ 1 bài: https://www.facebook.com/share/p/15Qc2qGmsf/ -> Lê Hoài Phương https://www.facebook.com/profile.php?id=100063655276053 )
->     
-> 
-> 3. CÔ GÁI NGỒI VỚI BẠN ĐÔNG: Luôn sẵn sàng thời cơ cô gái tách riêng ra / Lao vào cả nhóm.
-> 
-> - Case cổ ngồi chung với 4 bạn nữ khác và quay vào tường làm bài => Bỏ qua / Chờ thời điểm họ tách ra hoặc ko tập trung nữa / 1 lý do cực kỳ hợp lý. **=> BỎ LỠ** - Case 07/06/2025 Khánh: có 1 đội bên liên chi Toán ứng dụng ngồi chấm bài điểm chung HUST, **=> Oke gu, chạm mắt 3-5 lần.** **=> Khi chung, giả sử: "mn bên liên chi nào đấy. Xong quay sang bạn nữ chủ tịch để xin info"** **=> Còn ở riêng thì cứ: 1 đập. "mình xin info của bạn được ko, mình muốn hỏi 1 chút về liên chi của bạn".** - Case 09/06/2025 Vũ Trà Trà NEU: ngồi 1 nhóm 6 người (1 nam, 5 nữ). Ban đầu quét 1 lượt ai cũng như nhau. Sau thấy 1 bạn nổi bật, nhìn và bạn nữ chạm mắt 3-5 lần, bạn còn ngại mắt mình => lên thôi. => Khi chung: (Sau 20h thức, mình cũng tính lao vào luôn chứ ko đợi nhóm chia nhỏ nữa). "Xin chào, mình cũng làm Sản phẩm, mình có thể xin fb của cậu không". => Khi riêng: (nghe loáng thoáng bạn đó hay bạn bên cạnh bạn đó ở lại đến đêm). => Ở lại vậy (cơ mà đi ngủ chứ mỏi mắt rồi). **[CHỜ ĐỢI VỚI TÂM THẾ LUÔN SẴN SÀNG VỚI BẤT LỢI/THUẬN LỢI BẤT NGỜ]**
-> 
-> +, Sau đó vẫn đợi đến cuối tầm 23h, nhóm mn đứng lên về, sau 18min thu dọn đồ và ngồi đợi vừa viết RAG vừa viết các câu: -> mình lên và nói: 'bạn gì ơi, mình xin fb của bạn được ko' Bạn ngẩn người ra 5s, mình nói tiếp 'mình cũng làm product ý, xin để có gì connect', bạn gật (3 bạn nữ còn lại, và 1 nam thấy mình xin thì cũng đi trước ra ngoài đợi). => Về ib ko rep **=> Duyệt oke, có chạm mắt 3-5 lần => khả năng có số cao!** **=> Tốc độ hành động: Mất 3min, chờ đợi mn bên đó thu đồ.** **=> Lúc đó tiến lên vì: THE ROAD Con đường tôi chọn, Không lý do cũng là lý do - tiến lên chính là lý do** 4. ĐANG KHÔNG ĐỂ Ý: - Case 12/06/2025: 1 bạn nữ ngồi nhóm 3, mình đến lúc 0h30 ban đầu mình cũng có care. Sau đó đến tầm 2h mình đang ngồi bàn bên cạnh thì 1 nhóm đến ngồi cùng nên trong khoảng thời gian 2h mình ko nhìn sang bàn bên nhiều nữa, 4h thì mình đang focus vào nghiên cứu phần: Problem Solving quá, 4h50 thì vào zoom với ae ko thoát ra được, **=> BỎ LỠ: 1. CHƯA CHẠM MẮT NHAU + 2. KO ĐỂ Ý ĐẾN BẠN NỮ LIÊN TỤC.**
-
-  
-
-#### 2.2.1.1 Đi ra ngoài Caffe học bài - chuyển việc Flow vào buổi sáng đuê -
-
-1. Mục tiêu chính: Học bài / Ngồi với bạn.
-    
-2. Chọn đồ uống: 5s chọn đồ uống rẻ nhất. Vì mục tiêu chính là học bài.
-    
-3. Khi nào thì làm quen: ? - Mục tiêu làm quen: 1. NY: Có tiêu chí rõ ràng -> NÓI RA ĐIỀU MÌNH MUỐN. HÀNH ĐỘNG THAY VÌ VỀ NHÀ SẼ TIẾC. 2. TĂNG SỐ NGƯỜI BIẾT: KHÔNG BAO GIỜ RỜI ĐI MÀ KO XIN OFFER. Với mục tiêu này thì: mình có crush hay người ta có crush thì cũng thế.
-    
-
----
-
-1. Ưu tiên 1: Ngồi 1 mình và có chỗ trống -> oke
-    
-2. Sai lầm 1: ngồi quay mặt vào tường mà không có ghế ở bên cạnh (nếu có ghế bên cạnh thì xác suất người khác ngồi cạnh cao hơn). -> góc ngồi tốt là: xung quanh nhiều chỗ trống và góc nhìn bao quát rộng
-    
-
-#### 2.2.1.2 TÂM LÝ HỌC - Thứ lương tâm mang yếu tố chủ quan - 22/06/2025!!!
-
-> MONEYosophy -> Có keywords là mình search được: https://www.facebook.com/ecoblader + Cấp Độ 1 Đến 100 Tình Huống Đạo Đức Khó Xử: https://youtu.be/OwxDnXx6m9w?feature=shared +
-> 
-> 1. COPY Bài của bạn, nhanh chóng hoàn thành mục tiêu => Ăn mừng => Giúp đỡ người khác.
->     
-> 2. Nhặt được chiếc Ipad Mini 6 ở lớp không ai biết, có mang về nhà không, đắn đo đắn đo => Và mang về nhà? Lương tâm ?
->     
-> 3. Cây xoài nhà hàng xóm, vặt trộm vặt trộm.
->     
-> 4. Chọn ny? nghịch lý của sự lựa chọn, đầu tư dài hạn, ...
->     
-> 
-> Sau 2 ngày rất ??? với vấn đề LƯƠNG TÂM THẾ THÌ KHÔNG QUAN TÂM ĐẾN ĐẠO ĐỨC À => MÌNH NHẬN RA: NÓ GIỐNG HỆT GOSINGA. LÀM THIỆN CHƯA CHẮC GẶP QUẢ VUI, LÀM ÁC CHƯA CHẮC GẶP QUẢ ÁC. QUẢ CỦA NGHIỆP LÀ BẤT KHẢ TƯ NGHÌ.
-
-  
-
-1. **Lương tâm, đạo đức mang tính chủ quan! Cẩn thận với 'bẫy lương tâm thuần tuý'**
-    
-2. **Thích nghi: dựa vào điều kiện đầy đủ của từng tình huống để ra quyết định cho mình. QUẢ CỦA NGHIỆP LÀ BẤT KHẢ TƯ NGHÌ!**
-    
-
-  
-
-https://csg2ej4iz2hz.sg.larksuite.com/sync/V4ymdGJJIs1zSdbYKjzl880hghc
-
-#### Use cases:
-
-  https://csg2ej4iz2hz.sg.larksuite.com/sync/SwD8dVvTbsx8zqbPneMlqIxWgXc
-
-  
-
-### 2.1.3 Đồng Đội và NSKT - Nhà tù hay thiền viện (Đóng gói, chuyển giao cho đồng đội là để có thời gian làm những việc quan trọng hơn, chứ không phải để thoát ra)
-
-1. NHÂN SỰ KẾ THỪA: 1. KHIÊM HẠ, TÔN SƯ TRỌNG ĐẠO, HỌC HÀNH NGHIÊM TÚC SỬA MÌNH LIÊN TỤC - KHI HỌC TRÒ SẴN SÀNG NGƯỜI THẦY XUẤT HIỆN (dễ thương, ham học hỏi, cầu thị, nước sông chảy về biển vì biển thấp hơn mọi dòng sông, lúa càng chín càng cúi đầu) + 2. HÀO PHÓNG KIẾN THỨC - GIỎI RỒI DẠY LẠI KO DẤU NGHỀ KO DẤU BÀI - ĐỒNG HÀNH CÙNG ĐỒNG ĐỘI XÂY ĐỘI NHÓM MẠNH THÂN NHAU.
-    
-
-A1 (tiếp) TỨ NHIẾP PHÁP/CHIÊU MỘ WIN WIN: - QUAN SÁT MÌNH VÀ ĐỘI NGŨ NHIỀU LÊN, HIỂU THƯƠNG/COACHING(ĐỌC NGUỘI + LIÊN KẾT CÂU CHUYỆN + ĐẶT CÂU HỎI MỞ + KỂ CHUYỆN). - TUYỂN KỸ => SAU 1 THỜI GIAN: LIÊN TỤC SẮP XẾP BÀN CỜ DỤNG NHÂN NHƯ DỤNG MỘC [Chấp nhận/Dứt khoát loại bỏ(hời hợt Gắn kết Ekip)]. ĐỘI NGŨ THÂN NHAU TỰ QUẢN, BIẾN ĐỒNG ĐỘI THÀNH BẠN THÂN: GAME HIỂU THƯƠNG + TỨ NHIẾP PHÁP + ĐỆ NHỊ THÂN + LỤC HOÀ. - MENTOR THẦY GIỎI giúp mình nhìn: BÀI TOÁN CHIA LÀM SAO ĐỂ AE WIN WIN 6 LOẠI ĐỘNG LỰC + CON NGƯỜI TIN TƯỞNG (có tầm nhìn đường hướng, tâm thức tốt) + GAME ĐỦ HAY ĐỦ HẤP DẪN HỌ. - Khiêm hạ NHỜ ĐỒNG ĐỘI => bố thí ái ngữ lợi hành đồng sự đồng cam cộng khổ TẬN GIA ĐÌNH(Bánh Mỳ Kẹp Giáo Dục). ÁI NGỮ? (nói mượt, khích lệ ae, xem video, tập chia sẻ nhiều...) Tạo sóng gió ĐẬP ĐI XÂY LẠI để ae thân. Leader làm gương, cày chịu khổ, phạt X2. [1 bữa nọ TTG đi về mua 1 cái bánh mì bate cho mình, Tulingo mua mình 1 hộp cơm, a Tiến đãi bữa mì cay, Cường phát quà bánh đậu xanh và nước cốt cafe cho Tulingo TTG - Tứ Nhiếp Pháp]. - Dành bao nhiêu thời gian Hiểu Thương đồng đội, thuộc hết thông tin ae. - Không gian an toàn, Trung thực sửa mình bóc điểm yếu.
-
-  
-
-A1 (tiếp) 1 số phần chưa xử lý ĐỀ MỤC 2. TOP MINDSET Làm việc nhóm: KHIÊM HẠ SỬA MÌNH + TƯ DUY THỦ KHOA(Vượt ngưỡng, Làm Việc Khó Ra Tác Phẩm, Trao quyền và SẴN SÀNG GÁNH TEAMs) + BUÔNG XẢ(LÀM TỐT NHẤT sẵn sàng cho ĐIỀU TỆ NHẤT). 4.1 KHIÊM HẠ + BUÔNG XẢ => tận dụng tối đa ĐÒN BẨY CON NGƯỜI - DỤNG NHÂN NHƯ DỤNG MỘC với sự THÍCH NGHI (dù khúc gỗ dài ngắn ra sao, dù là bất kỳ ai, ở bất kỳ đâu, ko phân biệt môi trường NHƯ Ý HAY BẤT NHƯ Ý). - Khiêm hạ người giỏi sẽ về, Khiêm hạ được chỉ dạy. Còn cầu thị còn phát triển, cạn khiêm tốn bắt đầu lùi. Cách rèn: 1. LẤY PHỤNG SỰ ĐỂ RÈN TÂM 2. TẬP NHẬN LỖI DÙ MÌNH ĐÚNG HAY SAI 3. NHƯ LÝ TÁC Ý, RÈN TRÍ NHỚ CHÁNH: Cầu cho con khiêm hạ sửa mình. - BẢN NGÃ: TA HƠN, TA KÉM, TA BẰNG => MẤT KHIÊM HẠ, MẤT ĐÒN BẨY CON NGƯỜI(Khiêm hạ với người GIỎI HƠN MÌNH mà BẰNG/KÉM TUỔI MÌNH, khiêm hạ với người KÉM HƠN MÌNH vì RẤT NHIỀU ĐIỀU MẠNH mình có thể học KHI ĐA CHIỀU KHÔNG VỘI ĐÁNH GIÁ, KO CẮT DUYÊN vì KẺ THÙ DẠY TA NHIỀU BÀI HỌC QUÝ GIÁ)(Câu chuyện: 2021 từ ta hơn rơi xuống ta kém ta bằng + học BKE xong unfriend hết các bạn + được, anh ủng hộ, vừa học bổng, vừa project thì sao, làm được x2, x3 người khác không). => ÁI NGỮ XUẤT HIỆN khi THỰC SỰ KHIÊM HẠ, THẤY ĐIỂM TỐT CỦA HUYNH ĐỆ. - Mỹ Linh, Khánh Linh gánh Teams. 5.1 TẠO NHÓM - GOM AE LẠI: - Có cần thiết gom ae lại ko, đó có phải việc của mình ko? - TUYỂN KỸ => DỄ GẮN KẾT, DỄ ĐÀO TẠO. Hiểu RÕ MONG MUỐN riêng từng ae (tránh việc lập nhóm cái bụp chưa rõ ae muốn gì) - XÁC ĐỊNH CARE ĐƯỢC NHÓM (mới lập nhóm, nhân duyên chưa chín đi lập nhóm là oải). "KO PHẢI ĐỢI LÀ LEADER GIỎI MỚI LEAD NHÓM, MÀ LEAD NHÓM NHIỀU MỚI CÀNG TIẾN BỘ" - XÂY VĂN HOÁ HIỂU THƯƠNG NGAY TỪ ĐẦU, VÀO NHÓM GIỚI THIỆU ae HIỂU THƯƠNG NGAY(đã lập nhóm rồi xong tương tác bị đơn chiều, đến lúc mới ĐƯA HIỂU THƯƠNG VÀO SẼ KHÓ HƠN). - LEADER: BỊ NHÂN SỰ KÉM TUỔI HƠN NÓI RA ĐIỂM YẾU MẤT BÌNH TĨNH. (Nam Khúc vỗ ra điểm yếu NĂNG LỰC THỰC THI + TRIỂN KHAI HIỂU THƯƠNG NGAY TỪ ĐẦU ĐI). 5.2 ĐÀO TẠO: - Từ Member => LÀM X10 ĐƯỢC GIAO + HOÀ HỢP VĂN HOÁ 10 ĐIỂM (Tứ Nhiếp Pháp với SẾP, Huynh đệ,... CÙNG ăn chơi học hành chịu khổ cùng nhau) => ĐƯỢC TIN TƯỞNG LÊN LEAD - CÓ CƠ HỘI ĐƯA VĂN HOÁ VỀ ĐỘI NHÓM or CHUYỂN NƠI LÀM. - LEADER LÀM GƯƠNG 1-2 KEY WORDs TRIỂN KHAI THỰC TẾ LUÔN CHO RA KẾT QUẢ, NHÂN SỰ TỰ ĐÚC KẾT(tránh đưa đống lý thuyết về, trì hoãn việc triển khai)+ VẾT DẦU LOANG, CỦI KHÔ CHÁY TRƯỚC + WHY 6 LOẠI ĐỘNG LỰC(ĐẨY NỖI ĐAU ĐẾN TẬN CÙNG, nhân sự đòi làm thay vì mình bảo làm) + SET MÔI TRƯỜNG CHẶT CHẼ KO LÀM KO ĐƯỢC (MÔI TRƯỜNG MẠNH HƠN Ý CHÍ). - Mục tiêu chung Teams giúp gì cho MỤC TIÊU, NỖI ĐAU của TEAM, SẾP, NHÂN SỰ (dự án Cộng Đồng: Sếp có đang lãng phí thời gian của mình, để share những cái không phải mong muốn của Nhân Sự?)? Làm thế nào để mn CÙNG NỖ LỰC VÌ 1 MỤC TIÊU CHUNG(tránh sếp giao quản lý, quản lý giao nhân viên): "CÙNG NHAU THIẾT LẬP"(KRs Key Results, KAs Action Plans). - "RÈN GIỌNG NÓI LỰC KHÍ" mạnh hơn. 1. NỘI LỰC - NĂNG LƯỢNG - LÀM NHIỀU HƠN NÓI - MONG MUỐN TRUYỀN ĐẠT NHƯ NÀO. 2. Bên ngoài: THIẾU HƠI, HỤT HƠI => TẬP NÓI TO, DIỄN ĐẠT TRUYỀN CẢM.
-
-  
-
-#### Use cases:
-
-https://csg2ej4iz2hz.sg.larksuite.com/sync/BaCsdxxmOsrpirbpAPHlKhKggWd
-
-https://csg2ej4iz2hz.sg.larksuite.com/sync/FBpud9Uj0sVmoeb6JKUlcWLwghh
-
-# 6. KHỔ THỌ TÌNH DỤC và TÂM SI (Trở ngại lớn nhất)
-
-+, 1. CẢM GIÁC NỔI TRỘI.
-
-+, 2. NHẮC THẦM : THẤY THẤY, NHỚ ĐẾN TÍCH CỰC CHÚ TÂM THẤY RÕ CẢM GIÁC CHUYỂN ĐỘNG CẢM GIÁC XÚC CHẠM TOÀN THÂN, THEO NHỊP THỞ ĐI LÀM VIỆC. +, 3. TOẠ THIỀN THƯỜNG XUYÊN => để khắc sâu bộ nhớ, từ đó lúc BUỒN KHỔ, TÂM SI khởi lên mới đối trọi được.
-
-This content is only supported in a Lark Docs
-
-This content is only supported in a Lark Docs
-
-BƯỚC VÀO TÌNH YÊU HÔN NHÂN - CÁC DỤC VUI ÍT KHỔ NHIỀU, NÃO NHIỀU, NGUY HIỂM CÀNG NHIỀU [NGỌT KO KHỔ, THAM ÁI VỊ NGỌT MỚI KHỔ] => MỞ RỘNG RA ĐỘI NHÓM => dùng TD vợ chồng -phương tiện để chấm dứt khổ (như đồng tiền): Có vị ngọt. Tham Ái Vị Ngọt thì khổ. => Nếu chọn TYHN: nên chọn người cùng Pháp là tốt nhất. ------------------------------------------------------------ 1. SỰ ĐỦ ĐẦY TỪ BÊN TRONG. (Ràng buộc vật chất, không ràng buộc nơi tư tưởng sở hữu cảm giác). SỬA MÌNH NHIỀU LÊN, THỰC CHIẾN RA KẾT QUẢ, LEADER LÀM GƯƠNG 2. MỞ PHỄU ĐÚNG THỊ TRƯỜNG - LÀM QUEN, TUYỂN KỸ - BUÔNG XẢ LÀM TỐT NHẤT, SÁNG HAY KHÔNG LÀ CHUYỆN CỦA BÓNG ĐÈN: - CHỌN ĐÚNG MÔI TRƯỜNG => Bớt Tham bớt kỳ vọng(do hiểu Môi trường) => TỰ TIN HƠN, THOẢI MÁI HƠN(Chẳng hạn khi ngồi cạnh con gái ở thư viện thấy thoải mái hơn vì bớt kỳ vọng vì biết con gái ở đây khó làm quen hơn, XÁC SUẤT NGƯỜI PHÙ HỢP THẤP hơn ở môi trường BKE GOSIGNA - THỰC HÀNH "KO PHẢI ĐỢI ĐỌC VỊ GIỎI HƠN MỚI LÀM QUEN, MÀ LÀ LÀM QUEN NHIỀU THÌ ĐỌC VỊ MỚI GIỎI LÊN"). Cùng là NGỒI CẠNH BÊN 1 cô gái xinh, hôm nào khởi lên MUỐN LÀM QUEN => HỒI HỘP, CỐ GẮNG QUÁ MỨC NÊN KHỔ . Hôm ko khởi lên thì BÌNH AN, KO QUÁ CỐ GẮNG KO KHỔ (CÓ CƠ HỘI NÓI CHUYỆN THÌ NÓI KO CỐ GẮNG TÌM KIẾM QUÁ MỨC). - SỰ THU HÚT đến từ SỰ TƯƠNG HỢP THÔNG TIN("ko quan trọng bạn nói gì, quan trọng vẻ ngoài và sự tự tin, ko sợ hãi. Con gái bị cuốn hút bởi sự trung thực đồng nhất cả bên trong lẫn bên ngoài"). - LÀM QUEN TỐT NHẤT, MỞ LỜI TỐT NHẤT, TUYỂN KỸ NHẤT CÓ THỂ => TỪ CHỐI GIÚP TA TIẾT KIỆM THỜI GIAN VÀ SỨC LỰC, SẴN SÀNG LOẠI BỎ NGAY TỪ ĐẦU(vì bạn không mất thời gian, năng lượng cố gắng thuyết phục cô gái rằng bạn hấp dẫn). (Nếu tôi không chắc có thể làm việc với người đó trong 1 thời gian dài, tôi sẽ không làm việc với người đó dù chỉ là 1 giờ)(còn đi lâu dài hay không còn tuỳ nhân duyên) ("Vì tôi đã đá rất nhiều người ngay từ đầu vì những việc ngu ngốc như thế này để tôi không còn phải lo về nó nữa. Trong chuyện này thì tôi rất tàn nhẫn. Tôi bỏ đi ngay giữa cuӝc hẹn đầu tiên. Tôi bỏ đi ngay giữa lời nói. Tôi không quan tâm. Tôi không có thời gian với những cô gái tệ. Và kết quả là, hoặc là họ thay đổi phù hӧp với mong đӧi của tôi, hoặc là tôi không bao giờ gặp họ nữa. Tôi tôn trọng bản thân và vì thế sẽ không dành thời gian với những cô gái không tôn trọng tôi. Bạn sẽ tự nhiên nghĩ rằng, “Ồ, vậy có nghĩa mình phải gặp gấp đôi số phө nữ, phải bỏ ra gấp đôi công sức, vì mình sẽ từ chối nửa số người thích mình.” Thật ra, bạn sẽ bỏ ra ít công sức hơn, vì bạn không còn phí nhiều thời gian và năng lưӧng cố gắng thuyết phөc cô ấy rằng bạn là mӝt người đàn ông hấp dẫn. Bạn không còn mệt mỏi nghĩ rằng liệu cô ấy có thích bạn đủ nhiều hay không, hoặc lo lắng làm thế nào để gây ấn tưӧng hay thắng lại cô ấy. Khi cô ấy không hӧp với tiêu chuẩn của bạn, tình huống trở nên cực kỳ dễ dàng cho bạn: bạn bỏ đi. Không nghĩ ngӧi gì hết. Không tranh cãi. Không quay lại ngoạn mөc. Chỉ là: hành vì của cô ấy không hӧp với tiêu chuẩn của mình, mình sẽ gặp mӝt người khác") - RÕ RÀNG MỐI QUAN HỆ LÀ TÁN NGAY TỪ ĐẦU, TÁN MẠNH. 2 hướng: 1 TỎ TÌNH NGAY TỪ ĐẦU 2. CỨ TÁN ĐÃ TỎ TÌNH RA. 3. SỰ THẬT VỀ CHUNG THUỶ - thực hành đúng KO CÓ CHÁN NẢN, MÀ HOÀN TOÀN BÌNH THẢN: - Khi gặp người khác giới, nếu LỘ TRÌNH TÂM là BÁT TÀ ĐẠO thì quý vị khởi lên THÍCH CHÁN GHÉT so sánh người đó với ny/vợ mình. - Còn nếu LỘ TRÌNH TÂM là BÁT CHÁNH ĐẠO, quý vị KHÔNG THÍCH KHÔNG CHÁN KHÔNG GHÉT, thì KHÔNG CÓ CHUNG THUỶ, cũng CHẲNG CÓ NGOẠI TÌNH, quý vị HOÀN TOÀN BÌNH THẢNG, VUI, THOẢI MÁI. - Con trai cơ bản giống nhau. Đợt này tui ra ngoài đường cũng bị váy ngắn của con gái hút hồn luôn đây nè. - Không có người yêu / người yêu sắp chia tay => dễ bị con gái bên ngoài hút hồn, xong ib tán tỉnh này kia - Còn khi có người yêu kiểu ổn định rùi ý => đều đặn ib ny tình cảm nhẹ nhàng. (là đủ nhu cầu ý, giống như kiểu ăn nhiều quá thì bị no ko thể ăn được => nên chẳng còn tâm hơi mà nhắn con gái khác). Chỉ TRỪ KHI CÓ NGƯỜI CON GÁI KHÁC CÓ THỂ THAY THẾ ĐƯỢC+ MỐI QUAN HỆ CŨ THẤY KO ỔN => MỚI CÓ Ý ĐỊNH NÀY KIA. (như đợt tôi với ny cũ đang ổn tự nhiên người ta kêu tạm dừng + có người con gái khác có thể thay thế được ny => xong tui mới bẫng 1 thời gian, xong rủ chị kia đi hiến máu đôi năm ngoái đó xong về còn ôm nhau)
-
-This content is only supported in a Lark Docs
-
-## Use cases:
-
-https://csg2ej4iz2hz.sg.larksuite.com/sync/Qx13dRTkGsDUNKbNeP1lLdJagj3
-
-  
-
-This content is only supported in a Lark Docs
-
-  
-
-1. # THỰC HÀNH THÂN THỌ TÂM PHÁP :
-    
-
-- https://www.youtube.com/playlist?list=PLfFdoGwLbh5X1rtIKley3_3uEXzXdZ8-i
-    
-
-THỰC HÀNH THÂN THỌ TÂM PHÁP - Quán Thân - Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) 1. QUÁN THÂN: Rụt củi, NHẮC THẦM THẤY RÕ CẢM GIÁC NỔI TRỘI, Có Tầm Có Tứ - Automatic, ĐỂ TỰ NHIÊN, Ko Tầm Ko Tứ. - BẮT ĐẦU: THƯ GIÃN THẢ LỎNG. - TẠO CẢM GIÁC NỔI TRỘI: cảm giác Nín thở, Ngậm chặt răng lưỡi, Nghe nhạc nơi tai. <CHÚ TÂM CẢM GIÁC NỔI TRỘI - THAM SÂN SI nơi DỤC TƯỞNG VẮNG MẶT> - NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI" đan xen: 1. cảm giác NGƯNG THỞ, 2. Cảm giác Chuyểnđộng TOÀN THÂN <gồm cảm giác nơi 6 xúc xứ: cảm giác hình ảnh, cảm giác âm thanh>, 3. ĐỂ TỰ NHIÊN (theo nhịp thở đi làm việc, bút vẽ lên xuống, xoay tròn sang ngang. VÔ NGƯNG RA NGƯNG). - TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC - Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời). 2. QUÁN THỌ: THỰC TẠI LÀ CẢM GIÁC - Tương tác căn trần đều là TƯƠNG TÁC THÔNG TIN, LÀ TÂM - CẢM GIÁC HẠNH PHÚC CẢM GIÁC VỊ NGỌT - NGUYÊN NHÂN CỦA KHỔ THAM SÂN SI] (Thấy, Nghe, Cảm nhận mọi thứ đều biết nó là Cảm Giác) - Khi chọn thái độ Nhất Hướng, Nhàm Chán, Ly Tham, Đoạn Diệt là chúng ta đối xử với Tâm, cụ thể là các Cảm giác chứ không phải với Cảnh, với hoàn cảnh sống. Có 2 loại thực tại là Thực Tại Thế Gian (Bất Tịnh), và Thực Tại Xuất Thế Gian(Thanh Tịnh) thì cũng đều là các khái niệm của Tâm, chứ ko phải Cảnh. Chỉ có Tâm Bất Tịnh và Tâm Thanh Tịnh, chứ không có Cảnh Bất Tịnh và Cảnh Thanh Tịnh. - Không có việc làm là MINH hay VÔ MINH, chỉ có HIỂU BIẾT VỀ VIỆC ĐÓ mới có MINH hay VÔ MINH. - Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau, cho dù đổi cảnh hay không đổi cản. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. - "Buông" là BUÔNG TƯ TƯỞNG làm chủ, tư tưởng sở hữu; Không phải "Buông bỏ", vứt bỏ đi thế giới vật chất. "Sử dụng mà không sở hữu". **Lưu ý:** Không ràng buộc vào kết quả là không khổ vui với kết quả chứ không phải không quan tâm và không cần cải thiện dù kết quả không đi đúng hướng. - BUÔNG = "GIEO NHÂN" * "BUÔNG KỲ VỌNG" = "LÀM TỐT NHẤT" * "SẴN SÀNG CHO ĐIỀU TỆ NHẤT" = CÙNG LẮM THÌ, TÔI VẪN CỨ NỖ LỰC = "BẠN ĐƯỢC QUYỀN BẬT CÔNG TẮC" * "NHƯNG SÁNG HAY KHÔNG LÀ CHUYỆN BÓNG ĐÈN". 3. Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) - NÍN THỞ QUÁN THÂN: Tùy vào cường độ của dục tưởng, nếu nhẹ thì có thể quán luôn, còn nếu mãnh liệt thì nên sử dụng pháp đối trị NÍN THỞ như ở mục 01 trước. Sau khi lắng dịu hơn thì thực hành quán như ở dưới đây để xóa dần đi thông tin về tham ái tình dục. - Quán Thọ: Bản chất dục tưởng chính là tư tưởng về tình dục, xuất hiện với sự nối dài của cảm giác pháp trần liên tục đan xen với cảm giác xúc chạm do nội xúc từ tâm hành tham, nên mình cần quán đây là cảm thọ, thuộc phạm trù tâm, là cảnh ảo, vô minh thì cho rằng đây là thế giới vật chất, có cô gái A, chàng trai B là chủ nhân chủ sở hữu của hình tướng kia,... - Quán Tâm: Quán tâm biết ý thức tà tri kiến với nội dung vô minh - chấp ngã. Quán tâm hành tham, dục, khổ đang khởi sinh. Hiểu biết đúng sự thật về các tâm hành này trên 8TĐ, có tính chất duyên khởi, vô thường, vô ngã. - Quán Pháp: Nhân loại khát ái tìm cầu hỷ lạc chỗ này chỗ nọ, như dục ái, hữu ái, phi hữu ái.. Nơi nào có tham dục, nơi đó có chấp thủ, nơi nào có chấp thủ, nơi đó có khổ-vui. Các dục vui ít, khổ nhiều, não nhiều, nguy hiểm các nhiều hơn. Bao lâu nay, mình đã bị dục đanh vây, tàn phá, trấn áp như thế này đây. Phải giải thoát khỏi chướng ngại đã đầy ải nhân loại từ vô thủy đến nay. - NÍN THỞ QUÁN THÂN: Sau khi quán thì hãy ngưng thở một đoạn để hoàn toàn yên lặng, ghi nhận cảm giác toàn thân, sau đó thở mạnh theo nhịp rồi tác ý nhè nhẹ dần, nếu hết dục tưởng thì quay trở lại thực hành Định-Tuệ bình thường. 3.1 PHẢI NHỚ PHẢI NHỚ: HIỂU ĐÚNG VỊ NGỌT, VỊ NGỌT - LY THAM. - Phải nhớ phải nhớ: VỊ NGỌT - CẢM GIÁC HẠNH PHÚC (do Chánh Niệm sinh, hoặc, duyên xúc bên ngoài). THÍCH CHÁN RỒI GHÉT, NGỌT NHẠT RỒI ĐẮNG. SINH DIỆT liên tục, lặp đi lặp lại. CHẲNG ĐÁNG LÀ BAO, tà niệm kích hoạt, mà ta làm quá. - Chỉ khi thực nếm, vị ngọt chánh niệm, đến để mà thấy, siêu thế khởi lên. DÙ THẤY GÁI XINH, NHỚ PHIM 18, TÂM SI SINH KHỞI: Vị ấy ly tham, nhìn ngắm vẻ đẹp, ko có tư tưởng làm chủ sở hữu, ko nhảy tìm trăng, không khổ vô ích. - Phải nhớ phải nhớ: Cảm thọ Căn Trần, tiếp xúc với nhau. Thông tin pháp trần, tế bào thần kinh, tồn tại đồng thời, độc lập với nhau, (y như máy móc, chạy theo lập trình, trong cái gọi là, đồng hồ quả lắc). chứ không phải là… - CHẤP CÓ DUY VẬT, CHẤP KHÔNG DUY TÂM, chấp ngọt sẵn có, chấp do tâm tạo. VỊ NGỌT CÓ ĐÓ, DO DUYÊN MÀ SANH, Thọ Tưởng đồng sinh, Tưởng đọc Vị ngọt, của đối tượng thấy, chứ không phải là, cần niệm kích hoạt, mới có vị ngọt, - Trong TÌNH YÊU: Được chọn VẪN CHỌN NGƯỜI PHÙ HỢP NHẤT, XINH NHẤT ĐẸP NHẤT. NHƯNG: NẾU KHÔNG ĐỔI TÂM TỪ BÁT TÀ ĐẠO SANG BÁT CHÁNH ĐẠO, thì KHÔNG CHẠY ĐÂU CHO THOÁT KHỔ (chỉ đổi khổ này lấy khổ khác). - Chúng ta tu tập để đổi tâm và có thể cải thiện hoàn cảnh (nếu cần thiết), chứ không phải tìm cách thay đổi hoàn cảnh để nghĩ rằng sẽ tu tập thuận lợi hơn. Tránh tình trạng đi học về, Tâm thì ko thấy đổi, lại đi thay đổi ngay hoàn cảnh sống khiến cho người thân, bạn bè thấy bất an, lo lắng. - Nhàm chán, Ly Tham là ly tham với thọ khi tiếp xúc với các trần cảnh, chứ không phải ly tham với các trần cảnh đó. Chúng ta không ghét bỏ, xua đuổi chúng, mà để chúng tự đến và tự đi. - Như vậy cho dù đổi cảnh hay không đổi cảnh, miễn đổi được tâm từ BTD sang BCD thì sẽ không có khổ và là tu đúng. Còn trường hợp được quyền đổi cảnh để có lạc thọ hợp pháp thì đổi chứ đâu có dại gì mà phải để im để kham nhẫn với khổ thọ. - TRUNG ĐẠO: ko chối bỏ, không tham đắm lạc thọ. Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. 3.2 PHẢI NHỚ PHẢI NHỚ CẢM THỌ VÔ THƯỜNG - Đối tượng thấy..., là tâm cảm thọ, đặt tên: danh từ, là cô con gái, cái con người thấy, chính là thông tin chứ không phải là thế giới vật chất, như hiểu biết sai, lầm tưởng trước đây. - Cảm giác vị ngọt, hoặc nhạt hoặc đắng, được Tưởng ghi nhận, mới tinh cứng coong, xuất hiện 1 lần, sinh diệt tức khắc, sinh diệt kéo dài mà ta làm quá, chứ không phải là, thường hằng thường trú, biến đổi vật chất, như hiểu biết sai, lầm tưởng trước đây. 3.3 PHẢI NHỚ PHẢI NHỚ: DUYÊN KHỞI - VÔ NGÃ - Phải nhớ phải nhớ: Duyên người thế giới, đặt tên: động từ, là quét là chạy, chứ không có cái, điều khiển cái kia, ko có linh hồn, không sinh không diệt, điều khiển thân xác! - Tất cả các sự vật hiện tượng (tất cả các pháp) đều là do Duyên Khởi (2 nhân bình đẳng tương tác/tiếp xúc cùng diệt mới phát sinh quả). = Tất cả các pháp đều vô thường (Sinh diệt), đều vô chủ vô sở hữu (vô ngã).
-
-This content is only supported in a Lark Docs
-
-2. # SAI LẦM: Mình có 1 niềm tin là chỉ cần TRÁNH ĐƯỢC TOÀN BỘ CÁC DANH SÁCH SAI LẦM => THÌ BẠN NGON. (a Huy Wecommit100x)
-    
-
-  
-
-## 5.1 Sai lầm :
-
-## 06/04/2025:
-
-Đang lướt facebook thì thấy 1 cái tên. Search google thử => Ra video -> Xem. => Comment dạo Linkedin => **Summary + Nghe nhạc:** **https://youtube.com/playlist?list=PLfFdoGwLbh5Vc9qzKLL9_b99e3xUHNppc&feature=shared**
-
-## 23/04/2025: T4
-
-Thức khuya để lên plan cho thời gian sắp tới => Do lưu trữ các nhóm chat + căng thẳng khi lên plan mới (chạy bộ chia ra mùa hè chạy sáng, mùa đông chạy tối, nhiều thứ mới cần học) => nghĩ đến sếp T, học sinh HA và ra.
-
-=> **Giải pháp: 1. BÁT CHÁNH ĐẠO thấy việc lên plan chẳng có gì căng thẳng cả + sẵn sàng cắt bỏ những thứ thích thích mà KO CÓ GIÁ TRỊ VALUE VỀ MẶT DÀI HẠN, MỤC ĐÍCH CUỘC SỐNG**
-
-# 27/04/2025: Tối thứ 7
-
-xem đ đ đ - sự kiện này có tính lặp lại hàng tuần, ae nên có phương án xử lý - tuần vừa rồi có mỗi hôm nay, bảo sao ra nhiều - CHÚC MỪNG CHO SỰ KIỆN TUẦN RỒI CÓ MỖI THỨ 7 - CHỦ NHẬT -> XỬ LÝ LÀ XONG, BẢO SAO BẮN NHIỀU.
-
-=> Sau khi xong là 1 cảm giác GHÊ TỞM, MỆT MỎI, VÀ CHÁN CẢM GIÁC TD, tranh thủ xoá vết
-
-=> Lên 1 lịch ngồi cafe full tối thứ 7, ngày chủ nhật + Liên tục nhớ ?
-
-  
-
-# 29/04/2025: trưa T3 ở quê nghỉ lễ
-
-- tự dưng nhớ đến các đường link -> xong vào link ở lark -> rất nhanh => GIẢI PHÁP ĐỀ RA: Biết 1 cốc nước ngọt có độc mà vẫn uống?
-    
-
-## 5.2 Các sai lầm khác
-
-1. Chở Hồ Dũng và chở anh Thái Tâm xong lại quên ko xin ảnh chụp cùng
-    
-2. Bảo vào Hiệp ăn cơm, xong sau lại nhắn tin bảo ko vào -> NGHĨ KĨ ĐI RỒI QUYẾT BỪA.
-    
-3. Phí 30min chỉ để reply tin nhắn bên công ty - vì rep xong và hẹn lịch nhưng chưa thể xử lý nhanh được ngay - mất thời gian giao tiếp giữa các bên.
-    
-4. Vừa đăng video lên các nền tảng vừa nghe video sâu về não bộ (Video cách xây dựng ý chí mạnh mẽ và kỷ luật phi thường - TÌM KIẾM SỰ KHÓ CHỊU).
-    
-
-Đa nhiệm chỉ hiệu quả khi 1 việc nhẹ, không cần suy nghĩ nhiều (như chạy bộ, rửa bát) và 1 việc cần não ít (nghe podcast, học nhẹ). Nếu cả hai việc đều cần tập trung, làm cùng lúc sẽ mất hết – không nhớ gì, không hiệu quả. Muốn làm nhiều mà vẫn tốt: **ghép việc đơn giản với việc chính**, tránh ghép 2 việc nặng. Sau mỗi lần, nên tự hỏi: “Mình nhớ được gì?” – nếu không nhớ gì, lần sau đừng ghép kiểu đó nữa.
-
-5. be
-    
-
----
-
-  
-
-  
-
-# 6. KHỔ THỌ TÌNH DỤC và TÂM SI (Trở ngại lớn nhất)
-
-+, 1. CẢM GIÁC NỔI TRỘI.
-
-+, 2. NHẮC THẦM : THẤY THẤY, NHỚ ĐẾN TÍCH CỰC CHÚ TÂM THẤY RÕ CẢM GIÁC CHUYỂN ĐỘNG CẢM GIÁC XÚC CHẠM TOÀN THÂN, THEO NHỊP THỞ ĐI LÀM VIỆC. +, 3. TOẠ THIỀN THƯỜNG XUYÊN => để khắc sâu bộ nhớ, từ đó lúc BUỒN KHỔ, TÂM SI khởi lên mới đối trọi được.
-
-This content is only supported in a Lark Docs
-
-This content is only supported in a Lark Docs
-
-BƯỚC VÀO TÌNH YÊU HÔN NHÂN - CÁC DỤC VUI ÍT KHỔ NHIỀU, NÃO NHIỀU, NGUY HIỂM CÀNG NHIỀU [NGỌT KO KHỔ, THAM ÁI VỊ NGỌT MỚI KHỔ] => MỞ RỘNG RA ĐỘI NHÓM => dùng TD vợ chồng -phương tiện để chấm dứt khổ (như đồng tiền): Có vị ngọt. Tham Ái Vị Ngọt thì khổ. => Nếu chọn TYHN: nên chọn người cùng Pháp là tốt nhất. ------------------------------------------------------------ 1. SỰ ĐỦ ĐẦY TỪ BÊN TRONG. (Ràng buộc vật chất, không ràng buộc nơi tư tưởng sở hữu cảm giác). SỬA MÌNH NHIỀU LÊN, THỰC CHIẾN RA KẾT QUẢ, LEADER LÀM GƯƠNG 2. MỞ PHỄU ĐÚNG THỊ TRƯỜNG - LÀM QUEN, TUYỂN KỸ - BUÔNG XẢ LÀM TỐT NHẤT, SÁNG HAY KHÔNG LÀ CHUYỆN CỦA BÓNG ĐÈN: - CHỌN ĐÚNG MÔI TRƯỜNG => Bớt Tham bớt kỳ vọng(do hiểu Môi trường) => TỰ TIN HƠN, THOẢI MÁI HƠN(Chẳng hạn khi ngồi cạnh con gái ở thư viện thấy thoải mái hơn vì bớt kỳ vọng vì biết con gái ở đây khó làm quen hơn, XÁC SUẤT NGƯỜI PHÙ HỢP THẤP hơn ở môi trường BKE GOSIGNA - THỰC HÀNH "KO PHẢI ĐỢI ĐỌC VỊ GIỎI HƠN MỚI LÀM QUEN, MÀ LÀ LÀM QUEN NHIỀU THÌ ĐỌC VỊ MỚI GIỎI LÊN"). Cùng là NGỒI CẠNH BÊN 1 cô gái xinh, hôm nào khởi lên MUỐN LÀM QUEN => HỒI HỘP, CỐ GẮNG QUÁ MỨC NÊN KHỔ . Hôm ko khởi lên thì BÌNH AN, KO QUÁ CỐ GẮNG KO KHỔ (CÓ CƠ HỘI NÓI CHUYỆN THÌ NÓI KO CỐ GẮNG TÌM KIẾM QUÁ MỨC). - SỰ THU HÚT đến từ SỰ TƯƠNG HỢP THÔNG TIN("ko quan trọng bạn nói gì, quan trọng vẻ ngoài và sự tự tin, ko sợ hãi. Con gái bị cuốn hút bởi sự trung thực đồng nhất cả bên trong lẫn bên ngoài"). - LÀM QUEN TỐT NHẤT, MỞ LỜI TỐT NHẤT, TUYỂN KỸ NHẤT CÓ THỂ => TỪ CHỐI GIÚP TA TIẾT KIỆM THỜI GIAN VÀ SỨC LỰC, SẴN SÀNG LOẠI BỎ NGAY TỪ ĐẦU(vì bạn không mất thời gian, năng lượng cố gắng thuyết phục cô gái rằng bạn hấp dẫn). (Nếu tôi không chắc có thể làm việc với người đó trong 1 thời gian dài, tôi sẽ không làm việc với người đó dù chỉ là 1 giờ)(còn đi lâu dài hay không còn tuỳ nhân duyên) ("Vì tôi đã đá rất nhiều người ngay từ đầu vì những việc ngu ngốc như thế này để tôi không còn phải lo về nó nữa. Trong chuyện này thì tôi rất tàn nhẫn. Tôi bỏ đi ngay giữa cuӝc hẹn đầu tiên. Tôi bỏ đi ngay giữa lời nói. Tôi không quan tâm. Tôi không có thời gian với những cô gái tệ. Và kết quả là, hoặc là họ thay đổi phù hӧp với mong đӧi của tôi, hoặc là tôi không bao giờ gặp họ nữa. Tôi tôn trọng bản thân và vì thế sẽ không dành thời gian với những cô gái không tôn trọng tôi. Bạn sẽ tự nhiên nghĩ rằng, “Ồ, vậy có nghĩa mình phải gặp gấp đôi số phө nữ, phải bỏ ra gấp đôi công sức, vì mình sẽ từ chối nửa số người thích mình.” Thật ra, bạn sẽ bỏ ra ít công sức hơn, vì bạn không còn phí nhiều thời gian và năng lưӧng cố gắng thuyết phөc cô ấy rằng bạn là mӝt người đàn ông hấp dẫn. Bạn không còn mệt mỏi nghĩ rằng liệu cô ấy có thích bạn đủ nhiều hay không, hoặc lo lắng làm thế nào để gây ấn tưӧng hay thắng lại cô ấy. Khi cô ấy không hӧp với tiêu chuẩn của bạn, tình huống trở nên cực kỳ dễ dàng cho bạn: bạn bỏ đi. Không nghĩ ngӧi gì hết. Không tranh cãi. Không quay lại ngoạn mөc. Chỉ là: hành vì của cô ấy không hӧp với tiêu chuẩn của mình, mình sẽ gặp mӝt người khác") - RÕ RÀNG MỐI QUAN HỆ LÀ TÁN NGAY TỪ ĐẦU, TÁN MẠNH. 2 hướng: 1 TỎ TÌNH NGAY TỪ ĐẦU 2. CỨ TÁN ĐÃ TỎ TÌNH RA. 3. SỰ THẬT VỀ CHUNG THUỶ - thực hành đúng KO CÓ CHÁN NẢN, MÀ HOÀN TOÀN BÌNH THẢN: - Khi gặp người khác giới, nếu LỘ TRÌNH TÂM là BÁT TÀ ĐẠO thì quý vị khởi lên THÍCH CHÁN GHÉT so sánh người đó với ny/vợ mình. - Còn nếu LỘ TRÌNH TÂM là BÁT CHÁNH ĐẠO, quý vị KHÔNG THÍCH KHÔNG CHÁN KHÔNG GHÉT, thì KHÔNG CÓ CHUNG THUỶ, cũng CHẲNG CÓ NGOẠI TÌNH, quý vị HOÀN TOÀN BÌNH THẢNG, VUI, THOẢI MÁI. - Con trai cơ bản giống nhau. Đợt này tui ra ngoài đường cũng bị váy ngắn của con gái hút hồn luôn đây nè. - Không có người yêu / người yêu sắp chia tay => dễ bị con gái bên ngoài hút hồn, xong ib tán tỉnh này kia - Còn khi có người yêu kiểu ổn định rùi ý => đều đặn ib ny tình cảm nhẹ nhàng. (là đủ nhu cầu ý, giống như kiểu ăn nhiều quá thì bị no ko thể ăn được => nên chẳng còn tâm hơi mà nhắn con gái khác). Chỉ TRỪ KHI CÓ NGƯỜI CON GÁI KHÁC CÓ THỂ THAY THẾ ĐƯỢC+ MỐI QUAN HỆ CŨ THẤY KO ỔN => MỚI CÓ Ý ĐỊNH NÀY KIA. (như đợt tôi với ny cũ đang ổn tự nhiên người ta kêu tạm dừng + có người con gái khác có thể thay thế được ny => xong tui mới bẫng 1 thời gian, xong rủ chị kia đi hiến máu đôi năm ngoái đó xong về còn ôm nhau)
-
-This content is only supported in a Lark Docs
-
-  
-
-  
-
-  
-
-This content is only supported in a Lark Docs
-
-  
-
-3. # THỰC HÀNH THÂN THỌ TÂM PHÁP :
-    
-
-- https://www.youtube.com/playlist?list=PLfFdoGwLbh5X1rtIKley3_3uEXzXdZ8-i
-    
-
-THỰC HÀNH THÂN THỌ TÂM PHÁP - Quán Thân - Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) 1. QUÁN THÂN: Rụt củi, NHẮC THẦM THẤY RÕ CẢM GIÁC NỔI TRỘI, Có Tầm Có Tứ - Automatic, ĐỂ TỰ NHIÊN, Ko Tầm Ko Tứ. - BẮT ĐẦU: THƯ GIÃN THẢ LỎNG. - TẠO CẢM GIÁC NỔI TRỘI: cảm giác Nín thở, Ngậm chặt răng lưỡi, Nghe nhạc nơi tai. <CHÚ TÂM CẢM GIÁC NỔI TRỘI - THAM SÂN SI nơi DỤC TƯỞNG VẮNG MẶT> - NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI" đan xen: 1. cảm giác NGƯNG THỞ, 2. Cảm giác Chuyểnđộng TOÀN THÂN <gồm cảm giác nơi 6 xúc xứ: cảm giác hình ảnh, cảm giác âm thanh>, 3. ĐỂ TỰ NHIÊN (theo nhịp thở đi làm việc, bút vẽ lên xuống, xoay tròn sang ngang. VÔ NGƯNG RA NGƯNG). - TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC - Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời). 2. QUÁN THỌ: THỰC TẠI LÀ CẢM GIÁC - Tương tác căn trần đều là TƯƠNG TÁC THÔNG TIN, LÀ TÂM - CẢM GIÁC HẠNH PHÚC CẢM GIÁC VỊ NGỌT - NGUYÊN NHÂN CỦA KHỔ THAM SÂN SI] (Thấy, Nghe, Cảm nhận mọi thứ đều biết nó là Cảm Giác) - Khi chọn thái độ Nhất Hướng, Nhàm Chán, Ly Tham, Đoạn Diệt là chúng ta đối xử với Tâm, cụ thể là các Cảm giác chứ không phải với Cảnh, với hoàn cảnh sống. Có 2 loại thực tại là Thực Tại Thế Gian (Bất Tịnh), và Thực Tại Xuất Thế Gian(Thanh Tịnh) thì cũng đều là các khái niệm của Tâm, chứ ko phải Cảnh. Chỉ có Tâm Bất Tịnh và Tâm Thanh Tịnh, chứ không có Cảnh Bất Tịnh và Cảnh Thanh Tịnh. - Không có việc làm là MINH hay VÔ MINH, chỉ có HIỂU BIẾT VỀ VIỆC ĐÓ mới có MINH hay VÔ MINH. - Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau, cho dù đổi cảnh hay không đổi cản. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. - "Buông" là BUÔNG TƯ TƯỞNG làm chủ, tư tưởng sở hữu; Không phải "Buông bỏ", vứt bỏ đi thế giới vật chất. "Sử dụng mà không sở hữu". **Lưu ý:** Không ràng buộc vào kết quả là không khổ vui với kết quả chứ không phải không quan tâm và không cần cải thiện dù kết quả không đi đúng hướng. - BUÔNG = "GIEO NHÂN" * "BUÔNG KỲ VỌNG" = "LÀM TỐT NHẤT" * "SẴN SÀNG CHO ĐIỀU TỆ NHẤT" = CÙNG LẮM THÌ, TÔI VẪN CỨ NỖ LỰC = "BẠN ĐƯỢC QUYỀN BẬT CÔNG TẮC" * "NHƯNG SÁNG HAY KHÔNG LÀ CHUYỆN BÓNG ĐÈN". 3. Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) - NÍN THỞ QUÁN THÂN: Tùy vào cường độ của dục tưởng, nếu nhẹ thì có thể quán luôn, còn nếu mãnh liệt thì nên sử dụng pháp đối trị NÍN THỞ như ở mục 01 trước. Sau khi lắng dịu hơn thì thực hành quán như ở dưới đây để xóa dần đi thông tin về tham ái tình dục. - Quán Thọ: Bản chất dục tưởng chính là tư tưởng về tình dục, xuất hiện với sự nối dài của cảm giác pháp trần liên tục đan xen với cảm giác xúc chạm do nội xúc từ tâm hành tham, nên mình cần quán đây là cảm thọ, thuộc phạm trù tâm, là cảnh ảo, vô minh thì cho rằng đây là thế giới vật chất, có cô gái A, chàng trai B là chủ nhân chủ sở hữu của hình tướng kia,... - Quán Tâm: Quán tâm biết ý thức tà tri kiến với nội dung vô minh - chấp ngã. Quán tâm hành tham, dục, khổ đang khởi sinh. Hiểu biết đúng sự thật về các tâm hành này trên 8TĐ, có tính chất duyên khởi, vô thường, vô ngã. - Quán Pháp: Nhân loại khát ái tìm cầu hỷ lạc chỗ này chỗ nọ, như dục ái, hữu ái, phi hữu ái.. Nơi nào có tham dục, nơi đó có chấp thủ, nơi nào có chấp thủ, nơi đó có khổ-vui. Các dục vui ít, khổ nhiều, não nhiều, nguy hiểm các nhiều hơn. Bao lâu nay, mình đã bị dục đanh vây, tàn phá, trấn áp như thế này đây. Phải giải thoát khỏi chướng ngại đã đầy ải nhân loại từ vô thủy đến nay. - NÍN THỞ QUÁN THÂN: Sau khi quán thì hãy ngưng thở một đoạn để hoàn toàn yên lặng, ghi nhận cảm giác toàn thân, sau đó thở mạnh theo nhịp rồi tác ý nhè nhẹ dần, nếu hết dục tưởng thì quay trở lại thực hành Định-Tuệ bình thường. 3.1 PHẢI NHỚ PHẢI NHỚ: HIỂU ĐÚNG VỊ NGỌT, VỊ NGỌT - LY THAM. - Phải nhớ phải nhớ: VỊ NGỌT - CẢM GIÁC HẠNH PHÚC (do Chánh Niệm sinh, hoặc, duyên xúc bên ngoài). THÍCH CHÁN RỒI GHÉT, NGỌT NHẠT RỒI ĐẮNG. SINH DIỆT liên tục, lặp đi lặp lại. CHẲNG ĐÁNG LÀ BAO, tà niệm kích hoạt, mà ta làm quá. - Chỉ khi thực nếm, vị ngọt chánh niệm, đến để mà thấy, siêu thế khởi lên. DÙ THẤY GÁI XINH, NHỚ PHIM 18, TÂM SI SINH KHỞI: Vị ấy ly tham, nhìn ngắm vẻ đẹp, ko có tư tưởng làm chủ sở hữu, ko nhảy tìm trăng, không khổ vô ích. - Phải nhớ phải nhớ: Cảm thọ Căn Trần, tiếp xúc với nhau. Thông tin pháp trần, tế bào thần kinh, tồn tại đồng thời, độc lập với nhau, (y như máy móc, chạy theo lập trình, trong cái gọi là, đồng hồ quả lắc). chứ không phải là… - CHẤP CÓ DUY VẬT, CHẤP KHÔNG DUY TÂM, chấp ngọt sẵn có, chấp do tâm tạo. VỊ NGỌT CÓ ĐÓ, DO DUYÊN MÀ SANH, Thọ Tưởng đồng sinh, Tưởng đọc Vị ngọt, của đối tượng thấy, chứ không phải là, cần niệm kích hoạt, mới có vị ngọt, - Trong TÌNH YÊU: Được chọn VẪN CHỌN NGƯỜI PHÙ HỢP NHẤT, XINH NHẤT ĐẸP NHẤT. NHƯNG: NẾU KHÔNG ĐỔI TÂM TỪ BÁT TÀ ĐẠO SANG BÁT CHÁNH ĐẠO, thì KHÔNG CHẠY ĐÂU CHO THOÁT KHỔ (chỉ đổi khổ này lấy khổ khác). - Chúng ta tu tập để đổi tâm và có thể cải thiện hoàn cảnh (nếu cần thiết), chứ không phải tìm cách thay đổi hoàn cảnh để nghĩ rằng sẽ tu tập thuận lợi hơn. Tránh tình trạng đi học về, Tâm thì ko thấy đổi, lại đi thay đổi ngay hoàn cảnh sống khiến cho người thân, bạn bè thấy bất an, lo lắng. - Nhàm chán, Ly Tham là ly tham với thọ khi tiếp xúc với các trần cảnh, chứ không phải ly tham với các trần cảnh đó. Chúng ta không ghét bỏ, xua đuổi chúng, mà để chúng tự đến và tự đi. - Như vậy cho dù đổi cảnh hay không đổi cảnh, miễn đổi được tâm từ BTD sang BCD thì sẽ không có khổ và là tu đúng. Còn trường hợp được quyền đổi cảnh để có lạc thọ hợp pháp thì đổi chứ đâu có dại gì mà phải để im để kham nhẫn với khổ thọ. - TRUNG ĐẠO: ko chối bỏ, không tham đắm lạc thọ. Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. 3.2 PHẢI NHỚ PHẢI NHỚ CẢM THỌ VÔ THƯỜNG - Đối tượng thấy..., là tâm cảm thọ, đặt tên: danh từ, là cô con gái, cái con người thấy, chính là thông tin chứ không phải là thế giới vật chất, như hiểu biết sai, lầm tưởng trước đây. - Cảm giác vị ngọt, hoặc nhạt hoặc đắng, được Tưởng ghi nhận, mới tinh cứng coong, xuất hiện 1 lần, sinh diệt tức khắc, sinh diệt kéo dài mà ta làm quá, chứ không phải là, thường hằng thường trú, biến đổi vật chất, như hiểu biết sai, lầm tưởng trước đây. 3.3 PHẢI NHỚ PHẢI NHỚ: DUYÊN KHỞI - VÔ NGÃ - Phải nhớ phải nhớ: Duyên người thế giới, đặt tên: động từ, là quét là chạy, chứ không có cái, điều khiển cái kia, ko có linh hồn, không sinh không diệt, điều khiển thân xác! - Tất cả các sự vật hiện tượng (tất cả các pháp) đều là do Duyên Khởi (2 nhân bình đẳng tương tác/tiếp xúc cùng diệt mới phát sinh quả). = Tất cả các pháp đều vô thường (Sinh diệt), đều vô chủ vô sở hữu (vô ngã).
-
-This content is only supported in a Lark Docs
-
-  
-
-# Chiến lược và tính toán theo các giai đoạn:
-
-https://csg2ej4iz2hz.sg.larksuite.com/sync/MVUFd8zmfsPsnJbbBmJl7XjogVh
 
   
 
