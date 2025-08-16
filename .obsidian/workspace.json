@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5026054382324
+    "width": 200
   },
   "right": {
     "id": "422b3eaae750cadd",
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +198,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f863f2165c678459",
+  "active": "de333728293ea4d4",
   "lastOpenFiles": [
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/3.1 Learning - PP HỌC TẬP THIÊN TÀI  01082025.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/3.1_ Đánh giá Phương Pháp Học Tập Cốt Lõi từ các thiên tài 05082025.md",
