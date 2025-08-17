@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.9 Docker Network is till.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Server Deploy - mật khẩu vào Server - Github"
+              "title": "2.2.9 Docker Network is till"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: server",
+                "query": "file: docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.9 Docker Network is till.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Server Deploy - mật khẩu vào Server - Github"
+              "title": "Outline of 2.2.9 Docker Network is till"
             }
           },
           {
@@ -216,8 +215,10 @@
   },
   "active": "58c5c52cbc1c238a",
   "lastOpenFiles": [
-    "3_Learning/4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.9 Docker Network is till.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
     "1. DailyNote/2025-08-17.md",
     "1. DailyNote/2025-08-13.md",
     "1. DailyNote/2025-08-14.md",
@@ -258,8 +259,6 @@
     "4_Business/3_Answer.md",
     "4_Business/Chia.md",
     "4_Business/1_Market_Research.md",
-    "4_Business/2_Questions_Thông tin học viên.md",
-    "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/10. Job English.md",
     "1. DailyNote/attachments/Pasted image 20250814213245.png",
     "1. DailyNote/attachments/Pasted image 20250814124807.png",
     "Untitled 2.canvas",
