@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: server",
+                "query": "file: excel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +228,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "58c5c52cbc1c238a",
+  "active": "0cf1f93d49c9ecae",
   "lastOpenFiles": [
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/3. Cách thức để tính IMPORTANT - 1 tầng trong PROBLEM SOLVING.md",
