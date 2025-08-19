@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: excel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5026054382324
+    "width": 200
   },
   "right": {
     "id": "422b3eaae750cadd",
@@ -243,7 +243,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8d99531c6749845a",
+  "active": "0cf1f93d49c9ecae",
   "lastOpenFiles": [
     "1. DailyNote/2025-08-19.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
