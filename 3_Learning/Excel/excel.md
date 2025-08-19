@@ -21,3 +21,7 @@ Ctrl Shift xuống, Ctrl D
 "{ ""ground_truth"": [] }" => 0 "{ ""ground_truth"": [""AI Research & Model Development""] }" => 1 "{ ""ground_truth"": [""AI Research & Model Development"", ""Machine leanring""] }" => 2 Đếm số phần tử trong list, bằng excel
 =IFERROR((LEN(F2) - LEN(SUBSTITUTE(F2, """", "")))/2 - 1, 0)
 ```
+
+```
+=REGEXEXTRACT(D1, "\{[^\}]*ground_truth[^\}]*\]")
+```
