@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-20.md",
+                "file": "1. DailyNote/2025-08-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-20"
+              "title": "2025-08-19"
             }
           },
           {
@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-20.md",
+                "file": "1. DailyNote/2025-08-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-20"
+              "title": "Outline of 2025-08-19"
             }
           },
           {
@@ -245,8 +244,8 @@
   },
   "active": "8d99531c6749845a",
   "lastOpenFiles": [
-    "1. DailyNote/2025-08-19.md",
     "1. DailyNote/2025-08-20.md",
+    "1. DailyNote/2025-08-19.md",
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/1. Database/1. SQL.md",
     "3_Learning/3_AI_Engineering/5.3 AI Agent/1. Long term Memory Architechture/0. Đồ Án.md",
     "3_Learning/Excel/excel.md",
