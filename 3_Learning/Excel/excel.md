@@ -25,3 +25,7 @@ Ctrl Shift xuống, Ctrl D
 ```
 =REGEXEXTRACT(D1, "\{[^\}]*ground_truth[^\}]*\]")
 ```
+
+```
+=IF(ISBLANK(A1), 0, 1)
+```
