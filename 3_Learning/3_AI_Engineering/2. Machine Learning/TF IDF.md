@@ -56,3 +56,10 @@ Stop-word: df lớn gần đến N.
 # Embedding: 
 - [intfloat/multilingual-e5-large · Hugging Face](https://huggingface.co/intfloat/multilingual-e5-large)
 - [sentence-transformers/paraphrase-multilingual-mpnet-base-v2 · Hugging Face](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2)
+
+
+
+
+---
+
+[Deep-ML | Chi-square Probability Distribution](https://beta.deep-ml.com/problems/176)
