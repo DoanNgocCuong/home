@@ -48,3 +48,11 @@ Vocabulary = {bites, dog, eats, food, man, meat}
 ![[Pasted image 20250820213502.png]]
 
 Stop-word: df lớn gần đến N. 
+
+
+
+
+--- 
+# Embedding: 
+- [intfloat/multilingual-e5-large · Hugging Face](https://huggingface.co/intfloat/multilingual-e5-large)
+- [sentence-transformers/paraphrase-multilingual-mpnet-base-v2 · Hugging Face](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2)
