@@ -49,7 +49,8 @@ Vocabulary = {bites, dog, eats, food, man, meat}
 
 Stop-word: df lớn gần đến N. 
 
-
+- Xuất hiện trong tất cả các tài liệu => IDF = 1. 
+- 
 
 
 --- 
@@ -198,3 +199,7 @@ Bạn có muốn mình viết thêm **phần “Future Work”** (gợi ý nên 
 Ad ơi cho em hỏi thêm, hiện mình đang apply tất cả các classifer (model) và feature Extraction kết hợp với nhau. trong các tình huống thực tế mình cũng đi test kết hợp từng phương pháp với nhau như v hay có cách nào lựa chọn được trước mô hình rồi mới run code ko ạ
 ```
 
+![[Pasted image 20250820224008.png]]
+
+
+IDF = 
