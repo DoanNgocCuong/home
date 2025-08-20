@@ -23,3 +23,20 @@ Hãy tưởng tượng bạn mô tả một người:
 ---
 
 ![[Pasted image 20250820212852.png]]
+
+---
+# Giải thích 
+
+### 1.1 
+Có 4 văn bản (documents):
+
+- D1 = [dog, bites, man]
+    
+- D2 = [man, bites, dog]
+    
+- D3 = [dog, eats, meat]
+    
+- D4 = [man, eats, food]
+    
+
+Vocabulary = {bites, dog, eats, food, man, meat}
