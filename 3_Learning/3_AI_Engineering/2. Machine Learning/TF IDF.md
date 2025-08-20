@@ -25,6 +25,9 @@ Hãy tưởng tượng bạn mô tả một người:
 ![[Pasted image 20250820212852.png]]
 
 ---
+- TF: → Số lần từ ttt xuất hiện trong document d.
+  
+
 # Giải thích 
 
 ### 1.1 
@@ -40,3 +43,8 @@ Có 4 văn bản (documents):
     
 
 Vocabulary = {bites, dog, eats, food, man, meat}
+
+
+![[Pasted image 20250820213502.png]]
+
+Stop-word: df lớn gần đến N. 
