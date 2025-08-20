@@ -203,3 +203,4 @@ Ad ơi cho em hỏi thêm, hiện mình đang apply tất cả các classifer (m
 
 
 IDF = 
+
