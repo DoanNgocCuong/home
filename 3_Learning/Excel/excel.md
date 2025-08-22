@@ -38,3 +38,71 @@ Ctrl Shift xuống, Ctrl D
 |            | Có 1 phần tử     | 891      | - Predict True (TP): 849  <br>- Predict False (FN): 42                                                                    | Accuracy ≈ 849/891                | 95.30%                 | 28.61%                 | Cần check kỹ để bổ sung thêm vào description.                                                                                                                                                                                                                                                                                            |
 |            | Có ≥ 2 phần tử   | 1706     | - TP ≥ 1 (đúng ≥ 1 phần tử): 1436  <br>- TP = 0 (sai hoàn toàn): 270                                                      | TP ≥ 1 đúng = 1436/1706           | 84.20%                 | 48.38%                 | Các case này cũng cần check kỹ để bổ sung vào description.                                                                                                                                                                                                                                                                               |
 |            | Tổng hợp chung   | 2968     | Đúng = 205 + 849 + 1436 = 2489                                                                                            | Accuracy chung = 2489/2968        | 83.80%                 | 83.89%                 | —                                                                                                                                                                                                                                                                                                                                        |
+
+
+---
+Rồi 👍 mình tóm gọn như sau:
+
+---
+
+### 1. Công thức ban đầu
+
+```excel
+=VLOOKUP(Interview_aVu_CuongBe!C2, Database!A2:B289, 2, FALSE)
+```
+
+- Tìm giá trị `C2` trong **cột A** (phạm vi A2:A289).
+    
+- Nếu khớp → trả về giá trị tương ứng ở **cột B**.
+    
+- Hạn chế: chỉ quét đến dòng 289, và **không thể tìm trong cột B để trả về A**.
+    
+
+---
+
+### 2. Công thức với mảng giới hạn dòng
+
+```excel
+=VLOOKUP(Interview_aVu_CuongBe!C2, {Database!B2:B289, Database!A2:A289}, 2, FALSE)
+```
+
+- Đảo thứ tự cột bằng cách tạo mảng tạm `{B, A}`.
+    
+- Tìm giá trị `C2` trong **cột B** (B2:B289).
+    
+- Nếu khớp → trả về giá trị ở **cột A** cùng dòng.
+    
+- Chỉ xét từ dòng 2 → 289.
+    
+
+---
+
+### 3. Công thức với mảng toàn cột
+
+```excel
+=VLOOKUP(Interview_aVu_CuongBe!C2, {Database!B:B, Database!A:A}, 2, FALSE)
+```
+
+- Tương tự công thức (2) nhưng mở rộng toàn bộ **cột B** để tìm.
+    
+- Nếu khớp → trả về cột A tương ứng.
+    
+- Ưu điểm: không sợ bỏ sót dữ liệu vì không giới hạn số dòng.
+    
+- Nhược điểm: có thể chạy chậm hơn khi dữ liệu rất lớn.
+    
+
+---
+
+👉 Ngắn gọn:
+
+- **Công thức 1**: tìm trong A → trả về B.
+    
+- **Công thức 2**: tìm trong B (giới hạn dòng) → trả về A.
+    
+- **Công thức 3**: tìm trong B (toàn cột) → trả về A.
+    
+
+---
+
+Bạn có muốn mình làm thêm bản dùng `IFERROR` để tránh lỗi `#N/A` khi không tìm thấy không?
