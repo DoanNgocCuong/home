@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1 Đang Không Nghiên Cứu/2025_08_24 Walter Isaacson viết về Leonardo da Vinci, Jennifer Doudna, Steve Jobs, Kissinger hay Benjamin Franklin và Elon Musk.md",
+                "file": "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1. Ăn sáng gây buồn ngủ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_08_24 Walter Isaacson viết về Leonardo da Vinci, Jennifer Doudna, Steve Jobs, Kissinger hay Benjamin Franklin và Elon Musk"
+              "title": "1. Ăn sáng gây buồn ngủ"
+            }
+          },
+          {
+            "id": "841d14eb9487ac48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1. Ăn sáng gây buồn ngủ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Ăn sáng gây buồn ngủ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TIỀN",
+                "query": "ăn sáng",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.1 Đang Không Nghiên Cứu/2025_08_24 Walter Isaacson viết về Leonardo da Vinci, Jennifer Doudna, Steve Jobs, Kissinger hay Benjamin Franklin và Elon Musk.md",
+                "file": "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1. Ăn sáng gây buồn ngủ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025_08_24 Walter Isaacson viết về Leonardo da Vinci, Jennifer Doudna, Steve Jobs, Kissinger hay Benjamin Franklin và Elon Musk"
+              "title": "Outline of 1. Ăn sáng gây buồn ngủ"
             }
           },
           {
@@ -185,10 +200,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "2c0749b962cc12f1",
+  "active": "de333728293ea4d4",
   "lastOpenFiles": [
-    "1.1 Đang Không Nghiên Cứu/2025-08-24 _The Almanack of Naval Ravikant_.md",
+    "1.1 Đang Không Nghiên Cứu/2. Chạy bộ buổi sáng thì sao!.md",
+    "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1. Ăn sáng gây buồn ngủ.md",
+    "3_Learning/3_AI_Engineering/5.3 AI Agent/1. Long term Memory Architechture/0. Đồ Án.md",
     "1.1 Đang Không Nghiên Cứu/2025_08_24 Walter Isaacson viết về Leonardo da Vinci, Jennifer Doudna, Steve Jobs, Kissinger hay Benjamin Franklin và Elon Musk.md",
+    "1.1 Đang Không Nghiên Cứu/2025-08-24 _The Almanack of Naval Ravikant_.md",
     "1.1 Đang Không Nghiên Cứu/2025-08-24.md",
     "1.1 Đang Không Nghiên Cứu/Production.md",
     "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/4. NGOẠI LỰC (DOPAMINE, TESTOSTERONE, 4 LOẠI NGOẠI ĐỘNG LỰC DISC)  - NỘI LỰC (MINDSET, TRÒ CHƠI TÂM TRÍ, NIỀM TIN GIỚI HẠN) - TỨ NIỆM XỨ, BÁT CHÁNH ĐẠO (THIỀN DÙNG TÂM ĐÁNH BẠI TÂM) - 12082025-1782025.md",
@@ -210,9 +228,6 @@
     "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.4 Genspark - Thông minh (II Agent quét rộng).md",
     "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.3 II Agent - Phân tích Framework Decision Making và Problem Solving từ nguồn bên ngoài.md",
     "1.1 Đang Không Nghiên Cứu/-7. Chiến lược Job nước ngoài.md",
-    "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.2 II Agent DECISION CANVAS - TEMPLATE ÁP DỤNG FRAMEWORK 6 TẦNG.md",
-    "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.1 II Agent Problem Solving.md",
-    "1.1 Đang Không Nghiên Cứu/1. Problem Solving.md",
     "1.1 Đang Không Nghiên Cứu",
     "1.1 Đang Nghiên Cứu",
     "1. DailyNote/1.1 Sách",
