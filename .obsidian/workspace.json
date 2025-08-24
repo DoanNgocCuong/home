@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1 Đang Không Nghiên Cứu/2025_08_25 Kiểm tra port - log các kiểu - Kiểm tra TTS đơ.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_08_25 Kiểm tra port - log các kiểu - Kiểm tra TTS đơ"
+              "title": "6. Server Deploy - mật khẩu vào Server - Github"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: KNN",
+                "query": "file: server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.1 Đang Không Nghiên Cứu/2025_08_25 Kiểm tra port - log các kiểu - Kiểm tra TTS đơ.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025_08_25 Kiểm tra port - log các kiểu - Kiểm tra TTS đơ"
+              "title": "Outline of 6. Server Deploy - mật khẩu vào Server - Github"
             }
           },
           {
@@ -202,8 +203,9 @@
   },
   "active": "841d14eb9487ac48",
   "lastOpenFiles": [
-    "1. DailyNote/2025-08-24.md",
+    "1. DailyNote/2025-08-25.md",
     "1.1 Đang Không Nghiên Cứu/2025_08_25 Kiểm tra port - log các kiểu - Kiểm tra TTS đơ.md",
+    "1. DailyNote/2025-08-24.md",
     "3_Learning/3_AI_Engineering/2. Machine Learning/2. KNN.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "3_Learning/4_MLOPs và Full Stack Docker/UI/2.4 Docker Hub với Server.md",
@@ -227,7 +229,6 @@
     "1.1 Đang Nghiên Cứu/2025-08-24 GKE Turns 10 Hackathon.md",
     "1.1 Đang Không Nghiên Cứu/2025-08-24 Chế độ sinh tồn.md",
     "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1. Ăn sáng gây buồn ngủ.md",
-    "1.1 Đang Không Nghiên Cứu/2. Chạy bộ buổi sáng thì sao!.md",
     "1.1 Đang Không Nghiên Cứu",
     "1.1 Đang Nghiên Cứu",
     "1. DailyNote/1.1 Sách",
