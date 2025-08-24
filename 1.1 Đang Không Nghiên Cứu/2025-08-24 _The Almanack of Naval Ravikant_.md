@@ -1,3 +1,5 @@
+https://chatgpt.com/share/e/68aa64a4-05b0-800b-ab93-862f31de1681
+
 # Tóm tắt chi tiết _The Almanack of Naval Ravikant_
 
 ## Giới thiệu
