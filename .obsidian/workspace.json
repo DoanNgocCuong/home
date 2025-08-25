@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-25.md",
+                "file": "1.1 Đang Không Nghiên Cứu/3.3 Gộp Problem Solving + Xử lý vấn đề đa nhiệm + PP học tập thiên tài.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-25"
+              "title": "3.3 Gộp Problem Solving + Xử lý vấn đề đa nhiệm + PP học tập thiên tài"
             }
           },
           {
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-25.md",
+                "file": "1.1 Đang Không Nghiên Cứu/3.3 Gộp Problem Solving + Xử lý vấn đề đa nhiệm + PP học tập thiên tài.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-25"
+              "title": "Outline of 3.3 Gộp Problem Solving + Xử lý vấn đề đa nhiệm + PP học tập thiên tài"
             }
           },
           {
@@ -230,6 +230,7 @@
   },
   "active": "a5f967a00690205c",
   "lastOpenFiles": [
+    "1. DailyNote/2025-08-25.md",
     "1. DailyNote/attachments/Pasted image 20250825133957.png",
     "1.1 Đang Không Nghiên Cứu/3.3 Gộp Problem Solving + Xử lý vấn đề đa nhiệm + PP học tập thiên tài.md",
     "1.1 Đang Không Nghiên Cứu/3.1 Learning - PP HỌC TẬP THIÊN TÀI  01082025.md",
@@ -252,7 +253,6 @@
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/1_GOSINGA_AI_SUMMARY.md",
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/1_GOSINGA_AIGenSummary_13082025.pdf",
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/ROADMAP FIRE 15 NĂM - TỪ AI ENGINEER ĐẾN FINANCIAL FREEDOM.md",
-    "1. DailyNote/2025-08-25.md",
     "1. DailyNote/2025-08-24.md",
     "1. DailyNote/2025-07-30 - TẤM BẢN ĐỒ - NGUỒN LỰC NỘI TẠI - THE ROAD THE IMPACT THE POWER   - STRUCTURE - SYSTEM DESIGN CHỊ TRANG SHARE.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
@@ -275,7 +275,6 @@
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250820224008.png",
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250820213502.png",
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250820212852.png",
-    "1. DailyNote/attachments/Pasted image 20250820134558.png",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
