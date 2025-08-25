@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1 Đang Không Nghiên Cứu/3.3 Gộp Problem Solving + Xử lý vấn đề đa nhiệm + PP học tập thiên tài.md",
+                "file": "1.1 Đang Không Nghiên Cứu/3.4 Ultralearning - Deep Research Gemini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 Gộp Problem Solving + Xử lý vấn đề đa nhiệm + PP học tập thiên tài"
+              "title": "3.4 Ultralearning - Deep Research Gemini"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: server",
+                "query": "file: ULTRA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
+                "file": "1.1 Đang Không Nghiên Cứu/3.4 Ultralearning - Deep Research Gemini.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Server Deploy - mật khẩu vào Server - Github"
+              "title": "Outline of 3.4 Ultralearning - Deep Research Gemini"
             }
           },
           {
@@ -257,14 +257,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1ac1ac1ec685f7ce",
+  "active": "a5f967a00690205c",
   "lastOpenFiles": [
+    "1.1 Đang Không Nghiên Cứu/3.3 Gộp Problem Solving + Xử lý vấn đề đa nhiệm + PP học tập thiên tài.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/9. Server.md",
     "1.1 Đang Không Nghiên Cứu/3.4 Ultralearning - Deep Research Gemini.md",
     "1.1 Đang Không Nghiên Cứu/4. AI Engineering_ResearchEngineeringApplicationProduct.md",
     "1.1 Đang Không Nghiên Cứu/2025-08-26 CHẬM NHANH KO RÕ TẠI SAO - response time gen Audio của FLEXIBLE 8 AUDIO MÀ 4S, cái này thì lúc 6s, lúc 10s DÙNG THỬ CÁCH AUDIO CỦA FLEXIBLE THÌ ÔK, NGON HẲN LUÔN - MÀ KO HIỂU TẠI SAO.md",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Fast API - Format API gửi đi có cần data không.md",
-    "1.1 Đang Không Nghiên Cứu/3.3 Gộp Problem Solving + Xử lý vấn đề đa nhiệm + PP học tập thiên tài.md",
     "1.1 Đang Không Nghiên Cứu/3.2. XỬ LÝ VẤN ĐỀ ĐA NHIỆM - THÓI QUEN XẤU - LÀM 2 VIỆC 1 LÚC.md",
     "1. DailyNote/2025-08-25.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
@@ -291,7 +292,6 @@
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/ROADMAP FIRE 15 NĂM - TỪ AI ENGINEER ĐẾN FINANCIAL FREEDOM.md",
     "1. DailyNote/2025-08-24.md",
     "1. DailyNote/2025-07-30 - TẤM BẢN ĐỒ - NGUỒN LỰC NỘI TẠI - THE ROAD THE IMPACT THE POWER   - STRUCTURE - SYSTEM DESIGN CHỊ TRANG SHARE.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "1.1 Đang Không Nghiên Cứu/6. Nền tảng tuyển dụng.md",
     "1.1 Đang Không Nghiên Cứu/2025 - 08 - 25 PP Học tập thiên tài - có thời gian thì xem lại phần này, vì đã có tài liệu mà chưa summary lại và biến thành của mình được thuần thục.md",
     "1. DailyNote/attachments/Pasted image 20250825022625.png",
