@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: git",
+                "query": "file: server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -272,11 +273,12 @@
   },
   "active": "1a3cb06482603c58",
   "lastOpenFiles": [
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
+    "1. DailyNote/2025-08-27.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/11. commit.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/0. basic git.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/10. Github version code.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
-    "1. DailyNote/2025-08-27.md",
     "1. DailyNote/2025-08-26.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/9. CÁCH CHẠY NGẦM TRONG WINDOW, LINUX.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
@@ -284,7 +286,6 @@
     "3_Learning/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
     "1. DailyNote/attachments/Pasted image 20250826140700.png",
     "1. DailyNote/attachments/Pasted image 20250826140658.png",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "1.1 Đang Không Nghiên Cứu/3.4 Ultralearning - Deep Research Gemini.md",
     "1.1 Đang Không Nghiên Cứu/3.3 Gộp Problem Solving + Xử lý vấn đề đa nhiệm + PP học tập thiên tài.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/9. Server.md",
