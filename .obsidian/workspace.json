@@ -266,11 +266,14 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "1a3cb06482603c58",
   "lastOpenFiles": [
+    "1. DailyNote/attachments/Pasted image 20250828013101.png",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "1. DailyNote/2025-08-27.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/11. commit.md",
@@ -301,7 +304,6 @@
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/5_Problem solving 101.pdf",
     "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/3. Cách thức để tính IMPORTANT - 1 tầng trong PROBLEM SOLVING.md",
     "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/7. Định nghĩa về Finance - Bank, Investment, Stock.md",
-    "1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.5 Manus or II Agent - Tổng hợp lại cuối.md",
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/Step Up product guide.pdf",
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/problem-2up.pdf",
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/2_ProblemSolving_LOOP_IIAgent_Manus_Genspark_Bảng_Đánh_Giá_Quyết_Định_10_10_-_PHIÊN_BẢN_KẾT_HỢP_HOÀN_HẢO.pdf",
