@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-27.md",
+                "file": "1.1 Đang Không Nghiên Cứu/2025-08-28 Context Engineering Từ Vibe Coder Đến AI Orchestrator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-27"
+              "title": "2025-08-28 Context Engineering Từ Vibe Coder Đến AI Orchestrator"
             }
           },
           {
@@ -159,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-27.md",
+                "file": "1.1 Đang Không Nghiên Cứu/2025-08-28 Context Engineering Từ Vibe Coder Đến AI Orchestrator.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-27"
+              "title": "Outline of 2025-08-28 Context Engineering Từ Vibe Coder Đến AI Orchestrator"
             }
           },
           {
@@ -273,9 +272,10 @@
   },
   "active": "1a3cb06482603c58",
   "lastOpenFiles": [
+    "1. DailyNote/2025-08-27.md",
+    "1.1 Đang Không Nghiên Cứu/2025-08-28 Context Engineering Từ Vibe Coder Đến AI Orchestrator.md",
     "1. DailyNote/attachments/Pasted image 20250828013101.png",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
-    "1. DailyNote/2025-08-27.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/11. commit.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/0. basic git.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/10. Github version code.md",
@@ -318,7 +318,6 @@
     "1. DailyNote/attachments/Pasted image 20250821124147.png",
     "1. DailyNote/attachments/Pasted image 20250821120651.png",
     "1. DailyNote/attachments/Pasted image 20250821113627.png",
-    "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250820224008.png",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
