@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-29.md",
+                "file": "1.1 Đang Không Nghiên Cứu/2025-08-29 Bạn có thấy bất công không. Người kia làm ít nhưng được chú ý, còn bạn làm quần quật mà chẳng ai nhớ mặt  . Đừng nghĩ là do bạn kém. Vấn đề là bạn đang chơi sai game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-29"
+              "title": "2025-08-29 Bạn có thấy bất công không. Người kia làm ít nhưng được chú ý, còn bạn làm quần quật mà chẳng ai nhớ mặt  . Đừng nghĩ là do bạn kém. Vấn đề là bạn đang chơi sai game"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: exce",
+                "query": "file: ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,12 +145,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5026054382324
   },
   "right": {
     "id": "422b3eaae750cadd",
@@ -166,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-29.md",
+                "file": "1.1 Đang Không Nghiên Cứu/2025-08-29 Bạn có thấy bất công không. Người kia làm ít nhưng được chú ý, còn bạn làm quần quật mà chẳng ai nhớ mặt  . Đừng nghĩ là do bạn kém. Vấn đề là bạn đang chơi sai game.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-29"
+              "title": "Outline of 2025-08-29 Bạn có thấy bất công không. Người kia làm ít nhưng được chú ý, còn bạn làm quần quật mà chẳng ai nhớ mặt  . Đừng nghĩ là do bạn kém. Vấn đề là bạn đang chơi sai game"
             }
           },
           {
@@ -252,13 +251,19 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "a5f967a00690205c",
   "lastOpenFiles": [
-    "3_Learning/Excel/excel.md",
+    "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020822.png",
+    "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020819.png",
+    "1.1 Đang Không Nghiên Cứu/attachments",
     "1. DailyNote/2025-08-29.md",
+    "1.1 Đang Không Nghiên Cứu/2025-08-29 Bạn có thấy bất công không. Người kia làm ít nhưng được chú ý, còn bạn làm quần quật mà chẳng ai nhớ mặt  . Đừng nghĩ là do bạn kém. Vấn đề là bạn đang chơi sai game.md",
+    "3_Learning/Excel/excel.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/0. basic git.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
@@ -287,9 +292,7 @@
     "1.1 Đang Không Nghiên Cứu/2025-08-26 CHẬM NHANH KO RÕ TẠI SAO - response time gen Audio của FLEXIBLE 8 AUDIO MÀ 4S, cái này thì lúc 6s, lúc 10s DÙNG THỬ CÁCH AUDIO CỦA FLEXIBLE THÌ ÔK, NGON HẲN LUÔN - MÀ KO HIỂU TẠI SAO.md",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Fast API - Format API gửi đi có cần data không.md",
     "1. DailyNote/2025-08-25.md",
-    "1.1 Đang Không Nghiên Cứu/3.1 Learning - PP HỌC TẬP THIÊN TÀI  01082025.md",
     "1. DailyNote/attachments/Pasted image 20250825133957.png",
-    "1. DailyNote/2025-08-01 - RA MẮT PROBLEM SOLVING MÔ HÌNH 6 TẦNG.md",
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/5_Problem solving 101.pdf",
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/Step Up product guide.pdf",
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/problem-2up.pdf",
@@ -301,8 +304,6 @@
     "1. DailyNote/attachments/Pasted image 20250825022625.png",
     "1. DailyNote/attachments/Pasted image 20250825022230.png",
     "3_Learning/3_AI_Engineering/2. Machine Learning/attachments/Pasted image 20250825022108.png",
-    "1.1 Đang Không Nghiên Cứu",
-    "1. DailyNote/attachments/Pasted image 20250821124147.png",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
