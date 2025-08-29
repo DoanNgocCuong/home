@@ -136,3 +136,28 @@ Bạn có muốn mình làm thêm bản dùng `IFERROR` để tránh lỗi `#N/A
 file 15GB, xoá 2 cột rất nhiều dòng thì thành 16gb
 
 file 2, 5, 5 gb => tổng lại merge vào 15GB?
+
+
+---
+
+Bạn có thể kiểm tra ô **A2** có trong cột **D** hay chưa bằng cách dùng công thức trong Excel hoặc Google Sheets:
+
+### Cách 1: Dùng `COUNTIF`
+
+`=COUNTIF(D:D, A2) > 0`
+
+- Nếu kết quả **TRUE** → giá trị ở A2 đã tồn tại trong cột D.
+    
+- Nếu kết quả **FALSE** → chưa có trong cột D.
+    
+
+### Cách 2: Dùng `MATCH`
+
+`=ISNUMBER(MATCH(A2, D:D, 0))`
+
+- Trả về **TRUE** nếu tìm thấy.
+    
+- Trả về **FALSE** nếu không có.
+    
+
+👉 Cách nhanh nhất là dùng `COUNTIF`, vì nó dễ hiểu và gọn.
