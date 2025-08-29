@@ -166,3 +166,7 @@ Bạn có thể kiểm tra ô **A2** có trong cột **D** hay chưa bằng các
 
 
 ---
+
+
+
+{"type": "LEARNING_FLEXIBLE", "data": {"description": "Hãy dịch cụm sau", "intro_audio": "https://smedia.stepup.edu.vn/web_mvp/thecoach/audio/hay_dich_cum_sau.mp3", "sentence_hide": "Yes, we have a problem with the supplier.", "sentence_en": "Yes, we have a problem with the supplier.", "sentence_vi": "Vâng, chúng ta có vấn đề với nhà cung cấp.", "word_mapping": {}, "sentence_audio_speaker": "https://smedia.stepup.edu.vn/web_mvp/thecoach/audio_TC2025/flexible_phrase/yes_we_have_a_problem_with_the_supplier_20250828_194741_eubjk9.mp3", "sentence_audio_auto_play": ""}, "check_audio": "HAVE"} 1 ô có cái này Cách extract sentence_vi
