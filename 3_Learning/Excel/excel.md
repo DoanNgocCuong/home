@@ -169,4 +169,46 @@ Bạn có thể kiểm tra ô **A2** có trong cột **D** hay chưa bằng các
 
 
 
-{"type": "LEARNING_FLEXIBLE", "data": {"description": "Hãy dịch cụm sau", "intro_audio": "https://smedia.stepup.edu.vn/web_mvp/thecoach/audio/hay_dich_cum_sau.mp3", "sentence_hide": "Yes, we have a problem with the supplier.", "sentence_en": "Yes, we have a problem with the supplier.", "sentence_vi": "Vâng, chúng ta có vấn đề với nhà cung cấp.", "word_mapping": {}, "sentence_audio_speaker": "https://smedia.stepup.edu.vn/web_mvp/thecoach/audio_TC2025/flexible_phrase/yes_we_have_a_problem_with_the_supplier_20250828_194741_eubjk9.mp3", "sentence_audio_auto_play": ""}, "check_audio": "HAVE"} 1 ô có cái này Cách extract sentence_vi
+{"type": "LEARNING_FLEXIBLE", "data": {"description": "Hãy dịch cụm sau", "intro_audio": "https://smedia.stepup.edu.vn/web_mvp/thecoach/audio/hay_dich_cum_sau.mp3", "sentence_hide": "Yes, we have a problem with the supplier.", "sentence_en": "Yes, we have a problem with the supplier.", "sentence_vi": "Vâng, chúng ta có vấn đề với nhà cung cấp.", "word_mapping": {}, "sentence_audio_speaker": "https://smedia.stepup.edu.vn/web_mvp/thecoach/audio_TC2025/flexible_phrase/yes_we_have_a_problem_with_the_supplier_20250828_194741_eubjk9.mp3", "sentence_audio_auto_play": ""}, "check_audio": "HAVE"} 
+
+1 ô có cái này Cách extract sentence_vi
+
+=REGEXEXTRACT(TO_TEXT(O10), """sentence_vi"":\s*""([^""]+)""")
+
+
+
+```
+curl --location 'http://103.253.20.30:3000/api/generate-all-exercises-lyly-the-coach' \
+ --header 'Content-Type: application/json' \
+ --data '{
+  "context": {
+    "user_profile": "Work general",
+    "topic": "CẬP NHẬT TÌNH HÌNH CÙNG SẾP",
+    "scenario": "Bạn nhận thấy một rủi ro có thể ảnh hưởng đến dự án. Sếp hỏi bạn có trở ngại nào không trong cuộc họp."
+  },
+  "lesson": {
+    "question": "Are there any blockers?",
+    "structure": "Yes, we have a problem with ___.",
+    "lesson_detail": [
+      {
+        "phrase_eng": "the supplier",
+        "phrase_vi": "nhà cung cấp"
+      },
+      {
+        "phrase_eng": "the budget",
+        "phrase_vi": "ngân sách"
+      },
+      {
+        "phrase_eng": "the timeline",
+        "phrase_vi": "thời gian biểu"
+      }
+    ],
+    "question_vi": "Có trở ngại nào không?",
+    "structure_vi": "Vâng, chúng tôi có một vấn đề với ___."
+  }
+}'
+
+
+=REGEXEXTRACT(TO_TEXT(M2), """question_vi"":\s*""([^""]+)""")
+
+```
