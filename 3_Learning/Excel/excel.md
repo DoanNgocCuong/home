@@ -129,3 +129,10 @@ Rồi 👍 mình tóm gọn như sau:
 ---
 
 Bạn có muốn mình làm thêm bản dùng `IFERROR` để tránh lỗi `#N/A` khi không tìm thấy không?
+
+
+
+---
+file 15GB, xoá 2 cột rất nhiều dòng thì thành 16gb
+
+file 2, 5, 5 gb => tổng lại merge vào 15GB?

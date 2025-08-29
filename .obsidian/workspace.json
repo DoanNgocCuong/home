@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-29.md",
+                "file": "3_Learning/Excel/excel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-29"
+              "title": "excel"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: exe",
+                "query": "file: exce",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-29.md",
+                "file": "3_Learning/Excel/excel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-29"
+              "title": "Outline of excel"
             }
           },
           {
@@ -257,13 +257,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0cf1f93d49c9ecae",
+  "active": "a5f967a00690205c",
   "lastOpenFiles": [
+    "1. DailyNote/2025-08-29.md",
     "1.1 Đang Không Nghiên Cứu/2025-08-29 Bạn có thấy bất công không. Người kia làm ít nhưng được chú ý, còn bạn làm quần quật mà chẳng ai nhớ mặt  . Đừng nghĩ là do bạn kém. Vấn đề là bạn đang chơi sai game.md",
     "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020822.png",
     "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020819.png",
     "1.1 Đang Không Nghiên Cứu/attachments",
-    "1. DailyNote/2025-08-29.md",
     "3_Learning/Excel/excel.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/1. git, SOLID, Code chuẩn.md",
     "3_Learning/4_MLOPs và Full Stack Docker/1. Git/0. basic git.md",
