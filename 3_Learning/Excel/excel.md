@@ -161,3 +161,8 @@ Bạn có thể kiểm tra ô **A2** có trong cột **D** hay chưa bằng các
     
 
 👉 Cách nhanh nhất là dùng `COUNTIF`, vì nó dễ hiểu và gọn.
+
+
+
+
+---
