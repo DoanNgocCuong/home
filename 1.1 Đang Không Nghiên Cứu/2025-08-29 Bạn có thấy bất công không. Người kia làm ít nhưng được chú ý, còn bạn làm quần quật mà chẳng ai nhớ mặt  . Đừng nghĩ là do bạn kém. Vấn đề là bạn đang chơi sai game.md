@@ -61,3 +61,9 @@ See less
 
 
 ---
+
+
+
+```
+DEEP RESEARCH 1 CÁCH CHUYÊN SÂU VỀ TOÀN BỘ MINDSET ĐƯỢC NHẮC ĐẾN TRONG CUỐN SÁCH. TẬP TRUNG ĐÀO SÂU CÁC MINDSET ĐÓ ĐƯỢC CÁC NHÀ THIÊN TÀI KHÁC HỌ ỨNG DỤNG NHƯ NÀO, DẪN CHỨNG CỤ THỂ CHI TIẾT, CÀNG CHI TIẾT CÀNG ĐẶC SẮC. CÀNG SÂU
+```
