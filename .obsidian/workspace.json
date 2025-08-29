@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: serve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,14 +259,14 @@
   },
   "active": "192848e25d536471",
   "lastOpenFiles": [
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
+    "1. DailyNote/2025-08-29.md",
     "1.1 Đang Không Nghiên Cứu/2025 - 08 - 29 MAX WORKS (SỐ LUỒNG I O ) - BATCH SIZE SỐ DATA GOM VÀO 1 LUỒNG.md",
     "1.1 Đang Không Nghiên Cứu/2025-08-24.md",
     "1.1 Đang Không Nghiên Cứu/Production.md",
     "1.1 Đang Không Nghiên Cứu/2025-08-25 Chạy ngầm no hup.md",
     "1.1 Đang Không Nghiên Cứu/2025-08-26 CHẬM NHANH KO RÕ TẠI SAO - response time gen Audio của FLEXIBLE 8 AUDIO MÀ 4S, cái này thì lúc 6s, lúc 10s DÙNG THỬ CÁCH AUDIO CỦA FLEXIBLE THÌ ÔK, NGON HẲN LUÔN - MÀ KO HIỂU TẠI SAO.md",
     "1. DailyNote/2025-08-25.md",
-    "1. DailyNote/2025-08-29.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "3_Learning/Excel/excel.md",
     "1.1 Đang Không Nghiên Cứu/2025-08-29 Bạn có thấy bất công không. Người kia làm ít nhưng được chú ý, còn bạn làm quần quật mà chẳng ai nhớ mặt  . Đừng nghĩ là do bạn kém. Vấn đề là bạn đang chơi sai game.md",
     "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020822.png",
