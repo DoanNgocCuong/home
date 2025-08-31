@@ -1,3 +1,25 @@
+	```
+	https://youtu.be/y8hhOBZDX7k?feature=shared https://youtu.be/ZCZGydpdhAI?feature=shared 
+https://youtu.be/UfyLEO77F8U?feature=shared
+
+Xem kỹ 3 video này và các cuốn sách 
+
+*** The Molecule of More
+*** The Soft Addiction Solution
+*** Dopamine Nation
+*** The Craving Mind
+
+
+VÀ TOÀN BỘ CÁC SÁCH, CÁC NGHIÊN CỨU VỀ DOPAMINE LIÊN QUAN. 
+===
+Với bản thân mình thì dạo gần đây, mình rất cẩn trọng với các niềm vui đến từ ngoại cảnh: chẳng hạn như giải được bài toán khó, hoàn thành 1 việc coding khó, vui vì có gì đó mới, .... NIỀM VUI BÊN NGOÀI CỦA MÌNH ÍT ĐI, KHỔ CŨNG TỪ ĐÓ ÍT ĐI 
+
+Quan trọng là mình bình an hơn, vui thoải mái hơn từ bên trong. 
+
+
+Chiều nay mình mới code xong 1 đoạn update 3-4 phần các kiểu, có vui, cơ mà mình hít thở và cảm nhận, để cảm nhận cảm giác hạnh phúc đó 1 cách bình thường, dopamine tiết ra 1 cách tự nhiên 
+	```
+
 
 Skip to content
 
