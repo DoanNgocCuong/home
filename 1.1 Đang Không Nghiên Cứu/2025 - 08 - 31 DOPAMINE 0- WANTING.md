@@ -620,3 +620,107 @@ Phân tích chuyên sâu này chỉ ra rằng, trong một thế giới luôn th
 Để đạt được trạng thái này, cần một lộ trình tổng hợp, kết hợp giữa khoa học hiện đại và trí tuệ cổ xưa. Khoa học thần kinh giúp chúng ta hiểu rõ "kẻ thù" bên trong (cơ chế "muốn" không ngừng nghỉ) và cung cấp các chiến lược thực tế như "tự ràng buộc" để chống lại sự bốc đồng. Ngược lại, các triết lý cổ xưa như Tứ Niệm Xứ và Bát Chánh Đạo cung cấp một phương pháp tu tập toàn diện và vượt thời gian để nuôi dưỡng sự kiên cường, khả năng chịu đựng nỗi đau và khả năng tìm thấy hạnh phúc trong những gì đã có.
 
 Tóm lại, sức mạnh nội tại không phải là một sức mạnh bẩm sinh mà là một kỹ năng có thể rèn luyện. Nó đến từ sự dũng cảm đối mặt với nỗi đau, sự kiên nhẫn trong quá trình và khả năng tìm thấy sự an lạc trong chính khoảnh khắc hiện tại.
+
+
+---
+Đây là danh sách các nguồn tài liệu đã được sử dụng và phân tích để tổng hợp báo cáo.
+
+**Nguồn Học thuật và Khoa học:**
+
+- **NCBI (National Center for Biotechnology Information):**
+    
+    - PMC: `pmc.ncbi.nlm.nih.gov/articles/PMC3176615/` 1
+        
+    - PMC: `pmc.ncbi.nlm.nih.gov/articles/PMC2607326/` 2
+        
+    - PMC: `pmc.ncbi.nlm.nih.gov/articles/PMC4760620/` 3
+        
+    - PMC: `pmc.ncbi.nlm.nih.gov/articles/PMC5171207/` 4
+        
+    - PMC: `pmc.ncbi.nlm.nih.gov/articles/PMC2813042/` 5
+        
+    - NCBI Search: `ncbi.nlm.nih.gov/search/research-news/20268` 6
+        
+    - NCBI Books: `ncbi.nlm.nih.gov/books/NBK470306/` 7
+        
+- **Tạp chí & Cổng thông tin Y khoa:**
+    
+    - `med.stanford.edu/news/all-news/2021/08/dopamine-nation.html`
+        
+    - `medicalnewstoday.com/articles/dopamine-detox` 8
+        
+    - `clevelandclinic.org/health/dopamine-detox`
+        
+    - `health.harvard.edu/blog/dopamine-nation-202206232777`
+        
+    - `verywellmind.com/what-is-dopamine-detox-5095368`
+        
+    - `vinmec.com/vi/bai-viet/dopamine-anh-huong-den-co-nhu-nao-vi` 9
+        
+    - `samitivejhospitals.com/article/detail/happiness-hormones` 10
+        
+    - `betterhelp.com/advice/general/what-is-opponent-process-theory` 11
+        
+    - `simplypsychology.org/opponent-process-theory.html` 12
+        
+    - `apa.org/news/podcasts/speaking-of-psychology/dopamine` 13
+        
+- **Các nền tảng & Blog Học thuật khác:**
+    
+    - `taylorandfrancis.com/books/9780203023055`
+        
+    - `scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=wanting+vs+liking+dopamine&btnG=`
+        
+    - `lions-talk-science.org/2024/02/14/your-biology-holds-the-key-to-happiness` 14
+        
+    - `behaviouralbydesign.com/post/neuroscience-lessons-to-foster-a-growth-mindset` 15
+        
+
+**Nguồn Phi học thuật (Sách, Blog, Báo chí):**
+
+- **Tóm tắt sách & Blog:**
+    
+    - `readingraphics.com/book-summary-dopamine-nation` 16
+        
+    - `sobrief.com/books/the-molecule-of-more` 18
+        
+    - `durmonski.com/book-summaries/dopamine-nation` 16
+        
+    - `wisewords.blog/book-summaries/molecule-of-more-book-summary` 19
+        
+    - `medium.com/@pradeepdas/dopamine-nation-self-binding-8ee7f0c879d9` 20
+        
+    - `lightsailed.com/catalog/book/the-soft-addiction-solution/9781440649929` 21
+        
+    - `goodreads.com/book/show/9242680-the-soft-addiction-solution` 22
+        
+- **Các kênh YouTube & Podcast:**
+    
+    - `youtube.com/watch?v=y8hhOBZDX7k`
+        
+    - `youtube.com/watch?v=ZCZGydpdhAI`
+        
+    - `youtube.com/watch?v=UfyLEO77F8U`
+        
+    - `edmylett.com/podcast/dr-andrew-huberman-unleash-your-brain-power-and-growth-mindset` 23
+        
+    - `youtube.com/watch?v=R6xbXOp7wDA` 24
+        
+- **Báo chí & Nguồn khác:**
+    
+    - `vietnamnet.vn/nhung-bai-tap-cuc-ky-don-gian-giup-bo-nao-tro-nen-nhay-ben-hon-559290.html` 25
+        
+    - `elle.vn/bi-quyet-song/thoi-quen-nang-cao-tan-so-nang-luong-tich-cuc` 26
+        
+    - `vietnamplus.vn/hieu-dung-ve-phuong-phap-thanh-loc-dopamine-giup-chua-lanh-suc-khoe-tinh-than-post912157.vnp` 27
+        
+    - `dienmaycholon.com/kien-thuc/bat-chanh-dao` 28
+        
+    - `thuvienhoasen.org/a25438/ung-dung-va-tu-tap-bat-chanh-dao` 29
+        
+    - `batchanhdao.vn/tu-niem-xu-la-gi` 30
+        
+    - `altamirarecovery.com/blog/setting-course-self-binding-techniques-early-recovery` 31
+        
+
+Những nguồn trên bao gồm cả những tài liệu chuyên sâu về tâm lý học và khoa học thần kinh, cũng như các bài tổng hợp từ sách và bài viết phổ biến để đảm bảo tính toàn diện và dễ tiếp cận cho báo cáo.
