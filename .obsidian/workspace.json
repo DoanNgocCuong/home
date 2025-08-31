@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-08-31.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Chạy ngầm server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-31"
+              "title": "Chạy ngầm server"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: server",
+                "query": "file: chạy ngầm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-08-31.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Chạy ngầm server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-31"
+              "title": "Outline of Chạy ngầm server"
             }
           },
           {
@@ -259,8 +259,9 @@
   },
   "active": "192848e25d536471",
   "lastOpenFiles": [
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.3 Dọn docker - kill process - port server.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "1. DailyNote/2025-08-31.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.3 Dọn docker - kill process - port server.md",
     "1. DailyNote/2025-08-30.md",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Cách mở cho port nó bắn.md",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Lệnh Linux Thường dùng nhất.md",
@@ -268,7 +269,6 @@
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/2.3 Các port.md",
     "3_Learning/Excel/excel.md",
     "1. DailyNote/2025-08-29.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "1.1 Đang Không Nghiên Cứu/2025 - 08 - 29 MAX WORKS (SỐ LUỒNG I O ) - BATCH SIZE SỐ DATA GOM VÀO 1 LUỒNG.md",
     "1.1 Đang Không Nghiên Cứu/2025-08-24.md",
     "1.1 Đang Không Nghiên Cứu/Production.md",

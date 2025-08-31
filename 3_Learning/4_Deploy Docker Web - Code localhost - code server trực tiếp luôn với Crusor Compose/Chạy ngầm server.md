@@ -17,3 +17,15 @@ Giải thích từng phần:
 - 2>&1 = Chuyển hướng stderr (lỗi) vào cùng file với stdout
 
 - & = Chạy ở background (không block terminal)
+
+```
+nohup python main.py --start_situation 10001 --end_situation 11000000956 --input_file "31082025_HocThu_Work.xlsx" --max_workers 20 --batch_size 1 > hocthu_work.log 2> err_hocthu_nonwork.log &
+
+
+```
+
+
+```
+nohup python main.py --start_situation 1 --end_situation 111000000956 --input_file "31082025_HocThu_Work.xlsx" --max_workers 20 --batch_size 1 > hocthu_work.log 2>&1 &
+
+```
