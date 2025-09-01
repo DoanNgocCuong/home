@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.3 Dọn docker - kill process - port server.md",
+                "file": "1. DailyNote/2025-09-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1.3 Dọn docker - kill process - port server"
+              "title": "2025-09-01"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: kill",
+                "query": "file: ser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.3 Dọn docker - kill process - port server.md",
+                "file": "1. DailyNote/2025-09-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.1.3 Dọn docker - kill process - port server"
+              "title": "Outline of 2025-09-01"
             }
           },
           {
@@ -259,11 +259,12 @@
   },
   "active": "192848e25d536471",
   "lastOpenFiles": [
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
+    "1. DailyNote/2025-09-01.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.3 Dọn docker - kill process - port server.md",
     "1.1 Đang Không Nghiên Cứu/2025 - 08 - 31 DOPAMINE 0- WANTING.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Chạy ngầm server.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "1. DailyNote/2025-08-31.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.3 Dọn docker - kill process - port server.md",
     "1. DailyNote/2025-08-30.md",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Cách mở cho port nó bắn.md",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Lệnh Linux Thường dùng nhất.md",
@@ -289,7 +290,6 @@
     "1.1 Đang Không Nghiên Cứu/3.5 MỤC ĐÍCH CUỐI CÙNG LÀ TIỀN = GỐC RỄ LÀ GIẢI QUYẾT VẤN ĐỀ. CẤU TRÚC CÁC THÀNH PHẦN ẢNH HƯỞNG ĐẾN VIỆC GIẢI QUYẾT VẤN ĐỀ. LEARNING NẰM Ở ĐÂU TRONG ĐẤY.md",
     "1.1 Đang Không Nghiên Cứu/3.4 Ultralearning - Deep Research Gemini.md",
     "1. DailyNote/attachments/Pasted image 20250828040031.png",
-    "1.1 Đang Không Nghiên Cứu/3.2. XỬ LÝ VẤN ĐỀ ĐA NHIỆM - THÓI QUEN XẤU - LÀM 2 VIỆC 1 LÚC - RẤT HAY (GIỮA T82025).md",
     "1. DailyNote/attachments/Pasted image 20250828013101.png",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Untitled 1",
     "1. DailyNote/attachments/Pasted image 20250826140700.png",
