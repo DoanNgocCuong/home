@@ -271,3 +271,162 @@ Có thể test với tải cao hơn.
 ![](https://fsds-content.s3.ap-southeast-1.amazonaws.com/uploads/366761efca158e85de4650a37ef5d75d3ff2c126d0acd27836482fff4ef55b0c.png)
 
 ![](https://fsds-content.s3.ap-southeast-1.amazonaws.com/uploads/f888e14c080fecf7a7ec016101ff8725c22c2bb153ad028eb79293b5657315d9.png)
+
+---
+Ah! Vậy là **API đã BỊ OVERLOAD NGHIÊM TRỌNG!** 🚨
+
+## 📊 **PHÂN TÍCH KẾT QUẢ:**
+
+### **Cấu hình test của bạn:**
+
+```
+👥 Number of users: 10
+📈 Spawn rate: 2 users/second  
+⏱️ Ramp-up time: 5 giây (để đạt 10 users)
+```
+
+### **Kết quả thảm họa:**
+
+```
+❌ 10 users → Chỉ 1.4 RPS
+❌ Response time: 6.7 giây trung bình
+❌ 95% requests: 9.6 giây
+❌ 99% requests: 11 giây
+```
+
+## 🎯 **ĐIỀU NÀY CÓ NGHĨA LÀ GÌ:**
+
+### **API đã QUẮT TẢI khi chỉ có 10 users!**
+
+**Tính toán lý thuyết:**
+
+```
+Với 10 users và response time 6.7s:
+Expected RPS = 10 users ÷ 6.7s = 1.49 RPS ✓
+
+Kết quả thực tế: 1.4 RPS ← Khớp với tính toán!
+```
+
+**→ Điều này chứng minh API đã ở trạng thái "nghẽn cổ chai" hoàn toàn!**
+
+## 🚨 **MỨC ĐỘ NGHIÊM TRỌNG:**
+
+### **So sánh với chuẩn:**
+
+```
+✅ API tốt với 10 users:
+   - RPS: 20-100+  
+   - Response: < 500ms
+
+⚠️ API chấp nhận được với 10 users:  
+   - RPS: 5-20
+   - Response: 500-1000ms
+
+❌ API của bạn với 10 users:
+   - RPS: 1.4 (GẤP 10-50 LẦN CHẬM HƠN!)
+   - Response: 6700ms (GẤP 13 LẦN CHẬM HƠN!)
+```
+
+## 🔍 **TEST ĐỂ TÌM SỨC TẢI THỰC TẾ:**
+
+Bạn cần test ngược lại từ ít users:
+
+### **Kế hoạch test:**
+
+```
+1️⃣ Test 1 user:
+   locust -f simple_test.py --headless -u 1 -r 1 -t 3m
+
+2️⃣ Test 2 users:  
+   locust -f simple_test.py --headless -u 2 -r 1 -t 3m
+
+3️⃣ Test 3 users:
+   locust -f simple_test.py --headless -u 3 -r 1 -t 3m
+```
+
+### **Tìm ngưỡng an toàn:**
+
+```
+Target: Response time < 2000ms (2 giây)
+Target: RPS tăng theo số users
+Target: Error rate = 0%
+```
+
+## 📈 **DỰ ĐOÁN KẾT QUẢ:**
+
+```
+Users | Expected RPS | Expected Response Time | Status
+------|-------------|----------------------|--------
+1     | ~1.0        | ~1000ms              | ✅ Có thể OK
+2     | ~1.5        | ~1300ms              | ⚠️ Chậm  
+3     | ~1.8        | ~1700ms              | ⚠️ Rất chậm
+5     | ~1.2        | ~4000ms              | ❌ Overload
+10    | 1.4         | 6700ms               | ❌ Thảm họa (hiện tại)
+```
+
+**→ Sức tải thực tế có thể chỉ 1-2 users!** 😱
+
+## 🔧 **HÀNH ĐỘNG NGAY LẬP TỨC:**
+
+### **1. Test với tải nhẹ:**
+
+```bash
+# Test 1 user để xem baseline
+locust -f simple_test.py --headless -u 1 -r 1 -t 2m --host http://103.253.20.30:30004
+```
+
+### **2. Kiểm tra server:**
+
+- **CPU usage**: Có thể đang 100%?
+- **Memory**: Có đang leak không?
+- **Database**: Query có đang chạy lâu?
+
+### **3. Test trực tiếp:**
+
+```bash
+# Test 1 request để xem thời gian thực
+time curl -X POST http://103.253.20.30:30004/search_jobs_and_generation_sendBE \
+  -H "Content-Type: application/json" \
+  -d '{"user_input": "lãnh đạo"}'
+```
+
+## 📝 **BÁO CÁO KHẨN CẤP CHO TEAM:**
+
+```
+🚨 CRITICAL: API PERFORMANCE FAILURE
+
+📊 TEST RESULTS:
+- Configuration: 10 concurrent users
+- Duration: [thời gian test của bạn]
+- Spawn rate: 2 users/second
+
+❌ CRITICAL ISSUES:
+- Throughput: Only 1.4 RPS (EXTREMELY LOW)
+- Response Time: 6.7s average (UNACCEPTABLE) 
+- 99th percentile: 11 seconds (DISASTER)
+
+🎯 SEVERITY ASSESSMENT:
+- API CANNOT handle even 10 concurrent users
+- Estimated real capacity: 1-2 users maximum
+- This is NOT suitable for any production use
+
+🆘 IMMEDIATE ACTIONS REQUIRED:
+1. Stop any production deployment plans
+2. Investigate server resources immediately  
+3. Review code for blocking operations
+4. Check database query performance
+5. Consider API architecture redesign
+
+📈 BUSINESS IMPACT:
+- Users will wait 6-11 seconds per request
+- System can serve max 1-2 concurrent users
+- Complete user experience failure
+```
+
+## 🎯 **KẾT LUẬN:**
+
+**Với 10 users, API đã hoàn toàn quá tải. Sức chịu tải thực tế có thể chỉ 1-2 users!**
+
+**Đây không phải là vấn đề nhỏ - đây là vấn đề KIẾN TRÚC cần giải quyết ngay!**
+
+Bạn có thể test với 1 user để xem kết quả như thế nào không?
