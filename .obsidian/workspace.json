@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-09-01.md",
+                "file": "3_Learning/4_MLOPs và Full Stack Docker/TESTING - LOCUS TEST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-01"
+              "title": "TESTING - LOCUS TEST"
             }
           }
         ],
@@ -145,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-09-01.md",
+                "file": "3_Learning/4_MLOPs và Full Stack Docker/TESTING - LOCUS TEST.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-01"
+              "title": "Outline of TESTING - LOCUS TEST"
             }
           },
           {
@@ -259,8 +258,11 @@
   },
   "active": "192848e25d536471",
   "lastOpenFiles": [
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "1. DailyNote/2025-09-01.md",
+    "3_Learning/4_MLOPs và Full Stack Docker/TESTING - LOCUS TEST.md",
+    "3_Learning/3_AI_Engineering/Untitled 1",
+    "3_Learning/4_MLOPs và Full Stack Docker/Untitled 2",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.3 Dọn docker - kill process - port server.md",
     "1.1 Đang Không Nghiên Cứu/2025 - 08 - 31 DOPAMINE 0- WANTING.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Chạy ngầm server.md",
@@ -288,7 +290,6 @@
     "1.1 Đang Không Nghiên Cứu/2025 - 08 - 28 các bài như nào thì nên đăng fb.md",
     "1. DailyNote/attachments/Pasted image 20250828095623.png",
     "1.1 Đang Không Nghiên Cứu/3.5 MỤC ĐÍCH CUỐI CÙNG LÀ TIỀN = GỐC RỄ LÀ GIẢI QUYẾT VẤN ĐỀ. CẤU TRÚC CÁC THÀNH PHẦN ẢNH HƯỞNG ĐẾN VIỆC GIẢI QUYẾT VẤN ĐỀ. LEARNING NẰM Ở ĐÂU TRONG ĐẤY.md",
-    "1.1 Đang Không Nghiên Cứu/3.4 Ultralearning - Deep Research Gemini.md",
     "1. DailyNote/attachments/Pasted image 20250828040031.png",
     "1. DailyNote/attachments/Pasted image 20250828013101.png",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Untitled 1",
@@ -301,8 +302,6 @@
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/2_ProblemSolving_LOOP_IIAgent_Manus_Genspark_Bảng_Đánh_Giá_Quyết_Định_10_10_-_PHIÊN_BẢN_KẾT_HỢP_HOÀN_HẢO.pdf",
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/5_input_Step Up product guide.pdf",
     "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/5_input_AI and techstacks for PM.pdf",
-    "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/5_AI and techstacks for PM.pdf",
-    "1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/1_GOSINGA_AIGenSummary_13082025.pdf",
     "1. DailyNote/attachments/Pasted image 20250825022625.png",
     "1. DailyNote/attachments/Pasted image 20250825022230.png",
     "Untitled 2.canvas",
