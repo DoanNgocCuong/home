@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.10 DOcker - Uvicorn.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.13 VẤN ĐỀ KEY BỊ CHỒNG LẤN TRONG DOCKER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2.10 DOcker - Uvicorn"
+              "title": "2.13 VẤN ĐỀ KEY BỊ CHỒNG LẤN TRONG DOCKER"
             }
           }
         ],
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.10 DOcker - Uvicorn.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.13 VẤN ĐỀ KEY BỊ CHỒNG LẤN TRONG DOCKER.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.2.10 DOcker - Uvicorn"
+              "title": "Outline of 2.13 VẤN ĐỀ KEY BỊ CHỒNG LẤN TRONG DOCKER"
             }
           },
           {
@@ -258,8 +258,11 @@
   },
   "active": "192848e25d536471",
   "lastOpenFiles": [
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/0. TOP SAI LẦM THƯỜNG GẶP.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.13 VẤN ĐỀ KEY BỊ CHỒNG LẤN TRONG DOCKER.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. 1 số tool Docker và các lệnh cơ bản.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.10 DOcker - Uvicorn.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
     "1. DailyNote/2025-09-03.md",
     "1.1 Đang Không Nghiên Cứu/3.1_ Đánh giá Phương Pháp Học Tập Cốt Lõi từ các thiên tài 05082025.md",
     "1.1 Đang Không Nghiên Cứu/3.4 Ultralearning - Deep Research Gemini.md",
@@ -283,9 +286,6 @@
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/__init__ Deploy Docker Web.md",
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/2.3 Các port.md",
     "3_Learning/Excel/excel.md",
-    "1. DailyNote/2025-08-29.md",
-    "1.1 Đang Không Nghiên Cứu/2025 - 08 - 29 MAX WORKS (SỐ LUỒNG I O ) - BATCH SIZE SỐ DATA GOM VÀO 1 LUỒNG.md",
-    "1.1 Đang Không Nghiên Cứu/2025-08-24.md",
     "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020822.png",
     "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020819.png",
     "1.1 Đang Không Nghiên Cứu/attachments",
