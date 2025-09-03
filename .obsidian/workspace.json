@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.13 VẤN ĐỀ KEY BỊ CHỒNG LẤN TRONG DOCKER.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.14 LỖI VERSION LIBRARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.13 VẤN ĐỀ KEY BỊ CHỒNG LẤN TRONG DOCKER"
+              "title": "2.14 LỖI VERSION LIBRARY"
             }
           }
         ],
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.13 VẤN ĐỀ KEY BỊ CHỒNG LẤN TRONG DOCKER.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.14 LỖI VERSION LIBRARY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.13 VẤN ĐỀ KEY BỊ CHỒNG LẤN TRONG DOCKER"
+              "title": "Outline of 2.14 LỖI VERSION LIBRARY"
             }
           },
           {
@@ -258,8 +258,9 @@
   },
   "active": "192848e25d536471",
   "lastOpenFiles": [
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/0. TOP SAI LẦM THƯỜNG GẶP.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.13 VẤN ĐỀ KEY BỊ CHỒNG LẤN TRONG DOCKER.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.14 LỖI VERSION LIBRARY.md",
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/0. TOP SAI LẦM THƯỜNG GẶP.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. 1 số tool Docker và các lệnh cơ bản.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.10 DOcker - Uvicorn.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
@@ -285,7 +286,6 @@
     "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Lệnh Linux Thường dùng nhất.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/__init__ Deploy Docker Web.md",
     "3_Learning/4_MLOPs và Full Stack Docker/4.. Data Science/2. Big Data/2.3 Các port.md",
-    "3_Learning/Excel/excel.md",
     "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020822.png",
     "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020819.png",
     "1.1 Đang Không Nghiên Cứu/attachments",
