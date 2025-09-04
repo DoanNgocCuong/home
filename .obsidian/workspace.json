@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DailyNote/2025-09-04.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.9 Docker Network is till - Docker Network bị sử dụng.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-04"
+              "title": "2.2.9 Docker Network is till - Docker Network bị sử dụng"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ser",
+                "query": "file: docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-09-04.md",
+                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.9 Docker Network is till - Docker Network bị sử dụng.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-04"
+              "title": "Outline of 2.2.9 Docker Network is till - Docker Network bị sử dụng"
             }
           },
           {
@@ -252,11 +252,15 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "192848e25d536471",
   "lastOpenFiles": [
+    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
+    "3_Learning/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "1. DailyNote/2025-09-04.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.14 LỖI VERSION LIBRARY.md",
@@ -264,7 +268,6 @@
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/0. TOP SAI LẦM THƯỜNG GẶP.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/3. 1 số tool Docker và các lệnh cơ bản.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.2.10 DOcker - Uvicorn.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.2 Docker - Docker Hub.md",
     "1. DailyNote/2025-09-03.md",
     "1.1 Đang Không Nghiên Cứu/3.1_ Đánh giá Phương Pháp Học Tập Cốt Lõi từ các thiên tài 05082025.md",
     "1.1 Đang Không Nghiên Cứu/3.4 Ultralearning - Deep Research Gemini.md",
@@ -284,7 +287,6 @@
     "1. DailyNote/2025-08-30.md",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Cách mở cho port nó bắn.md",
     "3_Learning/4_MLOPs và Full Stack Docker/2. Hệ thống/Lệnh Linux Thường dùng nhất.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/__init__ Deploy Docker Web.md",
     "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020822.png",
     "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020819.png",
     "1.1 Đang Không Nghiên Cứu/attachments",
