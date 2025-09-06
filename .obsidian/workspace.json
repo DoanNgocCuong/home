@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.15 Vấn đề load .env.md",
+                "file": "1. DailyNote/2025-09-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.15 Vấn đề load .env"
+              "title": "2025-09-06"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.15 Vấn đề load .env.md",
+                "file": "1. DailyNote/2025-09-06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.15 Vấn đề load .env"
+              "title": "Outline of 2025-09-06"
             }
           },
           {
@@ -244,8 +244,9 @@
   },
   "active": "06dff628c2ebf27b",
   "lastOpenFiles": [
-    "1. DailyNote/2025-09-05.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.15 Vấn đề load .env.md",
+    "1. DailyNote/2025-09-06.md",
+    "1. DailyNote/2025-09-05.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/6. Server Deploy - mật khẩu vào Server - Github.md",
     "3_Learning/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
     "1. DailyNote/2025-08-25.md",
@@ -271,7 +272,6 @@
     "3_Learning/3_AI_Engineering/Untitled 1",
     "3_Learning/4_MLOPs và Full Stack Docker/Untitled 2",
     "1.1 Đang Không Nghiên Cứu/2025 - 08 - 31 DOPAMINE 0- WANTING.md",
-    "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Chạy ngầm server.md",
     "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020822.png",
     "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020819.png",
     "1.1 Đang Không Nghiên Cứu/attachments",
