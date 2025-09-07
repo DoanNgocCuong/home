@@ -1,0 +1,79 @@
+@import 'tailwindcss';
+
+:root {
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .progress-bar {
+    @apply h-2.5 bg-gray-200 rounded-full overflow-hidden;
+  }
+  
+  .progress-fill {
+    @apply h-full rounded-full transition-all duration-300;
+  }
+  
+  .tag-pill {
+    @apply rounded-full px-2.5 py-0.5 text-xs inline-block mr-1.5 mb-1.5;
+  }
+
+  .task-animation {
+    animation: fadeIn 0.5s;
+  }
+
+  .level-up-animation {
+    animation: pulse 1s;
+  }
+
+  .notification-animation {
+    animation: slideIn 0.3s ease-out;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(88, 80, 236, 0.7);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.chart-container {
+  @apply h-[300px] mb-5;
+}
+
+@media print {
+  .no-print {
+    @apply hidden;
+  }
+}
