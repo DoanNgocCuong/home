@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Writing Tracker - Theo dõi toàn bộ bài viết</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1><i class="fas fa-search-plus"></i> Advanced Writing Tracker</h1>
+            <p>Theo dõi toàn bộ bài viết trong hệ thống</p>
+        </header>
+
+        <!-- Control Panel -->
+        <div class="control-panel">
+            <div class="scan-section">
+                <h2><i class="fas fa-folder-open"></i> Quét thư mục</h2>
+                <div class="scan-controls">
+                    <div class="path-input">
+                        <label for="scan-path">Đường dẫn thư mục:</label>
+                        <input type="text" id="scan-path" value="D:\vip_DOCUMENTS_OBS\home" placeholder="Nhập đường dẫn thư mục...">
+                        <button id="browse-btn" class="btn-secondary">
+                            <i class="fas fa-folder"></i> Duyệt
+                        </button>
+                    </div>
+                    <div class="scan-options">
+                        <label>
+                            <input type="checkbox" id="include-subfolders" checked>
+                            Bao gồm thư mục con
+                        </label>
+                        <label>
+                            <input type="checkbox" id="auto-refresh" checked>
+                            Tự động cập nhật
+                        </label>
+                    </div>
+                    <button id="scan-btn" class="btn-primary">
+                        <i class="fas fa-search"></i> Quét bài viết
+                    </button>
+                    <button id="refresh-btn" class="btn-secondary">
+                        <i class="fas fa-sync-alt"></i> Làm mới
+                    </button>
+                </div>
+                <div id="scan-status" class="scan-status"></div>
+            </div>
+        </div>
+
+        <!-- Stats Overview -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-file-alt"></i>
+                </div>
+                <div class="stat-content">
+                    <h3 id="total-articles">0</h3>
+                    <p>Tổng bài viết</p>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-fire"></i>
+                </div>
+                <div class="stat-content">
+                    <h3 id="current-streak">0</h3>
+                    <p>Streak hiện tại</p>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-trophy"></i>
+                </div>
+                <div class="stat-content">
+                    <h3 id="longest-streak">0</h3>
+                    <p>Streak dài nhất</p>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-calendar-week"></i>
+                </div>
+                <div class="stat-content">
+                    <h3 id="this-week">0</h3>
+                    <p>Tuần này</p>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-folder"></i>
+                </div>
+                <div class="stat-content">
+                    <h3 id="total-folders">0</h3>
+                    <p>Thư mục đã quét</p>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-clock"></i>
+                </div>
+                <div class="stat-content">
+                    <h3 id="last-scan">--:--</h3>
+                    <p>Lần quét cuối</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Filter and Search -->
+        <div class="filter-section">
+            <h2><i class="fas fa-filter"></i> Lọc và tìm kiếm</h2>
+            <div class="filter-controls">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="Tìm kiếm bài viết...">
+                    <i class="fas fa-search"></i>
+                </div>
+                <select id="category-filter">
+                    <option value="">Tất cả thể loại</option>
+                    <option value="technical">Kỹ thuật</option>
+                    <option value="personal">Cá nhân</option>
+                    <option value="business">Kinh doanh</option>
+                    <option value="education">Giáo dục</option>
+                    <option value="other">Khác</option>
+                </select>
+                <select id="date-filter">
+                    <option value="">Tất cả thời gian</option>
+                    <option value="today">Hôm nay</option>
+                    <option value="week">Tuần này</option>
+                    <option value="month">Tháng này</option>
+                    <option value="year">Năm nay</option>
+                </select>
+                <button id="clear-filters" class="btn-secondary">
+                    <i class="fas fa-times"></i> Xóa bộ lọc
+                </button>
+            </div>
+        </div>
+
+        <!-- Charts Section -->
+        <div class="charts-section">
+            <div class="chart-container">
+                <h3><i class="fas fa-chart-line"></i> Tiến độ theo tháng</h3>
+                <canvas id="monthly-chart"></canvas>
+            </div>
+            
+            <div class="chart-container">
+                <h3><i class="fas fa-chart-pie"></i> Phân bố theo thể loại</h3>
+                <canvas id="category-chart"></canvas>
+            </div>
+            
+            <div class="chart-container">
+                <h3><i class="fas fa-chart-bar"></i> Theo thư mục</h3>
+                <canvas id="folder-chart"></canvas>
+            </div>
+        </div>
+
+        <!-- Articles List -->
+        <div class="articles-section">
+            <div class="section-header">
+                <h2><i class="fas fa-list"></i> Danh sách bài viết</h2>
+                <div class="view-controls">
+                    <button id="grid-view" class="view-btn active">
+                        <i class="fas fa-th"></i> Lưới
+                    </button>
+                    <button id="list-view" class="view-btn">
+                        <i class="fas fa-list"></i> Danh sách
+                    </button>
+                    <select id="sort-by">
+                        <option value="date-desc">Ngày mới nhất</option>
+                        <option value="date-asc">Ngày cũ nhất</option>
+                        <option value="title-asc">Tên A-Z</option>
+                        <option value="title-desc">Tên Z-A</option>
+                        <option value="word-count-desc">Nhiều từ nhất</option>
+                        <option value="word-count-asc">Ít từ nhất</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div id="articles-container" class="articles-container grid-view">
+                <!-- Articles will be populated here -->
+            </div>
+            
+            <div id="pagination" class="pagination">
+                <!-- Pagination will be populated here -->
+            </div>
+        </div>
+
+        <!-- Export/Import Section -->
+        <div class="export-section">
+            <h2><i class="fas fa-download"></i> Xuất/Nhập dữ liệu</h2>
+            <div class="export-controls">
+                <button id="export-csv" class="btn-secondary">
+                    <i class="fas fa-file-csv"></i> Xuất CSV
+                </button>
+                <button id="export-json" class="btn-secondary">
+                    <i class="fas fa-file-code"></i> Xuất JSON
+                </button>
+                <button id="import-data" class="btn-secondary">
+                    <i class="fas fa-file-upload"></i> Nhập dữ liệu
+                </button>
+                <button id="clear-data" class="btn-danger">
+                    <i class="fas fa-trash"></i> Xóa tất cả
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div id="loading-overlay" class="loading-overlay">
+        <div class="loading-spinner">
+            <i class="fas fa-spinner fa-spin"></i>
+            <p>Đang quét bài viết...</p>
+        </div>
+    </div>
+
+    <!-- Article Detail Modal -->
+    <div id="article-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modal-title">Chi tiết bài viết</h3>
+                <button class="modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="modal-content">
+                    <!-- Article details will be populated here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
