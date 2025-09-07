@@ -468,9 +468,11 @@ def scan_folder_tree_recursive(folder_path: str, supported_extensions: set, max_
     # Tính toán metrics cho folder hiện tại
     xp = calculate_xp_from_articles(articles_count, total_words)
     level = calculate_level_from_xp(xp)
-    streak_days = calculate_streak_days(article_dates)
-    max_streak_days = calculate_max_historical_streak(article_dates)
-    total_days = calculate_total_days(article_dates)
+    # Ghi nhận ngày hoạt động của các file TRỰC TIẾP trong folder hiện tại
+    aggregated_dates = {
+        (d.date() if isinstance(d, datetime) else d)
+        for d in article_dates
+    }
     
     # Scan subfolders (recursive)
     children = {}
@@ -500,12 +502,28 @@ def scan_folder_tree_recursive(folder_path: str, supported_extensions: set, max_
                     # Aggregate totals including all descendants of the child
                     child_total_xp += child_data.get('totalXpWithChildren', child_data['xp'])
                     child_total_articles += child_data.get('totalArticlesWithChildren', child_data['taskCount'])
+                    # Gom ngày hoạt động từ child (đã được child tổng hợp)
+                    child_dates = child_data.get('_dates_set')
+                    if child_dates:
+                        aggregated_dates.update(child_dates)
                     child_max_level = max(child_max_level, child_data['level'])
                     
                     print(f"{'  ' * current_depth}  └── {item}: Level {child_data['level']}, XP {child_data['xp']}, Files {child_data['taskCount']}")
     except Exception as e:
         print(f"{'  ' * current_depth}❌ Lỗi khi scan subfolders của {folder_name}: {e}")
     
+    # TÍNH STREAK/GLOBAL-DAYS CHO TOÀN BỘ CÂY CỦA FOLDER NÀY
+    # - Streak của folder = streak của TỔNG hợp tất cả ngày hoạt động của chính folder + mọi folder con
+    if aggregated_dates:
+        streak_days = calculate_streak_days(list(aggregated_dates))
+        max_streak_days = calculate_max_historical_streak(list(aggregated_dates))
+        first_date = min(aggregated_dates)
+        total_days = (datetime.now().date() - first_date).days + 1
+    else:
+        streak_days = 0
+        max_streak_days = 0
+        total_days = 0
+
     # Tính total metrics (bao gồm cả children)
     total_xp_with_children = xp + child_total_xp
     total_articles_with_children = articles_count + child_total_articles
@@ -540,6 +558,9 @@ def scan_folder_tree_recursive(folder_path: str, supported_extensions: set, max_
         'color': get_domain_color(folder_name),
         'isLeaf': len(children) == 0,
     }
+    # LƯU Ý: _dates_set là internal để truyền ngược lên cha khi tính streak tổng hợp.
+    # Khi trả JSON ra API Tree, khóa này sẽ bị loại bỏ ở build_complete_folder_tree.
+    folder_data['_dates_set'] = aggregated_dates
     
     return folder_data
 
@@ -575,6 +596,12 @@ def build_complete_folder_tree(base_path: str, supported_extensions: set, specif
             folder_tree = scan_folder_tree_recursive(item_path, supported_extensions, max_depth=4)
             
             if folder_tree:
+                # Loại bỏ khóa nội bộ _dates_set khỏi toàn bộ cây trước khi trả kết quả
+                def strip_internal(node: Dict[str, Any]):
+                    node.pop('_dates_set', None)
+                    for child in node.get('children', {}).values():
+                        strip_internal(child)
+                strip_internal(folder_tree)
                 tree_data[item] = folder_tree
     
     return tree_data
