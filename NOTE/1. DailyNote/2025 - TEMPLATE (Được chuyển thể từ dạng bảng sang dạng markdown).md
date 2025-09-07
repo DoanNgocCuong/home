@@ -6,7 +6,7 @@ Link: [‌﻿‬​​​​⁠​​​​​﻿‬‌⁠⁠​﻿​​⁠​�
 
 ---
 
-## 1. TIMELINE (THEO GIỜ)
+# 1. TIMELINE (THEO GIỜ)
 
 | STT. Khung giờ (Dự kiến) | Thực tế | Kaizen | Check |
 | ------------------------ | ------- | ------ | ----- |
@@ -60,68 +60,18 @@ Link: [‌﻿‬​​​​⁠​​​​​﻿‬‌⁠⁠​﻿​​⁠​�
 | 24. 23h30 - 24h00        |         |        |       |
 
 ---
-
-## 2. 3O1T - OKRs
-
-```
-1000 Nghề:
-1. Objective – Mục tiêu tổng thể
-- Outcome VS Metrics: ...
-- Output, Tasks, Actions: ...
-
-2. Search:
-✅ Objective – Mục tiêu tổng thể
-- Outcome: ...
-- Output: ...
-- Tasks: ...
-```
+Rất hay 👌 Mình sẽ format lại nguyên khung này thành một **template Markdown MINI PROBLEM SOLVING** rõ ràng, dễ điền và vẫn giữ nguyên tất cả keywords mà bạn đã có:
 
 ---
 
-## 3. ✅ Objective – Objective cảm hứng và hướng mục tiêu dài hạn
 
----
-
-## 4. 🎯 Outcome – 📊 Metrics – 📦 Output – 🧩 Tasks/Actions
-
-- 🎯 Outcome: Là tác động, giá trị hoặc thay đổi tạo ra nhờ các output
-    
-- 📊 Metrics: tập trung đo outcome để đảm bảo nỗ lực có giá trị
-    
-- 📦 Output: sản phẩm, kết quả trực tiếp, checklist done
-    
-- 🧩 Tasks/Actions: việc cần làm cụ thể
-    
-
----
-
-## 5. Problem Solving Framework
-
-1. Vấn đề + Objective, Outcome, Metrics + Output – Key Results Output
-    
-2. Nguyên nhân + Dẫn chứng
-    
-3. Giải pháp + Dẫn chứng (Tasks, Actions)
-    
-4. Người khác recommend
-    
-
----
-
-## 6. Story-telling (Result → Situation → Think → Action → Results → Call to action)
-
----
-
-## 7. Mindset Notes
-
+# 2. Phân loại trọng tâm
 ```
 1. QUAN SÁT: Vấn đề/nỗi đau/cơ hội/việc tồn đọng => hệ quả?  
 2. PHÂN TÍCH: Tô đậm việc hội tụ nhân duyên, sẽ giải quyết trong ngày hôm nay.
+   
+Ẩn ngầm bên trong: Tham - Si:
 ```
-
----
-
-## 8. Phân loại trọng tâm
 
 - 1. TRÒ CHƠI TÂM TRÍ
         
@@ -131,16 +81,6 @@ Link: [‌﻿‬​​​​⁠​​​​​﻿‬‌⁠⁠​﻿​​⁠​�
         
 - 4. SỨC KHOẺ
         
-
----
-
-## 9. ẨN NGẦM BÊN TRONG
-
-```
-Tham:  
-Si:
-```
-
 ---
 
 ## 10. Habit Tracking
@@ -163,13 +103,81 @@ Si:
     
 
 ---
+# 3. SỬ DỤNG TRONG NGÀY MINI PROBLEM SOLVING
 
-## 12. SUMMARY DAY
+---
+
+## 3.1. 3O1T – OKRs
+
+### ✅ Objective
+
+- Objective cảm hứng và hướng mục tiêu dài hạn
+    
+
+### 🎯 Outcome
+
+- Là _tác động_, _giá trị_ hoặc _thay đổi_ tạo ra nhờ các output
+    
+- 📊 **Metrics**: tập trung đo **outcome** để đảm bảo nỗ lực của bạn thực sự có giá trị
+    
+- **Why? – Đánh giá ưu tiên**
+    
+    - Mentor đánh giá?
+        
+    - Impact (Làm thì sao, không làm thì sao)
+        
+    - Time (có gấp không)
+        
+    - Risk (Tệ nhất là gì? giảm cái tệ đi được?)
+        
+
+### 📦 Output
+
+- Là _sản phẩm_, _kết quả trực tiếp_ của công việc
+    
+- ✔ **Define to Done**: checklist
+    
+- Key Results 1, 2, 3 cụ thể, đo lường được
+    
+
+### 🧩 Tasks – 🧩 Actions
+
+- …
+    
+
+---
+
+## 3.2 REPORT
+
+1. Vấn đề + Objective, Outcome, Metrics + Output – Key Results Output
+    
+2. Nguyên nhân + Dẫn chứng
+    
+3. Giải pháp + Dẫn chứng (Tasks, Actions)
+    
+4. Người khác recommend
+    
+
+---
+
+## 3.3. STORY TELLING
+
+- **Result (Hook):** Ở đây có ai muốn đạt được điều gì đó
+    
+- **Situation**
+    
+- **Think:** Nghĩ, cảm thấy (Feel), vì sao đặt câu hỏi phản biện (Nếu…) – 80-20
+    
+- **Action**
+    
+- **Results**
+    
+- **Call to action**
+    
+
+---
+# 4. SUMMARY DAY
 
 ✅ …  
 ⚠️ …  
 💡 …
-
----
-
-Bạn có muốn mình chuyển template này thành **file Excel kẻ sẵn cột + dòng** (như log ban đầu của bạn) để tiện thao tác, hay giữ nguyên dạng **Markdown/Text** để copy sang note?

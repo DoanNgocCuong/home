@@ -1,4 +1,5 @@
 {
   "folder": "NOTE/1. DailyNote",
-  "autorun": true
+  "autorun": true,
+  "template": "NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown)"
 }
