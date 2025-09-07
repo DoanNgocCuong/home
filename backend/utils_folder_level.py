@@ -494,7 +494,8 @@ def scan_folder_tree_recursive(folder_path: str, supported_extensions: set, max_
                     current_depth + 1
                 )
                 
-                if child_data and (child_data['taskCount'] > 0 or child_data.get('children')):
+                # Luôn giữ child vào tree, kể cả khi chưa có file hợp lệ
+                if child_data:
                     children[item] = child_data
                     child_total_xp += child_data['xp']
                     child_total_articles += child_data['taskCount']
