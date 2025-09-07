@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { TreeNodeData } from '../services/domainService';
+import { calculateXPProgress } from '../utils/xpCalculator';
 
 interface TreeNodeProps {
   node: TreeNodeData;
@@ -56,6 +57,9 @@ const TreeNode = ({ node, depth, isLast = false, maxDepth = 2 }: TreeNodeProps) 
   //   }
   // };
 
+  // Tính tiến độ XP tới level tiếp theo (dựa trên XP của chính node)
+  const progress = calculateXPProgress(node.xp, node.streakDays || 0);
+
   return (
     <div className="select-none">
       {/* Current Node */}
@@ -101,8 +105,8 @@ const TreeNode = ({ node, depth, isLast = false, maxDepth = 2 }: TreeNodeProps) 
                  <span className="text-xs text-gray-400 bg-gray-200 px-1 rounded">
                    D{depth}
                  </span>
-                 <span className={`px-1.5 py-0.5 rounded text-xs font-medium ${getLevelColor(node.level)}`}>
-                   L{node.level}
+                 <span className={`px-1.5 py-0.5 rounded text-xs font-medium ${getLevelColor(progress.level)}`}>
+                   L{progress.level}
                  </span>
                  {node.hasChildren && node.maxLevelInTree > node.level && (
                    <span className="text-xs text-gray-500">
@@ -138,6 +142,31 @@ const TreeNode = ({ node, depth, isLast = false, maxDepth = 2 }: TreeNodeProps) 
                 <span title={`Total days since first activity: ${node.totalDays} days`}>
                   📅 {node.totalDays}d
                 </span>
+              </div>
+            </div>
+
+            {/* XP Progress tới level tiếp theo */}
+            <div className="mt-1">
+              <div className="flex justify-between text-[10px] text-gray-500 mb-1">
+                <span>XP: {node.xp.toLocaleString()}</span>
+                <span>
+                  {progress.currentXP}/{progress.requiredXP}
+                </span>
+              </div>
+              <div className="w-full bg-gray-200 rounded-full h-1.5">
+                <div
+                  className="h-1.5 rounded-full transition-all duration-300"
+                  style={{ width: `${progress.percentage}%`, backgroundColor: node.color }}
+                />
+              </div>
+              {/* ETA tới level tiếp theo (ước lượng theo XP/ngày lịch sử) */}
+              <div className="mt-1 flex justify-end text-[10px] text-gray-500">
+                {(() => {
+                  const xpPerDay = Math.max(1, Math.floor(node.xp / Math.max(1, node.totalDays)));
+                  const remaining = Math.max(0, progress.requiredXP - progress.currentXP);
+                  const etaDays = Math.ceil(remaining / xpPerDay);
+                  return <span>~{etaDays}d to next level</span>;
+                })()}
               </div>
             </div>
             

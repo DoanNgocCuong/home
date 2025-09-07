@@ -82,7 +82,9 @@ const TaskManager = () => {
       {/* Top Section: Task Form + Quick Stats */}
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
         <div className="lg:col-span-1">
-          <TaskForm onSubmit={handleAddTask} />
+          <div className="min-h-[520px]">{/* Increase TaskForm vertical space */}
+            <TaskForm onSubmit={handleAddTask} />
+          </div>
         </div>
         <div className="lg:col-span-3">
           {/* Tab Navigation */}
@@ -117,7 +119,7 @@ const TaskManager = () => {
               {activeTab === 'overview' ? (
                 <TagLevels tags={tags} />
               ) : (
-                <div className="max-h-[500px] overflow-y-auto">
+                <div className="max-h-[720px] overflow-y-auto">{/* Increase TreeView height */}
                   <TreeView className="shadow-none border-0" />
                 </div>
               )}
@@ -127,12 +129,14 @@ const TaskManager = () => {
       </div>
 
       {/* Tasks Section */}
-      <TaskList
-        tasks={tasks}
-        currentDate={currentDate}
-        onDeleteTask={handleDeleteTask}
-        onDateChange={handleDateChange}
-      />
+      <div className="mt-8">{/* Push TaskList a bit lower */}
+        <TaskList
+          tasks={tasks}
+          currentDate={currentDate}
+          onDeleteTask={handleDeleteTask}
+          onDateChange={handleDateChange}
+        />
+      </div>
 
       {/* Analytics Section */}
       <div className="grid grid-cols-1 xl:grid-cols-2 gap-6">

@@ -20,8 +20,8 @@ PHIÊN BẢN: 1.0.0
 ================================================================================
 """
 
-from datetime import datetime, timedelta
-from typing import List, Union
+from datetime import datetime, timedelta, date
+from typing import List, Union, Iterable, Dict, Optional
 
 
 def calculate_streak_days(article_dates: List[Union[datetime, str]]) -> int:
@@ -329,3 +329,130 @@ def calculate_total_days(article_dates: List[Union[datetime, str]]) -> int:
     total_days = (current_date - first_date).days + 1  # +1 để bao gồm cả ngày đầu
     
     return max(1, total_days)  # Ít nhất là 1 ngày
+
+
+# ============================================================================
+#                           GITHUB-LIKE GLOBAL STREAK
+# ============================================================================
+
+def _parse_to_date(value: Union[datetime, date, str]) -> date:
+    """
+    Chuẩn hoá input về kiểu date.
+    - datetime/date: trả về .date() nếu cần
+    - str: chấp nhận ISO 'YYYY-MM-DD' hoặc 'YYYY/MM/DD'
+    """
+    if isinstance(value, datetime):
+        return value.date()
+    if isinstance(value, date):
+        return value
+    if isinstance(value, str):
+        # Thử ISO trước
+        try:
+            return datetime.fromisoformat(value).date()
+        except ValueError:
+            pass
+        # Thử một format phổ biến khác
+        try:
+            return datetime.strptime(value, "%Y/%m/%d").date()
+        except ValueError as exc:
+            raise ValueError(f"Invalid date string: {value}") from exc
+    raise TypeError(f"Unsupported date type: {type(value)}")
+
+
+def _normalize_date_list(dates: Iterable[Union[datetime, date, str]]) -> List[date]:
+    """Convert iterable về danh sách date đã được deduplicate."""
+    if not dates:
+        return []
+    return sorted({ _parse_to_date(d) for d in dates })
+
+
+def _count_by_date(dates: Iterable[Union[datetime, date, str]]) -> Dict[date, int]:
+    """Đếm số lần đóng góp theo ngày (phục vụ calendar)."""
+    counter: Dict[date, int] = {}
+    for d in dates or []:
+        dd = _parse_to_date(d)
+        counter[dd] = counter.get(dd, 0) + 1
+    return counter
+
+
+def calculate_github_like_streak(
+    contribution_dates: List[Union[datetime, date, str]],
+    *,
+    require_today: bool = True,
+    now: Optional[date] = None,
+) -> dict:
+    """
+    Tính "streak kiểu GitHub" trên toàn bộ hoạt động (tất cả projects).
+
+    - current: số ngày liên tiếp kết thúc ở HÔM NAY (nếu require_today=True).
+      Nếu hôm nay không có đóng góp → current = 0.
+    - max: streak dài nhất trong lịch sử (không cần kết thúc hôm nay).
+    - last_active_date: ngày gần nhất có đóng góp.
+
+    Args:
+        contribution_dates: list ngày có hoạt động.
+        require_today: GitHub-style yêu cầu có hoạt động hôm nay để nối streak.
+        now: override ngày hiện tại (testing).
+
+    Returns:
+        dict: { 'current': int, 'max': int, 'last_active_date': 'YYYY-MM-DD' | None }
+    """
+    unique_dates = set(_normalize_date_list(contribution_dates))
+    if not unique_dates:
+        return { 'current': 0, 'max': 0, 'last_active_date': None }
+
+    today = now or datetime.now().date()
+
+    # Tính current streak (GitHub: phải có hôm nay nếu require_today)
+    current_streak = 0
+    cursor = today
+    if not require_today and cursor not in unique_dates:
+        # Cho phép bắt đầu từ ngày gần nhất có đóng góp
+        cursor = max(d for d in unique_dates if d <= cursor)
+
+    if (cursor in unique_dates) or (not require_today and cursor not in unique_dates):
+        # Nếu require_today=True mà hôm nay không có → current = 0
+        if require_today and today not in unique_dates:
+            current_streak = 0
+        else:
+            # Đếm lùi đến khi gặp gap
+            current_streak = 0
+            min_date = min(unique_dates)
+            while cursor >= min_date and cursor in unique_dates:
+                current_streak += 1
+                cursor = cursor - timedelta(days=1)
+
+    # Max streak dùng thuật toán đã có
+    max_streak = calculate_max_historical_streak(list(unique_dates))
+
+    last_active_date = max(unique_dates)
+
+    return {
+        'current': int(current_streak),
+        'max': int(max_streak),
+        'last_active_date': last_active_date.isoformat() if last_active_date else None,
+    }
+
+
+def build_contribution_calendar(
+    contribution_dates: List[Union[datetime, date, str]],
+    *,
+    days: int = 365,
+    now: Optional[date] = None,
+) -> List[dict]:
+    """
+    Tạo dữ liệu calendar kiểu GitHub cho N ngày gần nhất.
+
+    Returns danh sách theo thứ tự thời gian tăng dần:
+        [{ 'date': 'YYYY-MM-DD', 'count': number }, ...]
+    """
+    today = now or datetime.now().date()
+    counts = _count_by_date(contribution_dates)
+
+    start = today - timedelta(days=days - 1)
+    result: List[dict] = []
+    d = start
+    while d <= today:
+        result.append({ 'date': d.isoformat(), 'count': int(counts.get(d, 0)) })
+        d = d + timedelta(days=1)
+    return result

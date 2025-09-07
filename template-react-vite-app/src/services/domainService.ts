@@ -67,6 +67,18 @@ export interface TreeResponse {
   supported_extensions: string[];
 }
 
+export interface GlobalStreakResponse {
+  success: boolean;
+  streak: { current: number; max: number; last_active_date: string | null };
+}
+
+export interface ContributionDay { date: string; count: number }
+export interface ContributionCalendarResponse {
+  success: boolean;
+  days: number;
+  calendar: ContributionDay[];
+}
+
 /**
  * Fetch all domains from backend
  */
@@ -162,6 +174,20 @@ export const fetchDetailedDomains = async (): Promise<any> => {
     console.error('Error fetching detailed domains:', error);
     throw error;
   }
+};
+
+/** Fetch global streak */
+export const fetchGlobalStreak = async (): Promise<GlobalStreakResponse> => {
+  const response = await fetch(`${API_BASE_URL}/api/streak/global`);
+  if (!response.ok) throw new Error(`HTTP error ${response.status}`);
+  return response.json();
+};
+
+/** Fetch contribution calendar */
+export const fetchContributionCalendar = async (days = 180): Promise<ContributionCalendarResponse> => {
+  const response = await fetch(`${API_BASE_URL}/api/streak/calendar?days=${days}`);
+  if (!response.ok) throw new Error(`HTTP error ${response.status}`);
+  return response.json();
 };
 
 /**

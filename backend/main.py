@@ -60,7 +60,7 @@ from pathlib import Path
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from typing import Dict, Any, Optional
+from typing import Dict, Any, Optional, List
 import re
 
 # Import utilities từ module riêng
@@ -77,6 +77,10 @@ from utils_folder_level import (
     get_top_subfolders_by_level,
     build_complete_folder_tree,
     format_tree_display
+)
+from utils_streak import (
+    calculate_github_like_streak,
+    build_contribution_calendar,
 )
 
 app = FastAPI(
@@ -183,6 +187,40 @@ def scan_all_domains():
                 }
     
     return domains
+
+def _collect_all_contribution_dates() -> List[datetime]:
+    """Thu thập tất cả ngày đóng góp (thời gian tạo file) trên toàn hệ thống.
+    Chỉ tính các file có phần mở rộng được hỗ trợ, trong các thư mục như scan_all_domains().
+    """
+    contribution_dates: List[datetime] = []
+    if not os.path.exists(DATA_SCIENCE_PATH):
+        return contribution_dates
+
+    specific_folders = [
+        "0. NHẤT HƯỚNG",
+        "DATA SCIENCE AND AI"
+    ]
+
+    for item in os.listdir(DATA_SCIENCE_PATH):
+        item_path = os.path.join(DATA_SCIENCE_PATH, item)
+
+        if not os.path.isdir(item_path):
+            continue
+
+        # Chỉ lấy các folder Domain* hoặc specific_folders
+        if not (item.startswith('Domain') or item in specific_folders):
+            continue
+
+        for root, dirs, files in os.walk(item_path):
+            for file in files:
+                ext = Path(file).suffix.lower()
+                if ext in SUPPORTED_EXTENSIONS:
+                    try:
+                        stat_info = os.stat(os.path.join(root, file))
+                        contribution_dates.append(datetime.fromtimestamp(stat_info.st_ctime))
+                    except Exception:
+                        continue
+    return contribution_dates
 
 @app.get("/")
 async def root():
@@ -296,6 +334,26 @@ async def get_detailed_domains():
         
         return detailed_response
         
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+# New: Global streak and contribution calendar endpoints
+@app.get("/api/streak/global")
+async def get_global_streak():
+    try:
+        dates = _collect_all_contribution_dates()
+        result = calculate_github_like_streak(dates, require_today=True)
+        return { 'success': True, 'streak': result }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/api/streak/calendar")
+async def get_contribution_calendar(days: int = 365):
+    try:
+        dates = _collect_all_contribution_dates()
+        calendar = build_contribution_calendar(dates, days=days)
+        return { 'success': True, 'days': days, 'calendar': calendar }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 

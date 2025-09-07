@@ -232,13 +232,12 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "de333728293ea4d4",
   "lastOpenFiles": [
+    "template-react-vite-app/src/components/GlobalStreak.tsx",
     "template-react-vite-app/readLevel_v1.2_LaiKep_GenSpark_Cuong.md",
     "template-react-vite-app/node_modules/tailwindcss/dist/types-BTRmm49E.d.mts",
     "template-react-vite-app/node_modules/tailwindcss/dist/resolve-config-QUZ9b-Gn.d.mts",
@@ -279,7 +278,6 @@
     "template-react-vite-app/node_modules/which-builtin-type/CHANGELOG.md",
     "template-react-vite-app/node_modules/which-boxed-primitive/README.md",
     "template-react-vite-app/node_modules/which-boxed-primitive/CHANGELOG.md",
-    "template-react-vite-app/node_modules/vite-plugin-eslint2/README.zh-CN.md",
     "template-react-vite-app/node_modules/@fortawesome/fontawesome-free/svgs/solid/z.svg",
     "template-react-vite-app/node_modules/@fortawesome/fontawesome-free/svgs/solid/yin-yang.svg",
     "template-react-vite-app/node_modules/@fortawesome/fontawesome-free/svgs/solid/yen-sign.svg",
