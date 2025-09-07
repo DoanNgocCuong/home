@@ -11,8 +11,6 @@ from datetime import datetime
 from pathlib import Path
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
 from pydantic import BaseModel
 from typing import Dict, Any, Optional
 import re
@@ -226,10 +224,19 @@ def scan_all_domains():
     
     return domains
 
-@app.get("/", response_class=FileResponse)
+@app.get("/")
 async def root():
-    """Serve static files"""
-    return FileResponse("index.html")
+    """API root endpoint"""
+    return {
+        "message": "Domain Progress Tracker API",
+        "version": "1.0.0",
+        "docs": "/docs",
+        "endpoints": {
+            "domains": "/api/domains",
+            "refresh": "/api/domains/refresh", 
+            "stats": "/api/domains/stats"
+        }
+    }
 
 @app.get("/api/domains", response_model=DomainsResponse)
 async def get_domains():

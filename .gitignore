@@ -67,3 +67,5 @@ out/
 .smart-env/smart_env.json
 
 DATA SCIENCE AND AI/3_Learning/3_AI_Engineering/0. AIO/venv/
+
+backend/__pycache__/
