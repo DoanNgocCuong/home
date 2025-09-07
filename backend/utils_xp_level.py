@@ -34,7 +34,8 @@ from typing import Dict, Tuple
 BASE_XP_PER_ARTICLE = 100    # Điểm XP cơ bản cho mỗi bài viết
 WORDS_PER_XP = 10            # Số từ để đạt 1 XP bonus
 MIN_WORD_BONUS = 0           # XP bonus tối thiểu từ word count
-MAX_WORD_BONUS_PER_ARTICLE = 0  # 0 = no cap, giữ nguyên công thức cũ (words//10)
+WORD_BONUS_NO_CAP = "NO CAP"  # Chế độ không giới hạn bonus theo từ
+MAX_WORD_BONUS_PER_ARTICLE = WORD_BONUS_NO_CAP  # Dùng "NO CAP" để không giới hạn
 
 # Level Configuration  
 BASE_LEVEL_XP = 1000         # XP cần thiết cho Level 1
@@ -57,6 +58,7 @@ def calculate_xp_from_articles(articles_count: int, total_words: int) -> int:
     
     GIỚI HẠN:
         - Word bonus tối đa: MAX_WORD_BONUS_PER_ARTICLE × articles_count
+        - NO CAP mode: Nếu MAX_WORD_BONUS_PER_ARTICLE = "NO CAP" thì bỏ qua giới hạn
         - Đảm bảo không có negative XP
     
     Args:
@@ -84,8 +86,10 @@ def calculate_xp_from_articles(articles_count: int, total_words: int) -> int:
     word_bonus = total_words // WORDS_PER_XP
     
     # Apply maximum word bonus limit if configured
-    if MAX_WORD_BONUS_PER_ARTICLE > 0 and articles_count > 0:
-        max_allowed_bonus = MAX_WORD_BONUS_PER_ARTICLE * articles_count
+    # - Khi MAX_WORD_BONUS_PER_ARTICLE == "NO CAP" → KHÔNG áp dụng giới hạn
+    # - Khi là số nguyên → giới hạn = MAX_WORD_BONUS_PER_ARTICLE × articles_count
+    if MAX_WORD_BONUS_PER_ARTICLE != WORD_BONUS_NO_CAP and articles_count > 0:
+        max_allowed_bonus = int(MAX_WORD_BONUS_PER_ARTICLE) * articles_count
         word_bonus = min(word_bonus, max_allowed_bonus)
     
     # Apply minimum word bonus
