@@ -58,7 +58,9 @@ def calculate_xp_from_articles(articles_count: int, total_words: int) -> int:
     
     GIỚI HẠN:
         - Word bonus tối đa: MAX_WORD_BONUS_PER_ARTICLE × articles_count
-        - NO CAP mode: Nếu MAX_WORD_BONUS_PER_ARTICLE = "NO CAP" thì bỏ qua giới hạn
+        - "NO CAP" mode: đặt MAX_WORD_BONUS_PER_ARTICLE = "NO CAP" để bỏ giới hạn.
+          Lý do: tự mô tả (self-documenting), giữ nguyên công thức cũ (words//10),
+          và phù hợp vibe gamification. 
         - Đảm bảo không có negative XP
     
     Args:
@@ -85,9 +87,7 @@ def calculate_xp_from_articles(articles_count: int, total_words: int) -> int:
     # Calculate bonus XP from word count
     word_bonus = total_words // WORDS_PER_XP
     
-    # Apply maximum word bonus limit if configured
-    # - Khi MAX_WORD_BONUS_PER_ARTICLE == "NO CAP" → KHÔNG áp dụng giới hạn
-    # - Khi là số nguyên → giới hạn = MAX_WORD_BONUS_PER_ARTICLE × articles_count
+    # Apply maximum word bonus limit if configured (skip when NO CAP)
     if MAX_WORD_BONUS_PER_ARTICLE != WORD_BONUS_NO_CAP and articles_count > 0:
         max_allowed_bonus = int(MAX_WORD_BONUS_PER_ARTICLE) * articles_count
         word_bonus = min(word_bonus, max_allowed_bonus)
