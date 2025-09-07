@@ -11,12 +11,18 @@ type StreakData = {
   last_active_date: string | null;
 };
 
-const dayToIntensity = (count: number) => {
-  if (count >= 10) return 'bg-green-700';
-  if (count >= 5) return 'bg-green-600';
-  if (count >= 2) return 'bg-green-500';
-  if (count >= 1) return 'bg-green-300';
-  return 'bg-gray-200';
+// Sizing controls
+const CELL_SIZE = 14; // px (increase to make bigger)
+const CELL_GAP = 3; // px
+const FONT_SM = 'text-sm';
+const LABEL_COL_WIDTH = 48; // px for weekday labels column
+
+const dayToColor = (count: number) => {
+  if (count >= 10) return '#166534'; // green-800
+  if (count >= 5) return '#15803d'; // green-700
+  if (count >= 2) return '#16a34a'; // green-600
+  if (count >= 1) return '#86efac'; // green-300
+  return '#e5e7eb'; // gray-200
 };
 
 const GlobalStreak = () => {
@@ -35,7 +41,7 @@ const GlobalStreak = () => {
         setLoading(true);
         const [s, c] = await Promise.all([
           fetchGlobalStreak(),
-          fetchContributionCalendar(180),
+          fetchContributionCalendar(366),
         ]);
         if (!mounted) return;
         setStreak(s.streak);
@@ -52,28 +58,21 @@ const GlobalStreak = () => {
     };
   }, []);
 
-  // Build a year grid similar to GitHub contributions
-  const { weeks, monthLabels } = useMemo(() => {
+  const { weeks, monthSegments } = useMemo(() => {
     const start = new Date(year, 0, 1);
     const end = new Date(year, 11, 31);
-
-    // Start from the Monday of the first week (for nice alignment)
-    const dayOfWeek = (start.getDay() + 6) % 7; // convert Sun(0)→6, Mon(1)→0
+    const dayOfWeek = (start.getDay() + 6) % 7; // Monday=0
     const gridStart = new Date(start);
     gridStart.setDate(start.getDate() - dayOfWeek);
 
-    // Index calendar by date string
     const map = new Map<string, number>();
-    for (const item of calendar) {
-      map.set(item.date, item.count);
-    }
+    for (const item of calendar) map.set(item.date, item.count);
 
     const weeksArr: Array<Array<{ date: string; count: number; inYear: boolean }>> = [];
-    const months: string[] = [];
+    const monthOfWeek: Array<string | null> = [];
 
     let cursor = new Date(gridStart);
     while (cursor <= end || cursor.getDay() !== 0) {
-      // Build one column (week)
       const col: Array<{ date: string; count: number; inYear: boolean }> = [];
       for (let i = 0; i < 7; i++) {
         const iso = cursor.toISOString().slice(0, 10);
@@ -81,29 +80,32 @@ const GlobalStreak = () => {
         col.push({ date: iso, count: map.get(iso) || 0, inYear });
         cursor.setDate(cursor.getDate() + 1);
       }
-      // Month label at first day-of-month inside the year
-      const firstInYear = col.find((c) => c.inYear);
-      if (firstInYear) {
-        const dt = new Date(firstInYear.date);
+      const rep = col.find((c, idx) => c.inYear && idx === 3) || col.find((c) => c.inYear);
+      if (rep) {
+        const dt = new Date(rep.date);
         const label = dt.toLocaleString('default', { month: 'short' });
-        if (months.length === 0 || months[months.length - 1] !== label) {
-          months.push(label);
-        } else {
-          months.push('');
-        }
+        monthOfWeek.push(label);
       } else {
-        months.push('');
+        monthOfWeek.push(null);
       }
       weeksArr.push(col);
-      // Stop when we have passed the end of year and completed the last week column fully outside the year
       if (cursor > end && weeksArr[weeksArr.length - 1].every((c) => !c.inYear)) break;
     }
-
-    return { weeks: weeksArr, monthLabels: months };
+    const segments: Array<{ label: string; span: number }> = [];
+    for (let i = 0; i < monthOfWeek.length; i++) {
+      const label = monthOfWeek[i];
+      if (!label) continue;
+      if (segments.length === 0 || segments[segments.length - 1].label !== label) {
+        segments.push({ label, span: 1 });
+      } else {
+        segments[segments.length - 1].span += 1;
+      }
+    }
+    return { weeks: weeksArr, monthSegments: segments };
   }, [calendar, year]);
 
   return (
-    <div className="bg-white rounded-lg shadow-md p-4">
+    <div className="bg-white rounded-lg shadow-md p-5">
       <div className="flex items-center justify-between mb-4">
         <h3 className="text-lg font-semibold">Working Streak</h3>
         <div className="flex items-center space-x-4">
@@ -130,37 +132,50 @@ const GlobalStreak = () => {
 
       {!loading && !error && (
         <div className="overflow-x-auto">
-          {/* Months header */}
-          <div className="flex ml-10 mb-1 text-xs text-gray-500 select-none">
-            {monthLabels.map((m, i) => (
-              <div key={i} className="w-4 text-center">
-                {m}
+          {/* Month header - spans equal to number of week columns in month */}
+          <div
+            className={`flex mb-2 ${FONT_SM} text-gray-600 select-none`}
+            style={{ marginLeft: LABEL_COL_WIDTH }}
+          >
+            {monthSegments.map((seg, i) => (
+              <div
+                key={`${seg.label}-${i}`}
+                className="text-center"
+                style={{ width: seg.span * (CELL_SIZE + CELL_GAP) }}
+              >
+                {seg.label}
               </div>
             ))}
           </div>
 
           <div className="flex">
             {/* Weekday labels */}
-            <div className="mr-2 text-xs text-gray-500 select-none">
-              <div className="h-4" />
-              <div className="h-4">Mon</div>
-              <div className="h-4" />
-              <div className="h-4">Wed</div>
-              <div className="h-4" />
-              <div className="h-4">Fri</div>
-              <div className="h-4" />
-              <div className="h-4">Sun</div>
+            <div
+              className={`mr-3 ${FONT_SM} text-gray-600 select-none`}
+              style={{ lineHeight: `${CELL_SIZE + CELL_GAP}px`, width: LABEL_COL_WIDTH }}
+            >
+              {['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'].map((d) => (
+                <div key={d} style={{ height: CELL_SIZE + CELL_GAP }}>{d}</div>
+              ))}
             </div>
 
             {/* Grid */}
-            <div className="flex space-x-1">
+            <div style={{ display: 'flex', columnGap: CELL_GAP }}>
               {weeks.map((week, wi) => (
-                <div key={wi} className="flex flex-col space-y-1">
+                <div
+                  key={wi}
+                  style={{ display: 'flex', flexDirection: 'column', rowGap: CELL_GAP }}
+                >
                   {week.map((cell, di) => (
                     <div
                       key={di}
-                      className={`w-3 h-3 rounded ${cell.inYear ? dayToIntensity(cell.count) : 'bg-transparent'}`}
                       title={`${cell.date}: ${cell.count}`}
+                      style={{
+                        width: CELL_SIZE,
+                        height: CELL_SIZE,
+                        borderRadius: 3,
+                        backgroundColor: cell.inYear ? dayToColor(cell.count) : 'transparent',
+                      }}
                     />
                   ))}
                 </div>
@@ -169,18 +184,25 @@ const GlobalStreak = () => {
           </div>
 
           {/* Legend */}
-          <div className="flex items-center justify-end mt-3 text-xs text-gray-600">
+          <div className={`flex items-center justify-end mt-3 ${FONT_SM} text-gray-600`}>
             <span className="mr-2">Less</span>
-            <span className="w-3 h-3 rounded bg-gray-200 mr-1" />
-            <span className="w-3 h-3 rounded bg-green-300 mr-1" />
-            <span className="w-3 h-3 rounded bg-green-500 mr-1" />
-            <span className="w-3 h-3 rounded bg-green-700 mr-2" />
+            {[0, 1, 3, 6, 10].map((n) => (
+              <span
+                key={n}
+                style={{
+                  width: CELL_SIZE,
+                  height: CELL_SIZE,
+                  borderRadius: 3,
+                  backgroundColor: dayToColor(n),
+                  marginRight: 4,
+                }}
+              />
+            ))}
             <span>More</span>
           </div>
         </div>
       )}
 
-      {/* Stats footer */}
       {streak && (
         <div className="mt-4 flex items-center justify-between text-sm">
           <div>
