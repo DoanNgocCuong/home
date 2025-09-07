@@ -11,6 +11,7 @@ import TreeView from '../components/TreeView';
 import Charts from '../components/Charts';
 import ExperienceOverview from '../components/ExperienceOverview';
 import Notification from '../components/Notification';
+import GlobalStreak from '../components/GlobalStreak';
 
 const selectTasks = createSelector(
   (state: RootState) => state.tasks,
@@ -117,7 +118,10 @@ const TaskManager = () => {
             {/* Tab Content */}
             <div className={activeTab === 'overview' ? 'p-6' : 'p-0'}>
               {activeTab === 'overview' ? (
-                <TagLevels tags={tags} />
+                <div className="space-y-6">
+                  <GlobalStreak />
+                  <TagLevels tags={tags} />
+                </div>
               ) : (
                 <div className="max-h-[720px] overflow-y-auto">{/* Increase TreeView height */}
                   <TreeView className="shadow-none border-0" />

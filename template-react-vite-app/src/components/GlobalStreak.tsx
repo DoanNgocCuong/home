@@ -1,64 +1,64 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react';
 import {
   ContributionCalendarResponse,
   fetchContributionCalendar,
   fetchGlobalStreak,
-} from '../services/domainService'
+} from '../services/domainService';
 
 type StreakData = {
-  current: number
-  max: number
-  last_active_date: string | null
-}
+  current: number;
+  max: number;
+  last_active_date: string | null;
+};
 
 const dayToIntensity = (count: number) => {
-  if (count >= 10) return 'bg-green-700'
-  if (count >= 5) return 'bg-green-600'
-  if (count >= 2) return 'bg-green-500'
-  if (count >= 1) return 'bg-green-300'
-  return 'bg-gray-200'
-}
+  if (count >= 10) return 'bg-green-700';
+  if (count >= 5) return 'bg-green-600';
+  if (count >= 2) return 'bg-green-500';
+  if (count >= 1) return 'bg-green-300';
+  return 'bg-gray-200';
+};
 
 const GlobalStreak = () => {
-  const [streak, setStreak] = useState<StreakData | null>(null)
+  const [streak, setStreak] = useState<StreakData | null>(null);
   const [calendar, setCalendar] = useState<
     ContributionCalendarResponse['calendar']
-  >([])
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState<string | null>(null)
+  >([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    let mounted = true
-    ;(async () => {
+    let mounted = true;
+    (async () => {
       try {
-        setLoading(true)
+        setLoading(true);
         const [s, c] = await Promise.all([
           fetchGlobalStreak(),
           fetchContributionCalendar(180),
-        ])
-        if (!mounted) return
-        setStreak(s.streak)
-        setCalendar(c.calendar)
+        ]);
+        if (!mounted) return;
+        setStreak(s.streak);
+        setCalendar(c.calendar);
       } catch (e: unknown) {
-        const message = e instanceof Error ? e.message : 'Failed to load streak'
-        setError(message)
+        const message = e instanceof Error ? e.message : 'Failed to load streak';
+        setError(message);
       } finally {
-        setLoading(false)
+        setLoading(false);
       }
-    })()
+    })();
     return () => {
-      mounted = false
-    }
-  }, [])
+      mounted = false;
+    };
+  }, []);
 
   const weeks = useMemo(() => {
-    const cells = calendar.map((d) => ({ date: d.date, count: d.count }))
-    const chunks: Array<typeof cells> = []
+    const cells = calendar.map((d) => ({ date: d.date, count: d.count }));
+    const chunks: Array<typeof cells> = [];
     for (let i = 0; i < cells.length; i += 7) {
-      chunks.push(cells.slice(i, i + 7))
+      chunks.push(cells.slice(i, i + 7));
     }
-    return chunks
-  }, [calendar])
+    return chunks;
+  }, [calendar]);
 
   return (
     <div className="bg-white rounded-lg shadow-md p-4">
@@ -101,9 +101,9 @@ const GlobalStreak = () => {
         </div>
       )}
     </div>
-  )
-}
+  );
+};
 
-export default GlobalStreak
+export default GlobalStreak;
 
 
