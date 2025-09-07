@@ -55,7 +55,7 @@ PHIÊN BẢN: 1.0.0
 
 import os
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -267,21 +267,33 @@ def calculate_streak_days(article_dates):
         calculate_streak_days(dates) -> 2 (hôm nay + hôm qua)
     """
     if not article_dates:
+        print("🔥 STREAK DEBUG: Không có article_dates")
         return 0
     
     # Sắp xếp ngày giảm dần
     sorted_dates = sorted(article_dates, reverse=True)
+    print(f"🔥 STREAK DEBUG: Số bài viết: {len(article_dates)}")
+    print(f"🔥 STREAK DEBUG: Ngày bài viết: {[d.date() for d in sorted_dates[:5]]}")  # Hiển thị 5 ngày đầu
     
     streak = 0
     current_date = datetime.now().date()
+    print(f"🔥 STREAK DEBUG: Ngày hiện tại: {current_date}")
     
-    for article_date in sorted_dates:
-        if article_date.date() == current_date:
+    for i, article_date in enumerate(sorted_dates):
+        article_date_only = article_date.date()
+        print(f"🔥 STREAK DEBUG: Kiểm tra ngày {i+1}: {article_date_only} vs {current_date}")
+        
+        if article_date_only == current_date:
             streak += 1
-            current_date = current_date.replace(day=current_date.day - 1)
-        elif article_date.date() < current_date:
+            print(f"🔥 STREAK DEBUG: ✅ Có bài viết ngày {current_date} → streak = {streak}")
+            # Sử dụng timedelta để trừ ngày an toàn
+            current_date = current_date - timedelta(days=1)
+            print(f"🔥 STREAK DEBUG: Chuyển sang ngày: {current_date}")
+        elif article_date_only < current_date:
+            print(f"🔥 STREAK DEBUG: ❌ Không có bài viết ngày {current_date} → DỪNG")
             break
     
+    print(f"🔥 STREAK DEBUG: Kết quả cuối cùng: streak = {streak}")
     return streak
 
 def calculate_total_days(article_dates):
@@ -322,6 +334,7 @@ def scan_domain_folder(domain_path):
         return None
     
     domain_name = os.path.basename(domain_path)
+    print(f"📁 SCAN DEBUG: Đang scan domain: {domain_name}")
     articles_count = 0
     total_words = 0
     article_dates = []
@@ -345,6 +358,8 @@ def scan_domain_folder(domain_path):
                     articles_count += 1
                     total_words += word_count
                     article_dates.append(creation_time)
+                    
+                    print(f"📄 FILE DEBUG: {file} - Ngày tạo: {creation_time.date()} - Từ: {word_count}")
                     
                     if last_activity is None or creation_time > last_activity:
                         last_activity = creation_time
