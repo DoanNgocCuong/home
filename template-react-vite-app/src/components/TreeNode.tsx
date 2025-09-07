@@ -111,11 +111,6 @@ const TreeNode = ({ node, depth, isLast = false, maxDepth = 2 }: TreeNodeProps) 
                  <span className={`px-1.5 py-0.5 rounded text-xs font-medium ${getLevelColor(progress.level)}`}>
                    L{progress.level}
                  </span>
-                 {node.hasChildren && node.maxLevelInTree > node.level && (
-                   <span className="text-xs text-gray-500">
-                     →{node.maxLevelInTree}
-                   </span>
-                 )}
                </div>
             </div>
 
