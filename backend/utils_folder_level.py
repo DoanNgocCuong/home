@@ -28,6 +28,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Dict, Any, Optional, List
 from utils_xp_level import calculate_xp_from_articles, calculate_level_from_xp
+from utils_streak import calculate_streak_days, calculate_max_historical_streak, calculate_total_days
 
 # Import các hàm tính toán từ main module (sẽ được import khi cần)
 def get_domain_color(domain_name: str) -> str:
