@@ -34,7 +34,7 @@ from typing import Dict, Tuple
 BASE_XP_PER_ARTICLE = 100    # Điểm XP cơ bản cho mỗi bài viết
 WORDS_PER_XP = 10            # Số từ để đạt 1 XP bonus
 MIN_WORD_BONUS = 0           # XP bonus tối thiểu từ word count
-MAX_WORD_BONUS_PER_ARTICLE = 500  # XP bonus tối đa từ word count cho 1 bài
+MAX_WORD_BONUS_PER_ARTICLE = 0  # 0 = no cap, giữ nguyên công thức cũ (words//10)
 
 # Level Configuration  
 BASE_LEVEL_XP = 1000         # XP cần thiết cho Level 1
