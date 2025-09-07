@@ -185,6 +185,21 @@ def scan_all_domains():
                     'subfolders': domain_data.get('subfolders', {}),
                     'subfolderCount': domain_data.get('subfolderCount', 0)
                 }
+
+                # Also surface subfolders as top-level domains for UI visibility
+                for sub_name, sub_data in domain_data.get('subfolders', {}).items():
+                    # Avoid key collision; keep child original name if unique
+                    child_key = sub_name if sub_name not in domains else f"{domain_data['name']} / {sub_name}"
+                    domains[child_key] = {
+                        'xp': sub_data['xp'],
+                        'level': sub_data['level'],
+                        'color': sub_data['color'],
+                        'taskCount': sub_data['taskCount'],
+                        'streakDays': sub_data['streakDays'],
+                        'maxStreakDays': sub_data['maxStreakDays'],
+                        'totalDays': sub_data['totalDays'],
+                        'lastTaskDate': sub_data['lastTaskDate']
+                    }
     
     return domains
 
