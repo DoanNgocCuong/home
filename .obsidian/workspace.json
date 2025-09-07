@@ -67,14 +67,10 @@
             "id": "06dff628c2ebf27b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DailyNote/2025-09-06.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-09-06"
+              "title": "New tab"
             }
           }
         ],
@@ -151,13 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DailyNote/2025-09-06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-06"
+              "title": "Outline"
             }
           },
           {
@@ -237,13 +232,12 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "de333728293ea4d4",
   "lastOpenFiles": [
+    "README.md",
     "1.2 Lập trình nói chung/3. Python cơ bản.md",
     "1.2 Lập trình nói chung/1. Cách code với tham số Augument.md",
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.15 Vấn đề load .env.md",
@@ -269,7 +263,6 @@
     "3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/2.1.3 Dọn docker - kill process - port server.md",
     "1.1 Đang Không Nghiên Cứu/3.1 Learning - PP HỌC TẬP THIÊN TÀI  01082025.md",
     "1. DailyNote/2025-09-02.md",
-    "3_Learning/4_MLOPs và Full Stack Docker/TESTING - LOCUS TEST.md",
     "3_Learning/3_AI_Engineering/Untitled 1",
     "3_Learning/4_MLOPs và Full Stack Docker/Untitled 2",
     "1.1 Đang Không Nghiên Cứu/attachments/Pasted image 20250829020822.png",
