@@ -465,22 +465,18 @@ def scan_folder_tree_recursive(folder_path: str, supported_extensions: set, max_
     except Exception as e:
         print(f"{'  ' * current_depth}❌ Lỗi khi scan folder {folder_name}: {e}")
     
-    # Tính toán metrics cho folder hiện tại (files trực tiếp trong folder này)
+    # Tính toán metrics cho folder hiện tại
     xp = calculate_xp_from_articles(articles_count, total_words)
     level = calculate_level_from_xp(xp)
-    own_streak_days = calculate_streak_days(article_dates)
-    own_max_streak_days = calculate_max_historical_streak(article_dates)
-    own_total_days = calculate_total_days(article_dates)
+    streak_days = calculate_streak_days(article_dates)
+    max_streak_days = calculate_max_historical_streak(article_dates)
+    total_days = calculate_total_days(article_dates)
     
     # Scan subfolders (recursive)
     children = {}
     child_total_xp = 0
     child_total_articles = 0
     child_max_level = 0
-    # Track max streak metrics từ các con
-    child_current_streak_max = 0
-    child_max_streak_max = 0
-    child_total_days_max = 0
     
     try:
         for item in os.listdir(folder_path):
@@ -505,10 +501,6 @@ def scan_folder_tree_recursive(folder_path: str, supported_extensions: set, max_
                     child_total_xp += child_data.get('totalXpWithChildren', child_data['xp'])
                     child_total_articles += child_data.get('totalArticlesWithChildren', child_data['taskCount'])
                     child_max_level = max(child_max_level, child_data['level'])
-                    # Aggregate streak metrics (max across children)
-                    child_current_streak_max = max(child_current_streak_max, child_data.get('streakDays', 0))
-                    child_max_streak_max = max(child_max_streak_max, child_data.get('maxStreakDays', 0))
-                    child_total_days_max = max(child_total_days_max, child_data.get('totalDays', 0))
                     
                     print(f"{'  ' * current_depth}  └── {item}: Level {child_data['level']}, XP {child_data['xp']}, Files {child_data['taskCount']}")
     except Exception as e:
@@ -518,10 +510,6 @@ def scan_folder_tree_recursive(folder_path: str, supported_extensions: set, max_
     total_xp_with_children = xp + child_total_xp
     total_articles_with_children = articles_count + child_total_articles
     max_level_in_tree = max(level, child_max_level)
-    # Gộp streak metrics: lấy max giữa bản thân và con
-    streak_days = max(own_streak_days, child_current_streak_max)
-    max_streak_days = max(own_max_streak_days, child_max_streak_max)
-    total_days = max(own_total_days, child_total_days_max)
     
     folder_data = {
         'name': folder_name,
