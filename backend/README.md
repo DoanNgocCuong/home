@@ -1,6 +1,12 @@
-# 🚀 Domain Progress Tracker Backend
+# 🚀 Domain Progress Tracker Backend - FastAPI
 
 **Backend API để scan và tính toán XP/Level cho các domain học tập**
+
+## ⚡ **FastAPI Features:**
+- **Auto-generated API docs** tại `/docs`
+- **Type validation** với Pydantic models
+- **Async support** cho performance tốt hơn
+- **Modern Python** với type hints
 
 ## 🎯 Tính năng chính
 
@@ -27,7 +33,7 @@
 # Double-click file start.bat
 # Hoặc chạy trong Command Prompt:
 cd "d:\vip_DOCUMENTS_OBS\home\backend"
-start.bat
+.\start.bat
 ```
 
 ### **Phương pháp 2: Chạy thủ công**
@@ -41,6 +47,12 @@ python main.py
 ```bash
 # Chạy server trước, sau đó:
 python test_api.py
+```
+
+### **Phương pháp 4: Truy cập API Documentation**
+```bash
+# Sau khi chạy server, truy cập:
+# http://localhost:8000/docs
 ```
 
 ## 🌐 API Endpoints
@@ -153,7 +165,7 @@ Sửa dictionary `DOMAIN_COLORS` trong `main.py`
 2. **Frontend sẽ call API:**
    ```javascript
    // Fetch domains data
-   const response = await fetch('http://localhost:5000/api/domains');
+   const response = await fetch('http://localhost:8000/api/domains');
    const data = await response.json();
    
    // Map domains to tags format
@@ -184,7 +196,7 @@ Sửa dictionary `DOMAIN_COLORS` trong `main.py`
 ### **Server không chạy**
 - Kiểm tra Python version (>= 3.7)
 - Cài đặt dependencies: `pip install -r requirements.txt`
-- Kiểm tra port 5000 có bị chiếm không
+- Kiểm tra port 8000 có bị chiếm không
 
 ### **API không trả về data**
 - Kiểm tra đường dẫn scan

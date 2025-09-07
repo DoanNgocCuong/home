@@ -9,7 +9,7 @@ import json
 
 def test_api():
     """Test các API endpoints"""
-    base_url = "http://localhost:5000"
+    base_url = "http://localhost:8000"
     
     print("🧪 Testing Domain Progress Tracker API...")
     print("=" * 50)

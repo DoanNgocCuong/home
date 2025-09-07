@@ -1,6 +1,7 @@
 @echo off
 echo ========================================
 echo    Domain Progress Tracker Server
+echo           FastAPI Version
 echo ========================================
 echo.
 
@@ -14,7 +15,7 @@ if errorlevel 1 (
 )
 
 echo Python found! Checking dependencies...
-pip show Flask >nul 2>&1
+pip show fastapi >nul 2>&1
 if errorlevel 1 (
     echo Installing dependencies...
     pip install -r requirements.txt
@@ -26,8 +27,9 @@ if errorlevel 1 (
 )
 
 echo.
-echo Starting server...
-echo Server will be available at: http://localhost:5000
+echo Starting FastAPI server...
+echo Server will be available at: http://localhost:8000
+echo API Documentation: http://localhost:8000/docs
 echo Press Ctrl+C to stop the server
 echo.
 

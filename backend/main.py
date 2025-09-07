@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Domain Progress Tracker Backend
+Domain Progress Tracker Backend - FastAPI Version
 Scan các domain folders và tính XP/Level như Tag system
 """
 
@@ -9,16 +9,56 @@ import os
 import json
 from datetime import datetime
 from pathlib import Path
-from flask import Flask, jsonify, send_from_directory
-from flask_cors import CORS
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
+from pydantic import BaseModel
+from typing import Dict, Any, Optional
 import re
 
-app = Flask(__name__)
-CORS(app)
+app = FastAPI(
+    title="Domain Progress Tracker API",
+    description="API để scan và tính toán XP/Level cho các domain học tập",
+    version="1.0.0"
+)
+
+# CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Cấu hình
 DATA_SCIENCE_PATH = r"D:\vip_DOCUMENTS_OBS\home\DATA SCIENCE AND AI"
 SUPPORTED_EXTENSIONS = {'.txt', '.md', '.docx', '.doc', '.html', '.rtf'}
+
+# Pydantic Models
+class DomainData(BaseModel):
+    xp: int
+    level: int
+    color: str
+    taskCount: int
+    streakDays: int
+    lastTaskDate: str
+
+class DomainsResponse(BaseModel):
+    success: bool
+    domains: Dict[str, DomainData]
+    count: int
+    last_scan: str
+
+class StatsResponse(BaseModel):
+    success: bool
+    stats: Dict[str, Any]
+    last_scan: str
+
+class ErrorResponse(BaseModel):
+    success: bool
+    error: str
 
 # Domain colors mapping
 DOMAIN_COLORS = {
@@ -186,52 +226,45 @@ def scan_all_domains():
     
     return domains
 
-@app.route('/')
-def index():
+@app.get("/", response_class=FileResponse)
+async def root():
     """Serve static files"""
-    return send_from_directory('.', 'index.html')
+    return FileResponse("index.html")
 
-@app.route('/api/domains', methods=['GET'])
-def get_domains():
+@app.get("/api/domains", response_model=DomainsResponse)
+async def get_domains():
     """API endpoint để lấy danh sách domains với XP/Level"""
     try:
         domains = scan_all_domains()
         
-        return jsonify({
-            'success': True,
-            'domains': domains,
-            'count': len(domains),
-            'last_scan': datetime.now().isoformat()
-        })
+        return DomainsResponse(
+            success=True,
+            domains=domains,
+            count=len(domains),
+            last_scan=datetime.now().isoformat()
+        )
         
     except Exception as e:
-        return jsonify({
-            'success': False,
-            'error': str(e)
-        }), 500
+        raise HTTPException(status_code=500, detail=str(e))
 
-@app.route('/api/domains/refresh', methods=['POST'])
-def refresh_domains():
+@app.post("/api/domains/refresh", response_model=DomainsResponse)
+async def refresh_domains():
     """API endpoint để refresh domain data"""
     try:
         domains = scan_all_domains()
         
-        return jsonify({
-            'success': True,
-            'message': 'Domains refreshed successfully',
-            'domains': domains,
-            'count': len(domains),
-            'last_scan': datetime.now().isoformat()
-        })
+        return DomainsResponse(
+            success=True,
+            domains=domains,
+            count=len(domains),
+            last_scan=datetime.now().isoformat()
+        )
         
     except Exception as e:
-        return jsonify({
-            'success': False,
-            'error': str(e)
-        }), 500
+        raise HTTPException(status_code=500, detail=str(e))
 
-@app.route('/api/domains/stats', methods=['GET'])
-def get_domain_stats():
+@app.get("/api/domains/stats", response_model=StatsResponse)
+async def get_domain_stats():
     """API endpoint để lấy thống kê tổng quan"""
     try:
         domains = scan_all_domains()
@@ -246,9 +279,9 @@ def get_domain_stats():
         # Domain có nhiều bài viết nhất
         most_articles_domain = max(domains.items(), key=lambda x: x[1]['taskCount']) if domains else None
         
-        return jsonify({
-            'success': True,
-            'stats': {
+        return StatsResponse(
+            success=True,
+            stats={
                 'total_domains': len(domains),
                 'total_articles': total_articles,
                 'total_xp': total_xp,
@@ -257,22 +290,28 @@ def get_domain_stats():
                 'highest_level_domain': highest_level_domain,
                 'most_articles_domain': most_articles_domain
             },
-            'last_scan': datetime.now().isoformat()
-        })
+            last_scan=datetime.now().isoformat()
+        )
         
     except Exception as e:
-        return jsonify({
-            'success': False,
-            'error': str(e)
-        }), 500
+        raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == '__main__':
-    print("🚀 Starting Domain Progress Tracker Server...")
+    import uvicorn
+    
+    print("🚀 Starting Domain Progress Tracker Server (FastAPI)...")
     print(f"📁 Scanning path: {DATA_SCIENCE_PATH}")
-    print("🌐 Server will be available at: http://localhost:5000")
+    print("🌐 Server will be available at: http://localhost:8000")
+    print("📖 API Documentation: http://localhost:8000/docs")
     print("📖 API endpoints:")
     print("  - GET /api/domains - Get all domains with XP/Level")
     print("  - POST /api/domains/refresh - Refresh domain data")
     print("  - GET /api/domains/stats - Get domain statistics")
     
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    uvicorn.run(
+        "main:app",
+        host="0.0.0.0",
+        port=8000,
+        reload=True,
+        log_level="info"
+    )
