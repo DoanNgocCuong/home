@@ -10,6 +10,7 @@ export interface DomainData {
   color: string;
   taskCount: number;
   streakDays: number;
+  maxStreakDays: number;
   totalDays: number;
   lastTaskDate: string;
 }

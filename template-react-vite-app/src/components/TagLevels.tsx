@@ -304,7 +304,12 @@ const TagLevels = ({ tags }: TagLevelsProps) => {
                   
                   <div className="mt-2 flex justify-between text-xs text-gray-500">
                     <span>📅 Tổng: {domain.totalDays} ngày</span>
-                    <span>📊 Tỷ lệ: {((domain.streakDays / domain.totalDays) * 100).toFixed(1)}%</span>
+                    <span>🏆 Max: {domain.maxStreakDays} ngày</span>
+                  </div>
+                  
+                  <div className="mt-1 flex justify-between text-xs text-gray-400">
+                    <span>📊 Hiện tại: {((domain.streakDays / domain.totalDays) * 100).toFixed(1)}%</span>
+                    <span>⭐ Kỷ lục: {((domain.maxStreakDays / domain.totalDays) * 100).toFixed(1)}%</span>
                   </div>
                 </div>
               );

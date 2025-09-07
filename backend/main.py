@@ -89,6 +89,7 @@ class DomainData(BaseModel):
     color: str
     taskCount: int
     streakDays: int
+    maxStreakDays: int
     totalDays: int
     lastTaskDate: str
 
@@ -249,11 +250,13 @@ def calculate_streak_days(article_dates):
     """
     Tính toán số ngày liên tiếp học tập (streak days) dựa trên ngày tạo bài viết
     
-    Thuật toán:
-    1. Sắp xếp danh sách ngày theo thứ tự giảm dần (mới nhất trước)
-    2. Bắt đầu từ ngày hiện tại, kiểm tra xem có bài viết không
-    3. Nếu có, tăng streak và chuyển sang ngày trước đó
-    4. Tiếp tục cho đến khi không còn bài viết liên tiếp
+    Thuật toán ĐÚNG:
+    1. Chuyển tất cả ngày bài viết thành set để lookup nhanh
+    2. Bắt đầu từ ngày hiện tại (hoặc ngày gần nhất có bài viết)
+    3. Check xem ngày đó có trong set không
+    4. Nếu có: tăng streak, chuyển sang ngày trước đó
+    5. Nếu không có: dừng streak
+    6. Lặp lại cho đến khi gặp ngày không có bài viết
     
     Args:
         article_dates (list): Danh sách các datetime object của ngày tạo bài viết
@@ -262,39 +265,108 @@ def calculate_streak_days(article_dates):
         int: Số ngày liên tiếp học tập (streak days)
         
     Ví dụ:
-        # Có bài viết hôm nay, hôm qua, và 3 ngày trước
-        dates = [datetime(2024,1,15), datetime(2024,1,14), datetime(2024,1,12)]
-        calculate_streak_days(dates) -> 2 (hôm nay + hôm qua)
+        # Có bài viết: 2024-01-15, 2024-01-14, 2024-01-12 (gap ở ngày 13)
+        # Hôm nay: 2024-01-15
+        calculate_streak_days(dates) -> 2 (ngày 15 + ngày 14, dừng ở ngày 13)
     """
     if not article_dates:
         print("🔥 STREAK DEBUG: Không có article_dates")
         return 0
     
-    # Sắp xếp ngày giảm dần
-    sorted_dates = sorted(article_dates, reverse=True)
+    # Chuyển thành set các ngày (chỉ lấy phần date, bỏ time) để lookup O(1)
+    article_date_set = set()
+    for date_obj in article_dates:
+        if isinstance(date_obj, datetime):
+            article_date_set.add(date_obj.date())
+        else:
+            article_date_set.add(date_obj)
+    
     print(f"🔥 STREAK DEBUG: Số bài viết: {len(article_dates)}")
-    print(f"🔥 STREAK DEBUG: Ngày bài viết: {[d.date() for d in sorted_dates[:5]]}")  # Hiển thị 5 ngày đầu
+    print(f"🔥 STREAK DEBUG: Ngày bài viết: {sorted(article_date_set, reverse=True)[:10]}")  # 10 ngày gần nhất
     
     streak = 0
     current_date = datetime.now().date()
     print(f"🔥 STREAK DEBUG: Ngày hiện tại: {current_date}")
     
-    for i, article_date in enumerate(sorted_dates):
-        article_date_only = article_date.date()
-        print(f"🔥 STREAK DEBUG: Kiểm tra ngày {i+1}: {article_date_only} vs {current_date}")
+    # FLEXIBLE MODE - Nếu hôm nay chưa viết, bắt đầu từ ngày gần nhất có bài viết
+    if current_date not in article_date_set:
+        # Tìm ngày gần nhất có bài viết
+        recent_dates = [d for d in article_date_set if d <= current_date]
+        if recent_dates:
+            current_date = max(recent_dates)
+            print(f"🔥 STREAK DEBUG: Hôm nay chưa viết, bắt đầu từ: {current_date}")
+        else:
+            print(f"🔥 STREAK DEBUG: Không có bài viết nào → streak = 0")
+            return 0
+    
+    # Đếm streak từ current_date trở về trước
+    day_counter = 1
+    while day_counter <= 365:  # Safety limit để tránh infinite loop
+        print(f"🔥 STREAK DEBUG: Kiểm tra ngày {day_counter}: {current_date}")
         
-        if article_date_only == current_date:
+        if current_date in article_date_set:
             streak += 1
             print(f"🔥 STREAK DEBUG: ✅ Có bài viết ngày {current_date} → streak = {streak}")
-            # Sử dụng timedelta để trừ ngày an toàn
+            # Chuyển sang ngày trước đó
             current_date = current_date - timedelta(days=1)
-            print(f"🔥 STREAK DEBUG: Chuyển sang ngày: {current_date}")
-        elif article_date_only < current_date:
+        else:
             print(f"🔥 STREAK DEBUG: ❌ Không có bài viết ngày {current_date} → DỪNG")
             break
+        
+        day_counter += 1
     
     print(f"🔥 STREAK DEBUG: Kết quả cuối cùng: streak = {streak}")
     return streak
+
+def calculate_max_historical_streak(article_dates):
+    """
+    Tính streak tối đa trong lịch sử (không nhất thiết phải kết thúc ở hiện tại)
+    
+    Args:
+        article_dates (list): Danh sách các datetime object của ngày tạo bài viết
+        
+    Returns:
+        int: Streak tối đa trong lịch sử
+    """
+    if not article_dates:
+        return 0
+    
+    # Chuyển thành set các ngày duy nhất
+    article_date_set = set()
+    for date_obj in article_dates:
+        if isinstance(date_obj, datetime):
+            article_date_set.add(date_obj.date())
+        else:
+            article_date_set.add(date_obj)
+    
+    if not article_date_set:
+        return 0
+    
+    sorted_dates = sorted(article_date_set)
+    max_streak = 0
+    current_streak = 1
+    
+    print(f"🏆 MAX STREAK DEBUG: Tổng {len(sorted_dates)} ngày có bài viết")
+    print(f"🏆 MAX STREAK DEBUG: Từ {sorted_dates[0]} đến {sorted_dates[-1]}")
+    
+    for i in range(1, len(sorted_dates)):
+        prev_date = sorted_dates[i-1]
+        curr_date = sorted_dates[i]
+        
+        # Nếu liên tiếp (cách nhau 1 ngày)
+        if (curr_date - prev_date).days == 1:
+            current_streak += 1
+            print(f"🏆 MAX STREAK DEBUG: Ngày {curr_date} liên tiếp → current_streak = {current_streak}")
+        else:
+            # Reset streak
+            print(f"🏆 MAX STREAK DEBUG: Gap từ {prev_date} đến {curr_date} → max_streak = {max(max_streak, current_streak)}")
+            max_streak = max(max_streak, current_streak)
+            current_streak = 1
+    
+    # Kiểm tra streak cuối cùng
+    max_streak = max(max_streak, current_streak)
+    print(f"🏆 MAX STREAK DEBUG: Kết quả cuối cùng: max_streak = {max_streak}")
+    return max_streak
 
 def calculate_total_days(article_dates):
     """
@@ -371,6 +443,7 @@ def scan_domain_folder(domain_path):
     xp = calculate_xp_from_articles(articles_count, total_words)
     level = calculate_level_from_xp(xp)
     streak_days = calculate_streak_days(article_dates)
+    max_streak_days = calculate_max_historical_streak(article_dates)
     total_days = calculate_total_days(article_dates)
     
     return {
@@ -380,6 +453,7 @@ def scan_domain_folder(domain_path):
         'color': get_domain_color(domain_name),
         'taskCount': articles_count,  # Số bài viết
         'streakDays': streak_days,
+        'maxStreakDays': max_streak_days,
         'totalDays': total_days,
         'lastTaskDate': last_activity.isoformat() if last_activity else datetime.now().isoformat(),
         'totalWords': total_words,
@@ -406,6 +480,7 @@ def scan_all_domains():
                     'color': domain_data['color'],
                     'taskCount': domain_data['taskCount'],
                     'streakDays': domain_data['streakDays'],
+                    'maxStreakDays': domain_data['maxStreakDays'],
                     'totalDays': domain_data['totalDays'],
                     'lastTaskDate': domain_data['lastTaskDate']
                 }
