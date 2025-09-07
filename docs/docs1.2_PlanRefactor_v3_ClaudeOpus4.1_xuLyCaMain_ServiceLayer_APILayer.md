@@ -482,3 +482,140 @@ Có 2 options:
 * Tốt cho long-term
 
 Bạn muốn chọn option nào? Tôi sẽ điều chỉnh kế hoạch theo lựa chọn của bạn!
+
+
+---
+
+# MODEL PYDANTIC DATA
+
+
+
+## 📦 MODELS.PY - DATA MODELS (PYDANTIC)
+
+Models.py chứa các **Pydantic models** - là các class định nghĩa cấu trúc dữ liệu.
+
+### HIỆN TẠI TRONG MAIN.PY:
+
+```python
+# Các Pydantic models đang nằm trong main.py
+class DomainData(BaseModel):
+    xp: int
+    level: int
+    color: str
+    taskCount: int
+    streakDays: int
+    maxStreakDays: int
+    totalDays: int
+    lastTaskDate: str
+
+class DomainsResponse(BaseModel):
+    success: bool
+    domains: Dict[str, DomainData]
+    count: int
+    last_scan: str
+
+class StatsResponse(BaseModel):
+    success: bool
+    stats: Dict[str, Any]
+    last_scan: str
+
+class ErrorResponse(BaseModel):
+    success: bool
+    error: str
+```
+
+### MODELS.PY SAU KHI REFACTOR:## 📊 MODELS LÀ GÌ?
+
+Models là các **class định nghĩa cấu trúc dữ liệu** - giống như "bản thiết kế" cho data.
+
+### 🎯 VÍ DỤ ĐƠN GIẢN:
+
+```python
+# Không có model - data lộn xộn
+domain = {
+    'xp': 1000,
+    'lvl': 2,      # inconsistent naming
+    'COLOR': 'red'  # inconsistent case
+}
+
+# Có model - data chuẩn hóa
+class DomainData(BaseModel):
+    xp: int         # Phải là số nguyên
+    level: int      # Naming nhất quán
+    color: str      # Type checking
+  
+domain = DomainData(xp=1000, level=2, color='red')
+# ✅ Auto validation, consistent structure
+```
+
+### 📦 MODELS.PY BAO GỒM:
+
+Tôi đã tạo file models.py mẫu ở trên với:
+
+1. **Core Models** (từ main.py hiện tại):
+   * `DomainData` - Cấu trúc 1 domain
+   * `FolderNode` - Node trong tree structure
+2. **Response Models** (API responses):
+   * `DomainsResponse` - Trả về list domains
+   * `StatsResponse` - Trả về statistics
+   * `TreeResponse` - Trả về folder tree
+   * `ErrorResponse` - Xử lý errors
+3. **Streak Models** (mới thêm):
+   * `StreakData` - GitHub-style streak
+   * `ContributionDay` - 1 ngày trong calendar
+   * `ContributionCalendar` - Full calendar
+4. **Request Models** (validate input):
+   * `ScanRequest` - Yêu cầu scan folders
+   * `CalendarRequest` - Yêu cầu calendar data
+
+### ✅ LỢI ÍCH CỦA PYDANTIC MODELS:
+
+```python
+# Automatic validation
+domain = DomainData(xp=-100)  # ❌ Error: xp must be >= 0
+
+# Type hints
+def process(domain: DomainData):  # IDE autocomplete!
+    print(domain.xp)  # ✅ IDE knows .xp exists
+
+# JSON serialization
+json_data = domain.json()  # Auto convert to JSON
+
+# Documentation
+# FastAPI tự động generate docs từ models
+```
+
+### 🤔 CÓ CẦN THIẾT KHÔNG?
+
+ **Với project của bạn** : Models đã có sẵn trong main.py, chỉ cần:
+
+1. **Move ra file riêng** → Dễ maintain
+2. **Thêm validation** → Tránh bugs
+3. **Consistent naming** → Code clean hơn
+
+### 💡 SIMPLE VERSION CHO BẠN:
+
+```python
+# models.py (30 lines - simplified)
+from pydantic import BaseModel
+from typing import Dict
+
+class DomainData(BaseModel):
+    """Chỉ giữ fields cần thiết"""
+    name: str
+    xp: int
+    level: int
+    taskCount: int
+    streakDays: int
+
+class DomainsResponse(BaseModel):
+    domains: Dict[str, DomainData]
+    count: int
+```
+
+Bạn có thể:
+
+* **Option A** : Giữ models trong main.py (OK cho project nhỏ)
+* **Option B** : Move ra models.py (cleaner, recommended)
+
+Bạn muốn làm option nào?
