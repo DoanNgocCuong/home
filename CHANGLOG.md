@@ -1,5 +1,6 @@
 # Ver 1: Tháng 3/2025
 
+
 # Ver 2: Tháng 9/2025:
 
 ## Ver 2.1: 07/09/2025
@@ -13,10 +14,8 @@
 
 ![1757226793810](image/CHANGLOG/1757226793810.png)
 
-
-Update để xem Global Streak: 
+Update để xem Global Streak:
 
 ![1757251961160](docs/image/.md/1757251961160.png)
-
 
 ---
