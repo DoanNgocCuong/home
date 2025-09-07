@@ -99,7 +99,22 @@ app.add_middleware(
 )
 
 # Cấu hình
-DATA_SCIENCE_PATH = r"D:\vip_DOCUMENTS_OBS\home\All"
+from pathlib import Path
+import os
+
+# Sử dụng pathlib để xử lý đường dẫn linh hoạt
+BASE_DIR = Path(__file__).parent
+DATA_SCIENCE_PATH = BASE_DIR / "data"  # /app/data trong Docker
+CKP_PATH = BASE_DIR / "ckp"  # /app/ckp trong Docker  
+NOTES_PATH = BASE_DIR / "notes"  # /app/notes trong Docker
+
+# Fallback cho development (khi chạy local)
+if not DATA_SCIENCE_PATH.exists():
+    # Đường dẫn development
+    DATA_SCIENCE_PATH = Path(r"D:\vip_DOCUMENTS_OBS\home\All")
+    CKP_PATH = Path(r"D:\vip_DOCUMENTS_OBS\home\0_CKP")
+    NOTES_PATH = Path(r"D:\vip_DOCUMENTS_OBS\home\NOTE")
+
 SUPPORTED_EXTENSIONS = {'.txt', '.md', '.docx', '.doc', '.html', '.rtf'}
 
 # Pydantic Models
@@ -141,7 +156,7 @@ def scan_all_domains():
     """Scan tất cả domain folders bao gồm các thư mục cụ thể trong All"""
     domains = {}
     
-    if not os.path.exists(DATA_SCIENCE_PATH):
+    if not DATA_SCIENCE_PATH.exists():
         return domains
     
     # Danh sách các thư mục cụ thể cần scan
@@ -151,11 +166,11 @@ def scan_all_domains():
     ]
     
     # Tìm tất cả domain folders và specific folders
-    for item in os.listdir(DATA_SCIENCE_PATH):
-        item_path = os.path.join(DATA_SCIENCE_PATH, item)
+    for item in DATA_SCIENCE_PATH.iterdir():
+        item_path = item
         
         # Scan các domain folders (giữ logic cũ)
-        if os.path.isdir(item_path) and item.startswith('Domain'):
+        if item_path.is_dir() and item.name.startswith('Domain'):
             domain_data = scan_single_folder(item_path, SUPPORTED_EXTENSIONS)
             if domain_data:
                 domains[domain_data['name']] = {
@@ -170,7 +185,7 @@ def scan_all_domains():
                 }
         
         # Scan các specific folders trong All directory với detailed scanning
-        elif os.path.isdir(item_path) and item in specific_folders:
+        elif item_path.is_dir() and item.name in specific_folders:
             domain_data = scan_folder_with_subfolders(item_path, SUPPORTED_EXTENSIONS)
             if domain_data:
                 domains[domain_data['name']] = {
@@ -208,7 +223,7 @@ def _collect_all_contribution_dates() -> List[datetime]:
     Chỉ tính các file có phần mở rộng được hỗ trợ, trong các thư mục như scan_all_domains().
     """
     contribution_dates: List[datetime] = []
-    if not os.path.exists(DATA_SCIENCE_PATH):
+    if not DATA_SCIENCE_PATH.exists():
         return contribution_dates
 
     specific_folders = [
@@ -216,14 +231,14 @@ def _collect_all_contribution_dates() -> List[datetime]:
         "DATA SCIENCE AND AI"
     ]
 
-    for item in os.listdir(DATA_SCIENCE_PATH):
-        item_path = os.path.join(DATA_SCIENCE_PATH, item)
+    for item in DATA_SCIENCE_PATH.iterdir():
+        item_path = item
 
-        if not os.path.isdir(item_path):
+        if not item_path.is_dir():
             continue
 
         # Chỉ lấy các folder Domain* hoặc specific_folders
-        if not (item.startswith('Domain') or item in specific_folders):
+        if not (item.name.startswith('Domain') or item.name in specific_folders):
             continue
 
         for root, dirs, files in os.walk(item_path):
@@ -395,7 +410,7 @@ async def get_folder_tree():
             'tree': tree_data,
             'count': len(tree_data),
             'last_scan': datetime.now().isoformat(),
-            'scan_path': DATA_SCIENCE_PATH,
+            'scan_path': str(DATA_SCIENCE_PATH),
             'supported_extensions': list(SUPPORTED_EXTENSIONS)
         }
         
@@ -431,7 +446,7 @@ async def get_folder_tree_display():
             'tree_data': tree_data,
             'count': len(tree_data),
             'last_scan': datetime.now().isoformat(),
-            'scan_path': DATA_SCIENCE_PATH
+            'scan_path': str(DATA_SCIENCE_PATH)
         }
         
         return display_response

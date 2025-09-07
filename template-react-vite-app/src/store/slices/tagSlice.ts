@@ -1,5 +1,5 @@
 import { createSlice, PayloadAction, createAsyncThunk } from '@reduxjs/toolkit';
-import { fetchDomains, refreshDomains, DomainData } from '../../services/domainService';
+import { fetchDomains, refreshDomains } from '../../services/domainService';
 
 export interface Tag {
   xp: number;

@@ -10,7 +10,6 @@ const TreeView = ({ className = '' }: TreeViewProps) => {
   const [treeData, setTreeData] = useState<TreeResponse | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [lastUpdate, setLastUpdate] = useState<string | null>(null);
   const [maxDepth, setMaxDepth] = useState<number>(2); // Default to 2 levels
 
   const loadTreeData = async () => {
@@ -19,7 +18,6 @@ const TreeView = ({ className = '' }: TreeViewProps) => {
       setError(null);
       const data = await fetchTreeData();
       setTreeData(data);
-      setLastUpdate(new Date().toLocaleString('vi-VN'));
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Lỗi không xác định');
       console.error('Error loading tree data:', err);
