@@ -301,6 +301,11 @@ const TagLevels = ({ tags }: TagLevelsProps) => {
                     <span>📄 {domain.taskCount} bài viết</span>
                     <span>🔥 {domain.streakDays} ngày streak</span>
                   </div>
+                  
+                  <div className="mt-2 flex justify-between text-xs text-gray-500">
+                    <span>📅 Tổng: {domain.totalDays} ngày</span>
+                    <span>📊 Tỷ lệ: {((domain.streakDays / domain.totalDays) * 100).toFixed(1)}%</span>
+                  </div>
                 </div>
               );
             })

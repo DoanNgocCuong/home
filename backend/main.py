@@ -89,6 +89,7 @@ class DomainData(BaseModel):
     color: str
     taskCount: int
     streakDays: int
+    totalDays: int
     lastTaskDate: str
 
 class DomainsResponse(BaseModel):
@@ -283,6 +284,38 @@ def calculate_streak_days(article_dates):
     
     return streak
 
+def calculate_total_days(article_dates):
+    """
+    Tính toán tổng số ngày học tập từ ngày đầu tiên đến hiện tại
+    
+    Thuật toán:
+    1. Tìm ngày đầu tiên có bài viết (ngày xa nhất)
+    2. Tính số ngày từ ngày đó đến hiện tại
+    3. Trả về tổng số ngày
+    
+    Args:
+        article_dates (list): Danh sách các datetime object của ngày tạo bài viết
+        
+    Returns:
+        int: Tổng số ngày từ ngày đầu tiên đến hiện tại
+        
+    Ví dụ:
+        # Bài viết đầu tiên: 1/1/2024, hôm nay: 15/1/2024
+        dates = [datetime(2024,1,1), datetime(2024,1,15)]
+        calculate_total_days(dates) -> 14 ngày
+    """
+    if not article_dates:
+        return 0
+    
+    # Tìm ngày đầu tiên (xa nhất)
+    first_date = min(article_dates).date()
+    current_date = datetime.now().date()
+    
+    # Tính số ngày
+    total_days = (current_date - first_date).days + 1  # +1 để bao gồm cả ngày đầu
+    
+    return max(1, total_days)  # Ít nhất là 1 ngày
+
 def scan_domain_folder(domain_path):
     """Scan một domain folder và trả về thông tin"""
     if not os.path.exists(domain_path):
@@ -323,6 +356,7 @@ def scan_domain_folder(domain_path):
     xp = calculate_xp_from_articles(articles_count, total_words)
     level = calculate_level_from_xp(xp)
     streak_days = calculate_streak_days(article_dates)
+    total_days = calculate_total_days(article_dates)
     
     return {
         'name': domain_name,
@@ -331,6 +365,7 @@ def scan_domain_folder(domain_path):
         'color': get_domain_color(domain_name),
         'taskCount': articles_count,  # Số bài viết
         'streakDays': streak_days,
+        'totalDays': total_days,
         'lastTaskDate': last_activity.isoformat() if last_activity else datetime.now().isoformat(),
         'totalWords': total_words,
         'lastActivity': last_activity.isoformat() if last_activity else None
@@ -356,6 +391,7 @@ def scan_all_domains():
                     'color': domain_data['color'],
                     'taskCount': domain_data['taskCount'],
                     'streakDays': domain_data['streakDays'],
+                    'totalDays': domain_data['totalDays'],
                     'lastTaskDate': domain_data['lastTaskDate']
                 }
     
