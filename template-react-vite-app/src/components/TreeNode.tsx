@@ -57,8 +57,11 @@ const TreeNode = ({ node, depth, isLast = false, maxDepth = 2 }: TreeNodeProps) 
   //   }
   // };
 
-  // Tính tiến độ XP tới level tiếp theo (dựa trên XP của chính node)
-  const progress = calculateXPProgress(node.xp, node.streakDays || 0);
+  // Tính tiến độ XP tới level tiếp theo
+  // - Với folder có children: dùng tổng XP (bao gồm children) để phản ánh đúng thanh tiến độ
+  // - Với leaf: dùng XP của chính node
+  const xpForProgress = node.hasChildren ? node.totalXpWithChildren : node.xp;
+  const progress = calculateXPProgress(xpForProgress, node.streakDays || 0);
 
   return (
     <div className="select-none">
@@ -148,7 +151,7 @@ const TreeNode = ({ node, depth, isLast = false, maxDepth = 2 }: TreeNodeProps) 
             {/* XP Progress tới level tiếp theo */}
             <div className="mt-1">
               <div className="flex justify-between text-[10px] text-gray-500 mb-1">
-                <span>XP: {node.xp.toLocaleString()}</span>
+                <span>XP: {xpForProgress.toLocaleString()}</span>
                 <span>
                   {progress.currentXP}/{progress.requiredXP}
                 </span>
