@@ -619,3 +619,110 @@ Bạn có thể:
 * **Option B** : Move ra models.py (cleaner, recommended)
 
 Bạn muốn làm option nào?
+
+
+---
+
+
+
+## 🏛️ KIẾN TRÚC PHẦN MỀM - SOFTWARE ARCHITECTURE PATTERNS
+
+Cấu trúc tôi đề xuất kết hợp nhiều patterns phổ biến:
+
+### 1️⃣ **LAYERED ARCHITECTURE** (Kiến trúc phân tầng)
+
+```
+┌─────────────────────────┐
+│   Presentation Layer    │  ← API Routes (FastAPI)
+├─────────────────────────┤
+│    Business Logic       │  ← Service Layer
+├─────────────────────────┤
+│    Data Access Layer    │  ← Utils (file scanning)
+└─────────────────────────┘
+```
+
+### 2️⃣ **MVC VARIANT** (Model-View-Controller biến thể)
+
+```python
+Model      → Pydantic models (data structures)
+View       → API responses (JSON)
+Controller → Service classes (business logic)
+```
+
+### 3️⃣ **SERVICE-ORIENTED ARCHITECTURE (SOA)**
+
+* Mỗi service độc lập xử lý 1 domain cụ thể
+* DomainService, StatsService, ContributionService
+* Loose coupling giữa các services
+
+### 4️⃣ **CLEAN ARCHITECTURE** (Uncle Bob)
+
+```
+╔══════════════════════════╗
+║      API/FastAPI         ║  External
+╠══════════════════════════╣
+║    Service Layer         ║  Use Cases
+╠══════════════════════════╣  
+║     Domain Models        ║  Entities
+╠══════════════════════════╣
+║    Utils/Helpers         ║  Infrastructure
+╚══════════════════════════╝
+```
+
+### 📊 SO SÁNH CÁC KIẾN TRÚC:
+
+| Pattern                      | Ưu điểm           | Nhược điểm                    | Phù hợp khi |
+| ---------------------------- | -------------------- | --------------------------------- | ------------- |
+| **Monolithic**         | Simple, nhanh        | Khó scale                        | Project nhỏ  |
+| **Layered**            | Rõ ràng, dễ hiểu | Có thể rigid                    | Project vừa  |
+| **Microservices**      | Scale tốt           | Phức tạp                        | Project lớn  |
+| **Clean Architecture** | Testable, flexible   | Over-engineering cho project nhỏ | Enterprise    |
+
+### 🎯 TRONG PROJECT CỦA BẠN:
+
+**Hiện tại (Monolithic):**
+
+```python
+main.py  # Tất cả trong 1 file
+```
+
+**Đề xuất (Layered + Service Pattern):**
+
+```
+api/        # Presentation
+services/   # Business Logic  
+utils/      # Infrastructure
+models/     # Domain
+```
+
+### 🔍 PATTERNS ĐANG SỬ DỤNG:
+
+1. **Repository Pattern** : Utils modules đóng vai trò repositories
+2. **Service Pattern** : Business logic trong services
+3. **Dependency Injection** : Services inject vào routes
+4. **Singleton Pattern** : Config instance
+5. **Factory Pattern** : Có thể dùng cho creating services
+
+### 💡 TÊN GỌI CHÍNH XÁC:
+
+Kiến trúc này thường được gọi là:
+
+* **"Service-Oriented Layered Architecture"**
+* **"Domain-Driven Design (DDD) Lite"**
+* **"Clean Architecture (simplified)"**
+
+### 🤔 CÓ OVERKILL KHÔNG?
+
+Với project của bạn (~1800 lines), có thể hơi  **over-engineering** .
+
+**Practical approach cho bạn:**
+
+```
+Simple Layered:
+├── utils/      (tách xong rồi ✅)
+├── config.py   (recommended)
+├── models.py   (recommended)
+└── main.py     (keep simple)
+```
+
+Chỉ cần tách utils là đủ tốt cho project size này! Service layer có thể thêm sau khi project lớn hơn.
