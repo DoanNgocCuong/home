@@ -61,19 +61,10 @@ def calculate_xp_from_articles(articles_count: int, total_words: int) -> int:
         - "NO CAP" mode: đặt MAX_WORD_BONUS_PER_ARTICLE = "NO CAP" để bỏ giới hạn.
           Lý do: tự mô tả (self-documenting), giữ nguyên công thức cũ (words//10),
           và phù hợp vibe gamification. 
-        - Đảm bảo không có negative XP do bài bị nhiều từ quá 
-        Vai trò của MAX_WORD_BONUS_PER_ARTICLE
-
-        Biến này được dùng để giới hạn (cap) số XP bonus từ từ vựng cho mỗi bài viết
-        Nếu = 0 → không giới hạn, tức là cứ có bao nhiêu từ thì tính bấy nhiêu theo công thức total_words // 10.
-
-        Nếu > 0 → đặt trần (cap). Ví dụ:
-
-        MAX_WORD_BONUS_PER_ARTICLE = 200
-
-        Một bài viết có 5000 từ → bình thường bonus = 5000 // 10 = 500 XP.
-
-        Nhưng do cap = 200 XP/bài → bonus thực tế chỉ được tính 200 XP/bài.
+        - Đảm bảo không có negative XP
+        - MAX_WORD_BONUS_PER_ARTICLE: giới hạn XP bonus từ từ vựng
+          * "NO CAP" hoặc 0 = không giới hạn (tính đủ words//10)
+          * > 0 = đặt trần XP/bài (vd: 200 = tối đa 200 XP/bài từ từ vựng)
     
     Args:
         articles_count (int): Số lượng bài viết/tài liệu
