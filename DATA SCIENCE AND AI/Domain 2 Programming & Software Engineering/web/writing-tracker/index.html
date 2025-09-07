@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Writing Tracker - Theo dõi tiến độ viết lách</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1><i class="fas fa-pen-fancy"></i> Writing Tracker</h1>
+            <p>Theo dõi tiến độ viết lách của bạn</p>
+        </header>
+
+        <!-- Stats Overview -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-file-alt"></i>
+                </div>
+                <div class="stat-content">
+                    <h3 id="total-articles">0</h3>
+                    <p>Tổng bài viết</p>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-fire"></i>
+                </div>
+                <div class="stat-content">
+                    <h3 id="current-streak">0</h3>
+                    <p>Streak hiện tại</p>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-trophy"></i>
+                </div>
+                <div class="stat-content">
+                    <h3 id="longest-streak">0</h3>
+                    <p>Streak dài nhất</p>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-calendar-week"></i>
+                </div>
+                <div class="stat-content">
+                    <h3 id="this-week">0</h3>
+                    <p>Tuần này</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Add Article Form -->
+        <div class="add-article-section">
+            <h2><i class="fas fa-plus-circle"></i> Thêm bài viết mới</h2>
+            <form id="article-form" class="article-form">
+                <div class="form-group">
+                    <label for="article-title">Tiêu đề bài viết:</label>
+                    <input type="text" id="article-title" placeholder="Nhập tiêu đề bài viết..." required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="article-date">Ngày viết:</label>
+                    <input type="date" id="article-date" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="article-word-count">Số từ (tùy chọn):</label>
+                    <input type="number" id="article-word-count" placeholder="Số từ trong bài viết">
+                </div>
+                
+                <div class="form-group">
+                    <label for="article-category">Thể loại:</label>
+                    <select id="article-category">
+                        <option value="technical">Kỹ thuật</option>
+                        <option value="personal">Cá nhân</option>
+                        <option value="business">Kinh doanh</option>
+                        <option value="education">Giáo dục</option>
+                        <option value="other">Khác</option>
+                    </select>
+                </div>
+                
+                <button type="submit" class="btn-primary">
+                    <i class="fas fa-plus"></i> Thêm bài viết
+                </button>
+            </form>
+        </div>
+
+        <!-- Charts Section -->
+        <div class="charts-section">
+            <div class="chart-container">
+                <h3><i class="fas fa-chart-line"></i> Tiến độ theo tháng</h3>
+                <canvas id="monthly-chart"></canvas>
+            </div>
+            
+            <div class="chart-container">
+                <h3><i class="fas fa-chart-pie"></i> Phân bố theo thể loại</h3>
+                <canvas id="category-chart"></canvas>
+            </div>
+        </div>
+
+        <!-- Recent Articles -->
+        <div class="recent-articles">
+            <h2><i class="fas fa-history"></i> Bài viết gần đây</h2>
+            <div id="articles-list" class="articles-list">
+                <!-- Articles will be populated here -->
+            </div>
+        </div>
+
+        <!-- Goals Section -->
+        <div class="goals-section">
+            <h2><i class="fas fa-target"></i> Mục tiêu</h2>
+            <div class="goals-grid">
+                <div class="goal-card">
+                    <h4>Mục tiêu tháng</h4>
+                    <div class="goal-progress">
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="monthly-progress"></div>
+                        </div>
+                        <span id="monthly-goal-text">0/10 bài viết</span>
+                    </div>
+                    <input type="number" id="monthly-goal" placeholder="Số bài viết mục tiêu" min="1">
+                </div>
+                
+                <div class="goal-card">
+                    <h4>Mục tiêu streak</h4>
+                    <div class="goal-progress">
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="streak-progress"></div>
+                        </div>
+                        <span id="streak-goal-text">0/30 ngày</span>
+                    </div>
+                    <input type="number" id="streak-goal" placeholder="Số ngày mục tiêu" min="1">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
