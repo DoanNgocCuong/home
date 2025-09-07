@@ -1,8 +1,56 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Domain Progress Tracker Backend - FastAPI Version
-Scan các domain folders và tính XP/Level như Tag system
+================================================================================
+                    DOMAIN PROGRESS TRACKER BACKEND - FASTAPI
+================================================================================
+
+MÔ TẢ TỔNG QUAN:
+    Ứng dụng backend được xây dựng bằng FastAPI để theo dõi tiến độ học tập 
+    thông qua hệ thống XP/Level giống như game. Hệ thống sẽ quét các thư mục 
+    domain học tập và tính toán điểm kinh nghiệm (XP) dựa trên số lượng bài viết 
+    và nội dung học tập.
+
+CHỨC NĂNG CHÍNH:
+    1. Quét và phân tích các thư mục domain học tập
+    2. Tính toán XP và Level dựa trên số bài viết và từ ngữ
+    3. Theo dõi streak days (số ngày liên tiếp học tập)
+    4. Cung cấp API RESTful để frontend có thể truy cập dữ liệu
+    5. Thống kê tổng quan về tiến độ học tập
+
+CẤU TRÚC HỆ THỐNG:
+    - Domain 1: Mathematical & Statistical Foundation (Màu Indigo)
+    - Domain 2: Programming & Software Engineering (Màu Emerald)
+    - Domain 3: Machine Learning Fundamentals (Màu Amber)
+    - Domain 4: Deep Learning & Neural Networks (Màu Pink)
+    - Domain 5: Data Engineering & Processing (Màu Blue)
+    - Domain 6: Production Systems & MLOps (Màu Violet)
+    - Domain 7: Cloud & Infrastructure (Màu Red)
+    - Domain 8: Advanced AI Applications (Màu Teal)
+    - Domain 9: Research & Innovation (Màu Orange)
+    - Domain 10: Business & Entrepreneurship (Màu Lime)
+
+CÔNG THỨC TÍNH XP:
+    - Base XP: 100 điểm cho mỗi bài viết
+    - Bonus XP: 1 điểm cho mỗi 10 từ trong nội dung
+    - Tổng XP = (Số bài viết × 100) + (Tổng từ ÷ 10)
+
+CÔNG THỨC TÍNH LEVEL:
+    - Level 1: Cần 1000 XP
+    - Level 2: Cần 1500 XP (1000 × 1.5)
+    - Level 3: Cần 2250 XP (1500 × 1.5)
+    - Level n: Cần 1000 × (1.5^(n-1)) XP
+
+API ENDPOINTS:
+    - GET /: Thông tin cơ bản về API
+    - GET /api/domains: Lấy danh sách tất cả domains với XP/Level
+    - POST /api/domains/refresh: Làm mới dữ liệu domains
+    - GET /api/domains/stats: Lấy thống kê tổng quan
+
+TÁC GIẢ: Hệ thống theo dõi tiến độ học tập
+NGÀY TẠO: 2024
+PHIÊN BẢN: 1.0.0
+================================================================================
 """
 
 import os
@@ -74,14 +122,47 @@ DOMAIN_COLORS = {
 }
 
 def get_domain_color(domain_name):
-    """Lấy màu cho domain"""
+    """
+    Lấy màu sắc tương ứng cho domain dựa trên tên domain
+    
+    Args:
+        domain_name (str): Tên của domain (ví dụ: "Domain 1 Mathematical Foundation")
+        
+    Returns:
+        str: Mã màu hex tương ứng với domain, mặc định là màu xám nếu không tìm thấy
+        
+    Ví dụ:
+        get_domain_color("Domain 1 Mathematical") -> "#4F46E5" (Indigo)
+        get_domain_color("Domain 2 Programming") -> "#10B981" (Emerald)
+        get_domain_color("Unknown Domain") -> "#6B7280" (Gray)
+    """
     for key, color in DOMAIN_COLORS.items():
         if key in domain_name:
             return color
     return DOMAIN_COLORS['default']
 
 def calculate_xp_from_articles(articles_count, total_words):
-    """Tính XP dựa trên số bài viết và số từ"""
+    """
+    Tính toán điểm kinh nghiệm (XP) dựa trên số lượng bài viết và tổng số từ
+    
+    Công thức tính XP:
+    - Base XP: 100 điểm cho mỗi bài viết
+    - Bonus XP: 1 điểm cho mỗi 10 từ trong nội dung
+    - Tổng XP = Base XP + Bonus XP
+    
+    Args:
+        articles_count (int): Số lượng bài viết/tài liệu trong domain
+        total_words (int): Tổng số từ trong tất cả bài viết
+        
+    Returns:
+        int: Tổng điểm XP được tính toán
+        
+    Ví dụ:
+        calculate_xp_from_articles(5, 2500) -> 750 XP
+        # Base: 5 × 100 = 500 XP
+        # Bonus: 2500 ÷ 10 = 250 XP
+        # Tổng: 500 + 250 = 750 XP
+    """
     # Base XP: 100 XP per article
     base_xp = articles_count * 100
     
@@ -91,7 +172,26 @@ def calculate_xp_from_articles(articles_count, total_words):
     return base_xp + word_bonus
 
 def calculate_level_from_xp(xp):
-    """Tính level từ XP (giống như tag system)"""
+    """
+    Tính toán level dựa trên tổng điểm XP (hệ thống tương tự game)
+    
+    Công thức tính level:
+    - Level 1: Cần 1000 XP
+    - Level 2: Cần 1500 XP (1000 × 1.5)
+    - Level 3: Cần 2250 XP (1500 × 1.5)
+    - Level n: Cần 1000 × (1.5^(n-1)) XP
+    
+    Args:
+        xp (int): Tổng điểm XP hiện tại
+        
+    Returns:
+        int: Level tương ứng với số XP
+        
+    Ví dụ:
+        calculate_level_from_xp(800) -> 0 (chưa đủ XP cho level 1)
+        calculate_level_from_xp(1200) -> 1 (đủ XP cho level 1, còn 200 XP)
+        calculate_level_from_xp(2500) -> 2 (đủ XP cho level 1 và 2)
+    """
     level = 0
     required_xp = 1000  # Base XP required for level 1
     LEVEL_XP_MULTIPLIER = 1.5
@@ -105,7 +205,25 @@ def calculate_level_from_xp(xp):
     return level
 
 def estimate_word_count(file_path, file_ext):
-    """Ước tính số từ trong file"""
+    """
+    Ước tính số từ trong file dựa trên loại file và nội dung
+    
+    Hỗ trợ các loại file:
+    - .txt, .md: Đếm từ trực tiếp từ nội dung text
+    - .html: Loại bỏ HTML tags rồi đếm từ
+    - Các loại khác: Ước tính dựa trên kích thước file
+    
+    Args:
+        file_path (str): Đường dẫn đến file cần đếm từ
+        file_ext (str): Phần mở rộng của file (ví dụ: '.md', '.txt')
+        
+    Returns:
+        int: Số từ ước tính trong file
+        
+    Ví dụ:
+        estimate_word_count("note.md", ".md") -> 150 (đếm từ thực tế)
+        estimate_word_count("doc.docx", ".docx") -> 200 (ước tính từ kích thước)
+    """
     try:
         if file_ext in ['.txt', '.md']:
             with open(file_path, 'r', encoding='utf-8') as f:
@@ -127,7 +245,26 @@ def estimate_word_count(file_path, file_ext):
         return 500  # Giá trị mặc định
 
 def calculate_streak_days(article_dates):
-    """Tính streak days dựa trên ngày viết bài"""
+    """
+    Tính toán số ngày liên tiếp học tập (streak days) dựa trên ngày tạo bài viết
+    
+    Thuật toán:
+    1. Sắp xếp danh sách ngày theo thứ tự giảm dần (mới nhất trước)
+    2. Bắt đầu từ ngày hiện tại, kiểm tra xem có bài viết không
+    3. Nếu có, tăng streak và chuyển sang ngày trước đó
+    4. Tiếp tục cho đến khi không còn bài viết liên tiếp
+    
+    Args:
+        article_dates (list): Danh sách các datetime object của ngày tạo bài viết
+        
+    Returns:
+        int: Số ngày liên tiếp học tập (streak days)
+        
+    Ví dụ:
+        # Có bài viết hôm nay, hôm qua, và 3 ngày trước
+        dates = [datetime(2024,1,15), datetime(2024,1,14), datetime(2024,1,12)]
+        calculate_streak_days(dates) -> 2 (hôm nay + hôm qua)
+    """
     if not article_dates:
         return 0
     

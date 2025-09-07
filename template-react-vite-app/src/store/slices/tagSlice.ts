@@ -1,4 +1,5 @@
-import { createSlice, PayloadAction } from '@reduxjs/toolkit';
+import { createSlice, PayloadAction, createAsyncThunk } from '@reduxjs/toolkit';
+import { fetchDomains, refreshDomains, DomainData } from '../../services/domainService';
 
 export interface Tag {
   xp: number;
@@ -11,6 +12,10 @@ export interface Tag {
 
 interface TagState {
   tags: Record<string, Tag>;
+  domains: Record<string, Tag>;
+  loading: boolean;
+  error: string | null;
+  lastDomainUpdate: string | null;
 }
 
 const getTagColor = (tagName: string) => {
@@ -30,7 +35,28 @@ const getTagColor = (tagName: string) => {
 
 const initialState: TagState = {
   tags: JSON.parse(localStorage.getItem('tags') || '{}'),
+  domains: {},
+  loading: false,
+  error: null,
+  lastDomainUpdate: null,
 };
+
+// Async thunks
+export const loadDomains = createAsyncThunk(
+  'tags/loadDomains',
+  async () => {
+    const response = await fetchDomains();
+    return response;
+  }
+);
+
+export const refreshDomainsData = createAsyncThunk(
+  'tags/refreshDomains',
+  async () => {
+    const response = await refreshDomains();
+    return response;
+  }
+);
 
 const tagSlice = createSlice({
   name: 'tags',
@@ -111,6 +137,42 @@ const tagSlice = createSlice({
         localStorage.setItem('tags', JSON.stringify(state.tags));
       }
     },
+    clearError: (state) => {
+      state.error = null;
+    },
+  },
+  extraReducers: (builder) => {
+    builder
+      // Load domains
+      .addCase(loadDomains.pending, (state) => {
+        state.loading = true;
+        state.error = null;
+      })
+      .addCase(loadDomains.fulfilled, (state, action) => {
+        state.loading = false;
+        state.domains = action.payload.domains;
+        state.lastDomainUpdate = action.payload.last_scan;
+        state.error = null;
+      })
+      .addCase(loadDomains.rejected, (state, action) => {
+        state.loading = false;
+        state.error = action.error.message || 'Failed to load domains';
+      })
+      // Refresh domains
+      .addCase(refreshDomainsData.pending, (state) => {
+        state.loading = true;
+        state.error = null;
+      })
+      .addCase(refreshDomainsData.fulfilled, (state, action) => {
+        state.loading = false;
+        state.domains = action.payload.domains;
+        state.lastDomainUpdate = action.payload.last_scan;
+        state.error = null;
+      })
+      .addCase(refreshDomainsData.rejected, (state, action) => {
+        state.loading = false;
+        state.error = action.error.message || 'Failed to refresh domains';
+      });
   },
 });
 
@@ -128,6 +190,6 @@ const calculateLevel = (xp: number): number => {
   return level;
 };
 
-export const { addTagXP, removeTagXP, updateTag, removeTag } = tagSlice.actions;
+export const { addTagXP, removeTagXP, updateTag, removeTag, clearError } = tagSlice.actions;
 
 export default tagSlice.reducer;
