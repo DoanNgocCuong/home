@@ -121,11 +121,16 @@ const TreeNode = ({ node, depth, isLast = false, maxDepth = 2 }: TreeNodeProps) 
 
             {/* Stats - Inline */}
             <div className="mt-1 flex justify-between text-xs text-gray-600">
-              <span>
-                {node.hasChildren ? 
-                  `${node.totalXpWithChildren.toLocaleString()} XP` : 
-                  `${node.xp.toLocaleString()} XP`
-                }
+              <span className="flex items-center gap-1">
+                {node.hasChildren ? (
+                  <>
+                    <span className="font-medium">{node.totalXpWithChildren.toLocaleString()} XP</span>
+                    <span className="text-gray-400">·</span>
+                    <span title="XP của các file nằm trực tiếp trong folder này (không tính con)" className="text-gray-500">leaf {node.xp.toLocaleString()}</span>
+                  </>
+                ) : (
+                  <span className="font-medium">{node.xp.toLocaleString()} XP</span>
+                )}
               </span>
               <span>
                 {node.hasChildren ? 

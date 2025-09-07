@@ -497,8 +497,9 @@ def scan_folder_tree_recursive(folder_path: str, supported_extensions: set, max_
                 # Luôn giữ child vào tree, kể cả khi chưa có file hợp lệ
                 if child_data:
                     children[item] = child_data
-                    child_total_xp += child_data['xp']
-                    child_total_articles += child_data['taskCount']
+                    # Aggregate totals including all descendants of the child
+                    child_total_xp += child_data.get('totalXpWithChildren', child_data['xp'])
+                    child_total_articles += child_data.get('totalArticlesWithChildren', child_data['taskCount'])
                     child_max_level = max(child_max_level, child_data['level'])
                     
                     print(f"{'  ' * current_depth}  └── {item}: Level {child_data['level']}, XP {child_data['xp']}, Files {child_data['taskCount']}")
