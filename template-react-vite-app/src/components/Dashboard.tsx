@@ -131,6 +131,9 @@ const ExperienceOverview = ({ tasks, tags }: ExperienceOverviewProps) => {
                   <div className="mt-1 text-xs text-gray-500">
                     Level {tags[tagName] ? tags[tagName].level : 0} • Streak{' '}
                     {stats.streakDays} ngày
+                    {tags[tagName]?.maxStreakDays && tags[tagName].maxStreakDays > stats.streakDays && (
+                      <span className="text-gray-400"> (Max: {tags[tagName].maxStreakDays})</span>
+                    )}
                   </div>
                 </div>
               );

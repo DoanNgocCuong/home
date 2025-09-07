@@ -1,13 +1,12 @@
-import { Tag, loadDomains, refreshDomainsData, clearError } from '../store/slices/tagSlice';
+import { Tag } from '../store/slices/tagSlice';
 import {
   calculateXPProgress,
   calculateStreakMultiplier,
   calculateMilestoneBonus,
 } from '../utils/xpCalculator';
-import { useDispatch, useSelector } from 'react-redux';
+import { useDispatch } from 'react-redux';
 import { updateTag, removeTag } from '../store/slices/tagSlice';
-import { useState, useEffect } from 'react';
-import { RootState } from '../store';
+import { useState } from 'react';
 
 interface TagLevelsProps {
   tags: Record<string, Tag>;
@@ -17,22 +16,6 @@ const TagLevels = ({ tags }: TagLevelsProps) => {
   const dispatch = useDispatch();
   const [editingTag, setEditingTag] = useState<string | null>(null);
   const [tagToDelete, setTagToDelete] = useState<string | null>(null);
-  
-  // Get domains from Redux store
-  const { domains, loading, error, lastDomainUpdate } = useSelector((state: RootState) => state.tags);
-
-  // Load domains on component mount
-  useEffect(() => {
-    dispatch(loadDomains());
-  }, [dispatch]);
-
-  const handleRefreshDomains = () => {
-    dispatch(refreshDomainsData());
-  };
-
-  const handleClearError = () => {
-    dispatch(clearError());
-  };
 
   const handleColorChange = (tagName: string, color: string) => {
     dispatch(
@@ -205,117 +188,6 @@ const TagLevels = ({ tags }: TagLevelsProps) => {
             );
           })
         )}
-      </div>
-
-      {/* Domains Section */}
-      <div className="mt-8">
-        <div className="flex justify-between items-center mb-4">
-          <h2 className="text-xl font-semibold text-gray-800">
-            Level của Các Domain
-          </h2>
-          <div className="flex gap-2">
-            <button
-              onClick={handleRefreshDomains}
-              disabled={loading}
-              className="px-3 py-1 bg-blue-500 text-white rounded text-sm hover:bg-blue-600 disabled:opacity-50 transition-colors"
-            >
-              {loading ? 'Đang tải...' : 'Refresh'}
-            </button>
-          </div>
-        </div>
-        
-        {error && (
-          <div className="mb-4 p-3 bg-red-100 border border-red-400 text-red-700 rounded">
-            <div className="flex justify-between items-center">
-              <span>Lỗi: {error}</span>
-              <button
-                onClick={handleClearError}
-                className="text-red-500 hover:text-red-700"
-              >
-                ✕
-              </button>
-            </div>
-          </div>
-        )}
-
-        {lastDomainUpdate && (
-          <p className="text-sm text-gray-500 mb-4">
-            Cập nhật lần cuối: {new Date(lastDomainUpdate).toLocaleString('vi-VN')}
-          </p>
-        )}
-
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          {Object.keys(domains).length === 0 ? (
-            <div className="col-span-full text-center py-8 text-gray-500">
-              {loading ? (
-                <div className="flex items-center justify-center gap-2">
-                  <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-blue-500"></div>
-                  <span>Đang tải domains...</span>
-                </div>
-              ) : (
-                <div>
-                  <p>Chưa có domain nào được tìm thấy.</p>
-                  <p className="text-sm mt-2">Đảm bảo backend đang chạy tại http://localhost:8000</p>
-                </div>
-              )}
-            </div>
-          ) : (
-            Object.entries(domains).map(([domainName, domain]) => {
-              const progress = calculateXPProgress(domain.xp, domain.streakDays || 0);
-              
-              return (
-                <div key={domainName} className="bg-gradient-to-r from-blue-50 to-indigo-50 p-4 rounded-lg border border-blue-200">
-                  <div className="flex justify-between items-center">
-                    <div className="flex items-center gap-2">
-                      <span
-                        className="px-3 py-1 rounded-full text-sm font-medium text-white"
-                        style={{ backgroundColor: domain.color }}
-                      >
-                        {domainName}
-                      </span>
-                    </div>
-                    <span className="text-blue-700 font-bold">
-                      Level {progress.level}
-                    </span>
-                  </div>
-                  
-                  <div className="mt-3">
-                    <div className="flex justify-between text-xs text-gray-600 mb-1">
-                      <span>XP: {domain.xp}</span>
-                      <span>
-                        {progress.currentXP}/{progress.requiredXP}
-                      </span>
-                    </div>
-                    <div className="w-full bg-gray-200 rounded-full h-2">
-                      <div
-                        className="h-2 rounded-full transition-all duration-300"
-                        style={{
-                          width: `${progress.percentage}%`,
-                          backgroundColor: domain.color,
-                        }}
-                      />
-                    </div>
-                  </div>
-                  
-                  <div className="mt-3 flex justify-between text-xs text-gray-600">
-                    <span>📄 {domain.taskCount} bài viết</span>
-                    <span>🔥 {domain.streakDays} ngày streak</span>
-                  </div>
-                  
-                  <div className="mt-2 flex justify-between text-xs text-gray-500">
-                    <span>📅 Tổng: {domain.totalDays} ngày</span>
-                    <span>🏆 Max: {domain.maxStreakDays} ngày</span>
-                  </div>
-                  
-                  <div className="mt-1 flex justify-between text-xs text-gray-400">
-                    <span>📊 Hiện tại: {((domain.streakDays / domain.totalDays) * 100).toFixed(1)}%</span>
-                    <span>⭐ Kỷ lục: {((domain.maxStreakDays / domain.totalDays) * 100).toFixed(1)}%</span>
-                  </div>
-                </div>
-              );
-            })
-          )}
-        </div>
       </div>
 
       {/* Delete Confirmation Dialog */}

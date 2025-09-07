@@ -7,6 +7,7 @@ import { addTagXP, removeTagXP } from '../store/slices/tagSlice';
 import TaskForm from '../components/TaskForm';
 import TaskList from '../components/TaskList';
 import TagLevels from '../components/TagLevels';
+import TreeView from '../components/TreeView';
 import Charts from '../components/Charts';
 import ExperienceOverview from '../components/ExperienceOverview';
 import Notification from '../components/Notification';
@@ -74,17 +75,58 @@ const TaskManager = () => {
     }, 3000);
   };
 
+  const [activeTab, setActiveTab] = useState<'overview' | 'tree'>('overview');
+
   return (
-    <div className="space-y-8">
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+    <div className="space-y-6">
+      {/* Top Section: Task Form + Quick Stats */}
+      <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
         <div className="lg:col-span-1">
           <TaskForm onSubmit={handleAddTask} />
         </div>
-        <div className="lg:col-span-2">
-          <TagLevels tags={tags} />
+        <div className="lg:col-span-3">
+          {/* Tab Navigation */}
+          <div className="bg-white rounded-lg shadow-md">
+            <div className="border-b border-gray-200">
+              <nav className="flex space-x-8 px-6">
+                <button
+                  onClick={() => setActiveTab('overview')}
+                  className={`py-4 px-1 border-b-2 font-medium text-sm transition-colors ${
+                    activeTab === 'overview'
+                      ? 'border-blue-500 text-blue-600'
+                      : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
+                  }`}
+                >
+                  📊 Tags Overview
+                </button>
+                <button
+                  onClick={() => setActiveTab('tree')}
+                  className={`py-4 px-1 border-b-2 font-medium text-sm transition-colors ${
+                    activeTab === 'tree'
+                      ? 'border-blue-500 text-blue-600'
+                      : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
+                  }`}
+                >
+                  🌳 Tree Structure
+                </button>
+              </nav>
+            </div>
+
+            {/* Tab Content */}
+            <div className={activeTab === 'overview' ? 'p-6' : 'p-0'}>
+              {activeTab === 'overview' ? (
+                <TagLevels tags={tags} />
+              ) : (
+                <div className="max-h-[500px] overflow-y-auto">
+                  <TreeView className="shadow-none border-0" />
+                </div>
+              )}
+            </div>
+          </div>
         </div>
       </div>
 
+      {/* Tasks Section */}
       <TaskList
         tasks={tasks}
         currentDate={currentDate}
@@ -92,10 +134,13 @@ const TaskManager = () => {
         onDateChange={handleDateChange}
       />
 
-      <Charts tasks={tasks} tags={tags} />
+      {/* Analytics Section */}
+      <div className="grid grid-cols-1 xl:grid-cols-2 gap-6">
+        <Charts tasks={tasks} tags={tags} />
+        <ExperienceOverview tasks={tasks} tags={tags} />
+      </div>
 
-      <ExperienceOverview tasks={tasks} tags={tags} />
-
+      {/* Notifications */}
       <div className="fixed bottom-4 right-4 z-50 space-y-2">
         {notifications.map((notification) => (
           <Notification

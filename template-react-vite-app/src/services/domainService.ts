@@ -36,6 +36,37 @@ export interface StatsResponse {
   last_scan: string;
 }
 
+export interface TreeNodeData {
+  name: string;
+  path: string;
+  depth: number;
+  xp: number;
+  level: number;
+  taskCount: number;
+  streakDays: number;
+  maxStreakDays: number;
+  totalDays: number;
+  lastTaskDate: string;
+  totalWords: number;
+  totalXpWithChildren: number;
+  totalArticlesWithChildren: number;
+  maxLevelInTree: number;
+  children: Record<string, TreeNodeData>;
+  childrenCount: number;
+  hasChildren: boolean;
+  color: string;
+  isLeaf: boolean;
+}
+
+export interface TreeResponse {
+  success: boolean;
+  tree: Record<string, TreeNodeData>;
+  count: number;
+  last_scan: string;
+  scan_path: string;
+  supported_extensions: string[];
+}
+
 /**
  * Fetch all domains from backend
  */
@@ -91,6 +122,44 @@ export const fetchDomainStats = async (): Promise<StatsResponse> => {
     return data;
   } catch (error) {
     console.error('Error fetching domain stats:', error);
+    throw error;
+  }
+};
+
+/**
+ * Fetch tree structure from backend
+ */
+export const fetchTreeData = async (): Promise<TreeResponse> => {
+  try {
+    const response = await fetch(`${API_BASE_URL}/api/domains/tree`);
+    
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Error fetching tree data:', error);
+    throw error;
+  }
+};
+
+/**
+ * Fetch detailed domains with subfolders
+ */
+export const fetchDetailedDomains = async (): Promise<any> => {
+  try {
+    const response = await fetch(`${API_BASE_URL}/api/domains/detailed`);
+    
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Error fetching detailed domains:', error);
     throw error;
   }
 };
