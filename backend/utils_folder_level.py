@@ -361,7 +361,7 @@ def scan_folder_with_subfolders(folder_path: str, supported_extensions: set) -> 
             # Chỉ scan các thư mục con, bỏ qua file
             if os.path.isdir(item_path):
                 subfolder_data = scan_single_folder(item_path, supported_extensions)
-                if subfolder_data and subfolder_data['taskCount'] > 0:  # Chỉ hiển thị folder có nội dung
+                if subfolder_data:  # Luôn hiển thị cả khi chưa có file hợp lệ
                     subfolders[item] = {
                         'name': item,
                         'xp': subfolder_data['xp'],
