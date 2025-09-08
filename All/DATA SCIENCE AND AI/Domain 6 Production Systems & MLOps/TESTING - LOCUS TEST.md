@@ -6,13 +6,13 @@
 
 ### 1.1 Mở Terminal và chạy lệnh:
 
-```bash  
+```bash
 locust -f simple_test.py --host http://103.253.20.30:30004  
 ```
 
 ### 1.2 Bạn sẽ thấy thông báo:
 
-```  
+```
 [2025-09-01 14:30:15,123] INFO/locust.main: Starting web interface at http://127.0.0.1:8089 (accepting connections from all network interfaces)  
 [2025-09-01 14:30:15,124] INFO/locust.main: Starting Locust 2.x.x  
 ```
@@ -23,7 +23,7 @@ locust -f simple_test.py --host http://103.253.20.30:30004
 
 ### 2.2 Bạn sẽ thấy màn hình khởi tạo:
 
-```  
+```
 ┌─────────────────────────────────────┐  
 │           Start new load test        │  
 ├─────────────────────────────────────┤  
@@ -37,15 +37,15 @@ locust -f simple_test.py --host http://103.253.20.30:30004
 
 ### 2.3 Cấu hình đề xuất cho lần đầu:
 
-* **Number of users** : `10` (10 user ảo)  
-* **Spawn rate** : `2` (tăng 2 user mỗi giây)  
+* **Number of users** : `10` (10 user ảo)
+* **Spawn rate** : `2` (tăng 2 user mỗi giây)
 * Nhấn **"Start swarming"**
 
 ## 📈 BƯỚC 3: Theo Dõi Test Real-time
 
 ### 3.1 Sau khi nhấn "Start swarming", bạn sẽ thấy giao diện chính với 5 tabs:
 
-```  
+```
 ┌─Statistics─┬─Charts─┬─Failures─┬─Exceptions─┬─Download Data─┐  
 │     ✓      │        │          │            │               │  
 └────────────┴────────┴──────────┴────────────┴───────────────┘  
@@ -55,7 +55,7 @@ locust -f simple_test.py --host http://103.253.20.30:30004
 
 ### 3.2 Trong tab Statistics, bạn sẽ thấy bảng như này:
 
-```  
+```
 ┌──────────┬────────────────────────┬──────────┬──────────┬────────┬────────┬────────┬─────────┬─────────┬─────┬─────┬──────────┬─────────────┐  
 │   Type   │          Name          │ # Requests│ # Fails │ Median │ 90%ile │ 95%ile │  99%ile │ Average │ Min │ Max │Avg Size  │Current RPS  │  
 ├──────────┼────────────────────────┼──────────┼──────────┼────────┼────────┼────────┼─────────┼─────────┼─────┼─────┼──────────┼─────────────┤  
@@ -69,29 +69,29 @@ locust -f simple_test.py --host http://103.253.20.30:30004
 
 #### ✅ **KẾT QUẢ TỐT (Ví dụ trên):**
 
-* **# Requests: 247** → Đã gửi 247 requests  
-* **# Fails: 1 (0%)** → Chỉ 1 lỗi = 0.4% lỗi (RẤT TỐT!)  
-* **Median: 340ms** → 50% requests dưới 340ms (NHANH!)  
-* **95%ile: 780ms** → 95% requests dưới 780ms (CHẤP NHẬN ĐƯỢC!)  
-* **99%ile: 1200ms** → 99% requests dưới 1.2 giây (OK!)  
+* **# Requests: 247** → Đã gửi 247 requests
+* **# Fails: 1 (0%)** → Chỉ 1 lỗi = 0.4% lỗi (RẤT TỐT!)
+* **Median: 340ms** → 50% requests dưới 340ms (NHANH!)
+* **95%ile: 780ms** → 95% requests dưới 780ms (CHẤP NHẬN ĐƯỢC!)
+* **99%ile: 1200ms** → 99% requests dưới 1.2 giây (OK!)
 * **Current RPS: 8.5** → Đang xử lý 8.5 requests/giây
 
 #### ⚠️ **KẾT QUẢ CẦN CHÚ Ý:**
 
-```  
+```
 │   POST   │Simple Search - lãnh đạo│   150    │ 8 (5%)   │  850   │ 1500   │ 2200   │  4500   │  1100   │ 200 │5200 │  2.1 kB  │    4.2      │  
 ```
 
-* **# Fails: 8 (5%)** → 5% lỗi (HỚI CAO!)  
+* **# Fails: 8 (5%)** → 5% lỗi (HỚI CAO!)
 * **95%ile: 2200ms** → 95% requests dưới 2.2 giây (HỚI CHẬM!)
 
 #### ❌ **KẾT QUẢ XẤU:**
 
-```  
+```
 │   POST   │Simple Search - lãnh đạo│    80    │ 15 (19%) │ 1200   │ 3000   │ 4500   │  8000   │  1800   │ 300 │9500 │  2.1 kB  │    1.8      │  
 ```
 
-* **# Fails: 15 (19%)** → 19% lỗi (NGUY HIỂM!)  
+* **# Fails: 15 (19%)** → 19% lỗi (NGUY HIỂM!)
 * **95%ile: 4500ms** → 4.5 giây (QUÁ CHẬM!)
 
 ## 📈 TAB 2: CHARTS (Biểu đồ thời gian thực)
@@ -100,7 +100,7 @@ locust -f simple_test.py --host http://103.253.20.30:30004
 
 #### **Biểu đồ 1: Response Times**
 
-```  
+```
 Response Time (ms)  
         ↑  
    1500 |  
@@ -109,12 +109,12 @@ Response Time (ms)
       0 |───╲─────╲╱───╲─── → Time  
 ```
 
-* **Đường xanh lá (Median)** : Thời gian phản hồi trung bình  
+* **Đường xanh lá (Median)** : Thời gian phản hồi trung bình
 * **Đường cam (95th percentile)** : 95% requests dưới đường này
 
 #### **Biểu đồ 2: Requests per Second**
 
-```  
+```
 RPS     ↑  
      15 |████████████████   
      10 |████████████████  
@@ -122,12 +122,12 @@ RPS     ↑
       0 |──────────────── → Time  
 ```
 
-* **Càng thẳng càng tốt** = API ổn định  
+* **Càng thẳng càng tốt** = API ổn định
 * **Nếu giảm dần** = API không chịu nổi tải
 
 #### **Biểu đồ 3: Number of Users**
 
-```  
+```
 Users   ↑  
      10 |        ████████  
       5 |    ╱██████████  
@@ -140,7 +140,7 @@ Users   ↑
 
 ### 3.5 Nếu có lỗi, bạn sẽ thấy:
 
-```  
+```
 ┌─────────┬────────────────────────┬───────────────────────────┬──────────────┐  
 │  Method │          URL           │        Error Message       │ Occurrences  │  
 ├─────────┼────────────────────────┼───────────────────────────┼──────────────┤  
@@ -151,9 +151,9 @@ Users   ↑
 
 **Các lỗi thường gặp:**
 
-* **ConnectionError** : Mất kết nối mạng  
-* **HTTP 500** : Lỗi server internal  
-* **HTTP 404** : API endpoint không tồn tại  
+* **ConnectionError** : Mất kết nối mạng
+* **HTTP 500** : Lỗi server internal
+* **HTTP 404** : API endpoint không tồn tại
 * **TimeoutError** : API phản hồi quá chậm
 
 ## 🎯 BƯỚC 4: Đánh Giá Kết Quả
@@ -162,7 +162,7 @@ Users   ↑
 
 #### ✅ **API HOẠT ĐỘNG TỐT:**
 
-```  
+```
 ✓ Error Rate: 0-1%  
 ✓ Median: < 500ms    
 ✓ 95%ile: < 1000ms  
@@ -172,7 +172,7 @@ Users   ↑
 
 #### ⚠️ **API CHẤP NHẬN ĐƯỢC:**
 
-```  
+```
 ⚠ Error Rate: 1-3%  
 ⚠ Median: 500-800ms  
 ⚠ 95%ile: 1000-2000ms    
@@ -181,7 +181,7 @@ Users   ↑
 
 #### ❌ **API CÓ VẤN ĐỀ:**
 
-```  
+```
 ✗ Error Rate: > 5%  
 ✗ Median: > 1000ms  
 ✗ 95%ile: > 3000ms  
@@ -192,13 +192,13 @@ Users   ↑
 
 ### 5.1 Vào tab  **"Download Data"** :
 
-* **Download request statistics CSV** : Số liệu chi tiết  
-* **Download response times distribution CSV** : Phân bố thời gian  
+* **Download request statistics CSV** : Số liệu chi tiết
+* **Download response times distribution CSV** : Phân bố thời gian
 * **Download exceptions CSV** : Chi tiết lỗi (nếu có)
 
 ### 5.2 File CSV sẽ chứa data để phân tích sau:
 
-```csv  
+```csv
 Type,Name,Request Count,Failure Count,Median Response Time,Average Response Time,Min Response Time,Max Response Time,Average Content Size,Requests/s,Failures/s,50%,66%,75%,80%,90%,95%,98%,99%,99.9%,99.99%,100%  
 POST,Simple Search - lãnh đạo,247,1,340,380,180,1450,2048,8.5,0.03,340,420,520,580,650,780,950,1200,1450,1450,1450  
 ```
@@ -207,21 +207,21 @@ POST,Simple Search - lãnh đạo,247,1,340,380,180,1450,2048,8.5,0.03,340,420,5
 
 ### 6.1 **Nếu kết quả TỐT:**
 
-* Tăng số user lên 20-30  
-* Test lâu hơn (10-15 phút)  
+* Tăng số user lên 20-30
+* Test lâu hơn (10-15 phút)
 * Thử với tải cao hơn
 
 ### 6.2 **Nếu có VẤN ĐỀ:**
 
-* Giảm số user xuống 5  
-* Kiểm tra server resources  
+* Giảm số user xuống 5
+* Kiểm tra server resources
 * Liên hệ team backend
 
 ## 📝 BƯỚC 7: Viết Báo Cáo Đơn Giản
 
 ### 7.1 **Template nhanh:**
 
-```  
+```
 🎯 LOAD TEST REPORT - [Ngày test]
 
 📊 CẤU HÌNH TEST:  
@@ -248,24 +248,24 @@ Có thể test với tải cao hơn.
 
 ### Từ lúc chạy đến khi có báo cáo (5 phút):
 
-1. **00:00** - Chạy `locust -f simple_test.py --host http://103.253.20.30:30004`  
-2. **00:15** - Mở http://localhost:8089, set 10 users, spawn rate 2  
-3. **00:30** - Nhấn "Start swarming", bắt đầu theo dõi  
-4. **01:00** - Xem tab Statistics: 0% error, median 340ms → Tốt!  
-5. **02:00** - Xem tab Charts: RPS ổn định, response time không gai → OK!  
-6. **03:00** - Tiếp tục theo dõi, metrics vẫn stable  
-7. **04:00** - Nhấn "Stop" để dừng test  
-8. **04:30** - Vào "Download Data" tải CSV về  
+1. **00:00** - Chạy `locust -f simple_test.py --host http://103.253.20.30:30004`
+2. **00:15** - Mở http://localhost:8089, set 10 users, spawn rate 2
+3. **00:30** - Nhấn "Start swarming", bắt đầu theo dõi
+4. **01:00** - Xem tab Statistics: 0% error, median 340ms → Tốt!
+5. **02:00** - Xem tab Charts: RPS ổn định, response time không gai → OK!
+6. **03:00** - Tiếp tục theo dõi, metrics vẫn stable
+7. **04:00** - Nhấn "Stop" để dừng test
+8. **04:30** - Vào "Download Data" tải CSV về
 9. **05:00** - Viết báo cáo: "API hoạt động tốt với 10 users"
 
 **Vậy là xong! Bạn đã có báo cáo performance đầu tiên rồi!** 🎉
 
 ## 💡 LÚU Ý QUAN TRỌNG
 
-* **Lần đầu test** : Chỉ 5-10 users, 2-3 phút là đủ  
-* **Focus vào Error Rate** : Phải < 1%  
-* **Focus vào 95%ile** : Phải < 1-2 giây  
-* **Nếu OK** : Tăng dần users để tìm giới hạn  
+* **Lần đầu test** : Chỉ 5-10 users, 2-3 phút là đủ
+* **Focus vào Error Rate** : Phải < 1%
+* **Focus vào 95%ile** : Phải < 1-2 giây
+* **Nếu OK** : Tăng dần users để tìm giới hạn
 * **Screenshot** : Chụp màn hình Statistics để lưu proof
 
 ![](https://fsds-content.s3.ap-southeast-1.amazonaws.com/uploads/366761efca158e85de4650a37ef5d75d3ff2c126d0acd27836482fff4ef55b0c.png)
@@ -273,6 +273,7 @@ Có thể test với tải cao hơn.
 ![](https://fsds-content.s3.ap-southeast-1.amazonaws.com/uploads/f888e14c080fecf7a7ec016101ff8725c22c2bb153ad028eb79293b5657315d9.png)
 
 ---
+
 Ah! Vậy là **API đã BỊ OVERLOAD NGHIÊM TRỌNG!** 🚨
 
 ## 📊 **PHÂN TÍCH KẾT QUẢ:**
@@ -430,3 +431,11 @@ time curl -X POST http://103.253.20.30:30004/search_jobs_and_generation_sendBE \
 **Đây không phải là vấn đề nhỏ - đây là vấn đề KIẾN TRÚC cần giải quyết ngay!**
 
 Bạn có thể test với 1 user để xem kết quả như thế nào không?
+
+
+---
+
+Example: 
+
+
+![1757318993404](image/TESTING-LOCUSTEST/1757318993404.png)

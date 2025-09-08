@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: server",
+                "query": "file: product",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,8 +228,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1ac1ac1ec685f7ce",
+  "active": "de333728293ea4d4",
   "lastOpenFiles": [
+    "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/image/TESTING-LOCUSTEST/1757318993404.png",
+    "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/image/TESTING-LOCUSTEST",
+    "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/image",
     "NOTE/1. DailyNote/2025-09-08.md",
     "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/2.1.2 Docker - Docker Hub.md",
     "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
@@ -259,8 +261,6 @@
     "All/DATA SCIENCE AND AI/Cuong",
     "docs/docs1.1_updateGlobalStreakFeature.md",
     "template-react-vite-app/src/components/GlobalStreak.tsx",
-    "docs/image",
-    "docs",
     "NOTE/1. DailyNote/2025-09-06.md",
     "NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "1. DailyNote/2025-09-07.md",
@@ -276,7 +276,6 @@
     "NOTE/1. DailyNote/1.2 Tính theo Dự Án/Job 1 Step Up Education.md",
     "NOTE/1. DailyNote/1.2 Tính theo Dự Án/ExdrawJob 1 Step Up.md",
     "NOTE/1. DailyNote/1.1 Sách/2025-08-24 _The Almanack of Naval Ravikant_.md",
-    "NOTE/1. DailyNote/RedTeam Pika Bot.md",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

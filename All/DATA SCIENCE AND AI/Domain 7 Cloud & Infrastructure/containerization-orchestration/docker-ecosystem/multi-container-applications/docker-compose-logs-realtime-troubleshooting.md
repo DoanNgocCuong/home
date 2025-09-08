@@ -46,3 +46,4 @@ docker compose restart [service_name]
 # Xem environment variables
 docker compose config
 ```
+
