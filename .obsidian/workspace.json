@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
+                "file": "All/DATA SCIENCE AND AI/Domain 2 Programming & Software Engineering/UI/2.4 Docker Hub với Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Server Deploy - mật khẩu vào Server - Github"
+              "title": "2.4 Docker Hub với Server"
             }
           }
         ],
@@ -117,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
+                "file": "All/DATA SCIENCE AND AI/Domain 2 Programming & Software Engineering/UI/2.4 Docker Hub với Server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Server Deploy - mật khẩu vào Server - Github"
+              "title": "Outline of 2.4 Docker Hub với Server"
             }
           },
           {
@@ -229,8 +228,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1ac1ac1ec685f7ce",
+  "active": "de333728293ea4d4",
   "lastOpenFiles": [
+    "All/DATA SCIENCE AND AI/Domain 7 Cloud & Infrastructure/containerization-orchestration/docker-ecosystem/multi-container-applications/docker-compose-logs-realtime-troubleshooting.md",
+    "All/DATA SCIENCE AND AI/Domain 7 Cloud & Infrastructure/containerization-orchestration/docker-ecosystem/multi-container-applications",
+    "All/DATA SCIENCE AND AI/Domain 7 Cloud & Infrastructure/containerization-orchestration/docker-ecosystem",
+    "All/DATA SCIENCE AND AI/Domain 7 Cloud & Infrastructure/containerization-orchestration",
+    "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
     "NOTE/1. DailyNote/2025-09-08.md",
     "NOTE/1. DailyNote/2025-09-07.md",
     "backend/calculation_rules.md",
@@ -267,16 +271,11 @@
     "NOTE/1. DailyNote/attachments/Pasted image 20250821124147.png",
     "NOTE/1. DailyNote/1.2 Tính theo Dự Án/Job 1 Step Up Education.md",
     "NOTE/1. DailyNote/1.2 Tính theo Dự Án/ExdrawJob 1 Step Up.md",
-    "NOTE/1. DailyNote/1.2 Tính theo Dự Án/attachments",
     "NOTE/1. DailyNote/1.1 Sách/2025-08-24 _The Almanack of Naval Ravikant_.md",
     "NOTE/1. DailyNote/RedTeam Pika Bot.md",
-    "NOTE/1. DailyNote/attachments",
     "NOTE/1. DailyNote/2025-09-05.md",
     "NOTE/1. DailyNote/2025-09-04.md",
     "NOTE/1. DailyNote/2025-09-03.md",
-    "NOTE/1. DailyNote/2025-09-02.md",
-    "NOTE/1. DailyNote/2025-09-01.md",
-    "NOTE/1. DailyNote/1.2 Tính theo Dự Án",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
