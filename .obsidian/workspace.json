@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTE/1. DailyNote/2025-09-08.md",
+                "file": "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-08"
+              "title": "6. Server Deploy - mật khẩu vào Server - Github"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: serve",
+                "query": "file: server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTE/1. DailyNote/2025-09-08.md",
+                "file": "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-08"
+              "title": "Outline of 6. Server Deploy - mật khẩu vào Server - Github"
             }
           },
           {
@@ -231,15 +231,16 @@
   },
   "active": "1ac1ac1ec685f7ce",
   "lastOpenFiles": [
-    "NOTE/1. DailyNote/attachments/Pasted image 20250908120853.png",
+    "NOTE/1. DailyNote/2025-09-08.md",
+    "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/2.1.2 Docker - Docker Hub.md",
     "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
+    "NOTE/1. DailyNote/attachments/Pasted image 20250908120853.png",
     "All/DATA SCIENCE AND AI/Domain 6 Production Systems & MLOps/2.1.3 Dọn docker - kill process - port server.md",
     "All/DATA SCIENCE AND AI/Domain 2 Programming & Software Engineering/UI/2.4 Docker Hub với Server.md",
     "All/DATA SCIENCE AND AI/Domain 7 Cloud & Infrastructure/containerization-orchestration/docker-ecosystem/multi-container-applications/docker-compose-logs-realtime-troubleshooting.md",
     "All/DATA SCIENCE AND AI/Domain 7 Cloud & Infrastructure/containerization-orchestration/docker-ecosystem/multi-container-applications",
     "All/DATA SCIENCE AND AI/Domain 7 Cloud & Infrastructure/containerization-orchestration/docker-ecosystem",
     "All/DATA SCIENCE AND AI/Domain 7 Cloud & Infrastructure/containerization-orchestration",
-    "NOTE/1. DailyNote/2025-09-08.md",
     "NOTE/1. DailyNote/2025-09-07.md",
     "backend/calculation_rules.md",
     "backend/__pycache__/utils_xp_level.cpython-312.pyc",
@@ -272,7 +273,6 @@
     "NOTE/1. DailyNote/attachments/Pasted image 20250825133957.png",
     "NOTE/1. DailyNote/attachments/Pasted image 20250825022625.png",
     "NOTE/1. DailyNote/attachments/Pasted image 20250825022230.png",
-    "NOTE/1. DailyNote/attachments/Pasted image 20250821124147.png",
     "NOTE/1. DailyNote/1.2 Tính theo Dự Án/Job 1 Step Up Education.md",
     "NOTE/1. DailyNote/1.2 Tính theo Dự Án/ExdrawJob 1 Step Up.md",
     "NOTE/1. DailyNote/1.1 Sách/2025-08-24 _The Almanack of Naval Ravikant_.md",
