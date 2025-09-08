@@ -11,7 +11,7 @@
 ## 🎯 Tính năng chính
 
 ### 📊 **Domain Analysis:**
-- **Scan** tất cả domain folders trong `DATA SCIENCE AND AI/`
+- **Scan** tất cả domain folders trong `DATA_SCIENCE_AND_AI/`
 - **Tính XP** dựa trên số bài viết và số từ
 - **Tính Level** theo hệ thống XP như Tag system
 - **Tính Streak** dựa trên ngày viết bài
@@ -146,7 +146,7 @@ backend/
 ### **Thay đổi đường dẫn scan:**
 Sửa trong file `main.py`:
 ```python
-DATA_SCIENCE_PATH = r"D:\vip_DOCUMENTS_OBS\home\DATA SCIENCE AND AI"
+DATA_SCIENCE_PATH = r"D:\vip_DOCUMENTS_OBS\home\DATA_SCIENCE_AND_AI"
 ```
 
 ### **Thay đổi công thức XP:**

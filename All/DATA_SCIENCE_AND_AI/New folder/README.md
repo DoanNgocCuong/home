@@ -97,7 +97,7 @@ Dưới đây là bản format lại theo cấu trúc rõ ràng, giữ nguyên n
 ### **Thông tin cá nhân:**
 
 1. **Tên:** Cường
-2. **Background học tập:** Data Science and AI
+2. **Background học tập:** DATA_SCIENCE_AND_AI
 3. **Công việc hiện tại:** AI Intern - công ty AI Production mảng Education AI
 4. **Định hướng tương lai:** NLP, LLMs, RAG, Workflow and AI Agents
 5. **Sở thích:** học tập phát triển bản thân, hack speed, Networking
@@ -106,7 +106,7 @@ Dưới đây là bản format lại theo cấu trúc rõ ràng, giữ nguyên n
 
 ### **Background:**
 
-Data Science and AI - (BKHN) 2021
+DATA_SCIENCE_AND_AI - (BKHN) 2021
 
 ---
 
