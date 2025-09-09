@@ -231,6 +231,7 @@
   },
   "active": "1ac1ac1ec685f7ce",
   "lastOpenFiles": [
+    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/controllers/generateLearningPathV4T92025_A2_JTBD2TopicAndSituation copy.js",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/controllers/generateLearningPathV4T92025_A1_UserInput2JTBDController.js",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/controllers/generateLearningPathV4T92025_A2_JTBD2TopicAndSituation.js",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/docs/docs1.1_fixBugGpt5Format_09092025.md",
@@ -249,7 +250,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/prod_deploy/src/__pycache__/utils_IDNeighbor.cpython-312.pyc",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/prod_deploy/src/__pycache__/utils.cpython-312.pyc",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/prod_deploy/src/__pycache__/main.cpython-312.pyc",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/prod_deploy/src/__pycache__/settings.cpython-312.pyc",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/_/locusTestAPI_FAIL/src0_ApiText2Speech/docs_.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/_/locusTestAPI_FAIL/docs/docs1_HowToReadUnderstandThongSo.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/_/locusTestAPI_FAIL/docs/docs0_cloneLocustTestFromOldCode.md",
