@@ -117,12 +117,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 287.5026054382324
+    "width": 287.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "422b3eaae750cadd",
@@ -138,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "NOTE/1. DailyNote/2025-09-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-09-10"
             }
           },
           {
@@ -229,9 +230,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1ac1ac1ec685f7ce",
+  "active": "48d631d191afa314",
   "lastOpenFiles": [
+    "NOTE/1. DailyNote/2025-09-09.md",
     "NOTE/1. DailyNote/2025-09-10.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/controllers/pipelineAPI_ClaudeCode1000Dong_bug_InternalController.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/controllers/pipelineAPI_GenSparkCode1000Dong_Ngon_InternalAPI.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/controllers/pipelineAPI_ClaudeCode1000Dong_bug copy.md",
@@ -251,7 +254,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/controllers/pipeline_excel.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/controllers/pipeline copy.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/controllers/pipeline.md",
-    "NOTE/1. DailyNote/2025-09-09.md",
     "NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/docs/docs1.1_fixBugGpt5Format_09092025.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/docs/docs1.1_fixBugGPTFormat_09092025.md",
@@ -276,7 +278,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/prod_deploy/docs/docs1.9_Implementation_Plan_Prometheus_Grafana.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/prod_deploy/docs/docs1.8_blog_FullWorkflow_Metrics_Prometheus_Grafana.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/prod_deploy/docs/docs1.7_API_export.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/prod_deploy/docs/docs1.6_bug_key.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain 8 Advanced AI Applications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
