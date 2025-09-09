@@ -53,14 +53,14 @@
             "id": "1ac1ac1ec685f7ce",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/repo/MVP_Multi-Agent-Financial-Platform_LangchainLanggraph_T9_2025",
-                "bFile": "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/repo/MVP_Multi-Agent-Financial-Platform_LangchainLanggraph_T9_2025",
-                "aRef": ""
+                "file": "NOTE/1. DailyNote/2025-09-09.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: MVP_Multi-Agent-Financial-Platform_LangchainLanggraph_T9_2025"
+              "icon": "lucide-file",
+              "title": "2025-09-09"
             }
           }
         ],
@@ -231,6 +231,7 @@
   },
   "active": "1ac1ac1ec685f7ce",
   "lastOpenFiles": [
+    "NOTE/1. DailyNote/2025-09-09.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/_/locusTestAPI_FAIL/docs/image/docs0_Plan/1756363048841.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/_/locusTestAPI_FAIL/docs/image/docs0_ApiText2Speech/1756361622375.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/_/locusTestAPI_FAIL/src0_ApiText2Speech/templates/index.html",
@@ -255,7 +256,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/locusTestAPI_FAIL/image/1_HowToReadLocusTest/1756740197132.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/locusTestAPI_FAIL/image/1.8_MoTaProblem/1757299771677.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/locusTestAPI_FAIL/image/1.8_MoTaProblem/1756981965096.png",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/locusTestAPI_FAIL/image/1.8_MoTaProblem/1756975328962.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/deploy/src/CKP/Update_formatAPI.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/deploy/src/CKP/prompt_follow_up.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v2_SearchRAGFor1000Nghe_20250815_REAL_30004/prod_deploy/src/todo_follow_up.md",
