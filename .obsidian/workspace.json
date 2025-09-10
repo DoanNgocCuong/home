@@ -181,11 +181,16 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "2c0749b962cc12f1",
   "lastOpenFiles": [
+    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/Random_Forest.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/Gradient_Boost.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
     "NOTE/1. DailyNote/2025-09-10.md",
     "NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
@@ -200,7 +205,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/readme_workflow.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/readme_ReviewCode.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/main.py",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/batch_comfyui.py",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/UserInput.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/Bug.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/controllers/generateLearningQNAController_ClaudeMoTa_GensprkCode.md",
@@ -220,8 +224,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job_thumbnail_scenario_v2_06052025/readme_workflow.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job_thumbnail_scenario_v2_06052025/readme_ReviewCode.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job_thumbnail_scenario_v2_06052025/Bug.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job2_background_onion_v1_06052025/UserInput.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job2_background_onion_v1_06052025/readme_workflow.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/CKP/3_TaiLieuPrompting/T22025_image_UpdateProcessBar_DangThanhThayChoHinhTron.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/CKP/3_TaiLieuPrompting/27032025_WorkflowDesign.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/CKP/3_TaiLieuPrompting/27032025_Plan_Starting.png",
