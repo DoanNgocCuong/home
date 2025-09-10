@@ -11,6 +11,7 @@ dSSR/d theta = - (...) Vì để lost giảm nên đạo hfn
 
 ![1757511829580](image/Gradient_Boost_2025-10-09/1757511829580.png)
 
+![1757514765568](image/Gradient_Boost_2025-10-09/1757514765568.png)
 
 ---
 
