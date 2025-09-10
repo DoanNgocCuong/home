@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTE/1. DailyNote/2025-09-10.md",
+                "file": "NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-10"
+              "title": "2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown)"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTE/1. DailyNote/2025-09-10.md",
+                "file": "NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-10"
+              "title": "Outline of 2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown)"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,18 +187,18 @@
   },
   "active": "2c0749b962cc12f1",
   "lastOpenFiles": [
-    "Untitled.base",
     "NOTE/1. DailyNote/2025-09-10.md",
+    "NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
+    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/utils/gen_qna.json",
+    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/utils/gen qna.json",
+    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/utils/utils_genImageLive.js",
+    "Untitled.base",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/it_is_because_the_list_covers_rare_cases_20250910_145611_t17vva.mp3",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/it_is_because_everyone_reacts_differently_20250910_145611_2nmlz0.mp3",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/it_is_because_the_medicine_affects_many_organs_20250910_145611_cj235b.mp3",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/it_is_because_the_medicine_affects_many_organs.mp3",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/it_is_because_everyone_reacts_differently_20250910_145135_3i41su.mp3",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/it_is_because_the_medicine_affects_many_organs_20250910_145135_65he36.mp3",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/it_is_because_the_list_covers_rare_cases_20250910_145135_1zdwsb.mp3",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/it_is_because_the_list_covers_rare_cases_20250910_144838_cu4dv8.mp3",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/it_is_because_everyone_reacts_differently_20250910_144838_646u2y.mp3",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/it_is_because_the_medicine_affects_many_organs_20250910_144838_e2zmji.mp3",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/readme_ReviewCode.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/UserInput.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/readme_workflow.md",

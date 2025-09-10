@@ -90,17 +90,23 @@ Rất hay 👌 Mình sẽ format lại nguyên khung này thành một **templat
 ---
 
 ## 11. TIÊU ĐIỂM NGÀY
+| CÔNG VIỆC, SỰ NGHIỆP, TÀI CHÍNH |          |      |          |     |          | 100% |
+| ------------------------------- | -------- | ---- | -------- | --- | -------- | ---- |
+| KR1:                            | Tracking | KR2: | Tracking | KR3 | Tracking |      |
+|                                 |          |      |          |     |          |      |
+|                                 |          |      |          |     |          |      |
+|                                 |          |      |          |     |          |      |
+|                                 |          |      |          |     |          |      |
+| SUMMARY DAY                     |          |      |          |     |          |      |
 
-- 🎯
-    
-- KR1: …
-    
-- KR2: …
-    
-- KR3: …
-    
-- % Hoàn thành: …
-    
+| TÂM TRÍ, ĐÚC KẾT, LEVEL UP |          |      |          |     | 100%     | D   |
+| -------------------------- | -------- | ---- | -------- | --- | -------- | --- |
+| KR1:                       | Tracking | KR2: | Tracking | KR3 | Tracking |     |
+|                            |          |      |          |     |          |     |
+|                            |          |      |          |     |          |     |
+|                            |          |      |          |     |          |     |
+|                            |          |      |          |     |          |     |
+| SUMMARY DAY                |          |      |          |     |          |     |
 
 ---
 # 3. SỬ DỤNG TRONG NGÀY MINI PROBLEM SOLVING
