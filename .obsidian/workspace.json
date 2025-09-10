@@ -225,12 +225,10 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "48d631d191afa314",
+  "active": "1ac1ac1ec685f7ce",
   "lastOpenFiles": [
     "NOTE/1. DailyNote/2025-09-09.md",
     "NOTE/1. DailyNote/2025-09-10.md",
