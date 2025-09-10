@@ -32,3 +32,75 @@ dSSR/d theta = - (...) Vì để lost giảm nên đạo hfn
 ![1757516512672](image/Gradient_Boost_2025-10-09/1757516512672.png)
 
 ![1757516913998](image/Gradient_Boost_2025-10-09/1757516913998.png)
+
+
+```
+
+# Import Library
+import numpy as np
+import pandas as pd
+from sklearn.datasets import load_breast_cancer
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.metrics import (
+    accuracy_score,
+    classification_report,
+    confusion_matrix
+)
+
+# Load dataset
+data = load_breast_cancer()
+X = data.data
+y = data.target
+
+# Chuyển thành DataFrame để dễ quan sát
+df = pd.DataFrame(X, columns=data.feature_names)
+df['target'] = y
+print(df.head())
+
+# Split data to train/test (giữ tỷ lệ lớp bằng stratify)
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, random_state=42, stratify=y
+)
+
+print("\nSố lượng mẫu train:", X_train.shape[0])
+print("Số lượng mẫu test:", X_test.shape[0])
+
+# Khởi tạo mô hình cơ bản
+gb = GradientBoostingClassifier(random_state=42)
+
+# Lưới tham số
+param_grid = {
+    'n_estimators': [50, 100, 200],
+    'learning_rate': [0.01, 0.05, 0.1],
+    'max_depth': [2, 3, 4],
+    'subsample': [0.8, 1.0]
+}
+
+# GridSearch với cross-validation = 5
+grid_search = GridSearchCV(
+    estimator=gb,
+    param_grid=param_grid,
+    cv=5,
+    n_jobs=-1,
+    scoring='accuracy',
+    verbose=2
+)
+
+# Train GridSearch
+grid_search.fit(X_train, y_train)
+
+# Get model with best hyperparameter
+print("Best parameters:", grid_search.best_params_)
+print("Best cross-validation accuracy:", grid_search.best_score_)
+
+best_gb = grid_search.best_estimator_
+
+# Evaluate on test set
+y_pred = best_gb.predict(X_test)
+
+print("Test Accuracy:", accuracy_score(y_test, y_pred))
+print("\nClassification Report:")
+print(classification_report(y_test, y_pred, target_names=data.target_names))
+
+```
