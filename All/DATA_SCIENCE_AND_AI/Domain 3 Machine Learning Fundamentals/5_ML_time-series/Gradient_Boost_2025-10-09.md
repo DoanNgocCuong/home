@@ -1,6 +1,9 @@
+https://lms.aivietnam.edu.vn/api/files/683184ca519c0e157fb514cd/Documents%2F2025-8%2FM04W02%20-%20Gradient%20Boosting%2FAIO2025_GradientBoosting_v2.pdf
+
+
 1. Tại sao dùng giá trị trung bình?
-2. Residual Error?
-3. 
+3. Residual Error?
+4. 
 
 ![1757513306598](image/Gradient_Boost_2025-10-09/1757513306598.png)
 
