@@ -17,6 +17,26 @@ dSSR/d theta = - (...) Vì để lost giảm nên đạo hfn
 
 ![1757514465545](image/Gradient_Boost_2025-10-09/1757514465545.png)
 
+
+
+```python
+from sklearn.model_selection import TimeSeriesSplit, GridSearchCV
+from sklearn.ensemble import GradientBoostingRegressor
+
+# XGBoost
+cv_split = TimeSeriesSplit(n_splits=4, test_size=100)
+model = GradientBoostingRegressor()
+parameters = {
+    "max_features": [3, 4, 5],
+    "learning_rate": [0.01, 0.05],
+    "n_estimators": [100, 300]
+}
+
+grid_search = GridSearchCV(estimator=model, cv=cv_split, param_grid=parameters)
+grid_search.fit(X_train, y_train)
+
+```
+
 ---
 
 ![1757514975500](image/Gradient_Boost_2025-10-09/1757514975500.png)
@@ -34,7 +54,7 @@ dSSR/d theta = - (...) Vì để lost giảm nên đạo hfn
 ![1757516913998](image/Gradient_Boost_2025-10-09/1757516913998.png)
 
 
-```
+```python
 
 # Import Library
 import numpy as np
