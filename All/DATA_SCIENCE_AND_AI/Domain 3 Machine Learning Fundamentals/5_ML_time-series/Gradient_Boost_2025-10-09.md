@@ -2,6 +2,8 @@
 2. Residual Error?
 3. 
 
+![1757513306598](image/Gradient_Boost_2025-10-09/1757513306598.png)
+
 Khởi tạo Gradient Boost tại giá trị trung bình vì tại đó lost bé nhất. 
 
 dSSR/d theta = - (...) Vì để lost giảm nên đạo hfn 
