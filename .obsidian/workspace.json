@@ -11,13 +11,14 @@
             "id": "2c0749b962cc12f1",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "NOTE/1. DailyNote/2025-09-10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2025-09-10"
             }
           }
         ]
