@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTE/1. DailyNote/2025-09-11.md",
+                "file": "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/02-multi-agent/KIRO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-11"
+              "title": "KIRO"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: server",
+                "query": "file: agent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 287.5026054382324
+    "width": 355.5
   },
   "right": {
     "id": "422b3eaae750cadd",
@@ -95,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTE/1. DailyNote/2025-09-11.md",
+                "file": "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/02-multi-agent/KIRO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-11"
+              "title": "Outline of KIRO"
             }
           },
           {
@@ -188,8 +187,10 @@
   },
   "active": "2c0749b962cc12f1",
   "lastOpenFiles": [
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
+    "NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.1 II Agent Problem Solving.md",
+    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/02-multi-agent/KIRO.md",
     "NOTE/1. DailyNote/2025-09-11.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
     "NOTE/1. DailyNote/image/2025-09-11/1757550002402.png",
     "NOTE/1. DailyNote/image/2025-09-11",
     "NOTE/1. DailyNote/image",
@@ -232,7 +233,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job2_background_onion_v1_06052025/UserInput.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job2_background_onion_v1_06052025/readme_ReviewCode.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job2_background_onion_v1_06052025/readme_workflow.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/utils_genAnhOffline_T5_2025/src/readtask1.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain 8 Advanced AI Applications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
