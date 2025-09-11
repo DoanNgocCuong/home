@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: serve",
+                "query": "file: server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,12 +188,13 @@
   },
   "active": "2c0749b962cc12f1",
   "lastOpenFiles": [
+    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
+    "NOTE/1. DailyNote/2025-09-11.md",
     "NOTE/1. DailyNote/image/2025-09-11/1757550002402.png",
     "NOTE/1. DailyNote/image/2025-09-11",
     "NOTE/1. DailyNote/image",
     "NOTE/1. DailyNote/attachments/Pasted image 20250911071927.png",
     "NOTE/1. DailyNote/2025-08-24.md",
-    "NOTE/1. DailyNote/2025-09-11.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757516913998.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757516512672.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757516106438.png",
@@ -202,7 +204,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757514465545.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757513306598.png",
     "README.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757511829580.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/Gradient_Boost_2025-10-09.md",
@@ -211,7 +212,6 @@
     "NOTE/1. DailyNote/2025-09-10.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/Random_Forest.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
     "NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/utils/utils_genQNAImageLive.js",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/its_quite_common_for_medications_to_have_a_long_list_of_side_effects_this_is_because_every_persons_b.mp3",
