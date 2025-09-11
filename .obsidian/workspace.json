@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: agent",
+                "query": "file: serve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,11 +187,12 @@
   },
   "active": "2c0749b962cc12f1",
   "lastOpenFiles": [
+    "NOTE/1. DailyNote/2025-09-12.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
+    "NOTE/1. DailyNote/2025-09-11.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/5_Database",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/02-multi-agent/KIRO.md",
     "NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.1 II Agent Problem Solving.md",
-    "NOTE/1. DailyNote/2025-09-11.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
     "NOTE/1. DailyNote/image/2025-09-11/1757550002402.png",
     "NOTE/1. DailyNote/image/2025-09-11",
     "NOTE/1. DailyNote/image",
@@ -219,7 +220,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/its_quite_common_for_medications_to_have_a_long_list_of_side_effects_this_is_because_every_persons_b.mp3",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/utils/utils_genImageLive.js",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/utils/gen_qna.json",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/readme_workflow.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/readme_ReviewCode.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/UserInput.md",
