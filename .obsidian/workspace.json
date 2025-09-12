@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df86c3cb00337919",
+        "id": "9d4e2807135ab2e4",
         "type": "tabs",
         "children": [
           {
-            "id": "2c0749b962cc12f1",
+            "id": "31c550c426b5a61c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: serve",
+                "query": "file: vision",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,10 +185,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "2c0749b962cc12f1",
+  "active": "31c550c426b5a61c",
   "lastOpenFiles": [
-    "NOTE/1. DailyNote/2025-09-11.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.7_CV/OCR.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.1 Computer Vision/docs.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.1 Computer Vision",
+    "template-react-vite-app/node_modules/@fortawesome/fontawesome-free/svgs/solid/eye-low-vision.svg",
     "NOTE/1. DailyNote/2025-09-12.md",
+    "NOTE/1. DailyNote/2025-09-11.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/5_Database",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/02-multi-agent/KIRO.md",
@@ -205,7 +209,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757514975500.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757514765568.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757514465545.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757513306598.png",
     "README.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image",
@@ -219,7 +222,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/utils/utils_genQNAImageLive.js",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads/its_quite_common_for_medications_to_have_a_long_list_of_side_effects_this_is_because_every_persons_b.mp3",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/uploads",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/src/utils/utils_genImageLive.js",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/readme_workflow.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/readme_ReviewCode.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/LS_ai_automation/utils_importDB/utils_genAnhOffline_T5_2025/send_job_thumbnail_scenario_v2_06052025/UserInput.md",
@@ -231,8 +233,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job_thumbnail_scenario_v2_06052025/readme_workflow.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job_thumbnail_scenario_v2_06052025/readme_ReviewCode.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job_thumbnail_scenario_v2_06052025/Bug.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job2_background_onion_v1_06052025/UserInput.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-workflow/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/utils_genAnhOffline_T5_2025/src/send_job2_background_onion_v1_06052025/readme_ReviewCode.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain 8 Advanced AI Applications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
