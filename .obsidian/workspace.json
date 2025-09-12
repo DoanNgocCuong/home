@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: vision",
+                "query": "file:  server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,13 +188,13 @@
   },
   "active": "31c550c426b5a61c",
   "lastOpenFiles": [
+    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
+    "NOTE/1. DailyNote/2025-09-12.md",
     "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.7_CV/OCR.md",
     "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.1 Computer Vision/docs.md",
     "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.1 Computer Vision",
     "template-react-vite-app/node_modules/@fortawesome/fontawesome-free/svgs/solid/eye-low-vision.svg",
-    "NOTE/1. DailyNote/2025-09-12.md",
     "NOTE/1. DailyNote/2025-09-11.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/5_Database",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/02-multi-agent/KIRO.md",
     "NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.1 II Agent Problem Solving.md",
