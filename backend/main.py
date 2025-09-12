@@ -162,7 +162,8 @@ def scan_all_domains():
     # Danh sách các thư mục cụ thể cần scan
     specific_folders = [
         "0. NHẤT HƯỚNG",
-        "DATA_SCIENCE_AND_AI"
+        "DATA_SCIENCE_AND_AI", 
+        "NOTE"
     ]
     
     # Tìm tất cả domain folders và specific folders
@@ -228,7 +229,8 @@ def _collect_all_contribution_dates() -> List[datetime]:
 
     specific_folders = [
         "0. NHẤT HƯỚNG",
-        "DATA_SCIENCE_AND_AI"
+        "DATA_SCIENCE_AND_AI", 
+        "NOTE"
     ]
 
     for item in DATA_SCIENCE_PATH.iterdir():
@@ -394,7 +396,8 @@ async def get_folder_tree():
         # Danh sách các thư mục cụ thể cần scan
         specific_folders = [
             "0. NHẤT HƯỚNG",
-            "DATA_SCIENCE_AND_AI"
+            "DATA_SCIENCE_AND_AI", 
+            "NOTE"
         ]
         
         # Build complete tree structure
@@ -426,7 +429,8 @@ async def get_folder_tree_display():
         # Danh sách các thư mục cụ thể cần scan
         specific_folders = [
             "0. NHẤT HƯỚNG",
-            "DATA_SCIENCE_AND_AI"
+            "DATA_SCIENCE_AND_AI", 
+            "NOTE"
         ]
         
         # Build complete tree structure
