@@ -149,3 +149,92 @@ Khởi tạo learning rate theo các giải thuật đặc biệt?
 
 
 ![1757860129488](image/Gradient_Boost_2025-10-09/1757860129488.png)
+
+Mình giải thích chi tiết hình XGBoost bạn gửi nhé:
+
+---
+
+## 1. Ngữ cảnh ví dụ
+
+- Dữ liệu có 4 điểm:
+    
+    ```
+    X   Y
+    23  0
+    24  0
+    26  1
+    27  1
+    ```
+    
+- Tham số: λ=0\lambda = 0, độ sâu cây = 1 (stump), learning rate (η) = 0.3.
+    
+
+Mục tiêu: Dự đoán cho X=25.8X = 25.8.
+
+---
+
+## 2. Bước khởi tạo
+
+- Trước tiên, XGBoost khởi tạo xác suất ban đầu cho tất cả mẫu bằng **tần suất lớp dương**.
+    
+- Ở đây có 2/4 mẫu thuộc lớp 1 → xác suất khởi tạo = 0.5.
+    
+- Log-odds khởi tạo:
+    
+    log⁡0.51−0.5=0\log\frac{0.5}{1-0.5} = 0
+    
+    → First prediction = 0 (logit).
+    
+
+---
+
+## 3. Xây cây đầu tiên (depth = 1)
+
+- Cây chia tại ngưỡng X<25X < 25.
+    
+- Nút trái: Output = -2.0 (cho các điểm 23, 24).
+    
+- Nút phải: Output = 2.0 (cho các điểm 26, 27).
+    
+
+Các output này thực chất đến từ việc tính gradient và hessian của loss trên residuals.
+
+---
+
+## 4. Dự đoán cho X=25.8X = 25.8
+
+- Vì 25.8>2525.8 > 25 → đi nhánh phải → giá trị lá = +2.0.
+    
+- Với learning rate η = 0.3, giá trị cập nhật = 0.3×2.0=0.60.3 \times 2.0 = 0.6.
+    
+- Log prediction sau cập nhật:
+    
+    LogPrediction=0+0.6=0.6\text{LogPrediction} = 0 + 0.6 = 0.6
+
+---
+
+## 5. Chuyển logit → xác suất
+
+- Xác suất dự đoán:
+    
+    P=e0.61+e0.6≈0.6457P = \frac{e^{0.6}}{1 + e^{0.6}} \approx 0.6457
+
+---
+
+## 6. Ý nghĩa
+
+- Quy trình này minh hoạ cách XGBoost:
+    
+    1. Bắt đầu bằng log-odds từ phân bố lớp.
+        
+    2. Cập nhật log-odds bằng các cây nhỏ (weighted by learning rate).
+        
+    3. Biến đổi log-odds thành xác suất dự đoán qua sigmoid.
+        
+
+---
+
+👉 Bạn có muốn mình viết lại ví dụ này dưới dạng **bảng từng bước (khởi tạo → chọn nhánh → cập nhật logit → xác suất)** để học viên dễ theo dõi hơn không?
+---
+- [XGBoost Documentation — xgboost 0.4 documentation](https://xgboost-clone.readthedocs.io/en/latest/)
+- 
