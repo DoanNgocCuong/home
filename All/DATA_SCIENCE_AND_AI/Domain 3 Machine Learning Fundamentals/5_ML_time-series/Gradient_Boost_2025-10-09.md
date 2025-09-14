@@ -139,10 +139,10 @@ Khởi tạo learning rate theo các giải thuật đặc biệt?
 
 ```
 
-
-
 ![1757857978330](image/Gradient_Boost_2025-10-09/1757857978330.png)![1757857737995](image/Gradient_Boost_2025-10-09/1757857737995.png)
-
 
 - **Định nghĩa**: `n_estimators` đại diện cho số lượng cây quyết định (decision trees) mà mô hình sẽ tạo ra. Mỗi cây trong mô hình sẽ học từ một phần của dữ liệu và đóng góp vào dự đoán cuối cùng.
 - `verbose=1`  tham số verbose nói chung trong CS thường mang ý nghĩa là thông tin chi tiết: thường dùng trong gỡ lỗi, giám sát, chi tiết thêm thông tin về 1 quá trình đang diễn ra nào đấy
+
+
+![1757859178368](image/Gradient_Boost_2025-10-09/1757859178368.png)
