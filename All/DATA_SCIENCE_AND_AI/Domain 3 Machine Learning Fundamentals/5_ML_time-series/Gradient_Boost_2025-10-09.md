@@ -145,3 +145,4 @@ Khởi tạo learning rate theo các giải thuật đặc biệt?
 
 
 - **Định nghĩa**: `n_estimators` đại diện cho số lượng cây quyết định (decision trees) mà mô hình sẽ tạo ra. Mỗi cây trong mô hình sẽ học từ một phần của dữ liệu và đóng góp vào dự đoán cuối cùng.
+- `verbose=1`
