@@ -146,3 +146,6 @@ Khởi tạo learning rate theo các giải thuật đặc biệt?
 
 
 ![1757859178368](image/Gradient_Boost_2025-10-09/1757859178368.png)
+
+
+![1757860129488](image/Gradient_Boost_2025-10-09/1757860129488.png)
