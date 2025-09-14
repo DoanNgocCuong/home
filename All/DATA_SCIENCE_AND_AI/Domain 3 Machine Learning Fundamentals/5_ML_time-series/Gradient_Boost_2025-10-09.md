@@ -1,16 +1,14 @@
 https://lms.aivietnam.edu.vn/api/files/683184ca519c0e157fb514cd/Documents%2F2025-8%2FM04W02%20-%20Gradient%20Boosting%2FAIO2025_GradientBoosting_v2.pdf
 
-
 1. Tại sao dùng giá trị trung bình?
-3. Residual Error?
-4. 
+2. Residual Error?
+3. 
 
 ![1757513306598](image/Gradient_Boost_2025-10-09/1757513306598.png)
 
-Khởi tạo Gradient Boost tại giá trị trung bình vì tại đó lost bé nhất. 
+Khởi tạo Gradient Boost tại giá trị trung bình vì tại đó lost bé nhất.
 
-
-dSSR/d theta = - (...) Vì để lost giảm nên đạo hfn 
+dSSR/d theta = - (...) Vì để lost giảm nên đạo hfn
 
 ![1757511829580](image/Gradient_Boost_2025-10-09/1757511829580.png)
 
@@ -19,8 +17,6 @@ dSSR/d theta = - (...) Vì để lost giảm nên đạo hfn
 ---
 
 ![1757514465545](image/Gradient_Boost_2025-10-09/1757514465545.png)
-
-
 
 ```python
 from sklearn.model_selection import TimeSeriesSplit, GridSearchCV
@@ -44,18 +40,15 @@ grid_search.fit(X_train, y_train)
 
 ![1757514975500](image/Gradient_Boost_2025-10-09/1757514975500.png)
 
-
 ---
 
 ![1757515897580](image/Gradient_Boost_2025-10-09/1757515897580.png)
-
 
 ---
 
 ![1757516512672](image/Gradient_Boost_2025-10-09/1757516512672.png)
 
 ![1757516913998](image/Gradient_Boost_2025-10-09/1757516913998.png)
-
 
 ```python
 
@@ -129,12 +122,13 @@ print(classification_report(y_test, y_pred, target_names=data.target_names))
 ```
 
 ---
-# 14/09/2025 
 
-1. Hàm loss của nó? 
-2. Ví dụ: 
-3. init 
-v
+# 14/09/2025
+
+1. Hàm loss của nó?
+2. Ví dụ:
+3. init
+   v
 
 ```
 Cách khởi tạo learning rate?
@@ -142,4 +136,9 @@ Cách khởi tạo learning rate?
 Để ý learning rate mặc định của các thư viện
 
 Khởi tạo learning rate theo các giải thuật đặc biệt?
+
 ```
+
+
+
+![1757857978330](image/Gradient_Boost_2025-10-09/1757857978330.png)![1757857737995](image/Gradient_Boost_2025-10-09/1757857737995.png)
