@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-14.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-14"
+              "title": "2025-09-15"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-14.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-14"
+              "title": "Outline of 2025-09-15"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-14.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-15.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-14"
+              "title": "Backlinks for 2025-09-15"
             }
           },
           {
@@ -179,6 +179,7 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2025-09-14.md",
     "All/NOTE/1. DailyNote/2025-09-15.md",
     "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.1 Computer Vision/docs.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/Gradient_Boost_2025-10-09.md",
@@ -194,7 +195,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain 1 Mathematical & Statistical Foundation/0. AIO/image/Day30_Gradient.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/0. __init__ MACHINE LEARNING.md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/1. git, SOLID, Code chuẩn.md",
-    "All/NOTE/1. DailyNote/2025-09-14.md",
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250914201203.png",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/6. Server Deploy - mật khẩu vào Server - Github.md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/17 Tools/10_aLaptop/1. Dọn file.md",
