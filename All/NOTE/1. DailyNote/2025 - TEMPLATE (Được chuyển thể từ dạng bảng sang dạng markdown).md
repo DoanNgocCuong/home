@@ -187,3 +187,6 @@ Rất hay 👌 Mình sẽ format lại nguyên khung này thành một **templat
 ✅ …  
 ⚠️ …  
 💡 …
+
+
+# 5. Họp / Lớp học: 
