@@ -134,3 +134,12 @@ print(classification_report(y_test, y_pred, target_names=data.target_names))
 1. Hàm loss của nó? 
 2. Ví dụ: 
 3. init 
+v
+
+```
+Cách khởi tạo learning rate?
+
+Để ý learning rate mặc định của các thư viện
+
+Khởi tạo learning rate theo các giải thuật đặc biệt?
+```

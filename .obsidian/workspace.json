@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6df4041fcdcce4f4",
+        "id": "581978ace436b696",
         "type": "tabs",
         "children": [
           {
-            "id": "bf1a88cc8e3136e0",
+            "id": "856d44a5df84c440",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757511829580.png"
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/Gradient_Boost_2025-10-09.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "1757511829580"
+              "icon": "lucide-file",
+              "title": "Gradient_Boost_2025-10-09"
             }
           }
         ]
@@ -72,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757511829580.png",
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/Gradient_Boost_2025-10-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1757511829580"
+              "title": "Outline of Gradient_Boost_2025-10-09"
             }
           },
           {
@@ -186,8 +187,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0cf1f93d49c9ecae",
+  "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757511829580.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/Gradient_Boost_2025-10-09.md",
     "All/DATA_SCIENCE_AND_AI/Domain 1 Mathematical & Statistical Foundation/0. AIO/image/Day30_Gradient.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/0. __init__ MACHINE LEARNING.md",
@@ -233,7 +235,6 @@
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/4. Bash Scripts - Buổi 4 Machine Learning - Bash Script - Makefile - CronJob - Airflow - Dagster - Flyte - Học đến 22h30 - viết Summary Discussion đến 23h30.md",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/2. B2.md",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/15..md",
-    "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/12. CI CD.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain 8 Advanced AI Applications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
