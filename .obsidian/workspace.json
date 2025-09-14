@@ -11,14 +11,12 @@
             "id": "bf1a88cc8e3136e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/Gradient_Boost_2025-10-09.md",
-                "mode": "source",
-                "source": false
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757511829580.png"
               },
-              "icon": "lucide-file",
-              "title": "Gradient_Boost_2025-10-09"
+              "icon": "lucide-image",
+              "title": "1757511829580"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: gradient",
+                "query": "path:\"All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +72,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,13 +93,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/Gradient_Boost_2025-10-09.md",
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1757511829580.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gradient_Boost_2025-10-09"
+              "title": "Outline of 1757511829580"
             }
           },
           {
@@ -187,8 +186,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "de333728293ea4d4",
+  "active": "0cf1f93d49c9ecae",
   "lastOpenFiles": [
+    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/Gradient_Boost_2025-10-09.md",
     "All/DATA_SCIENCE_AND_AI/Domain 1 Mathematical & Statistical Foundation/0. AIO/image/Day30_Gradient.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/0. __init__ MACHINE LEARNING.md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/1. git, SOLID, Code chuẩn.md",
@@ -210,7 +210,6 @@
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 16-27-49.png",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 16-39-20.png",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 16-23-39.png",
-    "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/imgs/Screenshot from 2024-06-10 16-20-56.png",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/data/products.csv",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/utils.py",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/setup.sh",
