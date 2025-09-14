@@ -272,3 +272,7 @@ Nếu có nn bin và dữ liệu nằm trong khoảng [xmin,xmax][x_{min}, x_{ma
 ---
 
 👉 Bạn có muốn mình viết thêm một **ví dụ bằng Python + matplotlib** để vẽ histogram và highlight các bin, để trực quan hơn không?
+
+---
+Nếu có n bin, và dữ liệu nằm trong [x_min, x_max]  
+=> bin_width = w = (x_max - x_min) /n
