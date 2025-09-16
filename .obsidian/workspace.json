@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: tool",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,6 +179,7 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/image/Pasted image 20250917065342.png",
     "All/NOTE/1. DailyNote/image/Pasted image 20250917060500.png",
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250917060130.png",
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250917055855.png",
@@ -192,7 +193,6 @@
     "All/NOTE/1. DailyNote/image/2025-09-17/1758062536900.png",
     "All/NOTE/1. DailyNote/image/2025-09-17",
     "All/NOTE/1. DailyNote/image",
-    "All/NOTE/1. DailyNote/attachments/Pasted image 20250917054015.png",
     "All/NOTE/1. DailyNote/2025-09-16.md",
     "All/NOTE/1. DailyNote/2025-09-17.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/2025 - 08 - 29 MAX WORKS (SỐ LUỒNG I O ) - BATCH SIZE SỐ DATA GOM VÀO 1 LUỒNG.md",
