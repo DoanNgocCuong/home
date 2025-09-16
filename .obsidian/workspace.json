@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: batch",
+                "query": "file: tool",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,8 +177,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "856d44a5df84c440",
+  "active": "0cf1f93d49c9ecae",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/attachments/Pasted image 20250917060130.png",
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250917055855.png",
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250917055122.png",
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250917055111.png",
@@ -191,7 +193,6 @@
     "All/NOTE/1. DailyNote/image",
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250917054015.png",
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250917052737.png",
-    "All/NOTE/1. DailyNote/attachments/Pasted image 20250917052711.png",
     "All/NOTE/1. DailyNote/2025-09-16.md",
     "All/NOTE/1. DailyNote/2025-09-17.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/2025 - 08 - 29 MAX WORKS (SỐ LUỒNG I O ) - BATCH SIZE SỐ DATA GOM VÀO 1 LUỒNG.md",
