@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Full DataScience.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full DataScience"
+              "title": "2025-09-18"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-17.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-17"
+              "title": "Outline of 2025-09-18"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Full DataScience.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-18.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Full DataScience"
+              "title": "Backlinks for 2025-09-18"
             }
           },
           {
@@ -151,8 +151,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,10 +176,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "856d44a5df84c440",
+  "active": "3d69cb957032b13f",
   "lastOpenFiles": [
-    "All/NOTE/1. DailyNote/2025-09-17.md",
     "All/DATA_SCIENCE_AND_AI/Full DataScience.md",
+    "All/NOTE/1. DailyNote/2025-09-18.md",
+    "All/NOTE/1. DailyNote/2025-09-17.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/9. Decision Tree.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917220756.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917215818.png",
@@ -224,7 +224,6 @@
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/data/products.csv",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/utils.py",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/README.md",
-    "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/README.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain 8 Advanced AI Applications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
