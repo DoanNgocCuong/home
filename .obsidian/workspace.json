@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/9. Decision Tree.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Decision Tree"
+              "title": "2025-09-17"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/9. Decision Tree.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-17.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9. Decision Tree"
+              "title": "Backlinks for 2025-09-17"
             }
           },
           {
@@ -180,6 +180,7 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/9. Decision Tree.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917220756.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917215818.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917213436.png",
@@ -190,7 +191,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917211631.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917205945.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917205816.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917205540.png",
     "All/NOTE/1. DailyNote/2025-09-01.md",
     "All/NOTE/1. DailyNote/2025-09-17.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/9.DecisionTree",
