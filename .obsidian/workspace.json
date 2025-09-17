@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-17.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-17"
+              "title": "2025-09-01"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-17.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-01.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-17"
+              "title": "Backlinks for 2025-09-01"
             }
           },
           {
@@ -172,13 +172,19 @@
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "audio-recorder:Start/stop recording": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
-    "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "All/NOTE/1. DailyNote/2025-09-17.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/9.DecisionTree/1758115345226.png",
+    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/9.DecisionTree",
+    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image",
+    "All/NOTE/1. DailyNote/image/Pasted image 20250917201050.png",
+    "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "All/NOTE/1. DailyNote/2025 - Problem Solving.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/3.6 TIME - Four Thousand Weeks - Time Management.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250917065342.png",
@@ -189,9 +195,7 @@
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250917055111.png",
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250917055036.png",
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250917054936.png",
-    "All/NOTE/1. DailyNote/attachments/Pasted image 20250917054909.png",
     "All/NOTE/1. DailyNote/update_image.py",
-    "All/NOTE/1. DailyNote/attachments/Pastedimage20250917052711.png",
     "All/NOTE/1. DailyNote/image/2025-09-17",
     "All/NOTE/1. DailyNote/image",
     "All/NOTE/1. DailyNote/2025-09-16.md",
@@ -216,13 +220,10 @@
     "NOTE/1. DailyNote/2025-09-13.md",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/data/products.csv",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/utils.py",
-    "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/setup.sh",
-    "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/requirements.txt",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/README.md",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B8_virtualization/README.md",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/0. Tài nguyên chung.md",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/Kết bạn Linkedin.md",
-    "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/Wecommit100x/1 số Mindset thay đổi.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain 8 Advanced AI Applications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
