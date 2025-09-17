@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-17.md",
+                "file": "All/NOTE/1.1 Đang Không Nghiên Cứu/3.6 TIME - Four Thousand Weeks - Time Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-17"
+              "title": "3.6 TIME - Four Thousand Weeks - Time Management"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-17.md",
+                "file": "All/NOTE/1.1 Đang Không Nghiên Cứu/3.6 TIME - Four Thousand Weeks - Time Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-17"
+              "title": "Outline of 3.6 TIME - Four Thousand Weeks - Time Management"
             }
           },
           {
@@ -179,6 +178,8 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2025-09-17.md",
+    "All/NOTE/1.1 Đang Không Nghiên Cứu/3.6 TIME - Four Thousand Weeks - Time Management.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250917065342.png",
     "All/NOTE/1. DailyNote/image/Pasted image 20250917060500.png",
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250917060130.png",
@@ -190,11 +191,9 @@
     "All/NOTE/1. DailyNote/attachments/Pasted image 20250917054909.png",
     "All/NOTE/1. DailyNote/update_image.py",
     "All/NOTE/1. DailyNote/attachments/Pastedimage20250917052711.png",
-    "All/NOTE/1. DailyNote/image/2025-09-17/1758062536900.png",
     "All/NOTE/1. DailyNote/image/2025-09-17",
     "All/NOTE/1. DailyNote/image",
     "All/NOTE/1. DailyNote/2025-09-16.md",
-    "All/NOTE/1. DailyNote/2025-09-17.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/2025 - 08 - 29 MAX WORKS (SỐ LUỒNG I O ) - BATCH SIZE SỐ DATA GOM VÀO 1 LUỒNG.md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/Lập trình song song/Batch size và Max workers.md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/Lập trình song song",
