@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-15.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-17.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-15"
+              "title": "Backlinks for 2025-09-17"
             }
           },
           {
@@ -152,7 +152,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0cf1f93d49c9ecae",
+  "active": "77b9fc4ea27a1c18",
   "lastOpenFiles": [
     "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "All/NOTE/1. DailyNote/2025 - Problem Solving.md",
