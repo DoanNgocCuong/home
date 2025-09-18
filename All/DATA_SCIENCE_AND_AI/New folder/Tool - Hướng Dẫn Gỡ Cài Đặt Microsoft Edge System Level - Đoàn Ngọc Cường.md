@@ -1,4 +1,82 @@
-# Hướng Dẫn Gỡ Cài Đặt Microsoft Edge System Level
+```
+Mình đã mất tầm gần 4h để fix lỗi do 1 sơ xuất của mình trong quá trình dọn dẹp bộ nhớ: Xoá nhầm dữ liệu của trình duyệt tại: `C:\Program Files (x86)\Microsoft\Edge\Application
+```
+
+# 1. Mô tả ngắn về vấn đề gặp phải: 
+- Trong 1 lần xoá dữ liệu để dọn dẹp ổ C và ổ D. Mình vô tình xoá nhầm dữ liệu của trình duyệt tại: `C:\Program Files (x86)\Microsoft\Edge\Application`
+=> Dẫn đến lỗi nghiêm trọng: `WEB LOADING VÔ TẬN`
+
+=> Hệ thống Windows 10 build 22621.4317 gặp phải corruption nghiêm trọng của Microsoft Edge dẫn đến việc trình duyệt hoàn toàn không khả dụng, loading vô tận và treo cứng, tải của máy tính CPU, RAM tăng cao. 
+
+## Triệu Chứng Chính
+
+### 1. Màn Hình Đen và Loading Vô Tận
+
+- Edge mở ra màn hình đen hoàn toàn
+- Vòng tròn loading quay liên tục không dừng
+- Không thể truy cập Settings page (edge://settings/)
+- Không thể truy cập Clear Browser Data
+
+### 2. Multiple Process Spawning
+
+- Thường xuyên có 5-11 tiến trình msedge.exe chạy đồng thời
+- Processes không tự terminate khi đóng Edge
+- Task Manager cho thấy pattern bất thường:
+    
+    ```
+    msedge.exe (PID: 16260, 20912, 13212, 19932, 16832)
+    ```
+    
+
+### 3. Search Functionality Hoàn Toàn Bị Hỏng
+
+- Address bar search không hoạt động
+- URL generation bị corrupt nghiêm trọng:
+    
+    ```
+    https://www.bing.com/search?q=cedvd&cvid=6562d95ada1947f0a3d9c804018f35bb&gs_lcrp=EqRlZGlKqYlAB8FGDkyBqqAEEUYOTlGCAEQABhAMqYlAhAAGEAYqBqqDEAAYQDlGCAQQABhAMqYlB...
+    ```
+    
+- Thậm chí search đơn giản như "facebook" cũng không thể thực hiện
+
+### 4. ...
+- Vấn đề tái xuất hiện ngay sau khi reinstall
+- Chrome hoạt động hoàn toàn bình thường trên cùng hệ thống
+
+## Các Phương Pháp Troubleshooting Đã Thử (Thất Bại)
+
+### 1. Giải Pháp Settings Thông Thường
+
+- ❌ Tắt Hardware Acceleration
+- ❌ Disable IE Mode/Compatibility Mode
+- ❌ Clear Cache qua Settings (không truy cập được)
+- ❌ Reset Edge settings (Settings page không load)
+
+### 2. Profile và Data Management
+
+- ❌ Clear browsing data bằng Ctrl+Shift+Delete
+- ❌ Rename/delete Default profile folder
+- ❌ Remove extensions
+- ❌ Disable sync
+
+### 3. System Level Fixes
+
+- ❌ Windows Search service disable
+- ❌ SysMain/Superfetch disable
+- ❌ Network stack reset (netsh commands)
+- ❌ System file check (sfc /scannow, DISM)
+- ❌ Registry cleanup
+
+### 4. Reinstallation Attempts (Multiple Times)
+
+- ❌ Apps & Features uninstall/reinstall
+- ❌ PowerShell AppxPackage removal và reinstall
+- ❌ Download từ microsoft.com và fresh install
+- ❌ Compatibility mode installation
+
+=> Sau cùng: Cài lại ở mức System luôn. 
+
+# 2. Hướng Dẫn Gỡ Cài Đặt Microsoft Edge System Level
 
 ## Tổng Quan
 
@@ -330,4 +408,4 @@ Start-Process msiexec.exe -ArgumentList "/i MicrosoftEdgeEnterpriseX64.msi /quie
 
 ---
 
-_Tài liệu này được tạo dựa trên thực tế quá trình gỡ cài đặt Edge phiên bản 140.0.3485.66 trên Windows._
+_Tài liệu này được viết lại thực tế quá trình gỡ cài đặt Edge phiên bản 140.0.3485.66 trên Windows._
