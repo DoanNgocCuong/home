@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/New folder/Tool - Hướng Dẫn Gỡ Cài Đặt Microsoft Edge System Level - Đoàn Ngọc Cường.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tool - Hướng Dẫn Gỡ Cài Đặt Microsoft Edge System Level - Đoàn Ngọc Cường"
+              "title": "2025-09-19"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: tool",
+                "query": "file: OBS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/New folder/Tool - Hướng Dẫn Gỡ Cài Đặt Microsoft Edge System Level - Đoàn Ngọc Cường.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tool - Hướng Dẫn Gỡ Cài Đặt Microsoft Edge System Level - Đoàn Ngọc Cường"
+              "title": "Outline of 2025-09-19"
             }
           },
           {
@@ -178,8 +179,9 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/13. note tool.md",
+    "All/DATA_SCIENCE_AND_AI/New folder/3_Learning/15. Utils/1. OBS - genspark 1 Prompt.md",
     "All/DATA_SCIENCE_AND_AI/New folder/Tool - Hướng Dẫn Gỡ Cài Đặt Microsoft Edge System Level - Đoàn Ngọc Cường.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/13. note tool.md",
     "All/NOTE/1. DailyNote/2025-09-19.md",
     "All/NOTE/1. DailyNote/2025-09-18.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918164649.png",
@@ -220,7 +222,6 @@
     "All/NOTE/1. DailyNote/RedTeam Pika Bot.md",
     "All/NOTE/1. DailyNote/2025-09-14.md",
     "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.1 Computer Vision/docs.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/Gradient_Boost_2025-10-09.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/attachments",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/repo/New Text Document.txt",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/data/products.csv",
