@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
+                "file": "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.4 Genspark - Thông minh (II Agent quét rộng).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. FastAPI (Note)"
+              "title": "1.4 Genspark - Thông minh (II Agent quét rộng)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tracing",
+                "query": "genspark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
+                "file": "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.4 Genspark - Thông minh (II Agent quét rộng).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. FastAPI (Note)"
+              "title": "Outline of 1.4 Genspark - Thông minh (II Agent quét rộng)"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
+                "file": "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.4 Genspark - Thông minh (II Agent quét rộng).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. FastAPI (Note)"
+              "title": "Backlinks for 1.4 Genspark - Thông minh (II Agent quét rộng)"
             }
           },
           {
@@ -179,6 +179,10 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.5 Manus or II Agent - Tổng hợp lại cuối.md",
+    "All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/1_Nhất Hướng - Lark.md",
+    "All/0. NHẤT HƯỚNG/1.MD",
+    "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
     "All/NOTE/1. DailyNote/2025-09-18.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918065707.png",
     "All/DATA_SCIENCE_AND_AI/Full DataScience.md",
@@ -218,10 +222,7 @@
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/17 Tools/10_aLaptop/1. Dọn file.md",
     "All/NOTE/1. DailyNote/2025-09-13.md",
     "All/NOTE/1. DailyNote/2025-08-30.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/repo/MVP_Multi-Agent-Financial-Platform_LangchainLanggraph_T9_2025.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/repo/Repo.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/repo/New Text Document.txt",
-    "NOTE/1. DailyNote/2025-09-13.md",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/data/products.csv",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/utils.py",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
