@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-18.md",
+                "file": "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-18"
+              "title": "6. FastAPI (Note)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gini",
+                "query": "tracing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-18.md",
+                "file": "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-18"
+              "title": "Outline of 6. FastAPI (Note)"
             }
           },
           {
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-18.md",
+                "file": "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-18"
+              "title": "Backlinks for 6. FastAPI (Note)"
             }
           },
           {
@@ -178,9 +179,9 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2025-09-18.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918065707.png",
     "All/DATA_SCIENCE_AND_AI/Full DataScience.md",
-    "All/NOTE/1. DailyNote/2025-09-18.md",
     "All/NOTE/1. DailyNote/2025-09-17.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/9. Decision Tree.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917220756.png",
@@ -192,7 +193,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917212133.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917211631.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917205945.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917205816.png",
     "All/NOTE/1. DailyNote/2025-09-01.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/9.DecisionTree",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image",
