@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +176,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "856d44a5df84c440",
+  "active": "de333728293ea4d4",
   "lastOpenFiles": [
     "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/web/2. Template Phaser Game - Toàn bộ các Vite - React - TypeScript.md",
