@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-19.md",
+                "file": "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/7_2. Edu và Fin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-19"
+              "title": "7_2. Edu và Fin"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: OBS",
+                "query": "fix: ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-19.md",
+                "file": "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/7_2. Edu và Fin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-19"
+              "title": "Outline of 7_2. Edu và Fin"
             }
           },
           {
@@ -172,15 +172,20 @@
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "audio-recorder:Start/stop recording": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "856d44a5df84c440",
+  "active": "0cf1f93d49c9ecae",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2025-09-19.md",
+    "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
+    "All/NOTE/1. DailyNote/2025 - Problem Solving.md",
+    "All/NOTE/1. DailyNote/2025-09-17.md",
     "All/DATA_SCIENCE_AND_AI/New folder/3_Learning/15. Utils/1. OBS - genspark 1 Prompt.md",
     "All/DATA_SCIENCE_AND_AI/New folder/Tool - Hướng Dẫn Gỡ Cài Đặt Microsoft Edge System Level - Đoàn Ngọc Cường.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/13. note tool.md",
-    "All/NOTE/1. DailyNote/2025-09-19.md",
     "All/NOTE/1. DailyNote/2025-09-18.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918164649.png",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/17 Tools/10_aLaptop/1. Dọn file.md",
@@ -193,7 +198,6 @@
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918065707.png",
     "All/DATA_SCIENCE_AND_AI/Full DataScience.md",
-    "All/NOTE/1. DailyNote/2025-09-17.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/9. Decision Tree.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917220756.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917215818.png",
@@ -206,8 +210,6 @@
     "All/NOTE/1. DailyNote/2025-09-01.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/9.DecisionTree",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image",
-    "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
-    "All/NOTE/1. DailyNote/2025 - Problem Solving.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/3.6 TIME - Four Thousand Weeks - Time Management.md",
     "All/NOTE/1. DailyNote/update_image.py",
     "All/NOTE/1. DailyNote/image/2025-09-17",
