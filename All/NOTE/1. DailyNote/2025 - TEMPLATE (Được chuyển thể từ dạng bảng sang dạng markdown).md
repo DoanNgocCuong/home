@@ -60,7 +60,7 @@ Link: [‌﻿‬​​​​⁠​​​​​﻿‬‌⁠⁠​﻿​​⁠​�
 | 24. 23h30 - 24h00 |         |         |        |
 
 ---
-Rất hay 👌 Mình sẽ format lại nguyên khung này thành một **template Markdown MINI PROBLEM SOLVING** rõ ràng, dễ điền và vẫn giữ nguyên tất cả keywords mà bạn đã có:
+> XONG 1 NGÀY AE NHỚ ĐIỀN TÓM TẮT VÀO BẢNG GG CALENDAR
 
 ---
 
