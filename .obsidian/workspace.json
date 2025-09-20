@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 1 Mathematical & Statistical Foundation/0. AIO/BasicTasksLearning_OpenCodingHomework_AIVietnamAIO_20252026/Module1_/20250618_TopBugOOP_IIAgent.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250618_TopBugOOP_IIAgent"
+              "title": "2025-09-16"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 1 Mathematical & Statistical Foundation/0. AIO/BasicTasksLearning_OpenCodingHomework_AIVietnamAIO_20252026/Module1_/20250618_TopBugOOP_IIAgent.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20250618_TopBugOOP_IIAgent"
+              "title": "Outline of 2025-09-16"
             }
           },
           {
@@ -188,14 +188,16 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "856d44a5df84c440",
+  "active": "0cf1f93d49c9ecae",
   "lastOpenFiles": [
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.3 AI Agent/AI Agent.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 1 Mathematical & Statistical Foundation/0. AIO/BasicTasksLearning_OpenCodingHomework_AIVietnamAIO_20252026/Module1_/20250618_TopBugOOP_IIAgent.md",
+    "All/NOTE/1. DailyNote/2025-09-17.md",
+    "All/NOTE/1. DailyNote/2025-09-18.md",
+    "All/NOTE/1. DailyNote/2025-09-19.md",
     "All/NOTE/1. DailyNote/2025-09-20.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 1 Mathematical & Statistical Foundation/0. AIO/BasicTasksLearning_OpenCodingHomework_AIVietnamAIO_20252026/Module1_/20250618_TopBugOOP_IIAgent.md",
+    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.3 AI Agent/AI Agent.md",
     "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "All/NOTE/1. DailyNote/2025 - Problem Solving.md",
-    "All/NOTE/1. DailyNote/2025-09-19.md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/web/2. Template Phaser Game - Toàn bộ các Vite - React - TypeScript.md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/web/2.  Template - React + Vite + TypeScript + SWC + Tailwind Template.md",
     "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.7 Template PROBLEM SOLVING - ĐẦU THÁNG 8 - 2025.md",
@@ -203,10 +205,8 @@
     "All/NOTE/1.1 Đang Không Nghiên Cứu/2025-08-28 Context Engineering Từ Vibe Coder Đến AI Orchestrator.md",
     "All/DATA_SCIENCE_AND_AI/New folder/Tool - Hướng Dẫn Gỡ Cài Đặt Microsoft Edge System Level - Đoàn Ngọc Cường.md",
     "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/7_2. Edu và Fin.md",
-    "All/NOTE/1. DailyNote/2025-09-17.md",
     "All/DATA_SCIENCE_AND_AI/New folder/3_Learning/15. Utils/1. OBS - genspark 1 Prompt.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/13. note tool.md",
-    "All/NOTE/1. DailyNote/2025-09-18.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918164649.png",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/17 Tools/10_aLaptop/1. Dọn file.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp/MCP for AI Engineer.md",
