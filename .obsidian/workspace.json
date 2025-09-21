@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1.1 Đang Không Nghiên Cứu/3.7 Habit.md",
+                "file": "All/0. NHẤT HƯỚNG/Hũ bánh quy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.7 Habit"
+              "title": "Hũ bánh quy"
             }
           }
         ]
@@ -189,8 +189,10 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
-    "All/NOTE/1. DailyNote/2025-09-21.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/3.7 Habit.md",
+    "All/0. NHẤT HƯỚNG/Hũ bánh quy.md",
+    "All/0. NHẤT HƯỚNG/Untitled",
+    "All/NOTE/1. DailyNote/2025-09-21.md",
     "All/NOTE/1.1 Đang Nghiên Cứu/2025-09-21 RA QUYẾT ĐỊNH - LÀM ĐIỀU QUAN TRỌNG.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/3.6 TIME - Four Thousand Weeks - Time Management.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/3.2. XỬ LÝ VẤN ĐỀ ĐA NHIỆM - THÓI QUEN XẤU - LÀM 2 VIỆC 1 LÚC - RẤT HAY (GIỮA T82025).md",
@@ -214,7 +216,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/web/2. Template Phaser Game - Toàn bộ các Vite - React - TypeScript.md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/web/2.  Template - React + Vite + TypeScript + SWC + Tailwind Template.md",
     "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.7 Template PROBLEM SOLVING - ĐẦU THÁNG 8 - 2025.md",
-    "template-react-vite-app/node_modules/@typescript-eslint/eslint-plugin/docs/rules/TEMPLATE.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918164649.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918065707.png",
@@ -234,7 +235,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/Lập trình song song",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/attachments",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/repo/New Text Document.txt",
-    "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/Labs/B5/fastapi_chatgpt/fastapi_chatgpt/data/products.csv",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain 8 Advanced AI Applications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
