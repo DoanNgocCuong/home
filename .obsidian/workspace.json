@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/3_Networking/1 Phần Cứng.md",
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/1. git, SOLID, Code chuẩn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Phần Cứng"
+              "title": "1. git, SOLID, Code chuẩn"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: prompt",
+                "query": "file: git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/3_Networking/1 Phần Cứng.md",
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/1. git, SOLID, Code chuẩn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 Phần Cứng"
+              "title": "Outline of 1. git, SOLID, Code chuẩn"
             }
           },
           {
@@ -188,8 +189,8 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
-    "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.5_Agent/Prompt Agent.md",
     "All/NOTE/3_Networking/1 Phần Cứng.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.5_Agent/Prompt Agent.md",
     "All/NOTE/3_Networking",
     "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.0 Prompting/0. Prompting Builder.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.1 RAG/Soft Prompt.md",
