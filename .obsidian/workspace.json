@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/1. git, SOLID, Code chuẩn.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. git, SOLID, Code chuẩn"
+              "title": "Outline of 2025-09-21"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "Smart Chat"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +186,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "de333728293ea4d4",
+  "active": "3d69cb957032b13f",
   "lastOpenFiles": [
     "All/NOTE/1.1 Đang Không Nghiên Cứu/3.8 David Googins.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/3.7 Habit.md",
