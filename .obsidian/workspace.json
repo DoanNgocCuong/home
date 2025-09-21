@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.5_Agent/Prompt Agent.md",
+                "file": "All/NOTE/3_Networking/1 Phần Cứng.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Agent"
+              "title": "1 Phần Cứng"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.5_Agent/Prompt Agent.md",
+                "file": "All/NOTE/3_Networking/1 Phần Cứng.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt Agent"
+              "title": "Outline of 1 Phần Cứng"
             }
           },
           {
@@ -188,8 +188,10 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
-    "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.0 Prompting/0. Prompting Builder.md",
     "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.5_Agent/Prompt Agent.md",
+    "All/NOTE/3_Networking/1 Phần Cứng.md",
+    "All/NOTE/3_Networking",
+    "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.0 Prompting/0. Prompting Builder.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.1 RAG/Soft Prompt.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/utils_importDB/v4_fullWorkflow/module1_JTBD2Step/output/standardOutput/prompt.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v1.2_SearchRAGFor1000Nghe_20250815_430RolesDev_DescriptionV2_30005/utils/ToolRunDataHangLoat/prompt.md",
@@ -214,7 +216,6 @@
     "All/NOTE/1. DailyNote/2025-09-18.md",
     "All/NOTE/1. DailyNote/2025-09-19.md",
     "All/NOTE/1. DailyNote/2025-09-20.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 1 Mathematical & Statistical Foundation/0. AIO/BasicTasksLearning_OpenCodingHomework_AIVietnamAIO_20252026/Module1_/20250618_TopBugOOP_IIAgent.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918164649.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918065707.png",
@@ -233,7 +234,6 @@
     "All/NOTE/1. DailyNote/image",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/Lập trình song song",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/attachments",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/repo/New Text Document.txt",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain 8 Advanced AI Applications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
