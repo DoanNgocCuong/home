@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp/MCP for AI Engineer.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-23.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MCP for AI Engineer"
+              "title": "Backlinks for 2025-09-23"
             }
           },
           {
@@ -161,7 +161,8 @@
               "title": "smart-chat-view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "856d44a5df84c440",
+  "active": "77b9fc4ea27a1c18",
   "lastOpenFiles": [
     "All/NOTE/1. DailyNote/2025-09-22.md",
     "All/NOTE/1. DailyNote/2025-09-23.md",
