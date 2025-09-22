@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fOpenTelemetry",
+                "query": "file: david",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,8 +188,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "77b9fc4ea27a1c18",
+  "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/NOTE/1.1 Đang Không Nghiên Cứu/3.8 David Googins.md",
     "All/NOTE/1. DailyNote/2025-09-22.md",
     "All/NOTE/1. DailyNote/2025-09-23.md",
     "All/NOTE/1. DailyNote/RedTeam Pika Bot.md",
@@ -207,7 +209,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/utils_importDB/v4_fullWorkflow/module1_JTBD2Step/output/standardOutput/prompt.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v1.2_SearchRAGFor1000Nghe_20250815_430RolesDev_DescriptionV2_30005/utils/ToolRunDataHangLoat/prompt.md",
     "All/NOTE/1. DailyNote/2025-09-21.md",
-    "All/NOTE/1.1 Đang Không Nghiên Cứu/3.8 David Googins.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/3.7 Habit.md",
     "All/0. NHẤT HƯỚNG/Hũ bánh quy.md",
     "All/0. NHẤT HƯỚNG/Untitled",
