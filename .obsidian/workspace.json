@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
+                "file": "All/NOTE/1. DailyNote/2025-09-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown)"
+              "title": "2025-09-22"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
+                "file": "All/NOTE/1. DailyNote/2025-09-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown)"
+              "title": "Outline of 2025-09-22"
             }
           },
           {
@@ -157,8 +158,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "icon": "lucide-ghost",
+              "title": "smart-chat-view"
             }
           }
         ]
@@ -188,8 +189,8 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
-    "All/NOTE/1. DailyNote/2025-09-22.md",
     "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
+    "All/NOTE/1. DailyNote/2025-09-22.md",
     "All/NOTE/1. DailyNote/2025 - Problem Solving.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250922053700.png",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/1. git, SOLID, Code chuẩn.md",
