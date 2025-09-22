@@ -2,6 +2,69 @@ Link: [‌﻿‬​​​​⁠​​​​​﻿‬‌⁠⁠​﻿​​⁠​�
 
 ---
 
+# THE ROAD 
+
+YOU ARE BEST TOP 1% TRAINER ABOUT MINDSET, LỐI SỐNG CỦA NGƯỜI HẠNH PHÚC, TRIỆU PHÚ TỈ ĐÔ LA, 
+
+1. Mục đích cuối cùng Begin with the end X10 in Mind and The end with the number: Tự do Tâm Trí - X3+GOSINGA. Bonus: Tài chính, Mối quan hệ, Sức khỏe
+2. Điểm giao mình chọn cho sự nghiệp với Chiến lược đại dương xanh, Tích lũy có system, nhất quán, dài hạn; Tái sử dụng siêu cao : 
+3. AI Engineering (NLP, LLM, MLOps, System Desgin, ... = 10 % Research Model (NLP, LLMs, RAG) + 70% Engineering (MLOps, System Design) + 10 % AI Application (Prompting, AI Workflow, Tools, ...) + 10% Product. ) +
+4. Creator - KOL Leader Community 
+5. Global
+6. Investor trường phái đầu tư cơ bản (đầu tư giá trị)
+Optional: 
+- Academy: Kết hợp với AI Việt Nam Academy, Full Stack Data Science Academy
+- Product & Business Model & Consulting AI, Edu, Finance. 
+
+Các câu chuyện và châm ngôn dễ nhớ và dễ note hơn nhiều so với các đoạn dài
+1. NHẤT HƯỚNG
+- MỤC ĐÍCH CUỘC SỐNG: CHẤM DỨT KHỔ. Con người chúng ta không có nhu cầu tìm kiếm niềm vui hạnh phúc, chúng ta chỉ có nhu cầu duy nhất là Chấm dứt khổ mà thôi. 
+- Hạnh phúc không phải nguyên nhân khổ. Tham ái hạnh phúc mới là nguyên nhân khổ. 
+Như Lai nhờ tuệ tri sự sinh diệt của thọ, vị ngọ, sự nguy hiểm, sự xuất ly. Mà Như Lai được giải thoát hoàn toàn ko còn chấp thủ. 
+- Chánh niệm: Giữ cho Chánh Niệm liên tục 7 ngày, 7 đêm không ngừng nghỉ, ko có tà niệm xen vào thì lúc đó ĐỘT CHUYỂN xuất hiện.
+- Tu Tập là: Đổi Tâm chứ không Đổi Cảnh
+1. The Road (DC) - The Impact (SI) - The Power (SI): 
+
+THE ROAD:
+1. Designer
+- Điểm A
+- Điểm B
+- Milestones
+- Structures: cấu trúc theo chiều ngang (Chẳng hạn cấu trúc cuộc đời thì gồm: TÂM TRÍ, Tài chính, sức khoẻ, MQH. Cấu trúc tài chính thì gồm: Kiếm, giữ, nhân, ....)
++, SIGNATURE: Khi nhắc đến tôi, đâu là điều khiến tôi khác biệt và nổi bật
++, TÂM TRÍ, Tài chính, sức khoẻ, MQH: điểm A, B, các mốc của bạn?
++, Trong các mục lại chẻ nhỏ ra.
+- ACTION => Chẻ nhỏ ra thói quen lõi 
+
+2. Engineer:
+- Mentor, ai là người mình muốn trở thành - gọi tên cụ thể và gặp họ hàng tuần được chưa? Đã phụng sự vị thầy và hết lòng để vị thầy cũng support bạn hết lực chưa? Đã tận dụng được hết mối quan hệ của mentor chưa?
+- Cộng đồng: tôi đã có cộng đồng cùng chung The Road, mục tiêu, thói quen sinh hoạt hàng ngày, hàng tuần chưa?
+  
+3. Investor (Nguồn lực bên trong, bên ngoài - vũ khí bí mật - lợi thế bất công của mình) (cách nào dể tôi có nhiều nguồn lực)?
+- Tài sản hữu hình: tiền,
+- Vô hình: kiến thức kinh nghiệm chuyên môn tuyệt chiêu, uy tín thương hiệu, mạng lưới mối quan hệ, ...
+- DIARY Soi Gương Trách Nhiệm ( DIARY Accountability Mirror) - Căn Phòng Tối (The Dark Room)
+- PROBLEM SOLVING Rèn Luyện Tâm Trí Chai Sần (Callousing the Mind) ưa thích việc giải quyết vấn đề đặc biệt là vấn đề khó TỰ TẨY NÃO MÌNH ĐỂ TÌM KIẾM CẢM GIÁC KHÓ CHỊU - Can't hurt me - Never Finished. - Tái Lập Hệ Thống Tư Duy (Mental Rewiring) 
+  +, "Từ sự đau khổ, chúng ta có thể nhận ra tiềm năng thực sự của mình... Bạn phải xây dựng sự chai sạn cho tâm trí, cũng giống như cách bạn làm chai sạn đôi tay mình." "From suffering, we can emerge to see our own true potential... You have to build calluses on your brain just like you build calluses on your hands."
+  +, "Bạn phải lập trình lại bộ não của mình bằng cách liên tục làm những điều bạn không muốn làm. Bạn phải đảo ngược cái công tắc mặc định đó." "You have to rewire your brain by constantly doing the things you don't want to do. You have to reverse that default switch."
+  
+- Hũ Bánh Quy (The Cookie Jar) tích luỹ SYSTEM 
+Xây dựng mọi thứ 1 cách có hệ thống, có chiến lược dài hạn
+- Quyết Định 1 Giây (The One-Second Decision) - Phá Vỡ Ngưỡng 40% (The 40% Rule) - TRỞ THÀNH hay TRẢI NGHIỆM - XUỐNG SÂN CỎ HÀNH ĐỘNG KHÔNG LÝ DO - KHÔNG LÝ DO CŨNG LÀ LÝ DO.
+2. MÔI TRƯỜNG 
+Tam Bảo (Bên ngoài):
+- Pháp: Giáo pháp, tri thức, sách vở, hệ thống (Gosinga, X3).
+- Thầy hiền trí: Mentor, người dẫn đường.
+- Nhóm bạn tốt: Cộng đồng, đội nhóm cùng phát triển.
+
+SỰ MẤT NĂNG LƯỢNG TINH KHÍ THẦN: Những thứ bạn tưởng chừng vô hại đang nuốt chửng làm bào mòn TINH KHÍ THẦN của bạn. (Sex). 
+- Làm tốt việc của mình, không lo chuyện của trời đất của thiên lạ. (Ý là ko bận tâm, nhưng vẫn giúp đỡ nếu cần với Chánh niệm ko có tham sân si xen vào). 
+3. Networking - TRÒ CHƠI NGƯỜI VỚI NGƯỜI: 
+- Không ai đi tôi cũng đi "Cậu bé mù và cây đèn dầu"
+- Phục vụ ae trở thành NHÂN DẠNG mà ae mong muốn. 
+
+3. Sleep
+
 # 📅 DAILY KAIZEN LOG TEMPLATE
 
 ---

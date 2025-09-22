@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,9 +188,11 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
+    "All/NOTE/1. DailyNote/2025 - Problem Solving.md",
+    "All/NOTE/1. DailyNote/2025-09-22.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250922053700.png",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/1. git, SOLID, Code chuẩn.md",
-    "All/NOTE/1. DailyNote/2025-09-22.md",
     "All/NOTE/3_Networking/1 Phần Cứng.md",
     "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.5_Agent/Prompt Agent.md",
     "All/NOTE/3_Networking",
@@ -216,7 +217,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/0. basic git.md",
     "All/NOTE/1. DailyNote/2025-09-16.md",
     "All/NOTE/1. DailyNote/2025-09-17.md",
-    "All/NOTE/1. DailyNote/2025-09-18.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918164649.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918065707.png",
@@ -227,7 +227,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917212703.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917212407.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917212133.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917211631.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/9.DecisionTree",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image",
     "All/NOTE/1. DailyNote/update_image.py",
