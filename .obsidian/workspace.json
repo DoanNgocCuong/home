@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-22.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-22"
+              "title": "2025-09-23"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-22.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-22"
+              "title": "Outline of 2025-09-23"
             }
           },
           {
@@ -188,9 +188,9 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2025-09-22.md",
     "All/NOTE/1. DailyNote/2025-09-23.md",
     "All/NOTE/1. DailyNote/RedTeam Pika Bot.md",
-    "All/NOTE/1. DailyNote/2025-09-22.md",
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/5. Đánh giá 1 số Job - DNSE - MSB - Domain Tài chính DNSE vs Giáo dục Step Up Education Chiến lược 40-50 năm.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/04-ai-agents.md",
