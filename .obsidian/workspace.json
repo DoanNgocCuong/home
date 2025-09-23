@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ssh",
+                "query": "file: langchain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,14 +182,18 @@
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "audio-recorder:Start/stop recording": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/Langfuse rồi thì có dùng các tools OpenTelemetry khác nữa không + LangFuse (free) - LangSmith (fee) - LangGraph Studio (free local, log in with LangSmith free Account) ..md",
+    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/repo/MVP_Multi-Agent-Financial-Platform_LangchainLanggraph_T9_2025.md",
+    "All/NOTE/1. DailyNote/2025-09-23.md",
     "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/3. SSH là gì.md",
     "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
-    "All/NOTE/1. DailyNote/2025-09-23.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.16 Hết dải network docker.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.2.9 Docker Network is till - Docker Network bị sử dụng.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.2.7 Docker networks bridge và networks và network_mode host.md",
@@ -216,8 +219,6 @@
     "All/NOTE/1.1 Đang Không Nghiên Cứu/3.7 Habit.md",
     "All/0. NHẤT HƯỚNG/Hũ bánh quy.md",
     "All/0. NHẤT HƯỚNG/Untitled",
-    "All/NOTE/1.1 Đang Nghiên Cứu/2025-09-21 RA QUYẾT ĐỊNH - LÀM ĐIỀU QUAN TRỌNG.md",
-    "All/NOTE/1.1 Đang Không Nghiên Cứu/3.6 TIME - Four Thousand Weeks - Time Management.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918164649.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918065707.png",
