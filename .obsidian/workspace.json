@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5 Config link host + docker compose Trên server không cần ssh"
+              "title": "2025-09-23"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-23.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.5 Config link host + docker compose Trên server không cần ssh"
+              "title": "Backlinks for 2025-09-23"
             }
           },
           {
@@ -183,13 +183,13 @@
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "audio-recorder:Start/stop recording": false,
-      "github-sync:Sync with Remote": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/3. SSH là gì.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
     "All/NOTE/1. DailyNote/2025-09-23.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.16 Hết dải network docker.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.2.9 Docker Network is till - Docker Network bị sử dụng.md",
@@ -218,8 +218,6 @@
     "All/0. NHẤT HƯỚNG/Untitled",
     "All/NOTE/1.1 Đang Nghiên Cứu/2025-09-21 RA QUYẾT ĐỊNH - LÀM ĐIỀU QUAN TRỌNG.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/3.6 TIME - Four Thousand Weeks - Time Management.md",
-    "All/NOTE/1.1 Đang Không Nghiên Cứu/3.2. XỬ LÝ VẤN ĐỀ ĐA NHIỆM - THÓI QUEN XẤU - LÀM 2 VIỆC 1 LÚC - RẤT HAY (GIỮA T82025).md",
-    "All/NOTE/1.1 Đang Không Nghiên Cứu/3.1_ Đánh giá Phương Pháp Học Tập Cốt Lõi từ các thiên tài 05082025.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918164649.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918065707.png",
