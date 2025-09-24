@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-23.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-23"
+              "title": "2025-09-24"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-23.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-24.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-23"
+              "title": "Backlinks for 2025-09-24"
             }
           },
           {
@@ -189,9 +189,10 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2025-09-23.md",
+    "All/NOTE/1. DailyNote/2025-09-24.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/Langfuse rồi thì có dùng các tools OpenTelemetry khác nữa không + LangFuse (free) - LangSmith (fee) - LangGraph Studio (free local, log in with LangSmith free Account) ..md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/repo/MVP_Multi-Agent-Financial-Platform_LangchainLanggraph_T9_2025.md",
-    "All/NOTE/1. DailyNote/2025-09-23.md",
     "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/3. SSH là gì.md",
     "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.16 Hết dải network docker.md",
@@ -217,7 +218,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/MiniProd_Web4_ContentEngFlow_StepUpE_T102024/1000Nghe_copyFrom_LS_ai_automation/v1.2_SearchRAGFor1000Nghe_20250815_430RolesDev_DescriptionV2_30005/utils/ToolRunDataHangLoat/prompt.md",
     "All/NOTE/1. DailyNote/2025-09-21.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/3.7 Habit.md",
-    "All/0. NHẤT HƯỚNG/Hũ bánh quy.md",
     "All/0. NHẤT HƯỚNG/Untitled",
     "All/NOTE/1. DailyNote/image/Pasted image 20250918164649.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp",
