@@ -245,13 +245,8 @@ SỰ MẤT NĂNG LƯỢNG TINH KHÍ THẦN: Những thứ bạn tưởng chừng
     
 
 ---
-# 4. SUMMARY DAY
 
-✅ …  
-⚠️ …  
-💡 …
-
-# 5. MINI PROBLEM SOLVING RA QUYẾT ĐỊNH - VŨ KHÍ LUÔN PHẢI SẴN SÀNG
+# 4. MINI PROBLEM SOLVING RA QUYẾT ĐỊNH - VŨ KHÍ LUÔN PHẢI SẴN SÀNG
 
 **Final Score (Lựa chọn) = I_final+M+U+E**
 
@@ -297,7 +292,13 @@ SỰ MẤT NĂNG LƯỢNG TINH KHÍ THẦN: Những thứ bạn tưởng chừng
 |                                                                                                        |                 |                                                                                                                                                    |             | CHECK GATE                                                    | FAIL             |
 |                                                                                                        |                 |                                                                                                                                                    |             | DECISION                                                      | STOP - Gate Fail |
 
-# 6. Other Note 
+# 5. Other Note 
 
-## 6.1 Lớp học
+## 5.1 Lớp học
 
+
+# 6. SUMMARY DAY
+
+✅ …  
+⚠️ …  
+💡 …
