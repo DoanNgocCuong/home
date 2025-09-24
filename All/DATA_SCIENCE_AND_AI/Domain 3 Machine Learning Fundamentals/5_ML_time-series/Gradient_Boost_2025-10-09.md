@@ -225,7 +225,6 @@ Các output này thực chất đến từ việc tính gradient và hessian c�
 - [XGBoost Documentation — xgboost 0.4 documentation](https://xgboost-clone.readthedocs.io/en/latest/)
 - 
 
-
 ![1757861228498](image/Gradient_Boost_2025-10-09/1757861228498.png)
 
 Đúng rồi 👌, bạn hiểu chính xác:
@@ -274,5 +273,21 @@ Nếu có nn bin và dữ liệu nằm trong khoảng [xmin,xmax][x_{min}, x_{ma
 👉 Bạn có muốn mình viết thêm một **ví dụ bằng Python + matplotlib** để vẽ histogram và highlight các bin, để trực quan hơn không?
 
 ---
-Nếu có n bin, và dữ liệu nằm trong [x_min, x_max]  
+
+Nếu có n bin, và dữ liệu nằm trong [x_min, x_max]
 => bin_width = w = (x_max - x_min) /n
+
+
+
+---
+
+![1758723346397](image/Gradient_Boost_2025-10-09/1758723346397.png)
+
+
+![1758723663905](image/Gradient_Boost_2025-10-09/1758723663905.png)
+
+
+![1758723965649](image/Gradient_Boost_2025-10-09/1758723965649.png)
+
+
+![1758724059541](image/Gradient_Boost_2025-10-09/1758724059541.png)
