@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-23.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-23"
+              "title": "Outline of 2025-09-25"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "smart-chat-view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +186,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "856d44a5df84c440",
+  "active": "3d69cb957032b13f",
   "lastOpenFiles": [
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/LangChain 1.2 API LangGraph chạy, nhưng langgraph dev thì không. Nguyên nhân do code có những chỗ đứng đợi, còn LangGraph Studio không cho phép điều đó..md",
     "All/NOTE/1. DailyNote/2025-09-25.md",
