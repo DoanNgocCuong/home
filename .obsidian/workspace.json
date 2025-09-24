@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
+                "file": "All/NOTE/1. DailyNote/2025-09-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown)"
+              "title": "2025-09-25"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
+                "file": "All/NOTE/1. DailyNote/2025-09-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown)"
+              "title": "Outline of 2025-09-25"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
+                "file": "All/NOTE/1. DailyNote/2025-09-25.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown)"
+              "title": "Backlinks for 2025-09-25"
             }
           },
           {
@@ -188,6 +188,7 @@
   },
   "active": "856d44a5df84c440",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "All/NOTE/1. DailyNote/2025-09-23.md",
     "All/NOTE/1. DailyNote/2025-09-24.md",
     "All/NOTE/1. DailyNote/2025-09-25.md",
@@ -208,7 +209,6 @@
     "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/5. Đánh giá 1 số Job - DNSE - MSB - Domain Tài chính DNSE vs Giáo dục Step Up Education Chiến lược 40-50 năm.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/04-ai-agents.md",
-    "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "All/NOTE/1. DailyNote/2025 - Problem Solving.md",
     "All/NOTE/1. DailyNote/image/Pasted image 20250922053700.png",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/1. git, SOLID, Code chuẩn.md",

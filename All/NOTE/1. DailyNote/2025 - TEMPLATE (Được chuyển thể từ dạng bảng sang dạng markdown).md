@@ -181,7 +181,6 @@ SỰ MẤT NĂNG LƯỢNG TINH KHÍ THẦN: Những thứ bạn tưởng chừng
 ### ✅ Objective
 
 - Objective cảm hứng và hướng mục tiêu dài hạn
-    
 
 ### 🎯 Outcome
 
