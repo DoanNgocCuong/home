@@ -151,12 +151,12 @@
               "title": "Outline of 2025-09-25"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,11 +172,16 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "4b968fc606f1ecce",
   "lastOpenFiles": [
+    "Untitled 2.base",
+    "All/NOTE/1. DailyNote/2025-09-25.md",
+    "Untitled 1.base",
     "All/DATA_SCIENCE_AND_AI/Domain0_Package",
     "All/DATA_SCIENCE_AND_AI/Domain1_Package",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/image/LangChain_LangGraph/1758766782601.png",
