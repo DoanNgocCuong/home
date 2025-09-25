@@ -4,4 +4,6 @@ LangGraph chạy, nhưng langgraph dev thì không. Nguyên nhân do code có nh
 
 
 
-- https://github.com/langchain-ai/langgraph/issues/4218
+https://github.com/langchain-ai/langgraph/issues/4218
+
+https://fullstackdatascience.com/forum/topic/245
