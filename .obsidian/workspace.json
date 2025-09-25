@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-25.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-25"
+              "title": "2025-09-26"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-25.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-25"
+              "title": "Backlinks for 2025-09-26"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-25.md",
+                "file": "All/NOTE/1. DailyNote/2025-09-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-25"
+              "title": "Outline of 2025-09-26"
             }
           }
         ],
@@ -179,10 +179,11 @@
   },
   "active": "4b968fc606f1ecce",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2025-09-25.md",
+    "All/NOTE/1. DailyNote/2025-09-26.md",
     "All/DATA_SCIENCE_AND_AI/Domain0_Package/Async.md",
     "All/DATA_SCIENCE_AND_AI/Domain0_Package/_.md",
     "Untitled 2.base",
-    "All/NOTE/1. DailyNote/2025-09-25.md",
     "Untitled 1.base",
     "All/DATA_SCIENCE_AND_AI/Domain0_Package",
     "All/DATA_SCIENCE_AND_AI/Domain1_Package",
