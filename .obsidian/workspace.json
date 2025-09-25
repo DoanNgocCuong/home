@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "af5c90efc594962e",
+    "id": "7afc78b5e218966c",
     "type": "split",
     "children": [
       {
-        "id": "581978ace436b696",
+        "id": "daebd188227e2ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "856d44a5df84c440",
+            "id": "4b968fc606f1ecce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,33 +27,33 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ca5289793c1402a9",
+    "id": "b3883e5cac051cbc",
     "type": "split",
     "children": [
       {
-        "id": "328189242b51da84",
+        "id": "d446664f54a674c7",
         "type": "tabs",
         "children": [
           {
-            "id": "de333728293ea4d4",
+            "id": "c33dc9ad168642fd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "0cf1f93d49c9ecae",
+            "id": "e8148111a2d2c310",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "file: system desi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "0d64b8c3816d0f06",
+            "id": "fb7e5f4b5ff07e7b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,44 +78,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 300
   },
   "right": {
-    "id": "422b3eaae750cadd",
+    "id": "99a8a767f128d83e",
     "type": "split",
     "children": [
       {
-        "id": "fe1f51b6b193f142",
+        "id": "19d154c6d0515635",
         "type": "tabs",
         "children": [
           {
-            "id": "3d69cb957032b13f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-25.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2025-09-25"
-            }
-          },
-          {
-            "id": "77b9fc4ea27a1c18",
+            "id": "fa4a251c8159bb75",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "All/NOTE/1. DailyNote/2025-09-25.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
@@ -123,21 +108,21 @@
             }
           },
           {
-            "id": "13eb9e7784a5b2b9",
+            "id": "95dc22a9c92773cc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. CHIẾN LƯỢC/Đoàn Ngọc Cường - CKP/9. NGOẠI LỰC (DOPAMINE, TESTOSTERONE, 4 LOẠI NGOẠI ĐỘNG LỰC DISC)  - NỘI LỰC (MINDSET, TRÒ CHƠI TÂM TRÍ, NIỀM TIN GIỚI HẠN) - TỨ NIỆM XỨ, BÁT CHÁNH ĐẠO (THIỀN DÙNG TÂM ĐÁNH BẠI TÂM).md",
+                "file": "All/NOTE/1. DailyNote/2025-09-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9. NGOẠI LỰC (DOPAMINE, TESTOSTERONE, 4 LOẠI NGOẠI ĐỘNG LỰC DISC)  - NỘI LỰC (MINDSET, TRÒ CHƠI TÂM TRÍ, NIỀM TIN GIỚI HẠN) - TỨ NIỆM XỨ, BÁT CHÁNH ĐẠO (THIỀN DÙNG TÂM ĐÁNH BẠI TÂM)"
+              "title": "Outgoing links from 2025-09-25"
             }
           },
           {
-            "id": "1ee33d858edeb27d",
+            "id": "5fe96ac54eeced53",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,97 +137,44 @@
             }
           },
           {
-            "id": "4221a701ced4b099",
+            "id": "443cf7f9aee88be5",
             "type": "leaf",
             "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-chat-view"
+              "type": "outline",
+              "state": {
+                "file": "All/NOTE/1. DailyNote/2025-09-25.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-09-25"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false,
-      "github-sync:Sync with Remote": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "856d44a5df84c440",
-  "lastOpenFiles": [
-    "All/NOTE/1. DailyNote/2025-09-23.md",
-    "All/NOTE/1. DailyNote/2025-09-24.md",
-    "All/NOTE/1. DailyNote/2025-09-25.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/Machine Learning System Design.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/image/Pasted image 20250925061501.png",
-    "All/NOTE/1. DailyNote/2025-07-30 - TẤM BẢN ĐỒ - NGUỒN LỰC NỘI TẠI - THE ROAD THE IMPACT THE POWER   - STRUCTURE - SYSTEM DESIGN CHỊ TRANG SHARE.md",
-    "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/LangChain 1.2 API LangGraph chạy, nhưng langgraph dev thì không. Nguyên nhân do code có những chỗ đứng đợi, còn LangGraph Studio không cho phép điều đó..md",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/image/Gradient_Boost_2025-10-09/1758723346397.png",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/LangChain 1.1 Langfuse rồi thì có dùng các tools OpenTelemetry khác nữa không + LangFuse (free) - LangSmith (fee) - LangGraph Studio (free local, log in with LangSmith free Account) ..md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/repo/MVP_Multi-Agent-Financial-Platform_LangchainLanggraph_T9_2025.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/Lỗi 1 - 3H Thanh xuân để FIX 1 BUG LANGCHAIN VÀ OPENAI - Thu được về Problem Solving - Client.__init__() got an unexpected keyword argument 'proxies'.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/3. SSH là gì.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.16 Hết dải network docker.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.2.9 Docker Network is till - Docker Network bị sử dụng.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.2.7 Docker networks bridge và networks và network_mode host.md",
-    "All/NOTE/1. DailyNote/image/Pasted image 20250923124636.png",
-    "All/NOTE/1.1 Đang Không Nghiên Cứu/3.8 David Googins.md",
-    "All/NOTE/1. DailyNote/2025-09-22.md",
-    "All/NOTE/1. DailyNote/RedTeam Pika Bot.md",
-    "All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/6. FastAPI (Note).md",
-    "All/NOTE/1.1 Đang Không Nghiên Cứu/5. Đánh giá 1 số Job - DNSE - MSB - Domain Tài chính DNSE vs Giáo dục Step Up Education Chiến lược 40-50 năm.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/04-ai-agents.md",
-    "All/NOTE/1. DailyNote/2025 - Problem Solving.md",
-    "All/NOTE/1. DailyNote/image/Pasted image 20250922053700.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/1. git, SOLID, Code chuẩn.md",
-    "All/NOTE/3_Networking/1 Phần Cứng.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.5_Agent/Prompt Agent.md",
-    "All/NOTE/3_Networking",
-    "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.0 Prompting/0. Prompting Builder.md",
-    "All/0. NHẤT HƯỚNG/Untitled",
-    "All/NOTE/1. DailyNote/image/Pasted image 20250918164649.png",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp",
-    "All/NOTE/1. DailyNote/image/Pasted image 20250918065707.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917220756.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917215818.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917213436.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/Pasted image 20250917213005.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/9.DecisionTree",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image",
-    "All/NOTE/1. DailyNote/update_image.py",
-    "All/NOTE/1. DailyNote/image/2025-09-17",
-    "All/NOTE/1. DailyNote/image",
-    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/Lập trình song song",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/5_ML_time-series/attachments",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
-    "All/DATA_SCIENCE_AND_AI/Domain 8 Advanced AI Applications/NLP LLMs RAG/5.1 RAG/RAG 1/Search/Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "3_Learning/3_AI_Engineering/5.1 RAG/RAG 1/Search/Untitled.canvas",
-    "Untitled 5.canvas",
-    "Untitled 4.canvas",
-    "Untitled 3.canvas"
-  ]
+  "active": "4b968fc606f1ecce",
+  "lastOpenFiles": []
 }
