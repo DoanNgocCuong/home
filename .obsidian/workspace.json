@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.3 Dọn docker - kill process - port server.md",
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.16 Hết dải network docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1.3 Dọn docker - kill process - port server"
+              "title": "2.16 Hết dải network docker"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.3 Dọn docker - kill process - port server.md",
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.16 Hết dải network docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.1.3 Dọn docker - kill process - port server"
+              "title": "Backlinks for 2.16 Hết dải network docker"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.3 Dọn docker - kill process - port server.md",
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.16 Hết dải network docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.1.3 Dọn docker - kill process - port server"
+              "title": "Outline of 2.16 Hết dải network docker"
             }
           }
         ],
@@ -179,6 +179,7 @@
   },
   "active": "4b968fc606f1ecce",
   "lastOpenFiles": [
+    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.3 Dọn docker - kill process - port server.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.16 Hết dải network docker.md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/web/__init__ Web - Template.md",
     "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
