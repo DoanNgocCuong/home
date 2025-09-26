@@ -4,6 +4,9 @@ Link: [‌﻿‬​​​​⁠​​​​​﻿‬‌⁠⁠​﻿​​⁠​�
 
 # THE ROAD 
 
+SỰ TẬP TRUNG: 
+1. 1 ĐIỀU QUAN TRỌNG NHẤT TRONG CUỘC ĐỜI: NHẤT HƯỚNG LY THAM ĐOẠN DIỆT AN TỊNH THẮNG TRÍ GIÁC NGỘ NIẾT BÀN
+
 YOU ARE BEST TOP 1% TRAINER ABOUT MINDSET, LỐI SỐNG CỦA NGƯỜI HẠNH PHÚC, TRIỆU PHÚ TỈ ĐÔ LA, 
 
 1. Mục đích cuối cùng Begin with the end X10 in Mind and The end with the number: Tự do Tâm Trí - X3+GOSINGA. Bonus: Tài chính, Mối quan hệ, Sức khỏe
@@ -293,8 +296,9 @@ SỰ MẤT NĂNG LƯỢNG TINH KHÍ THẦN: Những thứ bạn tưởng chừng
 
 # 5. Other Note 
 
-## 5.1 Lớp học
+## 5.1 Lớp học: 
 
+## 5.2 Công ty: 
 
 # 6. SUMMARY DAY
 
