@@ -515,8 +515,6 @@ Với (y=[2,3,5,6]), bạn thử tính (\sum (y_i-3.5)^2) rồi so với (\sum (
 
 ![1759068736823](image/18_ThiXGBoost/1759068736823.png)
 
-
-
 Ta làm nhanh theo đúng bước của Gradient Boosting (học quy):
 
 **B1. Mô hình khởi tạo**
@@ -544,3 +542,95 @@ Từ câu trước: (F_0(x)=4.00) ⇒ residual (r=y-F_0=[-2,-1,+1,+2]).
 ]
 
 Bạn thử kiểm tra nhanh một hạng mục: ((3-2.5)^2=)?
+
+
+
+---
+
+# Gradient Boosting
+
+
+
+ok — mình “mổ xẻ” **vòng 1** của Gradient Boosting (bài hồi quy) từng bước, có số cụ thể:
+
+### Dữ liệu
+
+[
+
+(x,y)={(1,2),(2,3),(3,5),(4,6)}
+
+]
+
+### B0. Khởi tạo (F_0)
+
+Với MSE, mô hình hằng số tối ưu là  **trung bình y** :
+
+[
+
+F_0(x)\equiv \bar y=\frac{2+3+5+6}{4}=4.00
+
+]
+
+Residual ban đầu (vòng 1):
+
+[
+
+r_{i,1}=y_i-F_0(x_i)=[-2,,-1,,+1,,+2].
+
+]
+
+### B1. Chọn tách (stump) ở vòng 1
+
+Giả sử tách tại **(x<2.5)** ⇒ 2 lá:
+
+* **Lá trái** ({x=1,2}) có residual ({-2,-1})
+* **Lá phải** ({x=3,4}) có residual ({+1,+2})
+
+### B2. Tính giá trị lá (\gamma)
+
+Với MSE, mỗi lá chọn (\gamma) là **trung bình residual trong lá** (chứng minh nhanh: (\min_\gamma\sum(r-\gamma)^2\Rightarrow \gamma=\bar r)).
+
+* Lá trái: (\gamma_{L}=\frac{-2+(-1)}{2}=-1.50)
+* Lá phải: (\gamma_{R}=\frac{1+2}{2}=+1.50)
+
+Bộ học yếu (h_1(x)) xuất **(\gamma)** theo lá:
+
+[
+
+h_1(x)=[-1.5,,-1.5,,+1.5,,+1.5].
+
+]
+
+### B3. Cập nhật mô hình
+
+Dùng learning rate (\eta=1):
+
+[
+
+F_1(x)=F_0(x)+\eta,h_1(x)=4+h_1(x)
+
+]
+
+[
+
+F_1=[2.5,,2.5,,5.5,,5.5].
+
+]
+
+### B4. Loss sau vòng 1 (MSE(_1))
+
+Sai số từng điểm:
+
+((2-2.5)^2=(3-2.5)^2=(5-5.5)^2=(6-5.5)^2=0.25).
+
+[
+
+\mathrm{MSE}_1=\frac{0.25+0.25+0.25+0.25}{4}=0.25.
+
+]
+
+> (Residual cho **vòng 2** sẽ là (r_{i,2}=y_i-F_1(x_i)=[-0.5,,+0.5,,-0.5,,+0.5]).)
+
+---
+
+**Check nhanh (1 câu):** nếu dùng  **learning rate (\eta=0.5)** , thì (F_1(3)) bằng bao nhiêu? (gợi ý: (F_0(3)=4), (h_1(3)=+1.5)).
