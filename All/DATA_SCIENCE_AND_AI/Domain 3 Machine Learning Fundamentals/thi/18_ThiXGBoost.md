@@ -634,3 +634,55 @@ Sai số từng điểm:
 ---
 
 **Check nhanh (1 câu):** nếu dùng  **learning rate (\eta=0.5)** , thì (F_1(3)) bằng bao nhiêu? (gợi ý: (F_0(3)=4), (h_1(3)=+1.5)).
+
+
+Mình chỉ từng bước để bạn tự tính được nhé 👇
+
+### Bài toán (vòng 2 của GB hồi quy)
+
+* Từ vòng 1: (F_1(x)=2.50) cho (x\in{1,2}); (F_1(x)=5.50) cho (x\in{3,4}).
+* Ở vòng 2 ta dùng split **(x<1.5)** ⇒ lá trái ({x_1}), lá phải ({x_2,x_3,x_4}).
+* Với MSE:
+
+  [
+
+  r_{i,2}=y_i-F_1(x_i),\qquad
+
+  \gamma_{\text{lá}}=\text{mean}(r \text{ trong lá}),\qquad
+
+  F_2(x)=F_1(x)+\gamma_{\text{lá}} ;(\eta=1).
+
+  ]
+
+### B1) Tính residual vòng 2
+
+Dữ liệu (y={2,3,5,6}).
+
+[
+
+r_{i,2}=y-F_1={-0.5,; +0.5,; -0.5,; +0.5}.
+
+]
+
+### B2) Giá trị lá (\gamma)
+
+* Lá trái ({x_1}): (\gamma_{1,2}=-0.50) (đúng như đề cho).
+* Lá phải ({x_2,x_3,x_4}): (\gamma_{2,2}=\frac{0.5+(-0.5)+0.5}{3}=0.1667\approx 0.17).
+
+### B3) Cập nhật (F_2) cho (x=2)
+
+(x=2) thuộc  **lá phải** , nên
+
+[
+
+F_2(2)=F_1(2)+\gamma_{2,2}=2.50+0.17=\boxed{2.67}.
+
+]
+
+( Nếu dùng learning rate (\eta\neq 1) thì: (F_2(2)=2.50+\eta\cdot 0.17). )
+
+Bạn thử tính nhanh **(F_2(1))** xem ra bao nhiêu? (gợi ý: dùng (\gamma_{1,2}=-0.50)).
+
+
+
+---
