@@ -562,7 +562,169 @@ Use the chrome-devtools MCP tool to open https://web.dev in Chrome and measure i
 }
 ```
 
-# 2. MCP for AI Engineer 
+# 2. Cài docs Langchain langgraph 
+```bash
+{
+  "mcpServers": {
+    "chrome-devtools": {
+      "command": "npx",
+      "args": ["chrome-devtools-mcp@latest"]
+    },
+    "langgraph-docs": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "mcpdoc",
+        "mcpdoc",
+        "--urls",
+        "LangGraph:https://langchain-ai.github.io/langgraph/llms.txt",
+        "LangChain:https://python.langchain.com/llms.txt",
+        "--transport",
+        "stdio"
+      ]
+    }
+  }
+}
+```
+
+Nếu chưa có `uv`, cài trước:
+
+**Windows:**
+
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+**Mac/Linux:**
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+## **Bonus: Thêm Rules để Cursor tự động dùng docs**
+
+Sau khi config xong, vào **Cursor Settings** → **Rules** → **User Rules** và thêm:
+
+```
+For ANY question about LangGraph or LangChain:
+1. ALWAYS use the langgraph-docs server first
+2. Call list_doc_sources tool to see available documentation
+3. Use fetch_docs tool to get specific documentation
+4. Reference the docs when suggesting code or fixes
+```
+
+LẠ GHÊ, CÁC CÁI KHÁC KO CẦN TẮT CURSOR, còn cái này thì cần 
+
+Test được chưa 
+
+Mở Cursor Chat và thử:
+
+```
+List all documentation sources available
+```
+
+```output example
+I'll check all doc sources from the configured LangGraph/LangChain docs server.
+
+[1 tool called]
+
+### Available documentation sources
+
+- LangGraph: `https://langchain-ai.github.io/langgraph/llms.txt`
+- LangChain: `https://python.langchain.com/llms.txt`
+```
+
+Hoặc:
+
+```
+How do I create a LangGraph agent? Check the docs first.
+```
+
+---
+#### Nếu vẫn bug thì check 
+
+Bước 1: Test xem uvx có hoạt động không
+```
+uvx --version
+```
+
+Bước 2: Test mcpdoc
+```
+uvx --from mcpdoc mcpdoc --help
+```
+
+Nếu nó hiện help menu → **Thành công!** ✅
+
+```bash
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\User> uvx --version
+uvx 0.8.22 (ade2bdbd2 2025-09-23)
+PS C:\Users\User> uvx --from mcpdoc mcpdoc --help
+Installed 40 packages in 393ms
+usage: mcpdoc [-h] [--yaml YAML] [--json JSON] [--urls URLS [URLS ...]] [--follow-redirects]
+              [--allowed-domains [ALLOWED_DOMAINS ...]] [--timeout TIMEOUT] [--transport {stdio,sse}]
+              [--log-level LOG_LEVEL] [--host HOST] [--port PORT] [--version]
+
+MCP LLMS-TXT Documentation Server
+
+options:
+  -h, --help            show this help message and exit
+  --yaml, -y YAML       Path to YAML config file with doc sources (default: None)
+  --json, -j JSON       Path to JSON config file with doc sources (default: None)
+  --urls, -u URLS [URLS ...]
+                        List of llms.txt URLs or file paths with optional names (format: 'url_or_path' or
+                        'name:url_or_path') (default: None)
+  --follow-redirects    Whether to follow HTTP redirects (default: False)
+  --allowed-domains [ALLOWED_DOMAINS ...]
+                        Additional allowed domains to fetch documentation from. Use '*' to allow all domains.
+                        (default: None)
+  --timeout TIMEOUT     HTTP request timeout in seconds (default: 10.0)
+  --transport {stdio,sse}
+                        Transport protocol for MCP server (default: stdio)
+  --log-level LOG_LEVEL
+                        Log level for the server. Use one on the following: DEBUG, INFO, WARNING, ERROR. (only used
+                        with --transport sse) (default: INFO)
+  --host HOST           Host to bind the server to (only used with --transport sse) (default: 127.0.0.1)
+  --port PORT           Port to bind the server to (only used with --transport sse) (default: 8000)
+  --version, -V         Show version information and exit
+
+Examples:
+  # Directly specifying llms.txt URLs with optional names
+  mcpdoc --urls LangGraph:https://langchain-ai.github.io/langgraph/llms.txt
+
+  # Using a local file (absolute or relative path)
+  mcpdoc --urls LocalDocs:/path/to/llms.txt --allowed-domains '*'
+
+  # Using a YAML config file
+  mcpdoc --yaml sample_config.yaml
+
+  # Using a JSON config file
+  mcpdoc --json sample_config.json
+
+  # Combining multiple documentation sources
+  mcpdoc --yaml sample_config.yaml --json sample_config.json --urls LangGraph:https://langchain-ai.github.io/langgraph/llms.txt
+
+  # Using SSE transport with default host (127.0.0.1) and port (8000)
+  mcpdoc --yaml sample_config.yaml --transport sse
+
+  # Using SSE transport with custom host and port
+  mcpdoc --yaml sample_config.yaml --transport sse --host 0.0.0.0 --port 9000
+
+  # Using SSE transport with additional HTTP options
+  mcpdoc --yaml sample_config.yaml --follow-redirects --timeout 15 --transport sse --host localhost --port 8080
+
+  # Allow fetching from additional domains. The domains hosting the llms.txt files are always allowed.
+  mcpdoc --yaml sample_config.yaml --allowed-domains https://example.com/ https://another-example.com/
+
+  # Allow fetching from any domain
+  mcpdoc --yaml sample_config.yaml --allowed-domains '*'
+PS C:\Users\User>
+
+```
+
+
+2. MCP for AI Engineer 
 
 Dựa trên nhu cầu làm việc với Langchain, Langgraph, AI Agents, LLMs, System Design, Design Architecture, MLOps và LLMOps, đây là danh sách các MCP servers cần thiết được tổ chức theo từng lĩnh vực:
 
