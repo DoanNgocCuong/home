@@ -11,10 +11,14 @@
             "id": "c1977da8af893504",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/7. Extension_Code.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "7. Extension_Code"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/7. Extension_Code.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 7. Extension_Code"
             }
           }
         ],
@@ -175,9 +179,15 @@
   },
   "active": "c1977da8af893504",
   "lastOpenFiles": [
-    "All/NOTE/1. DailyNote/2025-09-29.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/6. Xoá commit của 1 user.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/5. Thêm - a Đậu Văn Nam.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/3. commit, deploy, release Note.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/4. git convention - chuẩn.md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/1. git, SOLID, Code chuẩn.md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/2. Tag of git.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/9. Server.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/7. Extension_Code.md",
+    "All/NOTE/1. DailyNote/2025-09-29.md",
     "All/NOTE/1. DailyNote/2025-09-28.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/thi/image",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/thi/18_ThiXGBoost.md",
@@ -212,13 +222,8 @@
     "All/NOTE/4_ReportSuNghiepHuBanhQuy",
     "All/NOTE/1. DailyNote/2025-09-26.md",
     "All/NOTE/1. DailyNote/2025-09-25.md",
-    "All/DATA_SCIENCE_AND_AI/Domain0_Package/Async.md",
-    "All/DATA_SCIENCE_AND_AI/Domain0_Package/_.md",
     "Untitled 2.base",
     "Untitled 1.base",
-    "All/DATA_SCIENCE_AND_AI/Domain0_Package",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/LangChain 1.4_Create_a_graph_with_a_messages_key_to_chat_with.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/LangChain 1.3_2CheDoViewRawAndRendered.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/1.3_2CheDoViewRawAndRendered.md"
+    "All/DATA_SCIENCE_AND_AI/Domain0_Package"
   ]
 }
