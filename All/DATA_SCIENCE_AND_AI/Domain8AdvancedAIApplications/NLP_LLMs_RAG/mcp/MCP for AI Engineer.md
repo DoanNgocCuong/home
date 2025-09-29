@@ -21,6 +21,8 @@ Use the chrome-devtools MCP tool to open https://web.dev in Chrome and measure i
 - Vào: [https://nodejs.org/](https://nodejs.org/)
 - Click nút **"Download Node.js (LTS)"** màu xanh
 - Chọn file Windows Installer (.msi)
+
+![](image/Pasted%20image%2020250930004253.png)
 ---
 
 # 2. MCP for AI Engineer 
