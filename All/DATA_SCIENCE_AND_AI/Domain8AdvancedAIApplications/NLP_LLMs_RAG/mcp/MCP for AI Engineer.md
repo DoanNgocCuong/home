@@ -1,5 +1,8 @@
 
 # 1. MCP Chorm Broswer 
+
+Cách cài rất đơn giản: Trong cursor vào MCP và set up JSON 
+
 ```jsonc
 "chrome-devtools": {
   "command": "npx",
@@ -10,11 +13,8 @@
 
 `autoApprove: ["*"]` sẽ cho phép tất cả tools chạy mà không cần hỏi.
 
-- Testing 
-```bash
-Use the chrome-devtools MCP tool to open https://web.dev in Chrome and measure its LCP performance metric.
-```
-- yêu cầu nodeJS >=v19-22 (version của mình 18)
+
+- Chú ý: Yêu cầu nodeJS >=v19-22 (lúc cài version nodeJS của mình 18 nên mình cần down bản mới hơn)
 
 **Download Node.js v22 LTS:**
 
@@ -22,8 +22,17 @@ Use the chrome-devtools MCP tool to open https://web.dev in Chrome and measure i
 - Click nút **"Download Node.js (LTS)"** màu xanh
 - Chọn file Windows Installer (.msi)
 
+---
+Cài xong thì xem bên `chrome devtools` nó xanh màu chưa là oke ạ. 
+
 ![](image/Pasted%20image%2020250930004253.png)
 ---
+
+- Testing để trải nghiệm: 
+```bash
+Use the chrome-devtools MCP tool to open https://web.dev in Chrome and measure its LCP performance metric.
+```
+
 
 # 2. MCP for AI Engineer 
 
