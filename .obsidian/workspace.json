@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "79f1fa5d39ac83cd",
+        "id": "b77347af6e7d8e38",
         "type": "tabs",
         "children": [
           {
-            "id": "195da83f8adc36e2",
+            "id": "c1977da8af893504",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-29.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-09-29"
+              "title": "New tab"
             }
           }
         ]
@@ -79,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "99a8a767f128d83e",
@@ -144,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-29"
+              "title": "Outline"
             }
           }
         ],
@@ -179,10 +173,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "195da83f8adc36e2",
+  "active": "c1977da8af893504",
   "lastOpenFiles": [
-    "All/NOTE/1. DailyNote/2025-09-28.md",
     "All/NOTE/1. DailyNote/2025-09-29.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/1. git, SOLID, Code chuẩn.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/2. Tag of git.md",
+    "All/NOTE/1. DailyNote/2025-09-28.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/thi/image",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/thi/18_ThiXGBoost.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/thi/my_xxxx.csv",
@@ -200,7 +196,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/18_ThiXGBoost",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/18_ThiXGBoost.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/ThiXGBoost.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/1. git, SOLID, Code chuẩn.md",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/0. basic git.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/2025-09-28 KẾ HOẠCH BÍ NGÔ.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/image",
