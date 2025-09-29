@@ -1,3 +1,30 @@
+
+# 1. MCP Chorm Broswer 
+```jsonc
+"chrome-devtools": {
+  "command": "npx",
+  "args": ["chrome-devtools-mcp@latest"],
+  "autoApprove": ["*"]
+}
+```
+
+`autoApprove: ["*"]` sẽ cho phép tất cả tools chạy mà không cần hỏi.
+
+- Testing 
+```bash
+Use the chrome-devtools MCP tool to open https://web.dev in Chrome and measure its LCP performance metric.
+```
+- yêu cầu nodeJS >=v19-22 (version của mình 18)
+
+**Download Node.js v22 LTS:**
+
+- Vào: [https://nodejs.org/](https://nodejs.org/)
+- Click nút **"Download Node.js (LTS)"** màu xanh
+- Chọn file Windows Installer (.msi)
+---
+
+# 2. MCP for AI Engineer 
+
 Dựa trên nhu cầu làm việc với Langchain, Langgraph, AI Agents, LLMs, System Design, Design Architecture, MLOps và LLMOps, đây là danh sách các MCP servers cần thiết được tổ chức theo từng lĩnh vực:
 
 ## **🤖 AI/ML Development & LLMs**
