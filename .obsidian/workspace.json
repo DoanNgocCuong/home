@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-30.md",
+                "file": "All/NOTE/1. DailyNote/2025-10-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-30"
+              "title": "2025-10-01"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-30.md",
+                "file": "All/NOTE/1. DailyNote/2025-10-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-30"
+              "title": "Outline of 2025-10-01"
             }
           }
         ],
@@ -179,9 +179,10 @@
   },
   "active": "c1977da8af893504",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2025-09-30.md",
+    "All/NOTE/1. DailyNote/2025-10-01.md",
     "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "All/NOTE/1. DailyNote/2025 - Problem Solving.md",
-    "All/NOTE/1. DailyNote/2025-09-30.md",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp/MCP for AI Engineer.md",
     "All/NOTE/2. Hũ Bánh/Problem.md",
     "All/NOTE/2. Hũ Bánh/Daily Hũ Bánh.md",
@@ -221,7 +222,6 @@
     "All/NOTE/1. DailyNote/2025-09-27.md",
     "All/NOTE/1.1 Đang Nghiên Cứu/2025-09-27 TD.md",
     "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/3. Cách thức để tính IMPORTANT - 1 tầng trong PROBLEM SOLVING.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.3 Dọn docker - kill process - port server.md",
     "All/NOTE/4_ReportSuNghiepHuBanhQuy/image",
     "All/NOTE/4_ReportSuNghiepHuBanhQuy",
     "Untitled 2.base"
