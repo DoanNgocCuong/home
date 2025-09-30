@@ -301,6 +301,7 @@ SỰ MẤT NĂNG LƯỢNG TINH KHÍ THẦN: Những thứ bạn tưởng chừng
 ## 5.2 Công ty: 
 
 # 6. SUMMARY DAY
+- https://csg2ej4iz2hz.sg.larksuite.com/wiki/R37Bw8QVHiBTJUk9dU9lvITzgFe
 
 ✅ …  
 ⚠️ …  
