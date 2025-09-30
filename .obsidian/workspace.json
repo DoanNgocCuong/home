@@ -11,10 +11,14 @@
             "id": "c1977da8af893504",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp/MCP for AI Engineer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MCP for AI Engineer"
             }
           }
         ]
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/2. Hũ Bánh/Problem.md",
+                "file": "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp/MCP for AI Engineer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Problem"
+              "title": "Outline of MCP for AI Engineer"
             }
           }
         ],
@@ -173,10 +178,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c33dc9ad168642fd",
+  "active": "c1977da8af893504",
   "lastOpenFiles": [
-    "All/NOTE/2. Hũ Bánh/Daily Hũ Bánh.md",
     "All/NOTE/2. Hũ Bánh/Problem.md",
+    "All/NOTE/2. Hũ Bánh/Daily Hũ Bánh.md",
     "All/NOTE/1. DailyNote/Untitled.md",
     "All/NOTE/2. Hũ Bánh",
     "All/NOTE/1. DailyNote/2025-09-30.md",

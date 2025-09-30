@@ -1061,3 +1061,25 @@ pip install uvx
 5. **Tùy chỉnh `autoApprove`** cho các actions an toàn để tăng tốc workflow
 
 **Lưu ý:** Hãy bắt đầu với một số servers cơ bản như `filesystem`, `github`, và `jupyter`, sau đó từ từ thêm các servers khác theo nhu cầu cụ thể của dự án.
+
+
+# 3. Cài Exdraw 
+
+```
+    "excalidraw": {
+
+      "command": "npx",
+
+      "args": ["-y", "mcp-excalidraw-server"]
+
+    },
+```
+
+Ko được, check nó no prompt
+```
+npx -y mcp-excalidraw-server
+```
+
+```
+npx -y @fromsko/excalidraw-mcp-server
+```
