@@ -172,9 +172,7 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "github-sync:Sync with Remote": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "c1977da8af893504",
