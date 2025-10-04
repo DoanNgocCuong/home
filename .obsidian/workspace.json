@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-10-04.md",
+                "file": "All/NOTE/1.1 Đang Không Nghiên Cứu/2025-10-04 Não.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-04"
+              "title": "2025-10-04 Não"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: port",
+                "query": "file: đang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-10-04.md",
+                "file": "All/NOTE/1.1 Đang Không Nghiên Cứu/2025-10-04 Não.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-10-04"
+              "title": "Outline of 2025-10-04 Não"
             }
           }
         ],
@@ -222,8 +222,10 @@
   },
   "active": "729d6d95a8ecca12",
   "lastOpenFiles": [
-    "All/NOTE/1. DailyNote/2025-10-03.md",
     "All/NOTE/1. DailyNote/2025-10-04.md",
+    "All/NOTE/1.1 Đang Không Nghiên Cứu/2025-10-04 Não.md",
+    "All/NOTE/1.1 Đang Không Nghiên Cứu/2025-08-29 Bạn có thấy bất công không. Người kia làm ít nhưng được chú ý, còn bạn làm quần quật mà chẳng ai nhớ mặt  . Đừng nghĩ là do bạn kém. Vấn đề là bạn đang chơi sai game.md",
+    "All/NOTE/1. DailyNote/2025-10-03.md",
     "Untitled.canvas",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.3 Dọn docker - kill process - port server.md",
     "All/DATA_SCIENCE_AND_AI/Domain0_Package/Operating System - Python 3.12.4 Installation Report - 10032025.md",
@@ -255,8 +257,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp/image/Pasted image 20250930004253.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp/image",
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/7. Extension_Code.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/6. Xoá commit của 1 user.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/5. Thêm - a Đậu Văn Nam.md",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/thi/image",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/thi/my_xxxx.csv",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/thi",
