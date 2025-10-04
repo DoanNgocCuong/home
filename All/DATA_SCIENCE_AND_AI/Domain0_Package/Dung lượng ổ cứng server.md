@@ -75,6 +75,7 @@ Tôi không thể chạy các lệnh terminal trực tiếp, nhưng dựa trên 
 ```bash
 # Kiểm tra dung lượng thư mục hiện tại
 du -sh /home/ubuntu/cuong_dn
+du -sh /home/ubuntu/cuong_dn/* | sort -hr | head -5
 
 # Tìm các file lớn nhất
 find /home -type f -size +1G -exec ls -lh {} \; 2>/dev/null | head -10
