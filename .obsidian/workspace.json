@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: đang",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,8 +222,9 @@
   },
   "active": "729d6d95a8ecca12",
   "lastOpenFiles": [
-    "All/PRODUCT/__.md",
+    "All/NOTE/1.1 Đang Nghiên Cứu/2025 - 10 - 05.md",
     "All/PRODUCT/Holdings, ESOP, Build to Sell và Shortcut to IPO.md",
+    "All/PRODUCT/__.md",
     "All/NOTE/1. DailyNote/2025-10-05.md",
     "All/PRODUCT",
     "All/DATA_SCIENCE_AND_AI/Domain0_Package/Dung lượng ổ cứng server.md",
@@ -256,7 +257,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/1. Git/0. basic git.md",
     "All/NOTE/1. DailyNote/2025-09-30.md",
     "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
-    "All/NOTE/1. DailyNote/2025 - Problem Solving.md",
     "All/NOTE/2. Hũ Bánh",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp/image/Pasted image 20250930004253.png",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp/image",
