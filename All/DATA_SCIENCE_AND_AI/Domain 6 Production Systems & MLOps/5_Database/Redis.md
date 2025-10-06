@@ -58,3 +58,74 @@ RedisInsight là một công cụ GUI trực quan giúp quản lý, phân tích 
 
 # Bug: 
 - https://github.com/redis/RedisInsight/issues/5035
+
+---
+# How to connect Redis with key 
+
+```bash
+REDIS_HOST=robot-ai-workflow-redis-master  
+REDIS_PASSWORD=123456aA@  
+REDIS_PORT=6379
+```
+
+---
+
+```bash
+θ78° 2d [ubuntu@mgc-dev2-3090:~/cuong_dn/robot-lesson-workflow] manual-refactor-agent-registry(+32/-818,+1/-1)+ ± ss -lntp | grep 6379
+LISTEN    0         511                0.0.0.0:46379            0.0.0.0:*                                                                                       
+LISTEN    0         511              127.0.0.1:6379             0.0.0.0:*                                                                                       
+LISTEN    0         511                0.0.0.0:36379            0.0.0.0:*                                                                                       
+LISTEN    0         511                   [::]:46379               [::]:*                                                                                       
+LISTEN    0         511                  [::1]:6379                [::]:*                                                                                       
+LISTEN    0         511                   [::]:36379               [::]:*                                                                                       
+θ75° 2d [ubuntu@mgc-dev2-3090:~/cuong_dn/robot-lesson-workflow] manual-refactor-agent-registry(+32/-818,+1/-1)+ ± sudo iptables -S | grep 6379
+[sudo] password for ubuntu: 
+-A DOCKER -d 170.28.0.5/32 ! -i br-225955f83245 -o br-225955f83245 -p tcp -m tcp --dport 6379 -j ACCEPT
+θ74° 2d [ubuntu@mgc-dev2-3090:~/cuong_dn/robot-lesson-workflow] manual-refactor-agent-registry(+32/-818,+1/-1)+ ± getent hosts robot-ai-workflow-redis-master || nslookup robot-ai-workflow-redis-master
+;; Got SERVFAIL reply from 127.0.0.53
+Server:         127.0.0.53
+Address:        127.0.0.53#53
+
+** server can't find robot-ai-workflow-redis-master: SERVFAIL
+
+θ77° 2d [ubuntu@mgc-dev2-3090:~/cuong_dn/robot-lesson-workflow] manual-refactor-agent-registry(+32/-818,+1/-1)+ ± ss -lntp | grep 6379
+
+```
+
+### Hiện tại: 
+Mọi chương trình/bot/container khác không nằm trên server này 
+(hoặc trong Docker network khác) sẽ **không thể kết nối bằng hostname hoặc IP mạng** (robot-ai-workflow-redis-master).
+
+ **Muốn các service khác (ví dụ một microservice hoặc một bot ở cụm khác) kết nối được bằng hostname `robot-ai-workflow-redis-master`, bạn cần:**
+
+## 1. **Cấu hình lại Redis để listen trên network interface**
+
+- **Chỉnh file cấu hình** (thường tên là `redis.conf`):
+    Tìm dòng:
+    `bind 127.0.0.1`
+    Đổi thành:    
+    `bind 0.0.0.0`
+    (hoặc bind cụ thể IP private nếu cần)
+    
+- **Tắt chế độ protected mode (Chỉ dùng khi đã khóa port bằng firewall):**
+    `protected-mode no`
+    
+- **Restart Redis:**
+
+```bash
+sudo systemctl restart redis
+# hoặc trong Docker:
+docker restart <tên_redis_container>
+
+```
+    
+
+## 2. **Kiểm tra cho chắc chắn**
+```bash
+ss -lntp | grep 6379
+
+=> LISTEN ... 0.0.0.0:6379 ...
+=> LISTEN ... <IP mạng>:6379 ...
+
+=> **Lúc đó**, từ bất cứ máy/service nào nhìn thấy hostname `robot-ai-workflow-redis-master` và truy cập được port 6379, chỉ cần cấu hình:
+```
