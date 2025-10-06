@@ -170,3 +170,32 @@ ubuntu   3889703  0.0  0.0   8168  2492 pts/2    S+   16:45   0:00 grep --color=
 dd-agent 3968994  1.2  0.0 153608 12232 ?        Ssl  Sep18 326:48 redis-server *:6379
 θ79° 2d [ubuntu@mgc-dev2-3090:~/cuong_dn/robot-lesson-workflow] manual-refactor-agent-registry(+32/-818,+1/-1)+ ± 
 ```
+
+- Có **một process Redis chạy bằng user `redis`** trên địa chỉ `127.0.0.1:6379` (thường là Redis chính hệ thống khởi động).
+    
+- Còn lại **rất nhiều process Redis chạy bằng user `dd-agent`** trên các port như `*:6379`, `*:36379`, `*:46379` (kí hiệu `*` là listen trên tất cả địa chỉ mạng).
+	- **Nhiều Redis server khác được tạo bởi Datadog Agent** (`dd-agent`) phục vụ cho mục đích monitor hoặc lưu trữ tạm thời (multi process chỉ Datadog dùng, không phải là instance bạn deploy bình thường).
+	    
+	- Có 2 process lắng nghe port khác là `36379` và `46379`.
+    
+
+
+
+---
+
+## **Cách lọc process Redis bạn tự deploy:**
+
+1. **Xem port nào hoạt động đúng như bạn mong muốn (ví dụ 6379, 6380,...).**
+    
+2. **Xem user khởi động process (bạn thường sẽ không dùng user `dd-agent`).**
+    
+3. **Nếu dùng Docker, kiểm tra bằng `docker ps | grep redis`.**
+    
+
+---
+
+| Lệnh                        | Dùng cho gì?                                     | Đối tượng kiểm tra              | Đầu ra chính       |
+| --------------------------- | ------------------------------------------------ | ------------------------------- | ------------------ |
+| ps aux \| grep redis-server | Kiểm tra process Redis ở mức hệ điều hành        | Có cả cài thường & service      | PID, user, command |
+| ss -lntp \| grep redis      | Xem các port redis đang listen (TCP network)     | Mọi Redis process có listen TCP | Port, PID, process |
+| docker ps \| grep redis     | Kiểm tra Redis container trong môi trường Docker | Chỉ Redis chạy trong Docker     | Container info     |
