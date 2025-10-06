@@ -117,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,7 +220,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "729d6d95a8ecca12",
+  "active": "c33dc9ad168642fd",
   "lastOpenFiles": [
     "All/NOTE/1. DailyNote/2025-10-06.md",
     "All/DATA_SCIENCE_AND_AI/Domain0_Package/Async - asynchronous vs synchronous - Bất đồng bộ và Đồng bộ.md",

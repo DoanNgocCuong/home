@@ -131,9 +131,19 @@ ss -lntp | grep 6379
 ```
 
 
-# 6. Check Redis? 
+# 6. Check Redis ở  mức đọ hệ điều hành - port export - and container 
+
+
+| Lệnh                        | Dùng cho gì?                                     | Đối tượng kiểm tra              | Đầu ra chính       |
+| --------------------------- | ------------------------------------------------ | ------------------------------- | ------------------ |
+| ps aux \| grep redis-server | Kiểm tra process Redis ở mức hệ điều hành        | Có cả cài thường & service      | PID, user, command |
+| ss -lntp \| grep redis      | Xem các port redis đang listen (TCP network)     | Mọi Redis process có listen TCP | Port, PID, process |
+| docker ps \| grep redis     | Kiểm tra Redis container trong môi trường Docker | Chỉ Redis chạy trong Docker     | Container info     |
+|                             |                                                  |                                 |                    |
+
 
 ## 6.1 **Có bao nhiêu instance Redis** đang được deploy trên server
+
 ```bash
 # - `ps aux`: Liệt kê toàn bộ tiến trình (process) đang chạy trên hệ thống.
     
@@ -183,7 +193,7 @@ dd-agent 3968994  1.2  0.0 153608 12232 ?        Ssl  Sep18 326:48 redis-server 
 
 ---
 
-## **Cách lọc process Redis bạn tự deploy:**
+## **6.2 Cách lọc process Redis bạn tự deploy:**
 
 1. **Xem port nào hoạt động đúng như bạn mong muốn (ví dụ 6379, 6380,...).**
     
@@ -199,3 +209,101 @@ dd-agent 3968994  1.2  0.0 153608 12232 ?        Ssl  Sep18 326:48 redis-server 
 | ps aux \| grep redis-server | Kiểm tra process Redis ở mức hệ điều hành        | Có cả cài thường & service      | PID, user, command |
 | ss -lntp \| grep redis      | Xem các port redis đang listen (TCP network)     | Mọi Redis process có listen TCP | Port, PID, process |
 | docker ps \| grep redis     | Kiểm tra Redis container trong môi trường Docker | Chỉ Redis chạy trong Docker     | Container info     |
+|                             |                                                  |                                 |                    |
+
+```bash
+θ76° 2d [ubuntu@mgc-dev2-3090:~/cuong_dn/robot-lesson-workflow] manual-refactor-agent-registry(+32/-818,+1/-1)+ ± ss -lntp | grep redis
+θ74° 2d [ubuntu@mgc-dev2-3090:~/cuong_dn/robot-lesson-workflow] manual-refactor-agent-registry(+32/-818,+1/-1)+ ± docker ps | grep redis
+c62874b5de34   redislabs/redisinsight:latest                                                               "./docker-entry.sh n…"    36 minutes ago      Up 36 minutes                           5540/tcp, 0.0.0.0:29999->8001/tcp, :::29999->8001/tcp                                                                             redisinsight
+856ea8452174   redis:7.2.4                                                                                 "docker-entrypoint.s…"    2 hours ago         Up 2 hours                              6379/tcp                                                                                                                          studio-ai-platform-redis-lesson-master
+99458e0f8a80   redis:7.2.4                                                                                 "docker-entrypoint.s…"    3 days ago          Up 3 days                               6379/tcp                                                                                                                          studio-ai-platform-redis-master
+1831f928b5c6   redis:7.2.4                                                                                 "docker-entrypoint.s…"    4 days ago          Up 4 days                               6379/tcp                                                                                                                          robot-ai-workflow-redis-master
+35dea0301fb0   redis:7                                                                                     "docker-entrypoint.s…"    2 weeks ago         Up 2 weeks (healthy)                    0.0.0.0:6479->6379/tcp, :::6479->6379/tcp                                                                                         langfuse-redis-1
+31585624f7bc   redis:7.2.4                                                                                 "docker-entrypoint.s…"    2 weeks ago         Up 2 weeks                              6379/tcp                                                                                                                          ai-agent-coach-redis-master
+dbecced93a1c   redis:7.2.4                                                                                 "docker-entrypoint.s…"    2 weeks ago         Up 2 weeks                              6379/tcp                                                                                                                          ai-agent-router-redis-master
+405ef2e4fd07   redis:7.2.4                                                                                 "docker-entrypoint.s…"    2 weeks ago         Up 2 weeks                              6379/tcp                                                                                                                          ai-agent-noti-redis-master
+e716cc71ee97   redis:latest                                                                                "docker-entrypoint.s…"    3 weeks ago         Up 3 weeks (healthy)                    6379/tcp                                                                                                                          voicetrans-redis-1
+fa4ce27b86ee   redis:7.2.4                                                                                 "docker-entrypoint.s…"    4 weeks ago         Up 3 weeks                              6379/tcp                                                                                                                          n8n-services-redis-master
+b0420bb36a39   redis:7.2.4                                                                                 "docker-entrypoint.s…"    5 weeks ago         Up 3 weeks                                                                                                                                                                robot-ai-tool-redis-master
+0fd40deb1e6e   redis:7.2.4                                                                                 "docker-entrypoint.s…"    2 months ago        Up 3 weeks                              6379/tcp                                                                                                                          personalized-ai-coach-redis-master
+1d6917b63efb   redis:7.2.4                                                                                 "docker-entrypoint.s…"    2 months ago        Up 3 weeks                              6379/tcp                                                                                                                          personalized-ai-coach-redis-dev
+d7ca805d086f   redis:7.2.4                                                                                 "docker-entrypoint.s…"    2 months ago        Up 3 weeks                              6379/tcp                                                                                                                          robot-ai-workflow-redis-dev
+3448fb53c927   redis:latest                                                                                "docker-entrypoint.s…"    3 months ago        Up 3 weeks                              6379/tcp                                                                                                                          mem0-redis
+45a7523c0058   redis:7.2.4                                                                                 "docker-entrypoint.s…"    3 months ago        Up 3 weeks                              6379/tcp                                                                                                                          robot-ai-lesson-redis-master
+540ee8ab4de1   redis:6-alpine                                                                              "docker-entrypoint.s…"    3 months ago        Up 3 weeks (healthy)                    6379/tcp                                                                                                                          docker-redis-1
+d2bae1943904   redis:7.2.4                                                                                 "docker-entrypoint.s…"    3 months ago        Up 3 weeks                              6379/tcp                                                                                                                          ai-agent-router-redis-dev
+0cacc900bc4b   redis:7.2.4                                                                                 "docker-entrypoint.s…"    3 months ago        Up 3 weeks                              6379/tcp                                                                                                                          ai-agent-master-redis-master
+8ffd58a3d3ba   redis:7.2.4                                                                                 "docker-entrypoint.s…"    3 months ago        Up 3 weeks                              6379/tcp                                                                                                                          personalized-ai-coach-redis-hoailb
+b5337a2f8bdb   redis:7.2.4                                                                                 "docker-entrypoint.s…"    3 months ago        Up 3 weeks                                                                                                                                                                robot-ai-tool-redis-hoailb-master
+73468168270a   redis:7.2.4                                                                                 "docker-entrypoint.s…"    3 months ago        Up 3 weeks                              6379/tcp                                                                                                                          robot-ai-lesson-redis-hoailb-dev
+0c09154f82b5   redis:7.2.4                                                                                 "docker-entrypoint.s…"    3 months ago        Up 3 weeks                              6379/tcp                                                                                                                          robot-ai-workflow-redis-hoailb-master
+075a49a82831   redis:6-alpine                                                                              "docker-entrypoint.s…"    3 months ago        Up 3 weeks (healthy)                    6379/tcp                                                                                                                          docker_redis_dev_1
+θ75° 2d [ubuntu@mgc-dev2-3090:~/cuong_dn/robot-lesson-workflow] manual-refactor-agent-registry(+32/-818,+1/-1)+ ± 
+```
+
+---
+
+### **6.2.1. Kết quả `ss -lntp | grep redis`**
+
+text
+
+`(không có kết quả)`
+
+**Ý nghĩa:** Không có process Redis nào đang **listen trên port TCP** từ OS level. Điều này cho thấy tất cả Redis đang chạy **TRONG Docker container** và không expose port ra ngoài host (hoặc chỉ expose qua Docker port mapping).
+
+---
+
+### **6.2.2. Kết quả `docker ps | grep redis`**
+
+Bạn có **rất nhiều Redis container** đang chạy:
+
+#### **Redis containers với port mapping (có thể truy cập từ ngoài):**
+
+- **`langfuse-redis-1`**: `0.0.0.0:6479->6379/tcp` (có thể truy cập qua port 6479)
+    
+
+#### **Redis containers chỉ chạy nội bộ (không expose port):**
+
+- `studio-ai-platform-redis-lesson-master`
+    
+- `studio-ai-platform-redis-master`
+    
+- **`robot-ai-workflow-redis-master`** ⭐ (đây là Redis bạn đang cần test)
+    
+- `ai-agent-coach-redis-master`
+    
+- `ai-agent-router-redis-master`
+    
+- `ai-agent-noti-redis-master`
+    
+- ... và nhiều containers khác
+    
+
+#### **RedisInsight (Redis management tool):**
+
+- `redisinsight`: `0.0.0.0:29999->8001/tcp` (web UI để quản lý Redis)
+    
+
+---
+
+### 6.2.3 **Tóm tắt phân tích:**
+
+1. **Bạn có khoảng 20+ Redis containers** đang chạy
+    
+2. **Hầu hết không expose port ra ngoài** (chạy trong Docker network nội bộ)
+    
+3. **Chỉ có 1 Redis expose port**: `langfuse-redis-1` trên port `6479`
+    
+4. **Redis bạn cần test** (`robot-ai-workflow-redis-master`) **không expose port**, nên chỉ có thể truy cập từ bên trong Docker network hoặc từ container khác trong cùng network
+    
+
+---
+
+## **Vì sao `ss -lntp | grep redis` không có kết quả:**
+
+- Các Redis đang chạy **TRONG container**, không bind trực tiếp lên interface của host OS
+    
+- Chỉ có Docker port mapping mới tạo listener trên host (như port 6479)
+    
+
+---
