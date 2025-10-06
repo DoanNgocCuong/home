@@ -1,1 +1,0 @@
-https://cloud.zilliz.com/

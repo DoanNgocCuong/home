@@ -1,1 +1,0 @@
-[Mastering Multimodal AI for Advanced Video Understanding with Twelve Labs + Databricks Mosaic AI | Databricks Blog](https://www.databricks.com/blog/mastering-multimodal-ai-twelve-labs?ref=dailydev)

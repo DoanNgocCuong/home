@@ -1,1 +1,0 @@
-- [Inside Salesforce's Scalable Time Series Forecasting AI Platform](https://engineering.salesforce.com/inside-salesforces-scalable-time-series-forecasting-ai-platform/?ref=dailydev)

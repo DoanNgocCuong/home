@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b77347af6e7d8e38",
+        "id": "86ea5fbfe4f7657e",
         "type": "tabs",
         "children": [
           {
-            "id": "c1977da8af893504",
+            "id": "526dca27399ae6ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-10-01.md",
+                "file": "All/FINTECH/Data/2. Danh sách chỉ số.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-01"
-            }
-          },
-          {
-            "id": "88ec3884b4cef2fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "1966d59a3e72e295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All/NOTE/1. DailyNote/2025-10-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-03"
-            }
-          },
-          {
-            "id": "729d6d95a8ecca12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All/PRODUCT/UI, UX/1. Tính năng Perlexity khá thích.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Tính năng Perlexity khá thích"
+              "title": "2. Danh sách chỉ số"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: docker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/PRODUCT/UI, UX/1. Tính năng Perlexity khá thích.md",
+                "file": "All/FINTECH/Data/2. Danh sách chỉ số.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Tính năng Perlexity khá thích"
+              "title": "Outline of 2. Danh sách chỉ số"
             }
           }
         ],
@@ -220,54 +177,55 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "729d6d95a8ecca12",
+  "active": "526dca27399ae6ea",
   "lastOpenFiles": [
-    "All/PRODUCT/Untitled.md",
-    "All/PRODUCT/UI, UX/1. Tính năng Perlexity khá thích.md",
-    "All/PRODUCT/UI, UX",
-    "All/PRODUCT/__.md",
-    "All/PRODUCT/Holdings, ESOP, Build to Sell và Shortcut to IPO.md",
-    "All/NOTE/1. DailyNote/2025-10-06.md",
+    "All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA/04-Vo Minh va Minh.pdf",
+    "All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA/03-Đến-để-mà-thấy.pdf",
+    "All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA/02-Luan-hoi-tai-sinh_IN.pdf",
+    "All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA/01-Bat-chanh-dao-IN_2019.pdf",
+    "All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA/Khám phá một loại hạnh phúc khác_26.9.pdf",
+    "All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA/GSG - ĐÚC KẾT PHÁP HỌC 8.2024.pdf",
+    "All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA/GSG - ĐÚC KẾT PHÁP HÀNH TỨ NIỆM XỨ 8.2024.pdf",
+    "All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA/05-Niệm-Định-Tuệ.pdf",
+    "All/FINTECH/Tài liệu.md",
+    "All/FINTECH/Data/1. Data.md",
+    "All/FINTECH/Data/2. Danh sách chỉ số.md",
+    "All/FINTECH/Data",
+    "All/NOTE/1. DailyNote/2025-10-11.md",
+    "Untitled 3.base",
+    "Untitled 1.canvas",
+    "All/NOTE/1. DailyNote/2025-10-10.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 0 From Mindset chung tới CODING MINDSET/Mindset Code.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 0 From Mindset chung tới CODING MINDSET/Untitled.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 0 From Mindset chung tới CODING MINDSET/1. PROBLEM SOLVING MINDSET - ĐẶC BIỆT TRONG THỜI KỲ AI.md",
+    "All/NOTE/1.1 Đang Nghiên Cứu/2025 - 10 - 09 CHẤM DỨT ĐA MỤC TIÊU - 10092025.md",
+    "All/NOTE/1. DailyNote/2025-10-09.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 0 From Mindset chung tới CODING MINDSET",
+    "All/NOTE/1. DailyNote/2025-10-01.md",
+    "Untitled.md",
+    "All/FINTECH/MMM.md",
+    "All/NOTE/1. DailyNote/2025-10-08.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.2 Docker Compose.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.2 Docker Deploy - Docker Logs.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.2 Docker - Docker Hub.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/__init__ Deploy Docker Web.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/5_Database/Redis.md",
-    "All/DATA_SCIENCE_AND_AI/Domain0_Package/Async - asynchronous vs synchronous - Bất đồng bộ và Đồng bộ.md",
-    "All/DATA_SCIENCE_AND_AI/Domain0_Package/Operating System - Python 3.12.4 Installation Report - 10032025.md",
-    "All/NOTE/1. DailyNote/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
-    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/web/2.  Template - React + Vite + TypeScript + SWC + Tailwind Template.md",
-    "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.7 Template PROBLEM SOLVING - ĐẦU THÁNG 8 - 2025.md",
-    "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.2 II Agent DECISION CANVAS - TEMPLATE ÁP DỤNG FRAMEWORK 6 TẦNG.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/web/__init__ Web - Template.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2. Hệ thống/System - server.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.4 Dọn docker - kill process - port server 1.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.2 Đóng gói package.json, pyproject.toml - NỬA DOCKER.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.3 Dọn docker - kill process - port server.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2. MLOps.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/3_LangChain/Langflow.md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/04-ai-agents/LangChain 1.1 Langfuse rồi thì có dùng các tools OpenTelemetry khác nữa không + LangFuse (free) - LangSmith (fee) - LangGraph Studio (free local, log in with LangSmith free Account) ..md",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/Check OpenAI.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.0 Prompting/0. Prompting Builder.md",
-    "All/PRODUCT",
+    "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/1.5 Config link host + docker compose Trên server không cần ssh.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.2.9 Docker Network is till - Docker Network bị sử dụng.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.2.7 Docker networks bridge và networks và network_mode host.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.13 VẤN ĐỀ API KEY BỊ CHỒNG LẤN TRONG DOCKER.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.16 Hết dải network khả dụng, cần tạo subnet mới và  Pool overlaps with other one on this address space (bị chồng lấn subnet), cần dùng subnet mới.md",
+    "All/NOTE/1. DailyNote/2025-10-03.md",
+    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/CV/reCAPCHA v1, v2, v3.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 4 Deep Learning & Neural Networks/4.1 Computer Vision/Untitled.md",
+    "All/NOTE/1.1 Đang Nghiên Cứu/2025-08-24 GKE Turns 10 Hackathon.md",
+    "All/DATA_SCIENCE_AND_AI/Domain0_Package/Security/Tool Security.md",
+    "All/PRODUCT/UI, UX/image/Pasted image 20251006180436.png",
     "All/NOTE/1.1 Đang Nghiên Cứu/image/Pasted image 20251004224000.png",
-    "All/NOTE/1.1 Đang Nghiên Cứu/image",
     "Untitled.canvas",
-    "All/DATA_SCIENCE_AND_AI/Domain_",
     "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/image/Pasted image 20251002123557.png",
     "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/image/Pasted image 20251002123546.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 9 Business/14. StepUpEnglish/8_Project/1_dify/Module2_Database/image",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/Finance",
-    "All/NOTE/2. Hũ Bánh",
     "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp/image/Pasted image 20250930004253.png",
-    "All/DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG/mcp/image",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/thi/image",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/thi/my_xxxx.csv",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/18_ThiXGBoost/1759068894679.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/18_ThiXGBoost/1759068736823.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/18_ThiXGBoost/1759068125864.png",
     "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/18_ThiXGBoost/1759068043474.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/18_ThiXGBoost/1759067369775.png",
-    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/18_ThiXGBoost/1759067134505.png"
+    "All/DATA_SCIENCE_AND_AI/Domain 3 Machine Learning Fundamentals/image/18_ThiXGBoost/1759067369775.png"
   ]
 }
