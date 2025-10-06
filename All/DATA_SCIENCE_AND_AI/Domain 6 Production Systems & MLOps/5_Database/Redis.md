@@ -60,7 +60,7 @@ RedisInsight là một công cụ GUI trực quan giúp quản lý, phân tích 
 - https://github.com/redis/RedisInsight/issues/5035
 
 ---
-# How to connect Redis with key 
+# 5. How to connect Redis with key 
 
 ```bash
 REDIS_HOST=robot-ai-workflow-redis-master  
@@ -128,4 +128,45 @@ ss -lntp | grep 6379
 => LISTEN ... <IP mạng>:6379 ...
 
 => **Lúc đó**, từ bất cứ máy/service nào nhìn thấy hostname `robot-ai-workflow-redis-master` và truy cập được port 6379, chỉ cần cấu hình:
+```
+
+
+# 6. Check Redis? 
+
+## 6.1 **Có bao nhiêu instance Redis** đang được deploy trên server
+```bash
+# - `ps aux`: Liệt kê toàn bộ tiến trình (process) đang chạy trên hệ thống.
+    
+# - `| grep redis-server`: Lọc ra các tiến trình có tên chứa "redis-server" (tức là Redis đang chạy).
+ps aux | grep redis-server
+```
+
+```bash
+θ77° 2d [ubuntu@mgc-dev2-3090:~/cuong_dn/robot-lesson-workflow] manual-refactor-agent-registry(+32/-818,+1/-1)+ ± ps aux | grep redis-server
+redis       2147  0.2  0.0  86024 12100 ?        Ssl  Sep10  91:05 /usr/bin/redis-server 127.0.0.1:6379
+dd-agent    6222  0.2  0.0 145696  5760 ?        Ssl  Sep10  92:47 redis-server *:6379
+dd-agent   10904  0.2  0.0 145696  5780 ?        Ssl  Sep10  98:44 redis-server *:6379
+dd-agent   11171  0.2  0.0 145696  5788 ?        Ssl  Sep10  94:23 redis-server *:6379
+dd-agent   11934  0.2  0.0 145696  6236 ?        Ssl  Sep10  97:30 redis-server *:36379
+dd-agent   14587  1.0  0.0 163680 11844 ?        Ssl  Sep10 408:39 redis-server *:6379
+dd-agent   15130  0.2  0.0  37612  6724 ?        Ssl  Sep10  96:01 redis-server *:6379
+dd-agent   15609  0.2  0.0 145696  6300 ?        Ssl  Sep10  96:02 redis-server *:46379
+dd-agent   15638  0.2  0.0 145692  6396 ?        Ssl  Sep10  95:57 redis-server *:6379
+dd-agent   15721  0.2  0.0 145696  5796 ?        Ssl  Sep10  96:34 redis-server *:6379
+dd-agent   15722  0.2  0.0 148256  6136 ?        Ssl  Sep10  99:12 redis-server *:6379
+dd-agent   17290  0.2  0.0 145696  5772 ?        Ssl  Sep10  96:11 redis-server *:6379
+dd-agent   17438  0.2  0.0  40172  7120 ?        Ssl  Sep10 100:26 redis-server *:6379
+dd-agent   23708  0.2  0.0 145696  6068 ?        Ssl  Sep10  97:52 redis-server *:6379
+dd-agent   24041  0.2  0.0 148252  7808 ?        Ssl  Sep10  97:34 redis-server *:6379
+dd-agent   24053  0.2  0.0 145696  5780 ?        Ssl  Sep10  94:53 redis-server *:6379
+dd-agent  288482  0.2  0.0  69916  6824 ?        Ssl  Sep17  62:16 redis-server *:6379
+dd-agent 1298457  0.2  0.0  69912  6016 ?        Ssl  Sep17  61:49 redis-server *:6379
+dd-agent 1323075  0.2  0.0  69916  6732 ?        Ssl  Sep17  62:27 redis-server *:6379
+dd-agent 1528618  1.1  0.0 161632 11964 ?        Ssl  Sep10 418:20 redis-server *:6379
+dd-agent 2088274  0.2  0.0 145692  9364 ?        Ssl  15:26   0:12 redis-server *:6379
+dd-agent 3320724  0.2  0.0  69912  7552 ?        Ssl  Oct03   9:49 redis-server *:6379
+dd-agent 3797411  0.2  0.0  83228  9972 ?        Ssl  Oct01  15:22 redis-server *:6379
+ubuntu   3889703  0.0  0.0   8168  2492 pts/2    S+   16:45   0:00 grep --color=auto redis-server
+dd-agent 3968994  1.2  0.0 153608 12232 ?        Ssl  Sep18 326:48 redis-server *:6379
+θ79° 2d [ubuntu@mgc-dev2-3090:~/cuong_dn/robot-lesson-workflow] manual-refactor-agent-registry(+32/-818,+1/-1)+ ± 
 ```
