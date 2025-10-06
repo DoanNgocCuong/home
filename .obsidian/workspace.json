@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2. Hệ thống/System - server.md",
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/5_Database/Redis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System - server"
+              "title": "Redis"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: docker",
+                "query": "file: redis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2. Hệ thống/System - server.md",
+                "file": "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/5_Database/Redis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System - server"
+              "title": "Outline of Redis"
             }
           }
         ],
@@ -222,8 +223,8 @@
   },
   "active": "729d6d95a8ecca12",
   "lastOpenFiles": [
-    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.2 Docker Deploy - Docker Logs.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2. Hệ thống/System - server.md",
+    "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.2 Docker Deploy - Docker Logs.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.4 Dọn docker - kill process - port server 1.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.2 Đóng gói package.json, pyproject.toml - NỬA DOCKER.md",
     "All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/2.1.3 Dọn docker - kill process - port server.md",

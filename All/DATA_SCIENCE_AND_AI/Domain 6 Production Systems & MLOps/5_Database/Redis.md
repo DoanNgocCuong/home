@@ -1,3 +1,5 @@
+
+
 Redis là một hệ thống lưu trữ dữ liệu dạng key-value hoạt động chủ yếu trên bộ nhớ RAM, nổi bật với tốc độ truy xuất cực nhanh và được ứng dụng rộng rãi trong nhiều lĩnh vực công nghệ hiện đại.[viettelidc+3](https://viettelidc.com.vn/tin-tuc/redis-la-gi-tat-tan-tat-uu-nhuoc-diem-va-ung-dung)
 
 ## Ứng dụng thực tế của Redis
@@ -51,3 +53,8 @@ RedisInsight là một công cụ GUI trực quan giúp quản lý, phân tích 
 
 - RedisInsight có thể chạy dưới dạng ứng dụng desktop hoặc dưới dạng Docker container trên server.
 - Cách phổ biến là chạy RedisInsight bằng Docker trên server để dễ dàng quản lý và truy cập từ xa qua trình duyệt web.
+
+
+
+# Bug: 
+- https://github.com/redis/RedisInsight/issues/5035
