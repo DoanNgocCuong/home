@@ -32,3 +32,22 @@ Redis rất phù hợp để bắt đầu học về các công nghệ backend, 
 6. [https://online.unicode.vn/bai-viet/kham-pha-redis-co-so-du-lieu-nhanh-nhu-chop-va-linh-hoat](https://online.unicode.vn/bai-viet/kham-pha-redis-co-so-du-lieu-nhanh-nhu-chop-va-linh-hoat)
 7. [https://vietnix.vn/redis-la-gi/](https://vietnix.vn/redis-la-gi/)
 8. [https://viblo.asia/p/tim-hieu-ve-redis-LzD5dXEW5jY](https://viblo.asia/p/tim-hieu-ve-redis-LzD5dXEW5jY)
+
+---
+# Redis GUI: 
+
+https://github.com/redis/RedisInsight
+
+
+29999
+```bash
+docker run -d -p 29999:8001 --name redisinsight redislabs/redisinsight:latest
+
+```
+
+Redis GUI: 
+
+RedisInsight là một công cụ GUI trực quan giúp quản lý, phân tích và tối ưu hóa cơ sở dữ liệu Redis. Để sử dụng RedisInsight trên server, có thể triển khai theo các cách sau:
+
+- RedisInsight có thể chạy dưới dạng ứng dụng desktop hoặc dưới dạng Docker container trên server.
+- Cách phổ biến là chạy RedisInsight bằng Docker trên server để dễ dàng quản lý và truy cập từ xa qua trình duyệt web.
