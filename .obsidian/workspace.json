@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/FINTECH/Data/2. Danh sách chỉ số.md",
+                "file": "All/NOTE/1. DailyNote/2025-10-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Danh sách chỉ số"
+              "title": "2025-10-12"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/FINTECH/Data/2. Danh sách chỉ số.md",
+                "file": "All/NOTE/1. DailyNote/2025-10-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Danh sách chỉ số"
+              "title": "Outline of 2025-10-12"
             }
           }
         ],
@@ -177,8 +177,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "526dca27399ae6ea",
+  "active": "c33dc9ad168642fd",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2025-10-12.md",
     "All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA/04-Vo Minh va Minh.pdf",
     "All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA/03-Đến-để-mà-thấy.pdf",
     "All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/GOSINGA/02-Luan-hoi-tai-sinh_IN.pdf",
@@ -200,7 +201,6 @@
     "All/DATA_SCIENCE_AND_AI/Domain 0 From Mindset chung tới CODING MINDSET/1. PROBLEM SOLVING MINDSET - ĐẶC BIỆT TRONG THỜI KỲ AI.md",
     "All/NOTE/1.1 Đang Nghiên Cứu/2025 - 10 - 09 CHẤM DỨT ĐA MỤC TIÊU - 10092025.md",
     "All/NOTE/1. DailyNote/2025-10-09.md",
-    "All/DATA_SCIENCE_AND_AI/Domain 0 From Mindset chung tới CODING MINDSET",
     "All/NOTE/1. DailyNote/2025-10-01.md",
     "Untitled.md",
     "All/FINTECH/MMM.md",
