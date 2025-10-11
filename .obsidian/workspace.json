@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1.1 Đang Không Nghiên Cứu/3.2. XỬ LÝ VẤN ĐỀ ĐA NHIỆM - THÓI QUEN XẤU - LÀM 2 VIỆC 1 LÚC - RẤT HAY (GIỮA T82025).md",
+                "file": "All/NOTE/1. DailyNote/2025-10-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2. XỬ LÝ VẤN ĐỀ ĐA NHIỆM - THÓI QUEN XẤU - LÀM 2 VIỆC 1 LÚC - RẤT HAY (GIỮA T82025)"
+              "title": "2025-10-12"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1.1 Đang Không Nghiên Cứu/3.2. XỬ LÝ VẤN ĐỀ ĐA NHIỆM - THÓI QUEN XẤU - LÀM 2 VIỆC 1 LÚC - RẤT HAY (GIỮA T82025).md",
+                "file": "All/NOTE/1. DailyNote/2025-10-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.2. XỬ LÝ VẤN ĐỀ ĐA NHIỆM - THÓI QUEN XẤU - LÀM 2 VIỆC 1 LÚC - RẤT HAY (GIỮA T82025)"
+              "title": "Outline of 2025-10-12"
             }
           }
         ],
@@ -172,16 +172,14 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "github-sync:Sync with Remote": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "526dca27399ae6ea",
   "lastOpenFiles": [
+    "All/NOTE/1.1 Đang Không Nghiên Cứu/3.2. XỬ LÝ VẤN ĐỀ ĐA NHIỆM - THÓI QUEN XẤU - LÀM 2 VIỆC 1 LÚC - RẤT HAY (GIỮA T82025).md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/5. Đánh giá 1 số Job - DNSE - MSB - Domain Tài chính DNSE vs Giáo dục Step Up Education Chiến lược 40-50 năm.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/4. AI Engineering_ResearchEngineeringApplicationProduct.md",
-    "All/NOTE/1.1 Đang Không Nghiên Cứu/3.2. XỬ LÝ VẤN ĐỀ ĐA NHIỆM - THÓI QUEN XẤU - LÀM 2 VIỆC 1 LÚC - RẤT HAY (GIỮA T82025).md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/3.6 TIME - Four Thousand Weeks - Time Management.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/2. DANH SÁCH TOÀN DIỆN CÔNG TY FINTECH & TUYỂN DỤNG AI ENGINEERING.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/2.4_Version 1 PHƯƠNG PHÁP HỌC TẬP THIÊN TÀI HIỆU NĂNG X100.md",
