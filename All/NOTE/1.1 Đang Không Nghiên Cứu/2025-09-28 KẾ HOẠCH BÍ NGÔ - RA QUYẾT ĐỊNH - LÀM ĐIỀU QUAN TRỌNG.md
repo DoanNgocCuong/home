@@ -1,3 +1,10 @@
+![](image/Pasted%20image%2020250928080205.png)
+
+
+https://www.facebook.com/share/p/14NiP79xWTR/
+
+
+---
 
 ```
 THE ROAD: CON ĐƯỜNG TÔI CHỌN 
