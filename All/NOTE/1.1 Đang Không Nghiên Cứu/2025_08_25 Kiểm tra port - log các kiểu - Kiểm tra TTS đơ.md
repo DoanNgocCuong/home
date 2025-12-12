@@ -227,3 +227,233 @@ free -h                                    # RAM usage
 ```
 
 **Tip:** Dùng `sudo` khi cần quyền root để xem tất cả thư mục hệ thống! 🔑
+
+---
+
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+
+## Cách kiểm tra các process đang chạy trên GPU
+
+Dựa trên output `nvidia-smi` của bạn, đây là các cách để identify những process này đang làm gì:
+
+### 1. **Kiểm tra thông tin chi tiết của process**
+
+```bash
+# Xem command line đầy đủ của process
+ps aux | grep <PID>
+
+# Ví dụ với GPU 0
+ps aux | grep 76926
+ps aux | grep 87841
+ps aux | grep 2300098
+ps aux | grep 3750113
+ps aux | grep 3753511
+
+# GPU 1
+ps aux | grep 3753574
+ps aux | grep 3880219
+```
+
+**Output sẽ cho bạn biết:**
+
+- User chạy process
+- Command line đầy đủ (script path, arguments)
+- Memory usage
+- Start time
+
+
+### 2. **Xem working directory và command của process**
+
+```bash
+# Xem working directory
+pwdx <PID>
+
+# Xem command line đầy đủ với arguments
+cat /proc/<PID>/cmdline | tr '\0' ' '
+
+# Ví dụ
+cat /proc/87841/cmdline | tr '\0' ' '
+```
+
+Đặc biệt với `VLLM::EngineCore` (PID 87841), command này sẽ cho biết:
+
+- Model nào đang được serve
+- Port nào
+- Config gì (max-model-len, gpu-memory-utilization, etc.)
+
+
+### 3. **Kiểm tra network connections (nếu là API server)**
+
+```bash
+# Xem process đang listen trên port nào
+sudo netstat -tulpn | grep <PID>
+
+# Hoặc dùng lsof
+sudo lsof -i -P -n | grep <PID>
+
+# Ví dụ với vLLM engine
+sudo netstat -tulpn | grep 87841
+```
+
+Nếu là vLLM server, sẽ thấy port 30030, 30031, etc.
+
+### 4. **Xem log files của process (best approach)**
+
+```bash
+# Tìm log files liên quan
+sudo lsof -p <PID> | grep log
+
+# Hoặc check trong /proc
+ls -la /proc/<PID>/fd/
+
+# Xem stderr/stdout của process đang chạy
+sudo tail -f /proc/<PID>/fd/1  # stdout
+sudo tail -f /proc/<PID>/fd/2  # stderr
+```
+
+
+### 5. **Identify vLLM processes specifically**
+
+```bash
+# List tất cả vLLM processes
+ps aux | grep vllm
+
+# Xem vLLM configs đang chạy
+ps aux | grep "vllm.entrypoints"
+```
+
+
+### 6. **Check Python script locations**
+
+```bash
+# Xem environment variables của process
+cat /proc/<PID>/environ | tr '\0' '\n'
+
+# Tìm hiện working directory đầy đủ
+readlink -f /proc/<PID>/cwd
+
+# Xem process tree
+pstree -p <PID>
+```
+
+
+### 7. **Tổng hợp command để check nhanh**
+
+Tôi tạo cho bạn một script tiện lợi:
+
+```bash
+#!/bin/bash
+# check_gpu_processes.sh
+
+echo "=== GPU PROCESS ANALYZER ==="
+echo ""
+
+# Lấy list PIDs từ nvidia-smi
+PIDS=$(nvidia-smi --query-compute-apps=pid --format=csv,noheader)
+
+for PID in $PIDS; do
+    echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    echo "PID: $PID"
+    echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    
+    # User và basic info
+    echo "👤 USER & PROCESS:"
+    ps -p $PID -o user,pid,ppid,%cpu,%mem,etime,cmd --no-headers
+    echo ""
+    
+    # Working directory
+    echo "📁 WORKING DIR:"
+    readlink -f /proc/$PID/cwd 2>/dev/null || echo "Permission denied"
+    echo ""
+    
+    # Command line đầy đủ
+    echo "⚙️  FULL COMMAND:"
+    cat /proc/$PID/cmdline 2>/dev/null | tr '\0' ' ' || echo "Permission denied"
+    echo ""
+    echo ""
+    
+    # Network ports (nếu có)
+    echo "🌐 LISTENING PORTS:"
+    sudo netstat -tulpn 2>/dev/null | grep $PID || echo "No ports found"
+    echo ""
+    
+    echo ""
+done
+```
+
+**Cách dùng:**
+
+```bash
+chmod +x check_gpu_processes.sh
+sudo ./check_gpu_processes.sh
+```
+
+
+### 8. **Phân tích cụ thể cho GPU của bạn**
+
+Dựa trên output bạn cung cấp, đây là dự đoán:
+
+**GPU 0:**
+
+- `87841 - VLLM::EngineCore (9.6GB)` → **Likely SmolLM2 hoặc model nào đó bạn đang test**
+- `76926 - python (4.1GB)` → Có thể là Jupyter, training script, hoặc API server khác
+- `2300098 - python (3.7GB)` → Model inference hoặc preprocessing
+- `3750113 - python (1.8GB)` → Smaller model hoặc batch processing
+- `3753511 - tritonserver (2.5GB)` → **NVIDIA Triton Inference Server** (production serving)
+
+**GPU 1:**
+
+- `3753574 - grpc_server_main (8.3GB)` → **Triton backend server** (part of Triton setup)
+- `3880219 - /usr/bin/python (7.9GB)` → Large model hoặc data processing
+
+
+### 9. **Quick check command cho vLLM specifically**
+
+```bash
+# Tìm tất cả vLLM instances đang chạy
+ps aux | grep -E "vllm|SmolLM|Qwen|model" | grep -v grep
+
+# Check ports đang được sử dụng
+sudo netstat -tulpn | grep -E "30030|30031|30032|8000|8001"
+
+# Xem logs gần nhất của vLLM
+sudo find /tmp -name "*vllm*" -type f 2>/dev/null | xargs ls -lt | head -5
+```
+
+
+### 10. **Recommended action cho bạn**
+
+Để test model mới như anh Hùng đề nghị, bạn nên:
+
+```bash
+# 1. Kill hoặc identify process nào đang dùng GPU 0
+sudo kill <PID_of_unused_process>
+
+# 2. Hoặc chuyển sang dùng GPU 2 (chỉ có 688MB usage)
+CUDA_VISIBLE_DEVICES=2 python -m vllm.entrypoints.openai.api_server ...
+
+# 3. Nếu cần dedicated GPU, có thể request admin set GPU mode
+sudo nvidia-smi -c EXCLUSIVE_PROCESS -i 0  # Chỉ 1 process/GPU
+```
+
+
+### Kết luận
+
+**Để trả lời câu hỏi của bạn:**
+
+Run command này để xem ngay:
+
+```bash
+ps aux | grep 87841
+cat /proc/87841/cmdline | tr '\0' ' '
+sudo netstat -tulpn | grep 87841
+```
+
+Điều này sẽ cho bạn biết:
+
+1. **VLLM::EngineCore đang serve model gì**
+2. **Port nào**
+3. **Config như thế nào**
+
+Từ đó bạn sẽ biết GPU 0 đang bận làm gì và có thể shutdown để test model mới hoặc chọn GPU khác.
+
