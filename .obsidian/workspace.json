@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: dọn",
+                "query": "file: lương",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +176,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "526dca27399ae6ea",
+  "active": "c33dc9ad168642fd",
   "lastOpenFiles": [
     "All/NOTE/1. DailyNote/2025-04-23 AI Day Step Up.md",
     "All/NOTE/1. DailyNote/2025-04-17 - acc Long.md",
