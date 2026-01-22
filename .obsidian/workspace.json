@@ -173,6 +173,9 @@
   },
   "active": "c33dc9ad168642fd",
   "lastOpenFiles": [
+    "cleanup_daily_note_v2.py",
+    "cleanup_daily_note.py",
+    "remove_empty_md.py",
     "All/NHẬT KÝ/2025/2025-04-10 - Prompt Hackathon Game Pika.md",
     "All/NHẬT KÝ/2025/00/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "All/NHẬT KÝ/2025/00/2025 - Problem Solving.md",
@@ -213,12 +216,9 @@
     "All/NHẬT KÝ/2025/10/2025-10-16.md",
     "All/NHẬT KÝ/2025/10/2025-10-13.md",
     "All/NHẬT KÝ/2025/10/2025-10-12.md",
-    "All/NHẬT KÝ/2025/10/2025-10-11.md",
     "All/NHẬT KÝ/2025/12/assets",
     "All/NHẬT KÝ/2025/12",
     "All/NHẬT KÝ/2025/11/assets",
-    "All/NHẬT KÝ/2025/11",
-    "All/NHẬT KÝ/2025/10/assets",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
