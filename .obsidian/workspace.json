@@ -11,10 +11,14 @@
             "id": "526dca27399ae6ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "All/NHẬT KÝ/2026/DAILY T1_2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DAILY T1_2026"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "All/NHẬT KÝ/2026/DAILY T1_2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of DAILY T1_2026"
             }
           }
         ],
@@ -171,13 +176,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c33dc9ad168642fd",
+  "active": "526dca27399ae6ea",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2026-01-22.md",
+    "All/NHẬT KÝ/2025/00/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
+    "All/NHẬT KÝ/2026/2026.md",
     "cleanup_daily_note_v2.py",
     "cleanup_daily_note.py",
     "remove_empty_md.py",
     "All/NHẬT KÝ/2025/2025-04-10 - Prompt Hackathon Game Pika.md",
-    "All/NHẬT KÝ/2025/00/2025 - TEMPLATE (Được chuyển thể từ dạng bảng sang dạng markdown).md",
     "All/NHẬT KÝ/2025/00/2025 - Problem Solving.md",
     "All/NHẬT KÝ/2025/00",
     "move_templates.py",
@@ -215,10 +222,8 @@
     "All/NHẬT KÝ/2025/10/2025-10-17.md",
     "All/NHẬT KÝ/2025/10/2025-10-16.md",
     "All/NHẬT KÝ/2025/10/2025-10-13.md",
-    "All/NHẬT KÝ/2025/10/2025-10-12.md",
     "All/NHẬT KÝ/2025/12/assets",
     "All/NHẬT KÝ/2025/12",
-    "All/NHẬT KÝ/2025/11/assets",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
