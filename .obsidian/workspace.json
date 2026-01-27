@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NHẬT KÝ/2026/DAILY T1_2026 1.md",
+                "file": "All/NOTE/1. DailyNote/2026-01-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DAILY T1_2026 1"
+              "title": "2026-01-27"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NHẬT KÝ/2026/DAILY T1_2026 1.md",
+                "file": "All/NOTE/1. DailyNote/2026-01-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DAILY T1_2026 1"
+              "title": "Outline of 2026-01-27"
             }
           }
         ],
@@ -171,9 +171,7 @@
       "copilot:Open Copilot Chat": false,
       "khoj:Khoj": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "github-sync:Sync with Remote": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "526dca27399ae6ea",
