@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/Sức Khoẻ/No.md",
+                "file": "All/NOTE/1. DailyNote/2026-01-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "No"
+              "title": "2026-01-29"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/Sức Khoẻ/No.md",
+                "file": "All/NOTE/1. DailyNote/2026-01-29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of No"
+              "title": "Outline of 2026-01-29"
             }
           }
         ],
@@ -178,8 +178,9 @@
   },
   "active": "526dca27399ae6ea",
   "lastOpenFiles": [
-    "All/Sức Khoẻ/Untitled.md",
+    "All/Sức Khoẻ/Untitled 1.md",
     "All/Sức Khoẻ/No.md",
+    "All/Sức Khoẻ/Untitled.md",
     "All/NHẬT KÝ/2026/DAILY T1_2026 1.md",
     "All/NOTE/1. DailyNote/2026-01-29.md",
     "All/NHẬT KÝ/2026/DAILY T1_2026.md",
@@ -222,7 +223,6 @@
     "All/NHẬT KÝ/2025/12/2025-12-02.md",
     "All/NHẬT KÝ/2025/12/2025-12-01.md",
     "All/NHẬT KÝ/2025/11/2025-11-30.md",
-    "All/NHẬT KÝ/2025/11/2025-11-27.md",
     "All/NHẬT KÝ/2025/12/assets",
     "Untitled 1.canvas",
     "Untitled.canvas",
