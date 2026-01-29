@@ -8,7 +8,7 @@ Mỡ: 11.5%, Xương 2.5kg, Nước 61.2, Cơ 44.6, Tuổi sinh học 18, Mỡ n
 
 Hiện tại : 55.5kg
 
-Mục tiêu của em: chạy 365 ngày để rèn kỷ luật + rèn sức mạnh, sức bền như Ronado, David Googins và sống thọ như Chalie Murger, Warren Buffet 😁
+Mục tiêu của em: chạy 365 ngày để rèn kỷ luật + rèn sức mạnh, sức bền như Ronado, kỷ luật như David Googins và sống thọ như Chalie Murger, Warren Buffet 😁
 
 Gõ lại toàn bộ thông số chi tiết, vấn đề, kèm giải thích, giải pháp, giáo án, thực đơn ... thành tài liệu
 
