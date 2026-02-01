@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NHẬT KÝ/2026/DAILY T1_2026 1.md",
+                "file": "All/NOTE/1. DailyNote/2026-02-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DAILY T1_2026 1"
+              "title": "2026-02-01"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NHẬT KÝ/2026/DAILY T1_2026 1.md",
+                "file": "All/NOTE/1. DailyNote/2026-02-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DAILY T1_2026 1"
+              "title": "Outline of 2026-02-01"
             }
           }
         ],
@@ -177,11 +177,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e8148111a2d2c310",
+  "active": "526dca27399ae6ea",
   "lastOpenFiles": [
+    "All/NHẬT KÝ/2026/DAILY T1_2026 1.md",
+    "All/NOTE/1. DailyNote/2026-02-01.md",
     "All/NOTE/1. DailyNote/2026-01-30.md",
     "CHANGLOG.md",
-    "All/NHẬT KÝ/2026/DAILY T1_2026 1.md",
     "All/NOTE/1. DailyNote/2026-01-29.md",
     "All/NHẬT KÝ/2026/DAILY T1_2026.md",
     "All/NOTE/1.1 Đang Không Nghiên Cứu/2025_08_25 Kiểm tra port - log các kiểu - Kiểm tra TTS đơ.md",
@@ -223,7 +224,6 @@
     "All/NHẬT KÝ/2025/12/2025-12-27.md",
     "All/NHẬT KÝ/2025/12/2025-12-12.md",
     "All/NHẬT KÝ/2025/12/2025-12-09.md",
-    "All/NHẬT KÝ/2025/12/2025-12-07.md",
     "All/NHẬT KÝ/2025/12/assets",
     "Untitled 1.canvas",
     "Untitled.canvas",
