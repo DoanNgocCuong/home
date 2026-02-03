@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "526dca27399ae6ea",
+  "active": "e8148111a2d2c310",
   "lastOpenFiles": [
     "All/NHẬT KÝ/2026/DAILY T1_2026 1.md",
     "All/NHẬT KÝ/2026/DAILY T2_2026.md",
