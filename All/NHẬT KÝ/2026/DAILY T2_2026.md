@@ -11,3 +11,12 @@
 
 | 1. Sau khi đọc cuốn THE ROAD được vài trang thì mình nhận ra: <br>+, Xây dựng hệ thống là 1 thứ rất quan trọng <br>TÀI SẢN HỮU HÌNH VÀ TÀI SẢN VÔ HÌNH. <br>- Tài sản hữu hình: Bất động sản, tiền mặt, cổ phiếu chứng khoán, kinh doanh có hệ thống, ...<br>- Tài sản vô hình: Digital assets (ebook, course, group coach, coach1-1, community, hệ thống quy trình công nghệ,...), trí tuệ kĩ năng kinh nghiệm trong mọi mặt cuộc sống, mối quan hệ,<br>2. Hãy làm đi |     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Dạ vâng ạ, anh Nam update nhanh dữ ạ. Con này nó mới có mạng xã hội, với AI thuê human chắc anh Nam cũng nghe rùi ạ.  <br>  <br>[https://youtu.be/mV-2sO9hmVM?si=el_JJOFNPrbGmHVb](https://youtu.be/mV-2sO9hmVM?si=el_JJOFNPrbGmHVb)  <br>  <br>[https://youtu.be/nlyGU2jRFr8?si=8nfrR0Z4gcjQTubm](https://youtu.be/nlyGU2jRFr8?si=8nfrR0Z4gcjQTubm)  <br>  <br>Anh Nam có thể xem thêm 2 cái này (anh này mentor của em trong mảng Tech ạ)                            |     |
+| LÀM ĐÚNG HẾT BÀI TẬP MÀ KO KIẾM ĐƯỢC X3 SỐ TIỀN ĐÓ. <br>+, Nếu ko đạt => bạn vào challenge sau, đến khi đạt thì thôi <br>+, Ko đạt thì hoàn tiền. <br><br>+, Continue Bonus: <br>Challenge 1 lần, gói 1 năm thì muốn hướng gói 1 năm thì gói 1 năm rẻ hơn 1/3 (1 lần 250 đô, )<br>                                                                                                                                                                                     |     |
+| Đăng bài => ông nào oke thì vào <br>Ko ai mua => ko làm nữa đỡ mất năng lượng <br>+, Làm trực tiếp => Sau đó mới đóng gói <br>+, Gói cao cấp sẽ được cá nhân hoá                                                                                                                                                                                                                                                                                                       |     |
+![](image/Pasted%20image%2020260204205027.png)
+
+
+Chốt sale: nọ buổi meeting DAS nói 2000, sau đó private 1000 làm mình muốn mua luôn. 
+Sau đó mình lại vào buổi public thấy 1200 => mình lại càng muốn chốt luôn. 
+
