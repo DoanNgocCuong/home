@@ -20,3 +20,5 @@
 Chốt sale: nọ buổi meeting DAS nói 2000, sau đó private 1000 làm mình muốn mua luôn. 
 Sau đó mình lại vào buổi public thấy 1200 => mình lại càng muốn chốt luôn. 
 
+
+![](image/Pasted%20image%2020260204215131.png)
