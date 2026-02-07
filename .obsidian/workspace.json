@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NHẬT KÝ/2026/DAILY T1_2026.md",
+                "file": "All/NHẬT KÝ/2026/DAILY T2_2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DAILY T1_2026"
+              "title": "DAILY T2_2026"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NHẬT KÝ/2026/DAILY T1_2026.md",
+                "file": "All/NHẬT KÝ/2026/DAILY T2_2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DAILY T1_2026"
+              "title": "Outline of DAILY T2_2026"
             }
           }
         ],
@@ -178,11 +178,13 @@
   },
   "active": "526dca27399ae6ea",
   "lastOpenFiles": [
+    "All/NHẬT KÝ/2026/DAILY T1_2026.md",
+    "All/NHẬT KÝ/2026/2026-01-19.md",
     "All/NHẬT KÝ/2026/DAILY T1_2026 1.md",
+    "All/NOTE/1. DailyNote/2026-02-07.md",
     "All/NHẬT KÝ/2026/DAILY T2_2026.md",
     "All/NOTE/1. DailyNote/2026-02-06.md",
     "All/Sức Khoẻ/No.md",
-    "All/NHẬT KÝ/2026/DAILY T1_2026.md",
     "All/NOTE/1. DailyNote/2026-02-05.md",
     "All/Điểm đi chơi.md",
     "All/TÀI CHÍNH/KIẾM/T2_2026.md",
@@ -208,8 +210,6 @@
     "All/NHẬT KÝ/Tài chính.md",
     "All/Sức Khoẻ",
     "All/NOTE/1. DailyNote/2026-01-27.md",
-    "All/NOTE/1. DailyNote/2026-01-26.md",
-    "All/NOTE/1. DailyNote/2026-01-24.md",
     "cleanup_daily_note_v2.py",
     "cleanup_daily_note.py",
     "remove_empty_md.py",
