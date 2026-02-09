@@ -121,3 +121,11 @@ Em đang nghĩ mình sẽ ứng dung khi nào: Nếu chưa phải chuyên gia th
 
 Điều quan trọng nhất em đang nghĩ là: mình sẽ cung ứng được gì với những thứ mình có hiện tại. 
 ?
+
+
+
+| Sau khi xem phim No Pain No Gain + trực tiếp đi nhà máy sau đó được quản lý 4 bạn nhân sự (4 bạn hiệu suất 449 con robot) (mình 1 ngày được 60 con, căng lắm mình + 1 anh nữa là được 100 con). <br>+, Mình dùng bài học được từ phim: động viên các bạn, phúc lợi tốt mua bánh trái hoa quả và mang cho các bạn, nghỉ ngơi đúng giờ (y như phim) + ae tuỳ ý sáng tạo ...<br> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                               |
+x
