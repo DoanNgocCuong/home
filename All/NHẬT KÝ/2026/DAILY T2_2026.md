@@ -65,3 +65,59 @@ Sau đó mình lại vào buổi public thấy 1200 => mình lại càng muốn 
 
 | Sinh nhật<br>Chúc cậu luôn bình an trước mọi biến động của cuộc sống, lắng nghe tâm trí của mình để biết rõ mình thực sự muốn gì và mạnh mẽ đưa ra lựa chọn, đi theo con đường cậu đã chọn. nhé!!!<br>Yêu cậu =)) |     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+
+![](image/Pasted%20image%2020260209124532.png)
+
++, 1-2 khách hàng giá cao => đóng gói từ high ticket sang challenge community
+1. Thử thách để kéo vào cộng đồng 
+2. Cộng đồng trả phí
+3. Gói giá cao, hoặc ... 
++, Format and concept: chuyển dịch từ bán thời gian và chuyên môn của mình 
+=> bán format and concept , định dạng, tài sản số, ... 
+
++, Có cần làm expert để có 1 cộng đồng ko ? 
++, Người khác nói tốt về bạn: branding, >> gấp 20 lần quảng cáo - marketing. 
+
+![](image/Pasted%20image%2020260209125515.png)
+
+![](image/Pasted%20image%2020260209125650.png)
+
+
+Người ta ko cần phần mềm, người ta cần giải quyết được vấn đề 
+One Funnel Away Challenge, 30 ngày cầm tay chỉ việc, 
+
+![](image/Pasted%20image%2020260209125959.png)
+
+![](image/Pasted%20image%2020260209130538.png)
+
+
+![](image/Pasted%20image%2020260209130909.png)
+
+
+```
+Nếu chưa phải chuyên gia, chưa chắc chắn độ hiệu quả của sản phẩm thì cách đi sẽ như nào a  
++, nên bán nhóm nhỏ trước  
++, hoặc có thể kế hợp với các chuyên gia khác để xây cộng đồng cho họ phải không ạ.
+```
+
+1. challenge nhỏ với testing 5-10 người
+   +, Tệ nhất ko win: 
+   +, Khách hàng ko vừa lòng ? => cùng lắm là hoàn tiền. 
+2. community 
+3. high-ticket
+
+![](image/Pasted%20image%2020260209131531.png)
+
+
+![](image/Pasted%20image%2020260209132031.png)
+
+
+```
+Em đang nghĩ mình sẽ ứng dung khi nào: Nếu chưa phải chuyên gia thì cách đi sẽ là:  
++, tìm vấn đề user, chọn ngách nhỏ mà mình thực sự giải quyết được, bán nhóm nhỏ trước  
++, hoặc có thể kế hợp với các chuyên gia khác để xây cộng đồng cho họ (chẳng hạn kết hợp với expert khác về AI, về Product,... ạ)  
++, hoặc kết hợp support anh chị trong nhóm mình về mảng công nghệ ạ.
+```
+
+Điều quan trọng nhất em đang nghĩ là: mình sẽ cung ứng được gì với những thứ mình có hiện tại. 
+?
