@@ -209,3 +209,45 @@ Ko cần áp lực nghĩ ngay chương trình 1 năm => dần dần ý tưởng 
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | Những người kỉ luật, kiên nhẫn, nhất quán. <br>Vợ a Minh: vị tha, kỉ luật, <br>- Có những người sinh ra có năng lượng của sự vững vàng rất cao. <br>- Có nhiều viên kim cương không kỉ luật, bản thân mỗi người có giá trị vô cùng đặc biệt khác nhau. Cái gì của người khác mạnh thì mình khiêm hạ học hỏi theo.<br>- Trong tuần qua đáng lẽ ra phải thế này                                                                                                                                                                                                    |     |
 | - Năng lượng của sự vững vàng = năng lượng của việc giữ tiền <br>- Không phải vì cái lọ bị vỡ mà cậu bé vipassana ko kiếm thêm dầu bỏ vào <br>+, Thời gian quay lại chuỗi ngắn hơn<br>+, Chuỗi đã giữ được dài hơn <br>+, Quan trọng là tốc độ quay trở lại<br>+, Con hổ ăn chay bị yếu, đút cho con hổ ăn chay ăn thêm 1 cái tích chuỗi. (Câu chuyện con hổ ăn chay và con hổ ăn thịt, con nào ăn nhiều hơn thì ngon hơn)<br>+, Tết năm trước chạy bộ trong Tết => ô mình tiến bộ thực sự rồi. <br>+, Nó luôn luôn là chuyện hôm qua. Ngã ở đâu đứng dậy ở đấy. |     |
+| Thiết kế offer ?? <br>+, Tiện và quen thuộc <br>+, Beta forever<br>+,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |     |
+![](image/Pasted%20image%2020260212123613.png)
+
+#### KIẾM NGẮN KIẾM DÀI: Trong ngữ cảnh **Ngũ Luân Thư** và Musashi, “kiếm ngắn kiếm dài” thường nói đến thế **song kiếm**: một trường kiếm (katana – kiếm dài) và một đoản kiếm (wakizashi – kiếm ngắn) dùng cùng lúc.
+
++, Kiếm dài : kết quả dài hạn, chưa vội gặt quả ngay 
++, Kiếm ngắn: Kết quả ngắn hạn, liên tục bán hàng
+
+
+Alexhomozi: 20 lần cho đi, 1 lần bán. trung bình thì 3: 1
+
+![](image/Pasted%20image%2020260212125103.png)
+
+1. Build in Public: 
+   +, Định nghĩa là 1 người tổng hợp thông tin 
+   => Hack: Kết hợp ngay lập tức với những chuyên gia. Hoặc kết hợp 1 người có traffic để ngay lập tức có traffic 
+2. Có traffic: influence. Fanpage, tiktok, ... 
+   +, Chưa có chuyên môn cao 
+   +, bán Low Ticket 
+
+
+---
+
+BEGINERs 
++, Warm list : Zalo, FB, 
++, CONTENT IN GROUP (1 người xem cũng vậy, 10000 người xem cũng vậy)
+
+HACK 1: PARTNERSHIP (kết hợp với người có traffic)
+HACK 2: HIRE ADS AGENCY (ko chạy quảng cáo được thì thuê)
+
+![](image/Pasted%20image%2020260212130005.png)
+
+
+
+![](image/Pasted%20image%2020260212130105.png)
+
+
+![](image/Pasted%20image%2020260212130533.png)
+
+
+![](image/Pasted%20image%2020260212130921.png)
+
