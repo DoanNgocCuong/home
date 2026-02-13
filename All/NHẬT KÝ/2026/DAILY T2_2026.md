@@ -251,3 +251,8 @@ HACK 2: HIRE ADS AGENCY (ko chạy quảng cáo được thì thuê)
 
 ![](image/Pasted%20image%2020260212130921.png)
 
+
+## 13/02/2026 
+
+| 1. Sáng dậy trong cơn mơ màng, mình thấy 1 vài lỗi bug trong bản thân mình tối qua. <br>Mình nghĩ đến hệ thống. <br>+, Việc mỗi 1 lỗi nhỏ là mầm mống cho việc ảnh hưởng đến hiệu năng của cả 1 hệ thống. <br>+, Việc chưa có tư duy THE ROAD, TỔNG QUAN, HỆ THỐNG => Dẫn đến các phần không được đồng nhất và gây ra vấn đề.   |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
