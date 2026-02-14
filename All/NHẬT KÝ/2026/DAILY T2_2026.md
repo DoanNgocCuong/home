@@ -328,3 +328,15 @@ Gần đây em cũng định mua 1 thứ, xong cũng đắn đo, search 5 ngày 
 Văn hoá Châu Á -> chat, văn hoá nước ngoài -> email 
 
 Khách quét QR -> chạy thẳng vào Skool. 
+
+
+![](image/Pasted%20image%2020260214132111.png)
+
+
+![](image/Pasted%20image%2020260214132146.png)
+
+![](image/Pasted%20image%2020260214132244.png)
+
+---
+
+Boost post : ấn 1 phát bài đó sẽ boost bài post của bạn luôn 
