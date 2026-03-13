@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2026-03-02.md",
+                "file": "All/NOTE/1. DailyNote/2026-03-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-02"
+              "title": "2026-03-13"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2026-03-02.md",
+                "file": "All/NOTE/1. DailyNote/2026-03-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-02"
+              "title": "Outline of 2026-03-13"
             }
           }
         ],
@@ -178,10 +178,11 @@
   },
   "active": "526dca27399ae6ea",
   "lastOpenFiles": [
+    "All/NOTE/1. DailyNote/2026-03-02.md",
+    "All/NOTE/1. DailyNote/2026-03-13.md",
     "claude-setup-requirements.md",
     "claude-setup-requirements.md.tmp.15796.1772425847492",
     "All/NHẬT KÝ/2026/DAILY T2_2026.md",
-    "All/NOTE/1. DailyNote/2026-03-02.md",
     "All/NHẬT KÝ/2026/DAILY T1_2026 1.md",
     "All/NHẬT KÝ/2026/DAILY T1_2026.md",
     "All/NOTE/1. DailyNote/2026-02-17.md",
@@ -217,7 +218,6 @@
     "All/NOTE/1. DailyNote/2026-02-04.md",
     "All/NOTE/1. DailyNote/2026-02-02.md",
     "All/NOTE/1. DailyNote/2026-02-01.md",
-    "All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/7_2. Edu và Fin.md",
     "All/Sức Khoẻ",
     "cleanup_daily_note_v2.py",
     "cleanup_daily_note.py",
