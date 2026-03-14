@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2026-03-13.md",
+                "file": "CHANGLOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-13"
+              "title": "CHANGLOG"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.5026054382324
   },
   "right": {
     "id": "99a8a767f128d83e",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2026-03-13.md",
+                "file": "CHANGLOG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-13"
+              "title": "Outline of CHANGLOG"
             }
           }
         ],
@@ -176,10 +176,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "526dca27399ae6ea",
+  "active": "c33dc9ad168642fd",
   "lastOpenFiles": [
-    "All/NOTE/1. DailyNote/2026-03-02.md",
+    "backend/README.md",
+    "backend/calculation_rules.md",
+    "All/NOTE/1. DailyNote/2026-03-14.md",
     "All/NOTE/1. DailyNote/2026-03-13.md",
+    "All/NOTE/1. DailyNote/2026-03-02.md",
     "claude-setup-requirements.md",
     "claude-setup-requirements.md.tmp.15796.1772425847492",
     "All/NHẬT KÝ/2026/DAILY T2_2026.md",
@@ -215,9 +218,6 @@
     "All/TÀI CHÍNH",
     "All/NHẬT KÝ/2026/2026-01-20.md",
     "All/NHẬT KÝ/2026/image",
-    "All/NOTE/1. DailyNote/2026-02-04.md",
-    "All/NOTE/1. DailyNote/2026-02-02.md",
-    "All/NOTE/1. DailyNote/2026-02-01.md",
     "All/Sức Khoẻ",
     "cleanup_daily_note_v2.py",
     "cleanup_daily_note.py",
