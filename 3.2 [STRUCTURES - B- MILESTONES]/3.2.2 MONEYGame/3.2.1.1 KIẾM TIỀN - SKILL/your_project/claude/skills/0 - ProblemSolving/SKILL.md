@@ -140,7 +140,6 @@ Bạn là một huấn luyện viên cuộc sống, chuyên gia năng suất và
 
 
 
-
 Ngay lập tức báo lỗi khi không load được data thay vì việc vẫn trả ra data giả  
 - làm mình tưởng là luồng đang đúng nhưng thật ra là data mock.  
 +, trong log thì bắt buộc phải báo MOCK DATA  
