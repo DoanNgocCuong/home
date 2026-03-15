@@ -11,13 +11,14 @@
             "id": "17f2db0f574154ac",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/NHẬT KÝ/2026/2026-03-15.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2026-03-15"
             }
           }
         ]
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/NHẬT KÝ/2026/2026-03-15.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2026-03-15"
             }
           }
         ],
@@ -171,9 +172,9 @@
   },
   "active": "17f2db0f574154ac",
   "lastOpenFiles": [
-    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/NHẬT KÝ/2026/2026-03-15.md",
     "Untitled.base",
     "Untitled.canvas",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/NHẬT KÝ/2026/2026-03-15.md",
     "_bmad-output/planning-artifacts",
     "_bmad-output/implementation-artifacts",
     "_bmad-output",
@@ -203,7 +204,6 @@
     "_bmad/bmm/workflows/3-solutioning/create-architecture/steps/step-07-validation.md",
     "_bmad/bmm/workflows/3-solutioning/create-architecture/steps/step-06-structure.md",
     "_bmad/bmm/workflows/3-solutioning/create-architecture/steps/step-05-patterns.md",
-    "_bmad/bmm/workflows/3-solutioning/create-architecture/steps/step-04-decisions.md",
     "_bmad/bmm/workflows/2-plan-workflows/create-prd/data/project-types.csv",
     "_bmad/bmm/workflows/2-plan-workflows/create-prd/data/domain-complexity.csv",
     "_bmad/bmm/workflows/document-project/templates/project-scan-report-schema.json",
