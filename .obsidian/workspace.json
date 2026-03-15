@@ -11,14 +11,10 @@
             "id": "526dca27399ae6ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHANGLOG.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CHANGLOG"
+              "title": "New tab"
             }
           }
         ]

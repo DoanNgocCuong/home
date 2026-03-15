@@ -1,0 +1,383 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "single_file_data_path": ".smart-env/smart_sources.json",
+    "min_chars": 200,
+    "embed_model": {
+      "adapter": "transformers",
+      "transformers": {
+        "legacy_transformers": false,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "TaylorAI/bge-micro-v2": {}
+    }
+  },
+  "file_exclusions": "Untitled,4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md,4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 11 - 2 FILE DOCKER COMPOSE VÀ 2 ỨNG DỤNG KHÔNG LIÊN QUAN ĐẾN NHAU,nhưng có bị tự động tạo tên container trùng nhau (do container name được tạo dựa vào thư mục).md,4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 10 - Call Postman tới được 9404. - Run docker compose local 25050 call được 9404 - Nhưng cứ đóng server vào là ko được.md,4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 14 khi tôi code frontend bacekend đều javascript theo kiểu Model - View - Controller.md,4_MLOPs và Full Stack Docker/Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 9 Méo hiểu sao docker compose backend chạy ở backend và docker compose ở src (chạy riêng frontend) được ngon  nhưng khi add thêm backend vào file src dokerc mpose thay vì có mỗi frontend.md,4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 10 - Call Postman tới được 9404. - Run docker compose local 25050 call được 9404 - Nhưng cứ đóng server vào là ko được.md,4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 11 - 2 FILE DOCKER COMPOSE VÀ 2 ỨNG DỤNG KHÔNG LIÊN QUAN ĐẾN NHAU,4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 9 Méo hiểu sao docker compose backend chạy ở backend và docker compose ở src (chạy riêng frontend) được ngon  nhưng khi add thêm backend vào file src dokerc mpose thay vì có mỗi frontend.md,3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 10 - Call Postman tới được 9404. - Run docker compose local 25050 call được 9404 - Nhưng cứ đóng server vào là ko được.md,3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 11 - 2 FILE DOCKER COMPOSE VÀ 2 ỨNG DỤNG KHÔNG LIÊN QUAN ĐẾN NHAU,3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/Vấn đề 9 Méo hiểu sao docker compose backend chạy ở backend và docker compose ở src (chạy riêng frontend) được ngon  nhưng khi add thêm backend vào file src dokerc mpose thay vì có mỗi frontend.md,3_Learning/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/4. Bash Scripts - Buổi 4 Machine Learning - Bash Script - Makefile - CronJob - Airflow - Dagster - Flyte - Học đến 22h30 - viết Summary Discussion đến 23h30.md,3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/1. Đẩy nhanh tốc độ Build Web App với Crusor Composer - Làm 1 lần xài N lần - CÁC LỖI PHỔ BIẾN THƯỜNG GẶP..md,3_Learning/4_Deploy Docker Web - Code localhost - code server trực tiếp luôn với Crusor Compose/web/4. Top 10 lỗi trong code Web phổ biến nhất - chỉ cần tránh được lỗi này là bạn code web thoải mái..md,3_Learning/2_English/1_thi VSTEP/2_Speaking - Part 1+2 - Best Practices - Mô hình IELTS chị Hà và Thanh Mai The Coach dạy Luận Điểm + Explanation (because - helps,thanks to,Paraphase THEO TỪ KHOÁ) + Example.md,3_Learning/4_MLOPs và Full Stack Docker/3. FSDS/4. Bash Scripts - Buổi 4 Machine Learning - Bash Script - Makefile - CronJob - Airflow - Dagster - Flyte - Học đến 22h30 - viết Summary Discussion đến 23h30.md,All/DATA_SCIENCE_AND_AI/Domain 2 Programming & Software Engineering/Lỗi 1 - 3H Thanh xuân để FIX 1 BUG LANGCHAIN VÀ OPENAI - Thu được về Problem Solving - Client.__init__() got an unexpected keyword argument 'proxies'.md,All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/Vấn đề 11 - 2 FILE DOCKER COMPOSE VÀ 2 ỨNG DỤNG KHÔNG LIÊN QUAN ĐẾN NHAU, nhưng có bị tự động tạo tên container trùng nhau (do container name được tạo dựa vào thư mục).md,All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/Vấn đề 9 Méo hiểu sao docker compose backend chạy ở backend và docker compose ở src (chạy riêng frontend) được ngon  nhưng khi add thêm backend vào file src dokerc mpose thay vì có mỗi frontend.md,All/NOTE/1.1 Đang Không Nghiên Cứu/2025-08-26 CHẬM NHANH KO RÕ TẠI SAO - response time gen Audio của FLEXIBLE 8 AUDIO MÀ 4S, cái này thì lúc 6s, lúc 10s DÙNG THỬ CÁCH AUDIO CỦA FLEXIBLE THÌ ÔK, NGON HẲN LUÔN - MÀ KO HIỂU TẠI SAO.md,All/NOTE/1.1 Đang Không Nghiên Cứu/2025-08-29 Bạn có thấy bất công không. Người kia làm ít nhưng được chú ý, còn bạn làm quần quật mà chẳng ai nhớ mặt  . Đừng nghĩ là do bạn kém. Vấn đề là bạn đang chơi sai game.md,All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/1.6 LOOP_IIAgent_Manus_Genspark --- 10_10 MANUS + II AGENT rồi mà GENSPARK BẢO 9.5 LÝ THUYẾT, 6.5 THỰC TẾ (ĐỘ PHỨC TẠP VÀ CHƯA CÓ SỰ ĐÚC KẾT CỐT LÕI).md,All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/2. NGOẠI LỰC (DOPAMINE, TESTOSTERONE, 4 LOẠI NGOẠI ĐỘNG LỰC DISC)  - NỘI LỰC (MINDSET, TRÒ CHƠI TÂM TRÍ, NIỀM TIN GIỚI HẠN) - TỨ NIỆM XỨ, BÁT CHÁNH ĐẠO (THIỀN DÙNG TÂM ĐÁNH BẠI TÂM) - 12082025-1782025.md,All/NOTE/1.2 Đoàn Ngọc Cường - CKP (Sau khi đã đúc kết thành CHIẾN LƯỢC VÀ LƯU VÀO LARK)/7_3_Phản biện gì không 5 Lý Do Chính và Quan Trọng Nhất Trong Việc Chọn Domain (Kèm So Sánh AI Education vs AI Finance).md,All/DATA_SCIENCE_AND_AI/2_English/1_thi VSTEP/2_Speaking - Part 1+2 - Best Practices - Mô hình IELTS chị Hà và Thanh Mai The Coach dạy Luận Điểm + Explanation (because - helps, thanks to, Paraphase THEO TỪ KHOÁ) + Example.md,All/DATA_SCIENCE_AND_AI/Domain 6 Production Systems & MLOps/3. FSDS/4. Bash Scripts - Buổi 4 Machine Learning - Bash Script - Makefile - CronJob - Airflow - Dagster - Flyte - Học đến 22h30 - viết Summary Discussion đến 23h30.md,All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/2_ProblemSolving_LOOP_IIAgent_Manus_Genspark_Bảng_Đánh_Giá_Quyết_Định_10_10_-_PHIÊN_BẢN_KẾT_HỢP_HOÀN_HẢO.pdf,All/NOTE/1.2 Đã đúc kết thành CHIẾN LƯỢC và lưu vào LARK/Đoàn Ngọc Cường - Phần lớn đúc kết được ghi trong Lark/NHẤT HƯỚNG - ĐƯỜNG NÀY ĐẾN THẾ GIAN, ĐƯỜNG KIA ĐẾN NIẾT BÀN! TỲ KHEO ĐỆ TỬ PHẬT, PHẢI HIỂU BIẾT RÕ RÀNG! + TIỀN. .docx,All/NOTE/2_SystemCareer_DatabaseOpt2Analysis2DecisionMaking_SystemDesgisn2DevOps/FSDS/4. Bash Scripts - Buổi 4 Machine Learning - Bash Script - Makefile - CronJob - Airflow - Dagster - Flyte - Học đến 22h30 - viết Summary Discussion đến 23h30.md",
+  "folder_exclusions": "smart-chats",
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": true,
+    "results_limit": "20"
+  },
+  "smart_notices": {
+    "muted": {
+      "done_initial_scan": true,
+      "import_progress": true,
+      "done_import": true,
+      "embedding_progress": true,
+      "embedding_complete": true,
+      "unable_to_init_source": true,
+      "new_version_available": true,
+      "loading_collection": true
+    }
+  },
+  "excluded_headings": "",
+  "smart_threads": {
+    "chat_model": {
+      "adapter": "openai",
+      "openai": {
+        "model_key": "gpt-4o-mini",
+        "api_key": "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",
+        "models": {
+          "gpt-4o-realtime-preview-2024-12-17": {
+            "model_name": "gpt-4o-realtime-preview-2024-12-17",
+            "id": "gpt-4o-realtime-preview-2024-12-17",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-audio-preview-2024-12-17": {
+            "model_name": "gpt-4o-audio-preview-2024-12-17",
+            "id": "gpt-4o-audio-preview-2024-12-17",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-audio-preview-2024-10-01": {
+            "model_name": "gpt-4o-audio-preview-2024-10-01",
+            "id": "gpt-4o-audio-preview-2024-10-01",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-realtime-preview-2024-10-01": {
+            "model_name": "gpt-4o-realtime-preview-2024-10-01",
+            "id": "gpt-4o-realtime-preview-2024-10-01",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-transcribe": {
+            "model_name": "gpt-4o-transcribe",
+            "id": "gpt-4o-transcribe",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-mini-transcribe": {
+            "model_name": "gpt-4o-mini-transcribe",
+            "id": "gpt-4o-mini-transcribe",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-realtime-preview": {
+            "model_name": "gpt-4o-realtime-preview",
+            "id": "gpt-4o-realtime-preview",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-mini-tts": {
+            "model_name": "gpt-4o-mini-tts",
+            "id": "gpt-4o-mini-tts",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4": {
+            "model_name": "gpt-4",
+            "id": "gpt-4",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 8192,
+            "description": "context: 8192, output: 8192"
+          },
+          "gpt-4-0125-preview": {
+            "model_name": "gpt-4-0125-preview",
+            "id": "gpt-4-0125-preview",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-mini-audio-preview": {
+            "model_name": "gpt-4o-mini-audio-preview",
+            "id": "gpt-4o-mini-audio-preview",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-audio-preview": {
+            "model_name": "gpt-4o-audio-preview",
+            "id": "gpt-4o-audio-preview",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "o1-preview-2024-09-12": {
+            "model_name": "o1-preview-2024-09-12",
+            "id": "o1-preview-2024-09-12",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "gpt-4o-mini-realtime-preview": {
+            "model_name": "gpt-4o-mini-realtime-preview",
+            "id": "gpt-4o-mini-realtime-preview",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-mini-realtime-preview-2024-12-17": {
+            "model_name": "gpt-4o-mini-realtime-preview-2024-12-17",
+            "id": "gpt-4o-mini-realtime-preview-2024-12-17",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-mini-search-preview": {
+            "model_name": "gpt-4o-mini-search-preview",
+            "id": "gpt-4o-mini-search-preview",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-3.5-turbo-1106": {
+            "model_name": "gpt-3.5-turbo-1106",
+            "id": "gpt-3.5-turbo-1106",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 16385,
+            "description": "context: 16385, output: 4096"
+          },
+          "gpt-4-turbo": {
+            "model_name": "gpt-4-turbo",
+            "id": "gpt-4-turbo",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-3.5-turbo": {
+            "model_name": "gpt-3.5-turbo",
+            "id": "gpt-3.5-turbo",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 16385,
+            "description": "context: 16385, output: 4096"
+          },
+          "gpt-4-turbo-preview": {
+            "model_name": "gpt-4-turbo-preview",
+            "id": "gpt-4-turbo-preview",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-mini-search-preview-2025-03-11": {
+            "model_name": "gpt-4o-mini-search-preview-2025-03-11",
+            "id": "gpt-4o-mini-search-preview-2025-03-11",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-2024-11-20": {
+            "model_name": "gpt-4o-2024-11-20",
+            "id": "gpt-4o-2024-11-20",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-2024-05-13": {
+            "model_name": "gpt-4o-2024-05-13",
+            "id": "gpt-4o-2024-05-13",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-3.5-turbo-16k": {
+            "model_name": "gpt-3.5-turbo-16k",
+            "id": "gpt-3.5-turbo-16k",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 16385,
+            "description": "context: 16385, output: 16385"
+          },
+          "gpt-4-turbo-2024-04-09": {
+            "model_name": "gpt-4-turbo-2024-04-09",
+            "id": "gpt-4-turbo-2024-04-09",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4-1106-preview": {
+            "model_name": "gpt-4-1106-preview",
+            "id": "gpt-4-1106-preview",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "o1-preview": {
+            "model_name": "o1-preview",
+            "id": "o1-preview",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "gpt-4-0613": {
+            "model_name": "gpt-4-0613",
+            "id": "gpt-4-0613",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 8192,
+            "description": "context: 8192, output: 8192"
+          },
+          "gpt-4o-search-preview": {
+            "model_name": "gpt-4o-search-preview",
+            "id": "gpt-4o-search-preview",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4.5-preview": {
+            "model_name": "gpt-4.5-preview",
+            "id": "gpt-4.5-preview",
+            "multimodal": false,
+            "can_use_tools": true
+          },
+          "gpt-4.5-preview-2025-02-27": {
+            "model_name": "gpt-4.5-preview-2025-02-27",
+            "id": "gpt-4.5-preview-2025-02-27",
+            "multimodal": false,
+            "can_use_tools": true
+          },
+          "gpt-4o-search-preview-2025-03-11": {
+            "model_name": "gpt-4o-search-preview-2025-03-11",
+            "id": "gpt-4o-search-preview-2025-03-11",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o": {
+            "model_name": "gpt-4o",
+            "id": "gpt-4o",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "o1-pro": {
+            "model_name": "o1-pro",
+            "id": "o1-pro",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "o1-pro-2025-03-19": {
+            "model_name": "o1-pro-2025-03-19",
+            "id": "o1-pro-2025-03-19",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "o1-2024-12-17": {
+            "model_name": "o1-2024-12-17",
+            "id": "o1-2024-12-17",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "gpt-4o-mini": {
+            "model_name": "gpt-4o-mini",
+            "id": "gpt-4o-mini",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-2024-08-06": {
+            "model_name": "gpt-4o-2024-08-06",
+            "id": "gpt-4o-2024-08-06",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-mini-2024-07-18": {
+            "model_name": "gpt-4o-mini-2024-07-18",
+            "id": "gpt-4o-mini-2024-07-18",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "o1-mini": {
+            "model_name": "o1-mini",
+            "id": "o1-mini",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "gpt-4o-mini-audio-preview-2024-12-17": {
+            "model_name": "gpt-4o-mini-audio-preview-2024-12-17",
+            "id": "gpt-4o-mini-audio-preview-2024-12-17",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-3.5-turbo-0125": {
+            "model_name": "gpt-3.5-turbo-0125",
+            "id": "gpt-3.5-turbo-0125",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 16385,
+            "description": "context: 16385, output: 4096"
+          },
+          "o1-mini-2024-09-12": {
+            "model_name": "o1-mini-2024-09-12",
+            "id": "o1-mini-2024-09-12",
+            "multimodal": false,
+            "can_use_tools": false
+          }
+        }
+      }
+    },
+    "embed_model": {
+      "model_key": "None"
+    },
+    "language": "en",
+    "review_context": false,
+    "lookup_limit": "10",
+    "send_tool_output_in_user_message": false
+  }
+}
