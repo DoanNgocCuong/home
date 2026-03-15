@@ -1,0 +1,58 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.env.local
+*.env.development
+*.env.test
+*.env.production
+
+# API keys and credentials
+*.key
+*.pem
+*.cert
+*.crt
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Configuration files with sensitive data
+config.local.json
+config.production.json
+config.staging.json
+secrets.json
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build and dependency directories
+node_modules/
+dist/
+build/
+out/
+.next/
+.nuxt/
+.vuepress/dist/
+
+# Cache directories
+.cache/
+.temp/
+.tmp/
+.obsidian/workspace.json
+.smart-env/smart_env.json
+
+DATA_SCIENCE_AND_AI/3_Learning/3_AI_Engineering/0. AIO/venv/
+
+backend/__pycache__/

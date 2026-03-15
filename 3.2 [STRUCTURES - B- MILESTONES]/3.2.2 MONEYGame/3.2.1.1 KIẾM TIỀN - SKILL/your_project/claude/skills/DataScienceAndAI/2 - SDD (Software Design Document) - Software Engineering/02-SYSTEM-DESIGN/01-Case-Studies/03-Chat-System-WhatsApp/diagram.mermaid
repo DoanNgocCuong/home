@@ -1,0 +1,35 @@
+graph TB
+    UserA["User A<br/>(Client)"]
+    UserB["User B<br/>(Client)"]
+
+    subgraph Server["Backend"]
+        GW["API Gateway<br/>(WebSocket)"]
+        CS["Chat Servers<br/>(Stateful)"]
+        MQ["Message Queue<br/>(Kafka)"]
+        PS["Presence Service<br/>(Redis)"]
+    end
+
+    subgraph Storage["Data Layer"]
+        DB["Message DB<br/>(Cassandra/MongoDB)"]
+        Cache["Cache<br/>(Redis)"]
+    end
+
+    NS["Notification<br/>Service"]
+
+    UserA -->|WebSocket| GW
+    UserB -->|WebSocket| GW
+    GW --> CS
+    CS --> MQ
+    CS --> PS
+    MQ --> DB
+    MQ --> NS
+    PS --> Cache
+    Cache --> CS
+    DB --> Cache
+    NS -->|Push| UserA
+    NS -->|Push| UserB
+
+    style GW fill:#4A90E2,stroke:#2E5C8A,color:#fff
+    style CS fill:#50E3C2,stroke:#2D8A78,color:#fff
+    style MQ fill:#F5A623,stroke:#C17F1A,color:#fff
+    style PS fill:#BD10E0,stroke:#8B0A9D,color:#fff

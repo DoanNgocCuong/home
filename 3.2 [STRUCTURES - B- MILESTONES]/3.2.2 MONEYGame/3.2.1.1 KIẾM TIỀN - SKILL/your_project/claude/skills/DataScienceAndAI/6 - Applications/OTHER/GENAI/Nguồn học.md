@@ -1,0 +1,1 @@
+1. [GitHub Models and .NET: Building Generative AI apps for engineers - .NET Blog](https://devblogs.microsoft.com/dotnet/using-github-models-and-dotnet-to-build-generative-ai-apps/?ref=dailydev)

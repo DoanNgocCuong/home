@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "7afc78b5e218966c",
+    "id": "53bbeab35dffb296",
     "type": "split",
     "children": [
       {
-        "id": "86ea5fbfe4f7657e",
+        "id": "42489547ac9e7cdf",
         "type": "tabs",
         "children": [
           {
-            "id": "526dca27399ae6ea",
+            "id": "17f2db0f574154ac",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b3883e5cac051cbc",
+    "id": "f1d6ed8cd443c09c",
     "type": "split",
     "children": [
       {
-        "id": "d446664f54a674c7",
+        "id": "343ac9d12d07f23f",
         "type": "tabs",
         "children": [
           {
-            "id": "c33dc9ad168642fd",
+            "id": "7bbd2100f0471588",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "e8148111a2d2c310",
+            "id": "db02c5a91e7f8e1e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "file: product",
+                "query": "file: Nhất",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "fb7e5f4b5ff07e7b",
+            "id": "a16ad4bf4dc364ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,56 +74,56 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5026054382324
+    "width": 549.5
   },
   "right": {
-    "id": "99a8a767f128d83e",
+    "id": "93619ec895a045a7",
     "type": "split",
     "children": [
       {
-        "id": "19d154c6d0515635",
+        "id": "7bbe8fe43558a122",
         "type": "tabs",
         "children": [
           {
-            "id": "fa4a251c8159bb75",
+            "id": "59af25994c2e1d0b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All/NOTE/1.1 Đang Nghiên Cứu/2025-09-27 TD.md",
-                "collapseAll": false,
+                "file": "DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG 1/5.1 RAG/LLMs/4.0 Prompting/8. MANUS - Prompt Giải bài.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-27 TD"
+              "title": "Backlinks for 8. MANUS - Prompt Giải bài"
             }
           },
           {
-            "id": "95dc22a9c92773cc",
+            "id": "3d9bf47cebea288e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All/NOTE/1. DailyNote/2025-09-25.md",
+                "file": "DATA_SCIENCE_AND_AI/Domain8AdvancedAIApplications/NLP_LLMs_RAG 1/5.1 RAG/LLMs/4.0 Prompting/8. MANUS - Prompt Giải bài.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-09-25"
+              "title": "Outgoing links from 8. MANUS - Prompt Giải bài"
             }
           },
           {
-            "id": "5fe96ac54eeced53",
+            "id": "b5f60854c42c74bf",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -133,18 +133,18 @@
             }
           },
           {
-            "id": "443cf7f9aee88be5",
+            "id": "ab1c80ab6db081da",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGLOG.md",
+                "file": "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/NHẬT KÝ/2026/2026-03-15.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CHANGLOG"
+              "title": "Outline of 2026-03-15"
             }
           }
         ],
@@ -158,70 +158,71 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "bases:Create new base": false,
-      "copilot:Open Copilot Chat": false,
-      "khoj:Khoj": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "github-sync:Sync with Remote": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "c33dc9ad168642fd",
+  "active": "7bbd2100f0471588",
   "lastOpenFiles": [
-    "backend/README.md",
-    "backend/calculation_rules.md",
-    "All/NOTE/1. DailyNote/2026-03-14.md",
-    "All/NOTE/1. DailyNote/2026-03-13.md",
-    "All/NOTE/1. DailyNote/2026-03-02.md",
-    "claude-setup-requirements.md",
-    "claude-setup-requirements.md.tmp.15796.1772425847492",
-    "All/NHẬT KÝ/2026/DAILY T2_2026.md",
-    "All/NHẬT KÝ/2026/DAILY T1_2026 1.md",
-    "All/NHẬT KÝ/2026/DAILY T1_2026.md",
-    "All/NOTE/1. DailyNote/2026-02-17.md",
-    "All/NHẬT KÝ/2026/image/Pasted image 20260215123038.png",
-    "All/NHẬT KÝ/2026/image/Pasted image 20260214132244.png",
-    "All/NHẬT KÝ/2026/image/Pasted image 20260214132146.png",
-    "All/NHẬT KÝ/2026/image/Pasted image 20260214132111.png",
-    "All/NHẬT KÝ/2026/image/Pasted image 20260214131759.png",
-    "All/NHẬT KÝ/2026/image/Pasted image 20260214131441.png",
-    "All/NHẬT KÝ/2026/image/Pasted image 20260214131240.png",
-    "All/NHẬT KÝ/2026/image/Pasted image 20260214131208.png",
-    "All/NHẬT KÝ/2026/image/Pasted image 20260214130856.png",
-    "All/NHẬT KÝ/2026/image/Pasted image 20260214124109.png",
-    "All/NOTE/1. DailyNote/2026-02-14.md",
-    "All/NHẬT KÝ/Tài chính.md",
-    "All/NOTE/1. DailyNote/2026-02-13.md",
-    "All/NOTE/1. DailyNote/2026-02-12.md",
-    "All/NOTE/1. DailyNote/2026-02-11.md",
-    "All/NOTE/1.1 Đang Không Nghiên Cứu/3. Product Engineering - trước giờ chỉ biết về AI Engineering với các options làm việc ở công ty lớn hay công ty nhỏ, domain Edu hay domain Finance, ....md",
-    "All/NOTE/1. DailyNote/2026-02-10.md",
-    "All/NOTE/1. DailyNote/2026-02-09.md",
-    "All/NHẬT KÝ/2026/2026-01-19.md",
-    "All/NOTE/1. DailyNote/2026-02-07.md",
-    "All/NOTE/1. DailyNote/2026-02-06.md",
-    "All/Sức Khoẻ/No.md",
-    "All/NOTE/1. DailyNote/2026-02-05.md",
-    "All/Điểm đi chơi.md",
-    "All/TÀI CHÍNH/KIẾM/T2_2026.md",
-    "All/TÀI CHÍNH/KIẾM",
-    "All/TÀI CHÍNH",
-    "All/NHẬT KÝ/2026/2026-01-20.md",
-    "All/NHẬT KÝ/2026/image",
-    "All/Sức Khoẻ",
-    "cleanup_daily_note_v2.py",
-    "cleanup_daily_note.py",
-    "remove_empty_md.py",
-    "All/NHẬT KÝ/2025/00",
-    "move_templates.py",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled 2.canvas"
+    "3.2 [STRUCTURES - B- MILESTONES]/Other/image/Pasted image 20260315063726.png",
+    "3.2 [STRUCTURES - B- MILESTONES]/Other/image/Pasted image 20260315063608.png",
+    "3.2 [STRUCTURES - B- MILESTONES]/Other/image/Pasted image 20251202004559.png",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P3/clip_themedata.thmx",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P3/clip_image006.gif",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P3/clip_image005.png",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P3/clip_image004.gif",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P3/clip_image003.png",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P3/clip_image002.gif",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P3/clip_image001.png",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P3/clip_colorschememapping.xml",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P2/clip_themedata.thmx",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P2/clip_oledata.mso",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P2/clip_image061.jpg",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P2/clip_image060.jpg",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P2/clip_colorschememapping.xml",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P1/clip_themedata.thmx",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P1/clip_oledata.mso",
+    "3.2 [STRUCTURES - B- MILESTONES]/images/P1/clip_colorschememapping.xml",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.4 RELATIONSHIPGame/4.1 Networking Mentor - Ny - NSKT - Xây dựng đội ngũ/21022026 - Kim Oanh.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.4 RELATIONSHIPGame/0_CON NGƯỜI - BÀI TOÁN QUAN TRỌNG NHẤT CẦN GIẢI/Vấn đề nhóm.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.4 RELATIONSHIPGame/0_CON NGƯỜI - BÀI TOÁN QUAN TRỌNG NHẤT CẦN GIẢI/Untitled.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.4 RELATIONSHIPGame/0_CON NGƯỜI - BÀI TOÁN QUAN TRỌNG NHẤT CẦN GIẢI/Untitled 2.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.4 RELATIONSHIPGame/0_CON NGƯỜI - BÀI TOÁN QUAN TRỌNG NHẤT CẦN GIẢI/Untitled 1.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.4 RELATIONSHIPGame/0_CON NGƯỜI - BÀI TOÁN QUAN TRỌNG NHẤT CẦN GIẢI/Present.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.4 RELATIONSHIPGame/0_CON NGƯỜI - BÀI TOÁN QUAN TRỌNG NHẤT CẦN GIẢI/Networking chứng khoán, tài chính.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.4 RELATIONSHIPGame/0_CON NGƯỜI - BÀI TOÁN QUAN TRỌNG NHẤT CẦN GIẢI/MENTAL MODELS",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.4 RELATIONSHIPGame/0_CON NGƯỜI - BÀI TOÁN QUAN TRỌNG NHẤT CẦN GIẢI/Cấu trúc chuẩn và MECE cho việc check 1 người và phát triển bản thân..md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.4 RELATIONSHIPGame/0_CON NGƯỜI - BÀI TOÁN QUAN TRỌNG NHẤT CẦN GIẢI/09032026 - THE ROAD - SỰ ĐỦ ĐẦY.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.3 HEALTHGame/Sức Khoẻ/Untitled.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.3 HEALTHGame/Sức Khoẻ/Untitled 1.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.3 HEALTHGame/Sức Khoẻ/No.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.2 MONEYGame/3.2.2.2 GIỮ TIỀN - TÍNH CÁCH/TÀI CHÍNH",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/SHARING/T11-2025 Sẽ thế nào nếu từ nhỏ trẻ đã được đọc các HÌNH MẪU, các VĨ NHÂN..md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/SHARING/T11-2025 Bắt đầu với những điều “Không nên” (Start with the Don’ts).md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/SHARING/2025 - 08 - 28 các bài như nào thì nên đăng fb.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/SHARING/20-11-2025.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/NHẬT KÝ/Tài chính.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/NHẬT KÝ/Daily Note.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/0_CKP/Điểm đi chơi.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/0_CKP/Vọc.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/01-NHẤT HƯỚNG/1_GOSINGA_AI_SUMMARY.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/0_CKP/0. SẢN PHẨM RA LÒ/VIẾT BÀI.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/0_CKP/0. Report Thực tập/Report Thực Tập Sinh - tháng thứ 3.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/0_CKP/0. Report Thực tập/Report Thực Tập Sinh - tháng thứ 1,2.md",
+    "3.2 [STRUCTURES - B- MILESTONES]/0_CKP/0. Report Thực tập/Report Thực Tập Sinh - Giai đoạn 2 tháng 10, 11, 12, 1-2025.md",
+    "home/3.2 [STRUCTURES - B- MILESTONES]/3.2.2 MONEYGame/3.2.1.1 KIẾM TIỀN - SKILL/your_project/claude/skills/DataScienceAndAI/6 - Applications/2-RAG-and-Memory/2.1 RAG/CKP/5.1 RAG/RAG 1/Search/Untitled.canvas",
+    "home/3.2 [STRUCTURES - B- MILESTONES]/3.2.2 MONEYGame/3.2.1.1 KIẾM TIỀN - SKILL/your_project/claude/skills/DataScienceAndAI/6 - Applications/_ARCHIVE/NLP_LLMs_RAG 1/5.1 RAG/RAG 1/Search/Untitled.canvas",
+    "home/3.2 [STRUCTURES - B- MILESTONES]/3.2.2 MONEYGame/3.2.1.1 KIẾM TIỀN - SKILL/your_project/claude/skills/DataScienceAndAI/6 - Applications/NLP_LLMs_RAG 1/5.1 RAG/RAG 1/Search/Untitled.canvas",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.2 MONEYGame/3.2.1.1 KIẾM TIỀN - SKILL/your_project/claude/skills/DataScienceAndAI/6 - Applications/_ARCHIVE/NLP_LLMs_RAG 1/5.1 RAG/RAG 1/Search/Untitled.canvas",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.2 MONEYGame/3.2.1.1 KIẾM TIỀN - SKILL/your_project/claude/skills/DataScienceAndAI/6 - Applications/2-RAG-and-Memory/2.1 RAG/CKP/5.1 RAG/RAG 1/Search/Untitled.canvas",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.2 MONEYGame/3.2.1.1 KIẾM TIỀN - SKILL/your_project/claude/skills/DataScienceAndAI/6 - Applications/NLP_LLMs_RAG 1/5.1 RAG/RAG 1/Search/Untitled.canvas",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MONEYGAME/3.2.1.1 KIẾM TIỀN - SKILL/your_project/claude/skills/DataScienceAndAI/6 - Applications/2-RAG-and-Memory/2.1 RAG/CKP/5.1 RAG/RAG 1/Search/Untitled.canvas",
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MONEYGAME/3.2.1.1 KIẾM TIỀN - SKILL/your_project/claude/skills/DataScienceAndAI/6 - Applications/NLP_LLMs_RAG 1/5.1 RAG/RAG 1/Search/Untitled.canvas",
+    "32FD6~1.2_S/32434A~1.1_M/321~1.1KI/YOUR_P~1/claude/skills/DataScienceAndAI/6 - Applications/2-RAG-and-Memory/2.1 RAG/CKP/5.1 RAG/RAG 1/Search/Untitled.canvas",
+    "32FD6~1.2_S/32434A~1.1_M/321~1.1KI/YOUR_P~1/claude/skills/DataScienceAndAI/6 - Applications/NLP_LLMs_RAG 1/5.1 RAG/RAG 1/Search/Untitled.canvas"
   ]
 }

@@ -1,0 +1,126 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+
+type Props = CollectionEntry<'blog'>['data'];
+
+const { title, description, pubDate, updatedDate, heroImage, tags = [] } = Astro.props;
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+		<style>
+			main {
+				width: 100%;
+				max-width: 100%;
+				margin: 0;
+			}
+			.hero-image {
+				width: 100%;
+				margin-bottom: 2rem;
+			}
+			.hero-image img {
+				display: block;
+				margin: 0 auto;
+				border-radius: 12px;
+				box-shadow: var(--box-shadow);
+			}
+			.prose {
+				width: 840px;
+				max-width: calc(100% - 3rem);
+				margin: auto;
+				padding: 1em;
+				color: rgb(var(--gray-dark));
+			}
+			.title {
+				margin-bottom: 2rem;
+				padding: 2rem 0;
+				text-align: center;
+				border-bottom: 1px solid rgb(var(--gray-light));
+			}
+			.title h1 {
+				margin: 0 0 0.5em 0;
+				font-size: 2.5rem;
+				background: linear-gradient(45deg, #1f2937, #4b5563);
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+			}
+			.tags {
+				margin: 1rem 0 0;
+				display: flex;
+				justify-content: center;
+				flex-wrap: wrap;
+				gap: 0.75em;
+			}
+			.tag {
+				padding: 0.2em 1em;
+				border-radius: 20px;
+				font-size: 0.85rem;
+				font-weight: 500;
+				letter-spacing: 0.02em;
+				border: 1px solid rgba(var(--gray), 0.2);
+				background-color: rgba(var(--gray-light), 0.4);
+				color: rgb(var(--gray-dark));
+				transition: all 0.2s ease;
+			}
+			.tag:hover {
+				background-color: var(--accent);
+				color: white;
+				border-color: var(--accent);
+				transform: translateY(-1px);
+			}
+			.date {
+				margin-bottom: 0.5em;
+				color: rgb(var(--gray));
+				font-weight: 500;
+			}
+			.last-updated-on {
+				font-style: italic;
+				font-size: 0.9rem;
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main>
+			<article>
+				<div class="hero-image">
+					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
+				</div>
+				<div class="prose">
+					<div class="title">
+						<div class="date">
+							<FormattedDate date={pubDate} />
+							{
+								updatedDate && (
+									<div class="last-updated-on">
+										Last updated on <FormattedDate date={updatedDate} />
+									</div>
+								)
+							}
+						</div>
+						<h1>{title}</h1>
+						{
+							tags.length > 0 && (
+								<p class="tags">
+									{tags.map((tag) => (
+										<span class="tag">{tag}</span>
+									))}
+								</p>
+							)
+						}
+						<hr />
+					</div>
+					<slot />
+				</div>
+			</article>
+		</main>
+		<Footer />
+	</body>
+</html>

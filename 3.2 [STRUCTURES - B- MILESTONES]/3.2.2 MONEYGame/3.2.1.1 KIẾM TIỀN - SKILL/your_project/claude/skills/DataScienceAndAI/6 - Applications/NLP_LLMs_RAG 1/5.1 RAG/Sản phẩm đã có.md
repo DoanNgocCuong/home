@@ -1,0 +1,2 @@
+[Nguyễn Thành Phát | Facebook](https://www.facebook.com/groups/257768141347267/user/100012552881729/)
+[phatjkk/nttu-chatbot: NTTU Chatbot - A student support chatbot using LLM + Document Retriever (RAG) in Vietnamese (github.com)](https://github.com/phatjkk/nttu-chatbot?fbclid=IwY2xjawFyxglleHRuA2FlbQIxMAABHe_opzCslIaoQANXYyHXy4bP4VbLIyjFcFSNA-3gT0vEV5In4HNxff77ZA_aem_p002CRWJME7A4IzF5wjK7A)

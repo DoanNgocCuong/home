@@ -1,0 +1,155 @@
+app:
+  description: ''
+  icon: 🤖
+  icon_background: '#FFEAD5'
+  mode: workflow
+  name: test Node Chat
+  use_icon_as_answer_icon: false
+kind: app
+version: 0.1.2
+workflow:
+  conversation_variables: []
+  environment_variables: []
+  features:
+    file_upload:
+      image:
+        enabled: false
+        number_limits: 3
+        transfer_methods:
+        - local_file
+        - remote_url
+    opening_statement: ''
+    retriever_resource:
+      enabled: false
+    sensitive_word_avoidance:
+      enabled: false
+    speech_to_text:
+      enabled: false
+    suggested_questions: []
+    suggested_questions_after_answer:
+      enabled: false
+    text_to_speech:
+      enabled: false
+      language: ''
+      voice: ''
+  graph:
+    edges:
+    - data:
+        isInIteration: false
+        sourceType: tool
+        targetType: end
+      id: 1732000760296-source-1728358611199-target
+      selected: false
+      source: '1732000760296'
+      sourceHandle: source
+      target: '1728358611199'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: start
+        targetType: tool
+      id: 1728356050308-source-1732000760296-target
+      source: '1728356050308'
+      sourceHandle: source
+      target: '1732000760296'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    nodes:
+    - data:
+        desc: ''
+        selected: false
+        title: Bắt đầu
+        type: start
+        variables:
+        - label: Vấn đề cần giải quyết
+          max_length: 100000
+          options: []
+          required: true
+          type: paragraph
+          variable: problem_statement
+      height: 89
+      id: '1728356050308'
+      position:
+        x: 28.25567637156621
+        y: 271
+      positionAbsolute:
+        x: 28.25567637156621
+        y: 271
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 243
+    - data:
+        desc: ''
+        outputs:
+        - value_selector:
+          - '1732001123949'
+          - text
+          variable: text
+        selected: false
+        title: End
+        type: end
+      height: 89
+      id: '1728358611199'
+      position:
+        x: 406.6874613863821
+        y: 412.7876907706704
+      positionAbsolute:
+        x: 406.6874613863821
+        y: 412.7876907706704
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 243
+    - data:
+        desc: ''
+        provider_id: c0e16485-9cca-447d-889f-8dd82e637a44
+        provider_name: 1.2 - PS/Define scope (Custom Framework)
+        provider_type: workflow
+        selected: true
+        title: 1.2 - PS/Define scope (Custom Framework)(User_input)
+        tool_configurations: {}
+        tool_label: 1.2 - PS/Define scope (Custom Framework)
+        tool_name: 1_2_define_scope
+        tool_parameters:
+          '#1728356050308.target#':
+            type: mixed
+            value: Tìm được các công cụ khó sử dụng để lên plan hướng dẫn nhân sự
+          '#1728356050308.who#':
+            type: mixed
+            value: An, Sale leader
+          '#1732032796505.text#':
+            type: mixed
+            value: Tech Team
+          chat_user_input_a1:
+            type: mixed
+            value: ''
+          context:
+            type: mixed
+            value: '{{#1728356050308.problem_statement#}}'
+          problem_statement:
+            type: mixed
+            value: '{{#1728356050308.problem_statement#}}'
+        type: tool
+      height: 53
+      id: '1732000760296'
+      position:
+        x: 299.0291230804751
+        y: 288.18638676008135
+      positionAbsolute:
+        x: 299.0291230804751
+        y: 288.18638676008135
+      selected: true
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 243
+    viewport:
+      x: 17.284951038111103
+      y: -27.013664625900788
+      zoom: 0.9309693900967665

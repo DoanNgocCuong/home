@@ -1,0 +1,73 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(npm *)",
+      "Bash(python -m pytest *)",
+      "Bash(python *)",
+      "Bash(docker *)",
+      "Bash(git *)",
+      "Bash(make *)",
+      "Glob(*)",
+      "Grep(*)",
+      "Read(*)",
+      "Edit(*)",
+      "Write(*)",
+      "MultiEdit(*)",
+      "NotebookEdit(*)"
+    ],
+    "deny": [
+      "Bash(rm -rf /node_modules)",
+      "Bash(rm -rf /dist)",
+      "Bash(sudo *)",
+      "Bash(chmod 777 *)",
+      "WebFetch(*)",
+      "Bash(rm -rf /)*",
+      "Bash(rm -rf ~)*",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(curl * | bash*)",
+      "Bash(curl * | sh*)",
+      "Edit(.env)",
+      "Edit(.env.*)",
+      "Edit(**/secrets/**)",
+      "Edit(**/*.pem)",
+      "Edit(**/*.key)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "if command -v prettier >/dev/null 2>&1; then prettier --write \"$CLAUDE_FILE_PATH\" 2>/dev/null; elif command -v ruff >/dev/null 2>&1; then ruff format \"$CLAUDE_FILE_PATH\" 2>/dev/null; fi; true"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "BLOCKED='rm -rf /|rm -rf ~|DROP TABLE|DROP DATABASE|git push.*--force|git push.*-f |> /dev/sd|format c:' && echo \"$TOOL_INPUT\" | grep -qiE \"$BLOCKED\" && exit 2 || exit 0"
+          }
+        ]
+      }
+    ]
+  },
+  "appearance": {
+    "theme": "dark",
+    "fontSize": 14,
+    "fontFamily": "JetBrains Mono"
+  },
+  "behavior": {
+    "autoApprove": false,
+    "compactThreshold": "50%",
+    "maxTokens": 64000,
+    "outputStyle": "explanatory"
+  }
+}

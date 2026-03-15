@@ -1,0 +1,20 @@
+| Tiêu chí                | Sàn HOSE                                | Sàn HNX                                     | Sàn Upcom                                                          |
+| ----------------------- | --------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+| Tên đầy đủ              | Sở Giao dịch Chứng khoán TP.HCM         | Sở Giao dịch Chứng khoán Hà Nội             | Thị trường Giao dịch Công ty Đại chúng chưa niêm yết               |
+| Năm thành lập           | 2000                                    | 2005                                        | 2009                                                               |
+| Địa điểm                | TP.HCM                                  | Hà Nội                                      | Hà Nội                                                             |
+| Đối tượng niêm yết      | Các công ty lớn, doanh nghiệp đầu ngành | Các công ty vừa và nhỏ                      | Các công ty đại chúng chưa niêm yết trên HOSE hoặc HNX             |
+| Quy định niêm yết       | Nghiêm ngặt                             | Trung bình                                  | Đơn giản                                                           |
+| Tính thanh khoản        | Cao                                     | Trung bình                                  | Thấp                                                               |
+| Quy mô vốn              | Lớn                                     | Trung bình                                  | Nhỏ, vừa                                                           |
+| Chỉ số đại diện         | VN-Index                                | HNX-Index                                   | Không có chỉ số chuẩn                                              |
+| Loại sản phẩm giao dịch | Cổ phiếu, trái phiếu, ETF, …            | Cổ phiếu, trái phiếu, chứng khoán phái sinh | Cổ phiếu chưa niêm yết                                             |
+| Mức rủi ro đầu tư       | Thấp                                    | Trung bình                                  | Cao                                                                |
+| Vai trò thị trường      | Sàn chính, thị trường niêm yết lớn nhất | Sàn phụ, hỗ trợ đa dạng sản phẩm            | Thị trường trung chuyển, hỗ trợ doanh nghiệp chuẩn bị lên niêm yết |
+|                         |                                         |                                             |                                                                    |
+
+| Tiêu chí                                    | Sàn HOSE                                                       | Sàn HNX                                                                       | Sàn Upcom                                                        |
+| ------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Số lượng công ty niêm yết/đăng ký giao dịch | 696 mã chứng khoán, trong đó 391 cổ phiếu (tính đến 30/9/2025) | Khoảng 310 doanh nghiệp niêm yết (nửa đầu 2025)                               | Khoảng 883 - 888 doanh nghiệp đăng ký giao dịch (cuối 2025)      |
+| Tăng trưởng số công ty                      | Có tăng thêm hơn 50 mã mới trong năm 2025                      | Có xu hướng giảm từ năm 2020, do nâng cao điều kiện niêm yết và tăng giám sát | Có thêm doanh nghiệp mới đăng ký hàng tháng, thị trường sôi động |
+| Quy mô vốn hóa                              | Rất lớn, tập trung nhiều doanh nghiệp vốn hóa tỷ đô            | Trung bình, đa dạng quy mô                                                    | Nhỏ và vừa, chủ yếu công ty chưa niêm yết chính thức             |

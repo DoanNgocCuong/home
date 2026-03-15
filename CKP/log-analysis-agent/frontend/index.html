@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Log Analysis Agent - Dashboard</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.9/babel.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/recharts/2.10.3/Recharts.min.js"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg-primary: #0f1117;
+      --bg-secondary: #1a1d27;
+      --bg-card: #21252f;
+      --bg-hover: #2a2e3a;
+      --border: #2d3140;
+      --text-primary: #e4e7ec;
+      --text-secondary: #8b92a5;
+      --text-muted: #5c6378;
+      --accent: #6366f1;
+      --accent-hover: #818cf8;
+      --success: #22c55e;
+      --warning: #f59e0b;
+      --error: #ef4444;
+      --critical: #dc2626;
+      --info: #3b82f6;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.5;
+    }
+    .app { display: flex; flex-direction: column; min-height: 100vh; }
+
+    /* Nav */
+    .nav {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 12px 24px; background: var(--bg-secondary);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-brand { display: flex; align-items: center; gap: 10px; font-size: 18px; font-weight: 700; }
+    .nav-brand svg { color: var(--accent); }
+    .nav-actions { display: flex; gap: 12px; align-items: center; }
+
+    /* Tabs */
+    .tabs {
+      display: flex; gap: 4px; padding: 12px 24px; background: var(--bg-secondary);
+      border-bottom: 1px solid var(--border); overflow-x: auto;
+    }
+    .tab {
+      padding: 8px 16px; border-radius: 8px; cursor: pointer;
+      font-size: 13px; font-weight: 500; color: var(--text-secondary);
+      transition: all 0.2s; white-space: nowrap; border: none; background: none;
+    }
+    .tab:hover { background: var(--bg-hover); color: var(--text-primary); }
+    .tab.active { background: var(--accent); color: white; }
+
+    /* Content */
+    .content { flex: 1; padding: 24px; max-width: 1400px; margin: 0 auto; width: 100%; }
+
+    /* Grid */
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; }
+    .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+    @media (max-width: 900px) {
+      .grid-2, .grid-3, .grid-4 { grid-template-columns: 1fr; }
+    }
+
+    /* Card */
+    .card {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 12px; padding: 20px;
+    }
+    .card-header {
+      display: flex; justify-content: space-between; align-items: center;
+      margin-bottom: 16px;
+    }
+    .card-title { font-size: 14px; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.5px; }
+
+    /* Stat Card */
+    .stat-card { text-align: center; }
+    .stat-value { font-size: 32px; font-weight: 700; margin: 8px 0 4px; }
+    .stat-label { font-size: 12px; color: var(--text-secondary); text-transform: uppercase; }
+    .stat-change { font-size: 12px; margin-top: 4px; }
+    .stat-change.up { color: var(--error); }
+    .stat-change.down { color: var(--success); }
+
+    /* Badge */
+    .badge {
+      display: inline-flex; align-items: center; padding: 2px 8px;
+      border-radius: 12px; font-size: 11px; font-weight: 600;
+    }
+    .badge-critical { background: rgba(220,38,38,0.15); color: var(--critical); }
+    .badge-high { background: rgba(239,68,68,0.15); color: var(--error); }
+    .badge-warning { background: rgba(245,158,11,0.15); color: var(--warning); }
+    .badge-medium { background: rgba(59,130,246,0.15); color: var(--info); }
+    .badge-low { background: rgba(34,197,94,0.15); color: var(--success); }
+    .badge-healthy { background: rgba(34,197,94,0.15); color: var(--success); }
+    .badge-degraded { background: rgba(245,158,11,0.15); color: var(--warning); }
+    .badge-unhealthy { background: rgba(239,68,68,0.15); color: var(--error); }
+    .badge-active { background: rgba(239,68,68,0.15); color: var(--error); }
+    .badge-acknowledged { background: rgba(245,158,11,0.15); color: var(--warning); }
+    .badge-resolved { background: rgba(34,197,94,0.15); color: var(--success); }
+
+    /* Table */
+    .table-container { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; }
+    th {
+      text-align: left; padding: 10px 12px; font-size: 11px;
+      font-weight: 600; color: var(--text-muted); text-transform: uppercase;
+      letter-spacing: 0.5px; border-bottom: 1px solid var(--border);
+    }
+    td {
+      padding: 10px 12px; font-size: 13px; border-bottom: 1px solid var(--border);
+      color: var(--text-primary);
+    }
+    tr:hover td { background: var(--bg-hover); }
+    .text-muted { color: var(--text-muted); }
+    .text-error { color: var(--error); }
+    .text-warning { color: var(--warning); }
+    .text-success { color: var(--success); }
+    .mono { font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; }
+
+    /* Button */
+    .btn {
+      padding: 8px 16px; border-radius: 8px; font-size: 13px; font-weight: 500;
+      cursor: pointer; transition: all 0.2s; border: 1px solid var(--border);
+      background: var(--bg-card); color: var(--text-primary);
+    }
+    .btn:hover { background: var(--bg-hover); }
+    .btn-primary { background: var(--accent); border-color: var(--accent); color: white; }
+    .btn-primary:hover { background: var(--accent-hover); }
+    .btn-sm { padding: 4px 10px; font-size: 11px; }
+    .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    /* Select */
+    .select {
+      padding: 6px 12px; border-radius: 8px; font-size: 13px;
+      background: var(--bg-card); color: var(--text-primary);
+      border: 1px solid var(--border); outline: none;
+    }
+
+    /* Timeline */
+    .timeline { position: relative; padding-left: 24px; }
+    .timeline::before {
+      content: ''; position: absolute; left: 8px; top: 0; bottom: 0;
+      width: 2px; background: var(--border);
+    }
+    .timeline-item { position: relative; margin-bottom: 16px; padding-left: 16px; }
+    .timeline-dot {
+      position: absolute; left: -20px; top: 6px;
+      width: 12px; height: 12px; border-radius: 50%;
+      border: 2px solid var(--bg-card);
+    }
+    .timeline-dot.error { background: var(--error); }
+    .timeline-dot.critical { background: var(--critical); }
+    .timeline-dot.warning { background: var(--warning); }
+    .timeline-time { font-size: 11px; color: var(--text-muted); font-family: monospace; }
+    .timeline-service { font-size: 12px; font-weight: 600; color: var(--accent); margin: 2px 0; }
+    .timeline-desc { font-size: 13px; color: var(--text-secondary); }
+
+    /* Dep graph */
+    .dep-node {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 6px 12px; border-radius: 8px; font-size: 12px;
+      background: var(--bg-hover); border: 1px solid var(--border); margin: 4px;
+    }
+    .dep-dot { width: 8px; height: 8px; border-radius: 50%; }
+
+    /* Summary */
+    .ai-summary {
+      background: var(--bg-secondary); border: 1px solid var(--accent);
+      border-radius: 12px; padding: 20px; line-height: 1.7;
+      font-size: 14px; white-space: pre-wrap;
+    }
+    .ai-summary strong { color: var(--accent); }
+
+    /* Loading */
+    .loading {
+      display: flex; flex-direction: column; align-items: center;
+      justify-content: center; padding: 60px;
+    }
+    .spinner {
+      width: 40px; height: 40px; border: 3px solid var(--border);
+      border-top-color: var(--accent); border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .empty-state {
+      text-align: center; padding: 60px 20px; color: var(--text-muted);
+    }
+    .empty-state h3 { font-size: 18px; margin-bottom: 8px; color: var(--text-secondary); }
+
+    /* Log viewer */
+    .log-entry {
+      padding: 8px 12px; font-family: monospace; font-size: 12px;
+      border-bottom: 1px solid var(--border); cursor: pointer;
+      display: flex; gap: 12px; align-items: flex-start;
+    }
+    .log-entry:hover { background: var(--bg-hover); }
+    .log-expanded {
+      padding: 12px; background: var(--bg-secondary);
+      border: 1px solid var(--border); border-radius: 8px;
+      margin: 8px 12px; font-family: monospace; font-size: 11px;
+      white-space: pre-wrap; overflow-x: auto; max-height: 300px;
+    }
+
+    /* Pulse dot for active status */
+    .pulse {
+      width: 8px; height: 8px; border-radius: 50%;
+      background: var(--success); position: relative;
+    }
+    .pulse::after {
+      content: ''; position: absolute; inset: -3px;
+      border-radius: 50%; border: 2px solid var(--success);
+      animation: pulse-ring 1.5s infinite;
+    }
+    @keyframes pulse-ring {
+      0% { opacity: 1; transform: scale(1); }
+      100% { opacity: 0; transform: scale(1.8); }
+    }
+
+    /* Recommendation list */
+    .rec-item {
+      display: flex; gap: 8px; align-items: flex-start;
+      padding: 8px 0; border-bottom: 1px solid var(--border);
+      font-size: 13px;
+    }
+    .rec-num {
+      background: var(--accent); color: white; width: 20px; height: 20px;
+      border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      font-size: 11px; font-weight: 700; flex-shrink: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="text/babel">
+    const { useState, useEffect, useCallback, useMemo } = React;
+    const {
+      AreaChart, Area, LineChart, Line, BarChart, Bar, PieChart, Pie, Cell,
+      XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer
+    } = Recharts;
+
+    const API_BASE = 'http://localhost:8000/api/v1';
+
+    // ── Colors & Constants ──────────────────────────────────
+    const COLORS = ['#6366f1','#22c55e','#f59e0b','#ef4444','#3b82f6','#a855f7','#ec4899','#14b8a6','#f97316','#84cc16'];
+    const SEVERITY_COLORS = { critical: '#dc2626', high: '#ef4444', warning: '#f59e0b', medium: '#3b82f6', low: '#22c55e' };
+    const HEALTH_COLORS = { healthy: '#22c55e', degraded: '#f59e0b', unhealthy: '#ef4444', unknown: '#5c6378' };
+
+    const TABS = [
+      { id: 'overview', label: 'Overview' },
+      { id: 'errors', label: 'Error Analysis' },
+      { id: 'services', label: 'Service Health' },
+      { id: 'rca', label: 'Root Cause' },
+      { id: 'alerts', label: 'Alerts' },
+      { id: 'logs', label: 'Log Viewer' },
+    ];
+
+    // ── Main App ────────────────────────────────────────────
+    function App() {
+      const [activeTab, setActiveTab] = useState('overview');
+      const [data, setData] = useState(null);
+      const [loading, setLoading] = useState(false);
+      const [error, setError] = useState(null);
+      const [timeRange, setTimeRange] = useState(60);
+
+      const runAnalysis = useCallback(async () => {
+        setLoading(true);
+        setError(null);
+        try {
+          const res = await fetch(`${API_BASE}/analysis/run`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              time_range_minutes: timeRange,
+              analysis_type: 'full',
+              use_sample_data: true,
+            }),
+          });
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          const json = await res.json();
+          setData(json);
+        } catch (e) {
+          setError(e.message);
+          // Generate demo data client-side
+          setData(generateDemoData());
+        } finally {
+          setLoading(false);
+        }
+      }, [timeRange]);
+
+      useEffect(() => { runAnalysis(); }, []);
+
+      return (
+        <div className="app">
+          <nav className="nav">
+            <div className="nav-brand">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/>
+              </svg>
+              Log Analysis Agent
+              <div className="pulse" title="Agent active"></div>
+            </div>
+            <div className="nav-actions">
+              <select className="select" value={timeRange} onChange={e => setTimeRange(+e.target.value)}>
+                <option value={15}>Last 15 min</option>
+                <option value={30}>Last 30 min</option>
+                <option value={60}>Last 1 hour</option>
+                <option value={360}>Last 6 hours</option>
+                <option value={1440}>Last 24 hours</option>
+              </select>
+              <button className="btn btn-primary" onClick={runAnalysis} disabled={loading}>
+                {loading ? 'Analyzing...' : '▶ Run Analysis'}
+              </button>
+            </div>
+          </nav>
+
+          <div className="tabs">
+            {TABS.map(tab => (
+              <button
+                key={tab.id}
+                className={`tab ${activeTab === tab.id ? 'active' : ''}`}
+                onClick={() => setActiveTab(tab.id)}
+              >
+                {tab.label}
+                {tab.id === 'alerts' && data?.alerts?.length > 0 && (
+                  <span style={{marginLeft:6,background:'#ef4444',color:'white',borderRadius:10,padding:'1px 6px',fontSize:10}}>
+                    {data.alerts.length}
+                  </span>
+                )}
+              </button>
+            ))}
+          </div>
+
+          <div className="content">
+            {loading && <div className="loading"><div className="spinner"></div><p style={{marginTop:16,color:'var(--text-muted)'}}>AI Agent analyzing logs...</p></div>}
+            {error && !data && <div className="card" style={{color:'var(--error)',textAlign:'center',padding:40}}>Error: {error}</div>}
+            {!loading && data && (
+              <>
+                {activeTab === 'overview' && <OverviewTab data={data} />}
+                {activeTab === 'errors' && <ErrorsTab data={data} />}
+                {activeTab === 'services' && <ServicesTab data={data} />}
+                {activeTab === 'rca' && <RCATab data={data} />}
+                {activeTab === 'alerts' && <AlertsTab data={data} />}
+                {activeTab === 'logs' && <LogsTab data={data} />}
+              </>
+            )}
+          </div>
+        </div>
+      );
+    }
+
+    // ── Overview Tab ────────────────────────────────────────
+    function OverviewTab({ data }) {
+      const m = data.metrics || {};
+      const errorTrend = (m.error_rate_trend || []).map(p => ({
+        time: p.timestamp ? new Date(p.timestamp).toLocaleTimeString('en',{hour:'2-digit',minute:'2-digit'}) : '',
+        value: p.value
+      }));
+      const latencyTrend = (m.latency_trend || []).map(p => ({
+        time: p.timestamp ? new Date(p.timestamp).toLocaleTimeString('en',{hour:'2-digit',minute:'2-digit'}) : '',
+        value: p.value
+      }));
+
+      return (
+        <div>
+          {/* Stat cards */}
+          <div className="grid-4" style={{marginBottom:16}}>
+            <div className="card stat-card">
+              <div className="stat-label">Total Logs</div>
+              <div className="stat-value">{(m.total_logs||0).toLocaleString()}</div>
+            </div>
+            <div className="card stat-card">
+              <div className="stat-label">Total Errors</div>
+              <div className="stat-value text-error">{(m.total_errors||0).toLocaleString()}</div>
+            </div>
+            <div className="card stat-card">
+              <div className="stat-label">Error Rate</div>
+              <div className="stat-value" style={{color: m.error_rate > 5 ? '#ef4444' : m.error_rate > 1 ? '#f59e0b' : '#22c55e'}}>
+                {(m.error_rate||0).toFixed(1)}%
+              </div>
+            </div>
+            <div className="card stat-card">
+              <div className="stat-label">P95 Latency</div>
+              <div className="stat-value" style={{color: m.p95_latency_ms > 2000 ? '#ef4444' : '#3b82f6'}}>
+                {(m.p95_latency_ms||0).toFixed(0)}<span style={{fontSize:14}}>ms</span>
+              </div>
+            </div>
+          </div>
+
+          <div className="grid-2" style={{marginBottom:16}}>
+            {/* Error trend chart */}
+            <div className="card">
+              <div className="card-header"><span className="card-title">Error Trend</span></div>
+              <ResponsiveContainer width="100%" height={220}>
+                <AreaChart data={errorTrend}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="#2d3140" />
+                  <XAxis dataKey="time" tick={{fontSize:10,fill:'#5c6378'}} />
+                  <YAxis tick={{fontSize:10,fill:'#5c6378'}} />
+                  <Tooltip contentStyle={{background:'#21252f',border:'1px solid #2d3140',borderRadius:8,fontSize:12}} />
+                  <Area type="monotone" dataKey="value" stroke="#ef4444" fill="rgba(239,68,68,0.15)" name="Errors" />
+                </AreaChart>
+              </ResponsiveContainer>
+            </div>
+
+            {/* Latency trend chart */}
+            <div className="card">
+              <div className="card-header"><span className="card-title">Avg Latency (ms)</span></div>
+              <ResponsiveContainer width="100%" height={220}>
+                <LineChart data={latencyTrend}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="#2d3140" />
+                  <XAxis dataKey="time" tick={{fontSize:10,fill:'#5c6378'}} />
+                  <YAxis tick={{fontSize:10,fill:'#5c6378'}} />
+                  <Tooltip contentStyle={{background:'#21252f',border:'1px solid #2d3140',borderRadius:8,fontSize:12}} />
+                  <Line type="monotone" dataKey="value" stroke="#6366f1" strokeWidth={2} dot={false} name="Latency" />
+                </LineChart>
+              </ResponsiveContainer>
+            </div>
+          </div>
+
+          {/* AI Summary */}
+          {data.ai_summary && (
+            <div className="card" style={{marginBottom:16}}>
+              <div className="card-header"><span className="card-title">🤖 AI Analysis Summary</span></div>
+              <div className="ai-summary">{data.ai_summary}</div>
+            </div>
+          )}
+
+          {/* Recommendations */}
+          {data.ai_recommendations?.length > 0 && (
+            <div className="card">
+              <div className="card-header"><span className="card-title">Recommendations</span></div>
+              {data.ai_recommendations.map((rec, i) => (
+                <div key={i} className="rec-item">
+                  <span className="rec-num">{i+1}</span>
+                  <span>{rec}</span>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      );
+    }
+
+    // ── Errors Tab ──────────────────────────────────────────
+    function ErrorsTab({ data }) {
+      const errors = data.errors || [];
+      const classification = {};
+      errors.forEach(e => { classification[e.error_type] = (classification[e.error_type]||0) + e.count; });
+      const pieData = Object.entries(classification).map(([name, value]) => ({name, value}));
+
+      return (
+        <div>
+          <div className="grid-2" style={{marginBottom:16}}>
+            {/* Pie chart */}
+            <div className="card">
+              <div className="card-header"><span className="card-title">Error Distribution</span></div>
+              <ResponsiveContainer width="100%" height={280}>
+                <PieChart>
+                  <Pie data={pieData} cx="50%" cy="50%" outerRadius={100} dataKey="value" label={({name,percent})=>`${name.substring(0,15)} ${(percent*100).toFixed(0)}%`}>
+                    {pieData.map((_,i) => <Cell key={i} fill={COLORS[i%COLORS.length]} />)}
+                  </Pie>
+                  <Tooltip contentStyle={{background:'#21252f',border:'1px solid #2d3140',borderRadius:8,fontSize:12}} />
+                </PieChart>
+              </ResponsiveContainer>
+            </div>
+
+            {/* Error by service bar */}
+            <div className="card">
+              <div className="card-header"><span className="card-title">Errors by Service</span></div>
+              {(() => {
+                const byService = {};
+                errors.forEach(e => e.affected_services?.forEach(s => { byService[s]=(byService[s]||0)+e.count; }));
+                const barData = Object.entries(byService).map(([name,count])=>({name,count})).sort((a,b)=>b.count-a.count);
+                return (
+                  <ResponsiveContainer width="100%" height={280}>
+                    <BarChart data={barData} layout="vertical">
+                      <CartesianGrid strokeDasharray="3 3" stroke="#2d3140" />
+                      <XAxis type="number" tick={{fontSize:10,fill:'#5c6378'}} />
+                      <YAxis type="category" dataKey="name" tick={{fontSize:10,fill:'#5c6378'}} width={120} />
+                      <Tooltip contentStyle={{background:'#21252f',border:'1px solid #2d3140',borderRadius:8,fontSize:12}} />
+                      <Bar dataKey="count" fill="#ef4444" radius={[0,4,4,0]} />
+                    </BarChart>
+                  </ResponsiveContainer>
+                );
+              })()}
+            </div>
+          </div>
+
+          {/* Error patterns table */}
+          <div className="card">
+            <div className="card-header"><span className="card-title">Error Patterns ({errors.length})</span></div>
+            <div className="table-container">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Severity</th><th>Error Type</th><th>Message</th>
+                    <th>Count</th><th>Services</th><th>Trend</th><th>Last Seen</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {errors.slice(0, 20).map((err, i) => (
+                    <tr key={i}>
+                      <td><span className={`badge badge-${err.severity}`}>{err.severity}</span></td>
+                      <td className="mono">{err.error_type}</td>
+                      <td style={{maxWidth:300,overflow:'hidden',textOverflow:'ellipsis',whiteSpace:'nowrap'}}>{err.error_message}</td>
+                      <td style={{fontWeight:700}}>{err.count}</td>
+                      <td>{err.affected_services?.join(', ')}</td>
+                      <td>
+                        <span style={{color: err.trend==='increasing'?'#ef4444':err.trend==='spike'?'#f59e0b':'#5c6378'}}>
+                          {err.trend==='increasing'?'↑':err.trend==='decreasing'?'↓':err.trend==='spike'?'⚡':'—'} {err.trend}
+                        </span>
+                      </td>
+                      <td className="text-muted mono">{err.last_seen ? new Date(err.last_seen).toLocaleTimeString() : '-'}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      );
+    }
+
+    // ── Services Tab ────────────────────────────────────────
+    function ServicesTab({ data }) {
+      const services = data.services || [];
+      const deps = data.dependencies || [];
+
+      return (
+        <div>
+          {/* Service health grid */}
+          <div className="grid-3" style={{marginBottom:16}}>
+            {services.map((svc, i) => (
+              <div key={i} className="card">
+                <div style={{display:'flex',justifyContent:'space-between',alignItems:'center',marginBottom:12}}>
+                  <span style={{fontWeight:600,fontSize:15}}>{svc.service_name}</span>
+                  <span className={`badge badge-${svc.health}`}>{svc.health}</span>
+                </div>
+                <div style={{display:'grid',gridTemplateColumns:'1fr 1fr',gap:8,fontSize:13}}>
+                  <div>
+                    <span className="text-muted">Error Rate</span>
+                    <div style={{fontWeight:700,color:svc.error_rate>5?'#ef4444':svc.error_rate>1?'#f59e0b':'#22c55e'}}>{svc.error_rate}%</div>
+                  </div>
+                  <div>
+                    <span className="text-muted">Requests</span>
+                    <div style={{fontWeight:700}}>{svc.request_count}</div>
+                  </div>
+                  <div>
+                    <span className="text-muted">P95 Latency</span>
+                    <div style={{fontWeight:700}}>{svc.p95_latency_ms?.toFixed(0)}ms</div>
+                  </div>
+                  <div>
+                    <span className="text-muted">Errors</span>
+                    <div style={{fontWeight:700,color:'#ef4444'}}>{svc.error_count}</div>
+                  </div>
+                </div>
+                {svc.dependencies?.length > 0 && (
+                  <div style={{marginTop:8,fontSize:11,color:'var(--text-muted)'}}>
+                    Deps: {svc.dependencies.join(', ')}
+                  </div>
+                )}
+              </div>
+            ))}
+          </div>
+
+          {/* Dependency graph */}
+          {deps.length > 0 && (
+            <div className="card">
+              <div className="card-header"><span className="card-title">Service Dependencies</span></div>
+              <div className="table-container">
+                <table>
+                  <thead>
+                    <tr><th>Source</th><th>→</th><th>Target</th><th>Calls</th><th>Errors</th><th>Avg Latency</th><th>Error Rate</th></tr>
+                  </thead>
+                  <tbody>
+                    {deps.sort((a,b)=>b.error_count-a.error_count).map((d, i) => {
+                      const rate = d.call_count > 0 ? (d.error_count/d.call_count*100).toFixed(1) : 0;
+                      return (
+                        <tr key={i}>
+                          <td className="mono">{d.source}</td>
+                          <td style={{color:'var(--text-muted)'}}>→</td>
+                          <td className="mono">{d.target}</td>
+                          <td>{d.call_count}</td>
+                          <td className={d.error_count > 0 ? 'text-error' : ''}>{d.error_count}</td>
+                          <td>{d.avg_latency_ms?.toFixed(0)}ms</td>
+                          <td style={{color: rate > 5 ? '#ef4444' : rate > 1 ? '#f59e0b' : '#22c55e'}}>{rate}%</td>
+                        </tr>
+                      );
+                    })}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          )}
+        </div>
+      );
+    }
+
+    // ── RCA Tab ─────────────────────────────────────────────
+    function RCATab({ data }) {
+      const rca = data.rca;
+      if (!rca) return <div className="empty-state"><h3>No Root Cause Analysis</h3><p>Run analysis on logs with errors to see RCA results.</p></div>;
+
+      const timeline = (rca.timeline || []).slice(0, 30);
+
+      return (
+        <div>
+          {/* RCA Summary */}
+          <div className="card" style={{marginBottom:16}}>
+            <div className="card-header">
+              <span className="card-title">Incident: {rca.title}</span>
+              <span className={`badge badge-${rca.severity}`}>{rca.severity}</span>
+            </div>
+            <p style={{marginBottom:12}}>{rca.summary}</p>
+            <div style={{display:'flex',gap:16,fontSize:13,color:'var(--text-muted)'}}>
+              <span>Total Errors: <strong className="text-error">{rca.total_errors}</strong></span>
+              <span>Affected Services: <strong>{rca.affected_services?.join(', ')}</strong></span>
+              <span>Started: <strong>{rca.started_at ? new Date(rca.started_at).toLocaleString() : '-'}</strong></span>
+            </div>
+          </div>
+
+          <div className="grid-2">
+            {/* Timeline */}
+            <div className="card">
+              <div className="card-header"><span className="card-title">Incident Timeline</span></div>
+              <div className="timeline" style={{maxHeight:500,overflowY:'auto'}}>
+                {timeline.map((evt, i) => (
+                  <div key={i} className="timeline-item">
+                    <div className={`timeline-dot ${evt.severity === 'critical' ? 'critical' : 'error'}`}></div>
+                    <div className="timeline-time">{new Date(evt.timestamp).toLocaleTimeString()}</div>
+                    <div className="timeline-service">{evt.service}</div>
+                    <div className="timeline-desc">{evt.description?.substring(0, 150)}</div>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* Root Causes & Recommendations */}
+            <div>
+              {rca.root_causes?.length > 0 && (
+                <div className="card" style={{marginBottom:16}}>
+                  <div className="card-header"><span className="card-title">Root Cause Hypotheses</span></div>
+                  {rca.root_causes.map((rc, i) => (
+                    <div key={i} style={{padding:12,borderBottom:'1px solid var(--border)'}}>
+                      <div style={{display:'flex',justifyContent:'space-between',marginBottom:4}}>
+                        <strong>{rc.hypothesis}</strong>
+                        <span className="badge badge-medium">{(rc.confidence*100).toFixed(0)}% confidence</span>
+                      </div>
+                      <div style={{fontSize:12,color:'var(--text-muted)'}}>
+                        Chain: {rc.error_propagation_chain?.join(' → ')}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
+
+              {data.ai_recommendations?.length > 0 && (
+                <div className="card">
+                  <div className="card-header"><span className="card-title">Remediation Actions</span></div>
+                  {data.ai_recommendations.map((rec, i) => (
+                    <div key={i} className="rec-item">
+                      <span className="rec-num">{i+1}</span>
+                      <span>{rec}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      );
+    }
+
+    // ── Alerts Tab ──────────────────────────────────────────
+    function AlertsTab({ data }) {
+      const alerts = data.alerts || [];
+      const [filter, setFilter] = useState('all');
+
+      const filtered = filter === 'all' ? alerts : alerts.filter(a => a.severity === filter);
+
+      return (
+        <div>
+          <div className="card" style={{marginBottom:16}}>
+            <div className="card-header">
+              <span className="card-title">Active Alerts ({alerts.length})</span>
+              <div style={{display:'flex',gap:8}}>
+                {['all','critical','high','warning','medium'].map(f => (
+                  <button key={f} className={`btn btn-sm ${filter===f?'btn-primary':''}`} onClick={()=>setFilter(f)}>
+                    {f.charAt(0).toUpperCase()+f.slice(1)}
+                  </button>
+                ))}
+              </div>
+            </div>
+            <div className="table-container">
+              <table>
+                <thead>
+                  <tr><th>Time</th><th>Severity</th><th>Title</th><th>Service</th><th>Errors</th><th>Status</th></tr>
+                </thead>
+                <tbody>
+                  {filtered.map((alert, i) => (
+                    <tr key={i}>
+                      <td className="mono text-muted">{alert.created_at ? new Date(alert.created_at).toLocaleTimeString() : '-'}</td>
+                      <td><span className={`badge badge-${alert.severity}`}>{alert.severity}</span></td>
+                      <td style={{fontWeight:600,maxWidth:350,overflow:'hidden',textOverflow:'ellipsis',whiteSpace:'nowrap'}}>{alert.title}</td>
+                      <td className="mono">{alert.service}</td>
+                      <td>{alert.error_count}</td>
+                      <td><span className={`badge badge-${alert.status || 'active'}`}>{alert.status || 'active'}</span></td>
+                    </tr>
+                  ))}
+                  {filtered.length === 0 && (
+                    <tr><td colSpan={6} style={{textAlign:'center',color:'var(--text-muted)',padding:40}}>No alerts matching filter</td></tr>
+                  )}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      );
+    }
+
+    // ── Log Viewer Tab ──────────────────────────────────────
+    function LogsTab({ data }) {
+      const [expanded, setExpanded] = useState(null);
+      const [levelFilter, setLevelFilter] = useState('all');
+
+      // Build sample logs from analysis data
+      const sampleLogs = useMemo(() => {
+        const logs = [];
+        // From error patterns
+        (data.errors || []).forEach(err => {
+          for (let i = 0; i < Math.min(err.count, 3); i++) {
+            logs.push({
+              timestamp: err.last_seen || new Date().toISOString(),
+              level: 'error',
+              service: err.affected_services?.[0] || 'unknown',
+              message: `[${err.error_type}] ${err.error_message}`,
+              error_type: err.error_type,
+              trace_id: err.sample_log_ids?.[i] || 'N/A',
+            });
+          }
+        });
+        // From RCA timeline
+        (data.rca?.timeline || []).forEach(evt => {
+          logs.push({
+            timestamp: evt.timestamp,
+            level: evt.severity === 'critical' ? 'critical' : 'error',
+            service: evt.service,
+            message: evt.description,
+            trace_id: evt.related_trace_ids?.[0] || 'N/A',
+          });
+        });
+        return logs.sort((a,b) => new Date(b.timestamp) - new Date(a.timestamp)).slice(0, 100);
+      }, [data]);
+
+      const filtered = levelFilter === 'all' ? sampleLogs : sampleLogs.filter(l => l.level === levelFilter);
+
+      return (
+        <div className="card">
+          <div className="card-header">
+            <span className="card-title">Log Entries ({filtered.length})</span>
+            <div style={{display:'flex',gap:8}}>
+              {['all','critical','error','warning','info'].map(l => (
+                <button key={l} className={`btn btn-sm ${levelFilter===l?'btn-primary':''}`} onClick={()=>setLevelFilter(l)}>
+                  {l.charAt(0).toUpperCase()+l.slice(1)}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div style={{maxHeight:600,overflowY:'auto'}}>
+            {filtered.map((log, i) => (
+              <div key={i}>
+                <div className="log-entry" onClick={() => setExpanded(expanded===i?null:i)}>
+                  <span className="mono text-muted" style={{minWidth:80}}>
+                    {log.timestamp ? new Date(log.timestamp).toLocaleTimeString() : ''}
+                  </span>
+                  <span className={`badge badge-${log.level}`} style={{minWidth:55,textAlign:'center'}}>
+                    {log.level}
+                  </span>
+                  <span className="mono" style={{minWidth:110,color:'var(--accent)'}}>{log.service}</span>
+                  <span style={{flex:1,overflow:'hidden',textOverflow:'ellipsis',whiteSpace:'nowrap'}}>{log.message}</span>
+                </div>
+                {expanded === i && (
+                  <div className="log-expanded">
+                    {JSON.stringify(log, null, 2)}
+                  </div>
+                )}
+              </div>
+            ))}
+          </div>
+        </div>
+      );
+    }
+
+    // ── Demo Data Generator (client-side fallback) ──────────
+    function generateDemoData() {
+      const now = new Date();
+      const services = ['api-gateway','order-api','payment-api','user-api','product-api','inventory-api','notification-api','auth-service','search-service','bank-connector'];
+      const errorTypes = ['ConnectionTimeoutException','DatabaseConnectionPoolExhausted','NullPointerException','RateLimitExceeded','ServiceUnavailable','OutOfMemoryError'];
+
+      const errorTrend = Array.from({length:12}, (_,i) => ({
+        timestamp: new Date(now - (11-i)*5*60000).toISOString(),
+        value: Math.floor(Math.random()*20) + (i>6&&i<10 ? 40 : 5),
+        label: 'errors'
+      }));
+
+      const latencyTrend = Array.from({length:12}, (_,i) => ({
+        timestamp: new Date(now - (11-i)*5*60000).toISOString(),
+        value: Math.floor(Math.random()*300) + (i>6&&i<10 ? 800 : 100),
+        label: 'avg_latency_ms'
+      }));
+
+      const errors = errorTypes.map((et, i) => ({
+        error_type: et,
+        error_message: `Sample error: ${et} occurred in production`,
+        count: Math.floor(Math.random()*50)+5,
+        first_seen: new Date(now - 3600000).toISOString(),
+        last_seen: new Date(now - Math.random()*600000).toISOString(),
+        affected_services: [services[i%services.length], services[(i+1)%services.length]],
+        severity: ['critical','high','warning','medium'][i%4],
+        sample_log_ids: [`log-${i}-1`,`log-${i}-2`],
+        trend: ['increasing','stable','spike','decreasing'][i%4],
+      }));
+
+      const svcStatuses = services.slice(0,7).map((s,i) => ({
+        service_name: s,
+        health: i<2?'unhealthy':i<4?'degraded':'healthy',
+        error_rate: i<2 ? +(Math.random()*8+3).toFixed(1) : i<4 ? +(Math.random()*3+0.5).toFixed(1) : +(Math.random()*0.5).toFixed(1),
+        avg_latency_ms: Math.floor(Math.random()*500)+50,
+        p95_latency_ms: Math.floor(Math.random()*2000)+200,
+        p99_latency_ms: Math.floor(Math.random()*5000)+500,
+        request_count: Math.floor(Math.random()*500)+100,
+        error_count: Math.floor(Math.random()*40),
+        dependencies: services.slice(i+1,i+3),
+      }));
+
+      const deps = [
+        {source:'api-gateway',target:'order-api',call_count:250,error_count:12,avg_latency_ms:45},
+        {source:'api-gateway',target:'user-api',call_count:180,error_count:3,avg_latency_ms:30},
+        {source:'order-api',target:'payment-api',call_count:120,error_count:25,avg_latency_ms:350},
+        {source:'payment-api',target:'bank-connector',call_count:100,error_count:30,avg_latency_ms:2500},
+        {source:'order-api',target:'inventory-api',call_count:110,error_count:5,avg_latency_ms:80},
+      ];
+
+      const timeline = errors.slice(0,10).map((e,i) => ({
+        timestamp: new Date(now - (10-i)*120000).toISOString(),
+        service: e.affected_services[0],
+        event_type: 'error',
+        description: `[${e.error_type}] ${e.error_message}`,
+        severity: e.severity,
+        related_trace_ids: [`trace-${i}`],
+      }));
+
+      return {
+        request_id: 'demo-001',
+        timestamp: now.toISOString(),
+        analysis_type: 'full',
+        metrics: {
+          total_logs: 500, total_errors: 75, error_rate: 15.0,
+          avg_response_time_ms: 245, p50_latency_ms: 120, p95_latency_ms: 1850, p99_latency_ms: 4200,
+          error_rate_trend: errorTrend, latency_trend: latencyTrend,
+        },
+        errors: errors,
+        alerts: errors.filter(e=>e.severity==='critical'||e.severity==='high').map((e,i)=>({
+          id: `alert-${i}`,
+          created_at: e.last_seen,
+          title: `${e.severity.toUpperCase()}: ${e.error_type} (${e.count}x)`,
+          description: e.error_message,
+          severity: e.severity,
+          status: 'active',
+          service: e.affected_services[0],
+          error_type: e.error_type,
+          error_count: e.count,
+        })),
+        rca: {
+          incident_id: 'demo-inc-001',
+          title: 'Payment Service Cascade Failure',
+          summary: 'Connection timeout from bank-connector caused cascading failures in payment-api and order-api. Database connection pool exhaustion detected in order-api due to retry storms. Root cause: bank-connector SSL certificate expiration.',
+          severity: 'critical',
+          started_at: new Date(now - 1200000).toISOString(),
+          detected_at: now.toISOString(),
+          timeline: timeline,
+          root_causes: [
+            {hypothesis:'Bank connector SSL certificate expired causing connection timeouts',confidence:0.87,supporting_evidence:['SSLHandshakeException in bank-connector logs','Cascading timeouts in payment-api'],affected_services:['bank-connector','payment-api'],error_propagation_chain:['bank-connector','payment-api','order-api','api-gateway']},
+            {hypothesis:'Database connection pool exhaustion due to retry storms',confidence:0.72,supporting_evidence:['DB_POOL_EXHAUSTED in order-api','Spike in connection wait time'],affected_services:['order-api'],error_propagation_chain:['order-api','api-gateway']},
+          ],
+          recommendations: [],
+          affected_services: ['bank-connector','payment-api','order-api','api-gateway'],
+          total_errors: 75,
+        },
+        services: svcStatuses,
+        dependencies: deps,
+        ai_summary: `## Analysis Summary\n\nAnalyzed 500 logs over the past 60 minutes.\n\n**Critical Finding:** Cascading failure originating from bank-connector SSL certificate expiration.\n\n**Impact Chain:** bank-connector → payment-api → order-api → api-gateway\n\n**Key Metrics:**\n- Overall error rate: 15.0% (CRITICAL - threshold: 5%)\n- P95 latency: 1,850ms (above 2s warning threshold)\n- 2 services unhealthy, 2 degraded\n- 75 total errors across 6 error types\n\n**Root Cause:** SSL certificate on bank-connector expired, causing all outgoing payment requests to fail with ConnectionTimeoutException. Payment-api retries exhausted order-api's database connection pool, leading to cascading failures.`,
+        ai_recommendations: [
+          'Immediately renew SSL certificate on bank-connector and restart pods',
+          'Increase database connection pool size for order-api from 50 to 100',
+          'Implement circuit breaker pattern between payment-api and bank-connector',
+          'Add SSL certificate expiry monitoring with 30-day advance alerting',
+          'Configure exponential backoff with jitter for payment retry logic',
+        ],
+      };
+    }
+
+    ReactDOM.render(<App />, document.getElementById('root'));
+  </script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+# TTL constants by entity

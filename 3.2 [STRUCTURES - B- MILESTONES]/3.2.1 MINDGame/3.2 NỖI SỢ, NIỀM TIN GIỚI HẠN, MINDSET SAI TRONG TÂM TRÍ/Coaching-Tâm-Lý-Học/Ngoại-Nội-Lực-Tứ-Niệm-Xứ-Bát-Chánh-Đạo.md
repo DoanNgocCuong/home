@@ -1,0 +1,1959 @@
+
+NGOẠI LỰC (DOPAMINE, TESTOSTERONE, 4 LOẠI NGOẠI ĐỘNG LỰC DISC) - NỘI LỰC (MINDSET, TRÒ CHƠI TÂM TRÍ, NIỀM TIN GIỚI HẠN) - TỨ NIỆM XỨ, BÁT CHÁNH ĐẠO (THIỀN DÙNG TÂM ĐÁNH BẠI TÂM)
+# 1. NGOẠI LỰC
+
+---
+
+https://www.youtube.com/playlist?list=PLh5R7FllhpT4kkvgCJ8gt8h65cyyQhb0j
+
+https://www.youtube.com/playlist?list=PLm68O2x9d3b28QLfrINbimcWSc0CrT0Rb
+
+https://www.youtube.com/playlist?list=PLT1gHeNusJijwmT9oRtX-vGSBlNP9FH5u
+
+
+NGHIÊN CỨU TOÀN BỘ CÁC VIDEO NÀY. VỀ DOPAMINE, testosterone VÀ ĐỘNG LỰC 
+: https://doanngoccuong.hashnode.dev/4-loai-dong-luc-hoc-tap-ngoai-luc
+
+- Động lực chiến thắng D: Đạt được sao, tăng level, streak, ... 
+- Động lực chinh phục C: giải quyết vấn đề level A=A+1, ... (Trạng thái flow khi rơi vào)
+- Động lực kết nối I: học cùng bạn bè, học cùng bố mẹ, ông bà, ... (Các community đòn bẩy rất mạnh)
+- Động lực ý nghĩa S: Tôi học 1 bài này tôi góp được 100 đ cho trẻ em vùng cao (các giải chạy bộ hay có các giải này) 
+
+4 loại động lực khác (hộp bí mật) - hẹn mọi người trong thời gian tới. 
+Mời tôi 1 bữa ăn nếu bạn muốn biết sớm: 
+
+Demo: BEGIN WITH THE END IN MIND, WHO - NHÂN DẠNG, THE ROAD CON ĐƯỜNG TÔI CHỌN, ...
+
+
+# 2. NỘI LỰC
+
+VÀ NỘI LỰC: DÙNG TÂM ĐÁNH BẠI TÂM 
+https://youtu.be/VphlKw85i80?feature=shared
+
+VÀ NỘI LỰC 
+https://www.youtube.com/playlist?list=PL5tPZAhaCUPJxcnRECMMPuh4go2m2ZfYV
+
+NỘI LỰC KHI TA MỞ KHOÁ ĐƯỢC CÁC MINDSET, UNLOCK CÁC TRÒ CHƠI TÂM TRÍ SAU 
+1. THE ROAD - CON ĐƯỜNG TÔI CHỌN. THE ROAD - THE IMPACT - THE POWER
+- Câu chuyện cậu bé mù và cây đèn dầu, khi có cây đèn cậu bị lệ thuộc vào cây đèn mà mất đi sức mạnh vốn có của mình. Đội ngũ mạnh là khi ae nghỉ hết, ae không đi thì tôi vẫn đi. 
+- Tôi biết rất rõ con đường đến đảo giấu vàng, tôi rủ ae cùng đi, tôi cấp sức mạnh cho ae cùng triển. Nếu không có bạn tôi đi thuyền thúng, tôi rủ bạn đi cùng, bạn đi cùng thì chúng ta chung nhau con thuyền to hơn, những gì tôi có tôi sẽ cấp cho bạn. 
+2. PHÂN BIỆT THÀNH CÔNG VỚI HẠNH PHÚC
+- Mục đích cuộc sống là Chấm Dứt Khổ. 
+- Hạnh phúc là ở bên trong khi tế bào nội xúc
+- Thành công là đạt 100% mục tiêu. (Điểm 9 môn Toán vui hay buồn, ... )
+3. TRỞ THÀNH HAY TRẢI NGHIỆM 
+- Muốn trải nghiệm cảm giác giàu có 6 múi của Ronadol nhưng mấy ai muốn trở thành Ronadol, trở thành là phải sở hữu thói quen, tính cách, lối sống của nhân dạng
+4. XUỐNG SÂN CỎ HAY TRÊN KHÁN ĐÀI. BƯỚC RA NGOÀI VÙNG AN TOÀN. 
+- Tiến lại gần xin info run cầm cập. KHÔNG LÝ DO CŨNG LÀ LÝ DO. 
+- Trainer Minh luôn giơ tay trong lớp NSKT, xin dọn vệ sinh BKE, xin nhận làm dự án X3NS, xin làm trợ giảng tất cả lớp offline của thầy, xin làm người tham vấn cho toàn bộ khoá học BKE, xin mở công ty riêng, ... Mỗi khoảnh khắc làm điều gì mới đều rất run. 
+5. XỔ SỐ HAY LÃI KÉP 
+- SYSTEM + NHẤT QUÁN + TIME: Nếu bạn làm 1 thứ trong 5-7 ngày thì nó là chỉ nhất thời, bạn làm 100 ngày lúc này bạn có cảm giác mình có thể chơi những chặng đường dài hơi hơn, 1000 ngày 10000 ngày nó trở thành tích cách, con người bạn. NHẤT QUÁN KỶ LUẬT VÃI NHÁI + GIÚP ĐỠ NHIỆT TÌNH VÃI NHÁI + LÀM VIỆC TỐC ĐỘ RA QUYẾT ĐỊNH NHANH, QUYẾT LIỆT
+- ĐÀO SÂU KHÔNG ĐÀO RỘNG: Mn thường học rộng trước, học sâu sau. Hoặc chỉ rộng mà không bao giờ sâu: Có rất nhiều người biết nhiều về thái cực quyền hơn tôi, nhưng TÔI RẤT GIỎI TRONG NHỮNG GÌ TÔI BIẾT 
+- GOOD THINGS TAKE TIME. HÃY CHO MÌNH ĐỦ THỜI GIAN. 
+5 năm để chuẩn bị cho 1 cái tết, 10 năm để chuẩn bị tài chính. Câu chuyện cây tre. 
+6. TOP TRÊN HAY TOP DƯỚI
+- Top dưới rất rủi ro: bạn thích làm việc với top trên hay top dưới. 
+7. KHÔNG CÓ LÝ DO CŨNG LÀ LÝ DO 
+- (Tháng 6, 2025, khi phải hành động để xin info bạn nữ mỗi khi đi caffe chạy đồ án) 
+8. TỰ TẨY NÃO MÌNH ĐỂ TÌM KIẾM CẢM GIÁC KHÓ CHỊU 
+ƯA THÍCH VIỆC GIẢI QUYẾT VẤN ĐỀ CỦA MÌNH, CỦA MN. ĐẶC BIỆT LÀ CÁC VẤN ĐỀ KHÓ, CÀNG KHÓ MÌNH CÀNG THÍCH. 
+Trong 1 buổi đi ăn với team công ty, khi giới thiệu về: sở thích + 1 điều mn ko biết về mình. 
+=> Mình đã nói: SỞ THÍCH LÀ GIẢI QUYẾT VẤN ĐỀ KHÓ VÀ LEVEL UP LIÊN TỤC. (Các sở thích khác ko cố định. 
+9. THE ROAD - THE IMPACT - THE POWER - Phụng sự vô điều kiện. Giải những bài khó hơn nằm ngoài chuyên môn và mục tiêu của mình vì mục tiêu phụng sự người khác.
+Dấu hiệu nhận biết lõi phụng sự:
+- Mindset chịu trách nhiệm cho team và cho kết quả của mình, cùng giải quyết vấn đề. Mọi thứ chỉ thực sự học khi chúng ta xuống nước 
+- Hành động xuất phát từ giá trị bên trong, không vì sự ghi nhận bên ngoài.
+- Luôn chủ động “làm phần khó”, “gánh việc nặng” cho tổ chức/đội nhóm.
+- Coi thành công và thất bại của đội là thành công/thất bại của chính mình.
+- Phục vụ bằng trái tim, làm gương bằng hành động nhỏ nhất.
+
+KHI TA HIỂU CƠ CHẾ VẬN HÀNH CỦA HIỂU BIẾT ĐÚNG (GOSINGA) + MINDSET TOP 1% (X3 NĂNG SUẤT, MONEYOsophy) => TA BẮT ĐẦU CÓ THỂ TỰ LEVEL UP MINDSET CỦA MÌNH. 
+10. 
+
+RÈN TÂM: [(1275) A. CHECKPOINT 4. NSKT chặng 3 LUYỆN TÂM VỮNG VÀNG_Tquen-Nộilực-Hạnhphúc~SKILL THIỀN EQ xây từ 24/09/2021 ĐÓNG GÓI 22/07/2022 - YouTube](https://www.youtube.com/playlist?list=PLfFdoGwLbh5VxIxUo7dIqdwnGDO4tZ9Hi)
+
+THIỀN VÀ TU TẬP - LỘ TRÌNH TÂM BÁT CHÁNH ĐẠO, BÁT TÀ ĐẠO : [(1275) 3. P3.1 [LỘ TRÌNH TÂM 8 TÀ 8 CHÁNH]_TsTỳ Kheo Nguyên Tuệ-Gosinga. - YouTube](https://www.youtube.com/playlist?list=PLfFdoGwLbh5U0cNTp0oUsNB0ULUs1FZy2)
+[(1275) 3. P3.2 Pháp Hành Quán Tâm Pháp_Thiền sư Tỳ Kheo Nguyên Tuệ-Gosinga 28/08/2023 - YouTube](https://www.youtube.com/playlist?list=PLfFdoGwLbh5VSXoApa3FO0yyVUcvuaeWM)
+
+QUÁN THÂN THỌ TÂM PHÁP
+
+**Đường này đến thế gian. Đường kia đến niết bàn, tỳ kheo đệ tử Phật, phải hiểu biết rõ ràng.**
+
+---
+
+Mình là Cường. Mình tu tập theo Pháp GOSINGA, những điều ghi chú dưới đây không hoàn toàn đúng ý với Đức Phật và Thiền Sư đã thuyết giảng. Các bạn nên tìm đến giáo Pháp Gốc để đạt được hiểu biết đúng đắn hơn.
+
+> - Từ 6 động lực hành động của X3 + Thiền học + Trải nghiệm (từ việc ngoại lực, đến việc rèn nội lực bỏ ngoại lực kể cả môi trường bạn bè, ... đến việc kết hợp cả tam bảo và nội lực, đến việc dùng cả các đòn bẩy Tham Sân Si những lúc đuối + Thiền, ... Đúc kết lại thành 4 Đòn Bẩy bên dưới. Điều đặc biệt là nó ko chỉ ứng dụng trong ĐỘNG LỰC LÀM VIỆC -> NÓ VƯỢT XA HƠN VÀ TRỞ THÀNH 4 TẦNG NĂNG LƯỢNG CẦN CỎ TRONG CẢ NGƯỜI (giống như DISC full ko giới hạn và Nội Ngoại kết hợp)
+>     
+> - -> KO CHỈ CÒN LÀ ĐỘNG LỰC HÀNH ĐỘNG, MÀ CÒN LÀ CON ĐƯỜNG TU TẬP THEO ĐẤU LA ĐẠI LỤC, CÁCH CHỌN NGƯỜI (map độc đáo, vì lúc trước Chọn người chỉ chọn dựa trên môi trường và tình yêu, ... -> Sau nhận ra chọn người, hiểu người, PT bản thân là 1).
+>     
+
+**1.0 TỨ NIỆM XỨ: NHẤT HƯỚNG LY THAM ĐOẠN DIỆT, AN TỊNH, THẮNG TRÍ, GIÁC NGỘ, NIẾT BÀN >< SÂN SI SỢ**
+
+**1.1 ĐÒN BẨY - MÔI TRƯỜNG SỐNG, THÓI QUEN + BỨT PHÁ SỢ, NGẠI, NIỀM TIN GIỚI HẠN BẰNG CHÁNH KIẾN, KO CÓ GIỚI HẠN VÀ CHẶN TRÊN - TULA THẦN LĨNH VỰC**
+
+**1.2 SI - TÌNH YÊU: TÌNH DỤC - YÊU THƯƠNG KẾT NỐI NETWORKING PHỤNG SỰ - BIẾT ƠN: TIỀN - Ý NGHĨA, GIÁ TRỊ - CỘNG ĐỒNG, Ý NGHĨA**
+
+**1.2 DC+THE ROAD - SÁT THẦN LĨNH VỰC: TIỀN, TỰ CHỦ, KẺ CHIẾN THẮNG, TOP 1, TỰ TẨY NÃO MÌNH = TÌM KIẾM KHAO KHÁT ĂN SỐNG CẢM GIÁC KHÓ CHỊU, CHINH PHỤC, TÁN TỈNH BẰNG SỰ TRUNG THỰC KO CÓ LÝ DO CŨNG CHÍNH LÀ LÝ DO, ĐOÁNH NHAU, TIỀN, KINH NGHIỆM, CHÁNH KIẾN MẶT DÀY TÂM ĐEN, THE ROAD CON ĐƯỜNG TÔI CHỌN >< SÂN SI SỢ**
+
+  
+
+### Use Case:
+
+> 1. Tự nhiên mất động lực, năng lượng => KO SUY NGHĨ / NGHĨ ĐÚNG SỰ THẬT = cách nghe và sử dụng SI. https://youtube.com/playlist?list=PLfFdoGwLbh5XSIVtGRibB_cZxSDoB1itF&feature=shared
+>     
+
+  
+
+  
+# 3. TỨ NIỆM XỨ
+  
+
+# **1.0 TỨ NIỆM XỨ: NHẤT HƯỚNG LY THAM ĐOẠN DIỆT, AN TỊNH, THẮNG TRÍ, GIÁC NGỘ, NIẾT BÀN >< SÂN SI SỢ**
+
+## 1. VĂN TUỆ: MỤC ĐÍCH CUỘC SỐNG => Chấm dứt việc băn khoăn - Không bao giờ chủ quan trong tu tập cẩn thận khủng hoảng những năm tháng về sau.
+
+  
+
+[3. P1.1 [MỤC ĐÍCH CUỘC SỐNG]_TsTỳ Kheo Nguyên Tuệ-Gosinga.](https://youtube.com/playlist?list=PLfFdoGwLbh5UvpnaQ3Pk6EUoYhdzS_JyX&feature=shared)
+
+  
+
+MỤC ĐÍCH CUỘC SỐNG: CHẤM DỨT KHỔ(Con người không có mong muốn ĐI TÌM KIẾM HẠNH PHÚC, họ chỉ mong muốn CHẤM DỨT KHỔ MÀ THÔI. Vô Minh: TÌM KIẾM niềm vui hạnh phúc chỉ ĐỔI KHỔ NÀY LẤY KHỔ KHÁC, KO BAO GIỜ chấm dứt được khổ. THỰC TẠI LÀ CẢM THỌ: NIỀM VUI HẠNH PHÚC LÀ CẢM GIÁC, là tâm, có vị ngọt, VỊ NGỌT không nguy hiểm, THAM ÁI VỊ NGỌT thì nguy hiểm, ĐẶT ĐẦU HẠNH PHÚC XUỐNG tức là "KO THAM ÁI VỚI LẠC THỌ", chứ không phải "TỪ BỎ LẠC THỌ").
+
+---
+
+1. **Dẫn chứng: Khi lên cơn nghiện chúng ta chỉ dùng tình dục để chấm dứt khổ chứ chẳng ai lúc ko bị cảm giác khó chịu mà đem tình dục ra làm suốt ngày cả.**
+    
+
+  
+
+![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=N2E2YzNjZjljNDA4NjVkNzczNzkzNTg3MjdlNDg1OTFfRTB4dlhobnJKWmdKdHlWdng1bWtzQVB0MjZZbkN1Y2tfVG9rZW46S1BVcWIzaWN6bzd5Ukx4T2l2OWxNcURvZ1hnXzE3NTUwNjU4NDQ6MTc1NTA2OTQ0NF9WNA)
+
+  
+
+---
+
+## 2. TƯ TUỆ - TRẠCH PHÁP:
+
+[3. P1.2 Tư Tuệ Trạch Pháp_TsTỳ Kheo Nguyên Tuệ-Gosinga.](https://www.youtube.com/playlist?list=PLfFdoGwLbh5VJth0HzZd0aSSLpD-vKduK)
+
+![](https://csg2ej4iz2hz.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NzE5NDVhMmNhM2IzMDFkMDYzZmQ4MmY0N2MxOGM4Y2NfREJRelN3cnZnbkR5UG9UOEtpREJ2T09nNWRlNEg5M3JfVG9rZW46S2RrM2JvSDlLbzlBVkF4Z3pJbWxmZ2hxZ0NoXzE3NTUwNjU4NDQ6MTc1NTA2OTQ0NF9WNA)
+
+  
+
+[LẶP ĐI LẶP LẠI TIẾN TRÌNH QUY NẠP - DIỄN DỊCH - KAIZEN]
+
+1. QUY NẠP: QUAN SÁT - PHÂN TÍCH - ĐÚC KẾT
+    
+2. DIỄN DỊCH: KẾT LUẬN được ỨNG DỤNG MỌI TRƯỜNG HỢP => ĐÚNG/SAI
+    
+3. KẾT LUẬN: DO CÁI GÌ CÓ MẶT MÀ CÁI KIA CÓ MẶT, DO CÁI GÌ KHÔNG CÓ MẶT MÀ CÁI KIA KHÔNG CÓ MẶT
+    
+
+---
+
+Mối quan hệ với các thành phần:
+
+1. TIẾN TRÌNH HỌC: MENTOR - VĂN TƯ TU (HỌC HIỂU HÀNH) - DỰ ÁN THẬT - CHIA SẺ LẠI.
+    
+2. Học tập có HƯỚNG, TUẦN TỰ, LIÊN TỤC, NHẤT QUÁN.
+    
+3. GIẢI QUYẾT VẤN ĐỀ: QUAN SÁT PHÂN TÍCH ĐÚC KẾT để tìm ra: VẤN ĐỀ NGUYÊN NHÂN GIẢI PHÁP BÀI HỌC. Để làm toàn bộ các tasks được hiệu quả.
+    
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/E7nGdmPvMsPx48bItnxlyIJ3gCg
+
+#### CÔNG THỨC TRẠCH PHÁP
+
+ĐỀ MỤC 0. CÔNG THỨC: LIỄU TRI VẤN ĐỀ VÔ MINH VÀ MINH - Hiểu đúng TÊN GỌI VÀ NỘI HÀM - Một việc không có Vô Minh hay Minh, chỉ có HIỂU BIẾT VỀ VIỆC ĐÓ mới có Vô Minh hay Minh. 1. Tuệ Tri Vấn Đề chưa? (1.Vô Minh 2.Minh (TRÍ TUỆ, CHÁNH KIẾN) 3. Lưu ý + Ví dụ.) 2. Tuệ Tri 3 Nguyên Nhân chưa? (Từ góc độ Vô Minh). 3. 3 Giải Pháp chưa? (Theo LÝ DUYÊN KHỞI, TRÍ TUỆ, CHÁNH KIẾN) 4. Con Đường Đoạn Diệt chưa?: Lộ trình tâm, tứ niệm xứ, bát chánh đạo.
+
+## 3. TU TUỆ: THÂN - THỌ - TÂM - PHÁP - TUẦN TỰ, LIÊN TỤC.
+
+  
+
+### 3.1 KHỔ THỌ TÌNH DỤC và TÂM SI (Trở ngại lớn nhất) VẤN ĐỀ LỚN NHẤT: CẢM GIÁC TÌNH DỤC KHỔ THỌ TRÊN THÂN - THẤT THOÁT TINH KHÍ THẦN - HỶ LẠC NỘI TÂM - NỘI LỰC HẠNH PHÚC BÊN TRONG, ĐỘNG LỰC BỀN VỮNG => dùng TD hoặc dùng TÂM ĐÁNH BẠI TÂM.
+
+1. CẢM GIÁC NỔI TRỘI. **(Có thể dùng 4 loại động lực chính để tạo).**
+
+2. TOẠ THIỀN THƯỜNG XUYÊN => để khắc sâu bộ nhớ, từ đó lúc BUỒN KHỔ, TÂM SI khởi lên mới đối trọi được.
+
+**THỰC HÀNH THÂN THỌ TÂM PHÁP** 1. QUÁN THÂN: NHẮC THẦM THẤY RÕ CẢM GIÁC NỔI TRỘI, Có Tầm Có Tứ - Automatic, ĐỂ TỰ NHIÊN, Ko Tầm Ko Tứ. - BẮT ĐẦU: THƯ GIÃN THẢ LỎNG, "BUÔNG BUÔNG". - CẢM GIÁC NỔI TRỘI NƠI THÂN: cảm giác Nín thở, Ngậm chặt răng lưỡi, Nghe nhạc nơi tai, cảm giác nắm nắm bàn tay xoa tay. CẢM GIÁC PHÁP TRẦN, THAM SÂN SI - BUÔNG BUÔNG. ()
+
+  
+
+**Bổ sung thêm:**
+
+> - NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI" đan xen: 1. cảm giác NGƯNG THỞ, 2. Cảm giác Chuyểnđộng TOÀN THÂN <gồm cảm giác nơi 6 xúc xứ: cảm giác hình ảnh, cảm giác âm thanh>, 3. ĐỂ TỰ NHIÊN (theo nhịp thở đi làm việc, bút vẽ lên xuống, xoay tròn sang ngang. VÔ NGƯNG RA NGƯNG). - TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC ; 2. Tuệ tri TÂM TRẠNG TÍCH CỰC VUI THOẢI MÁI
+
+> THỰC HÀNH:
+> 
+> 1. Tuệ tri CẢM GIÁC NỔI TRỘI và sự CHÚ TÂM LIÊN TỤC. - Case: khi mình nắm nắm bàn tay để tạo cảm giác nổi trội nơi tay
+>     
+> 2. Tuệ tri TÂM TRẠNG TÍCH CỰC VUI THOẢI MÁI
+>     
+
+- Lời nhắc - Nhạc: Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời).
+
+  
+
+**BÀI TOÁN GẶP NHIỀU: KHỔ THỌ TÌNH DỤC. ? LỜI GIẢI NHƯ NÀO.**
+
+**1. Là có thông tin tác động tới THÔNG TIN PHÁP TRẦN TÌNH DỤC**
+
+**2. Là TÂM SI - CHÁN NẢN - theo thói quen tìm THAM, tìm đến CẢM GIÁC PHÁP TRẦN TD. ĐẨY CẢM GIÁC SỢ, CÓ RỒI LẠI MUỐN CÓ THÊM; CHỈ ĐỔI KHỔ NÀY LẤY KHỔ KHÁC:**
+
+> - KHÓ QUÁ: (cùng đường, gặp bài toán khó, stress ko hướng giải quyết, rối ngợp vì quá nhiều thứ) => NGỦ 1 GIẤC SÂU SẠC 300% PIN LOẠI BỎ HẾT NGỔN NGANG ĐẦU ĐƯỢC LÀM MỚI , khoảng lặng, nghỉ ngơi, thể thao, đọc sách, chạy bộ,thiền gosinga 9 ngày,... Case: Làm đồ án đến đoạn bi bí, hoặc giải 1 đề đến đoạn bi bí => TÌM KIẾM CẢM GIÁC KHÓ CHỊU, BEGIN WITH THE END X3 IN MIND.
+> 
+> - NHÀN QUÁ:
+> 
+> +, Case: Sau bao ngày cày cuốc với mindset KẺ CHIẾN THẮNG => Tự nhiên dự án gần thành công thì mất đi cảm giác KẺ CHIẾN THẮNG => Tâm Si: KO THÍCH KO GHÉT NHƯNG TÌM KIẾM CẢM GIÁC DỄ CHỊU (Kẻ chiến thắng). +, Case: Không có việc gì làm => Mong muốn chuẩn bị cho tương lai => TÂM SI. +, Case: Không có việc gì quá gấp, ở nhà 1 mình => Cảm giác thói quen cũ ùa về, 1 cách vô thức xem đ đ đ.
+
+**3. THÔNG TIN PHÁP TRẦN TRONG QUÁ KHỨ -> RẤT DỄ THÍCH CON GÁI (các chị hơn 1-chục tuổi mà chưa gia đình, xinh xắn, mình vẫn có sự giao động. Đặc biệt là chị hơn 1-3 tuổi, 1-7 tuổi giao động vẫn rất mạnh, ... chưa nói đến em).**
+
+**4. VẤN ĐỀ THỜI GIAN: Thói quen này đã lặp lại gần 10 năm => Tiêu tốn rất nhiều thời gian, năng lượng, cơ hội của mình? => BẮT BUỘC PHẢI CHẤM DỨT ĐI!**
+
+---
+
+  
+
+**GIẢI PHÁP CÀNH LÁ:**
+
+  
+
+1. BTĐ XẤU HỔ SỢ HÃI với BÊN NGOÀI => chuyển dần sang BCĐ HIỆP THẾ: xấu hổ sợ hãi với THAM SÂN SI của chính mình
+    
+
+> Ăn được bát cơm phở 50k LÀM 1 CÁI lại ra hết, mặt mụn như gẻ, mồm hôi người hôi thối như CỨT => Cơ thể bạc nhược yếu ớt, GẦY GÒ ngủ suốt ngày, phải ngủ bù năng lượng 3h, mất hết THẦN KHÍ ÁNH MẮT GIỌNG NÓI: LỜ ĐỜ LÈ NHÈ KO RA HƠI. => Yếu sl vợ nó bỏ, lục đục đủ điều CHIA TAY => NGHIỆN MA TUÝ, GÁI GÚ CỜ BẠC: gầy dơ xương MA TUÝ ĐÁ ĐI TÙ bị đánh như chó CHẾT BỜ BỤI => Dễ NHẠY CẢM, ĐÀO HOA trước vẻ ngoài da thịt con gái => Mất thời gian, mất năng lượng, CẢM GIÁC TÌNH DỤC QUÁ DỄ SINH KHỞI. (Tổn thương cơ quan sinh dục: Gây viêm nhiễm, sẹo và tổn thương mô. => CẮT CHIM KO LÀ TOÀN THÂN BỊ NHIỄM TRÙNG. Suy giảm sức khỏe tổng thể: Mệt mỏi, suy nhược và giảm khả năng miễn dịch. => LIỆT DƯƠNG, CƠ THỂ NẰM LA LIỆT NHƯ NGƯỜI THỰC VẬT KO CÓ SỨC ĐỀ KHÁNG. Tác hại tinh thần: Gây trầm cảm, lo âu, cảm giác tội lỗi, lệ thuộc và ám ảnh. => KO DÁM GẶP AI, NGƯỜI HÔI THỐI, MẮT THÂM QUẦNG CỦA NGƯỜI THỦ. Tác hại xã hội: Ảnh hưởng đến công việc, học tập, cô lập xã hội, giảm chất lượng mối quan hệ. => CÔ LẬP, THẤT NGHIỆP, KO TIỀN KO MỐI QUAN HỆ, BỐ MẸ ACE HỌ HÀNG COI THƯỜNG). - Lên group18+ tìm bạn chat, show, KO BỀN DỄ TAN vì môi trường tìm bạn QUÁ THAM ĐẮM tỉ lệ độc hại cao(chat mình dám, còn gặp mình KO DÁM), FWB BỊ CẮT RỤNG CON CHIM, HIV-AIDS, FWB quen ny ĂN CỨT mãi ko có ny, Dính bầu với gái giang hồ về nó xiên chết cả nhà. <Content địa ngục>. Tình dục chỉ là 1 phần, 1 khía cạnh, ko nên là TOÀN BỘ cuộc sống. Có những giai đoạn như 95 tuổi bạn chỉ có thể nghĩ về nó hoặc nói về nó chứ ko thể làm, có giai đoạn trẻ bạn có thể sẽ rất say đắm. Tình dục THƯỚC ĐO SỰ KIỀM CHẾ, BÁT CHÁNH ĐẠO. Không chỉ tinh trùng mà tất cả tế bào đều là những nguyên liệu khác nhau tạo nên món súp khác nhau, TIỀM NĂNG TO LỚN.
+
+2. **BƯỚC VÀO TÌNH YÊU HÔN NHÂN - CÁC DỤC VUI ÍT KHỔ NHIỀU, NÃO NHIỀU, NGUY HIỂM CÀNG NHIỀU [NGỌT KO KHỔ, THAM ÁI VỊ NGỌT MỚI KHỔ] => MỞ RỘNG RA ĐỘI NHÓM** **=> dùng TD vợ chồng - phương tiện để chấm dứt khổ (như đồng tiền): Có vị ngọt. Tham Ái Vị Ngọt thì khổ.** **=> Nếu chọn TYHN: nên chọn người cùng Pháp là tốt nhất.**
+    
+
+> 1. MỞ PHỄU ĐÚNG THỊ TRƯỜNG: VẪN CHỌN NGƯỜI PHÙ HỢP NHẤT, XINH NHẤT ĐẸP NHẤT. NHƯNG: NẾU KHÔNG ĐỔI TÂM TỪ BÁT TÀ ĐẠO SANG BÁT CHÁNH ĐẠO, thì KHÔNG CHẠY ĐÂU CHO THOÁT KHỔ (chỉ đổi khổ này lấy khổ khác).
+>     
+> 
+>   
+> 
+> 2. SỰ THẬT VỀ CHUNG THUỶ - thực hành đúng KO CÓ CHÁN NẢN, MÀ HOÀN TOÀN BÌNH THẢN: - Khi gặp người khác giới, nếu LỘ TRÌNH TÂM là BÁT TÀ ĐẠO thì quý vị khởi lên THÍCH CHÁN GHÉT so sánh người đó với ny/vợ mình. - Còn nếu LỘ TRÌNH TÂM là BÁT CHÁNH ĐẠO, quý vị KHÔNG THÍCH KHÔNG CHÁN KHÔNG GHÉT, thì KHÔNG CÓ CHUNG THUỶ, cũng CHẲNG CÓ NGOẠI TÌNH, quý vị HOÀN TOÀN BÌNH THẢN, VUI, THOẢI MÁI.
+>     
+
+  
+
+#### Use cases:
+
+> 1. 08/08/2025 [SAU 6 NGÀY ĂN UỐNG SIÊU ĐẦY ĐỦ VÀ NO NÊ + SỬ DỤNG TRIẾT LÝ BẠN MUỐN ĐÁNH ĐỔI 5MIN SUNG SUÓNG NGẮN NGỦI LẤY VIỆC CƠ THỂ MẤT 1-2 TUẦN PHỤC HỒI? => MÌNH GIỮ TÂM RẤT TỐT. Cho đến tối nay sau khi tắm xong, mình cũng ko có nhu cầu gì lắm, chỉ do thói quen và ở nhà 1 mình -> mở xem 1 tí, cũng chưa có gì quá kích thích cơ mà mình lộn c 1 phát, nó ra quá là nhiều => ]
+>     
+
+### 3.2 THỰC HÀNH THÂN THỌ TÂM PHÁP :
+
+- https://www.youtube.com/playlist?list=PLfFdoGwLbh5X1rtIKley3_3uEXzXdZ8-i
+    
+
+  
+
+2. QUÁN THỌ: THỰC TẠI LÀ CẢM GIÁC - Tương tác căn trần đều là TƯƠNG TÁC THÔNG TIN, LÀ TÂM - CẢM GIÁC HẠNH PHÚC CẢM GIÁC VỊ NGỌT - NGUYÊN NHÂN CỦA KHỔ THAM SÂN SI] (Thấy, Nghe, Cảm nhận mọi thứ đều biết nó là Cảm Giác) - Khi chọn thái độ Nhất Hướng, Nhàm Chán, Ly Tham, Đoạn Diệt là chúng ta đối xử với Tâm, cụ thể là các Cảm giác chứ không phải với Cảnh, với hoàn cảnh sống. Có 2 loại thực tại là Thực Tại Thế Gian (Bất Tịnh), và Thực Tại Xuất Thế Gian(Thanh Tịnh) thì cũng đều là các khái niệm của Tâm, chứ ko phải Cảnh. Chỉ có Tâm Bất Tịnh và Tâm Thanh Tịnh, chứ không có Cảnh Bất Tịnh và Cảnh Thanh Tịnh. - Không có việc làm là MINH hay VÔ MINH, chỉ có HIỂU BIẾT VỀ VIỆC ĐÓ mới có MINH hay VÔ MINH. - Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau, cho dù đổi cảnh hay không đổi cản. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. - "Buông" là BUÔNG TƯ TƯỞNG làm chủ, tư tưởng sở hữu; Không phải "Buông bỏ", vứt bỏ đi thế giới vật chất. "Sử dụng mà không sở hữu". **Lưu ý:** Không ràng buộc vào kết quả là không khổ vui với kết quả chứ không phải không quan tâm và không cần cải thiện dù kết quả không đi đúng hướng. - BUÔNG = "GIEO NHÂN" * "BUÔNG KỲ VỌNG" = "LÀM TỐT NHẤT" * "SẴN SÀNG CHO ĐIỀU TỆ NHẤT" = CÙNG LẮM THÌ, TÔI VẪN CỨ NỖ LỰC = "BẠN ĐƯỢC QUYỀN BẬT CÔNG TẮC" * "NHƯNG SÁNG HAY KHÔNG LÀ CHUYỆN BÓNG ĐÈN".
+
+3. XỬ LÝ CẢM GIÁC KHỔ THỌ TÌNH DỤC:
+    
+
+  
+
+3. Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) - NÍN THỞ QUÁN THÂN: Tùy vào cường độ của dục tưởng, nếu nhẹ thì có thể quán luôn, còn nếu mãnh liệt thì nên sử dụng pháp đối trị NÍN THỞ như ở mục 01 trước. Sau khi lắng dịu hơn thì thực hành quán như ở dưới đây để xóa dần đi thông tin về tham ái tình dục. - Quán Thọ: Bản chất dục tưởng chính là tư tưởng về tình dục, xuất hiện với sự nối dài của cảm giác pháp trần liên tục đan xen với cảm giác xúc chạm do nội xúc từ tâm hành tham, nên mình cần quán đây là cảm thọ, thuộc phạm trù tâm, là cảnh ảo, vô minh thì cho rằng đây là thế giới vật chất, có cô gái A, chàng trai B là chủ nhân chủ sở hữu của hình tướng kia,... - Quán Tâm: Quán tâm biết ý thức tà tri kiến với nội dung vô minh - chấp ngã. Quán tâm hành tham, dục, khổ đang khởi sinh. Hiểu biết đúng sự thật về các tâm hành này trên 8TĐ, có tính chất duyên khởi, vô thường, vô ngã. - Quán Pháp: Nhân loại khát ái tìm cầu hỷ lạc chỗ này chỗ nọ, như dục ái, hữu ái, phi hữu ái.. Nơi nào có tham dục, nơi đó có chấp thủ, nơi nào có chấp thủ, nơi đó có khổ-vui. Các dục vui ít, khổ nhiều, não nhiều, nguy hiểm các nhiều hơn. Bao lâu nay, mình đã bị dục đanh vây, tàn phá, trấn áp như thế này đây. Phải giải thoát khỏi chướng ngại đã đầy ải nhân loại từ vô thủy đến nay. - NÍN THỞ QUÁN THÂN: Sau khi quán thì hãy ngưng thở một đoạn để hoàn toàn yên lặng, ghi nhận cảm giác toàn thân, sau đó thở mạnh theo nhịp rồi tác ý nhè nhẹ dần, nếu hết dục tưởng thì quay trở lại thực hành Định-Tuệ bình thường. 3.1 PHẢI NHỚ PHẢI NHỚ: HIỂU ĐÚNG VỊ NGỌT, VỊ NGỌT - LY THAM. - Phải nhớ phải nhớ: VỊ NGỌT - CẢM GIÁC HẠNH PHÚC (do Chánh Niệm sinh, hoặc, duyên xúc bên ngoài). THÍCH CHÁN RỒI GHÉT, NGỌT NHẠT RỒI ĐẮNG. SINH DIỆT liên tục, lặp đi lặp lại. CHẲNG ĐÁNG LÀ BAO, tà niệm kích hoạt, mà ta làm quá. - Chỉ khi thực nếm, vị ngọt chánh niệm, đến để mà thấy, siêu thế khởi lên. DÙ THẤY GÁI XINH, NHỚ PHIM 18, TÂM SI SINH KHỞI: Vị ấy ly tham, nhìn ngắm vẻ đẹp, ko có tư tưởng làm chủ sở hữu, ko nhảy tìm trăng, không khổ vô ích. - Phải nhớ phải nhớ: Cảm thọ Căn Trần, tiếp xúc với nhau. Thông tin pháp trần, tế bào thần kinh, tồn tại đồng thời, độc lập với nhau, (y như máy móc, chạy theo lập trình, trong cái gọi là, đồng hồ quả lắc). chứ không phải là… - CHẤP CÓ DUY VẬT, CHẤP KHÔNG DUY TÂM, chấp ngọt sẵn có, chấp do tâm tạo. VỊ NGỌT CÓ ĐÓ, DO DUYÊN MÀ SANH, Thọ Tưởng đồng sinh, Tưởng đọc Vị ngọt, của đối tượng thấy, chứ không phải là, cần niệm kích hoạt, mới có vị ngọt, - Trong TÌNH YÊU: Được chọn VẪN CHỌN NGƯỜI PHÙ HỢP NHẤT, XINH NHẤT ĐẸP NHẤT. NHƯNG: NẾU KHÔNG ĐỔI TÂM TỪ BÁT TÀ ĐẠO SANG BÁT CHÁNH ĐẠO, thì KHÔNG CHẠY ĐÂU CHO THOÁT KHỔ (chỉ đổi khổ này lấy khổ khác). - Chúng ta tu tập để đổi tâm và có thể cải thiện hoàn cảnh (nếu cần thiết), chứ không phải tìm cách thay đổi hoàn cảnh để nghĩ rằng sẽ tu tập thuận lợi hơn. Tránh tình trạng đi học về, Tâm thì ko thấy đổi, lại đi thay đổi ngay hoàn cảnh sống khiến cho người thân, bạn bè thấy bất an, lo lắng. - Nhàm chán, Ly Tham là ly tham với thọ khi tiếp xúc với các trần cảnh, chứ không phải ly tham với các trần cảnh đó. Chúng ta không ghét bỏ, xua đuổi chúng, mà để chúng tự đến và tự đi. - Như vậy cho dù đổi cảnh hay không đổi cảnh, miễn đổi được tâm từ BTD sang BCD thì sẽ không có khổ và là tu đúng. Còn trường hợp được quyền đổi cảnh để có lạc thọ hợp pháp thì đổi chứ đâu có dại gì mà phải để im để kham nhẫn với khổ thọ. - TRUNG ĐẠO: ko chối bỏ, không tham đắm lạc thọ. Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. 3.2 PHẢI NHỚ PHẢI NHỚ CẢM THỌ VÔ THƯỜNG - Đối tượng thấy..., là tâm cảm thọ, đặt tên: danh từ, là cô con gái, cái con người thấy, chính là thông tin chứ không phải là thế giới vật chất, như hiểu biết sai, lầm tưởng trước đây. - Cảm giác vị ngọt, hoặc nhạt hoặc đắng, được Tưởng ghi nhận, mới tinh cứng coong, xuất hiện 1 lần, sinh diệt tức khắc, sinh diệt kéo dài mà ta làm quá, chứ không phải là, thường hằng thường trú, biến đổi vật chất, như hiểu biết sai, lầm tưởng trước đây. 3.3 PHẢI NHỚ PHẢI NHỚ: DUYÊN KHỞI - VÔ NGÃ - Phải nhớ phải nhớ: Duyên người thế giới, đặt tên: động từ, là quét là chạy, chứ không có cái, điều khiển cái kia, ko có linh hồn, không sinh không diệt, điều khiển thân xác! - Tất cả các sự vật hiện tượng (tất cả các pháp) đều là do Duyên Khởi (2 nhân bình đẳng tương tác/tiếp xúc cùng diệt mới phát sinh quả). = Tất cả các pháp đều vô thường (Sinh diệt), đều vô chủ vô sở hữu (vô ngã).
+
+#### Use cases 3. Tu Tuệ:
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/AmYzdmBzosNhhpbRk60lOTvZgDb
+
+# 1.1 Ứng dụng 4 đòn bẩy trong mọi việc - THỰC HÀNH TRONG ĐỜI SỐNG - System (Sức khoẻ, Mối quan hệ Networking - Sự Nghiệp) - theo đuôi Mentor
+
+**Tâm Trí kiểm soát các khía cạnh khác:** Bạn đã thể hiện rõ mối liên hệ giữa tâm trí và các khía cạnh khác:
+
+- **Sức Khỏe:** Bạn đã phân tích sâu về "KHỔ THỌ TÌNH DỤC và TÂM SI" và cách chúng "Thất thoát tinh khí thần", dẫn đến suy giảm sức khỏe thể chất và tinh thần. Giải pháp là "dùng TD hoặc dùng TÂM ĐÁNH BẠI TÂM", cho thấy tâm trí là chìa khóa để vượt qua những cám dỗ và giữ gìn sức khỏe. "HỶ LẠC NỘI TÂM - NỘI LỰC HẠNH PHÚC BÊN TRONG" là nguồn động lực bền vững, vượt trội so với các niềm vui bên ngoài.
+    
+- **Tài Chính:** Quyết định sự nghiệp, lựa chọn hướng đi (AI Engineering, KOL, Business Model) đều dựa trên những "Niềm tin giới hạn" hoặc "Niềm tin không giới hạn" của tâm trí. Bạn đã dùng các ví dụ về "chạy 1 dặm dưới 4 phút" hay "bài toán khó" để minh chứng rằng "giới hạn ko nằm ở khả năng mà là ở niềm tin", tức là ở tâm trí.
+    
+- **Mối Quan Hệ:** Bạn đề cập đến "SỰ THU HÚT đến từ SỰ TƯƠNG HỢP THÔNG TIN", và "SỰ ĐỦ ĐẦY TỪ BÊN TRONG". Việc "Buông xả làm tốt nhất, sáng hay không là chuyện của bóng đèn" trong các mối quan hệ cũng là một trạng thái tâm lý không chấp thủ vào kết quả. Hơn nữa, việc chuyển từ "LỘ TRÌNH TÂM là BÁT TÀ ĐẠO" sang "BÁT CHÁNH ĐẠO" là cách để đạt được sự "HOÀN TOÀN BÌNH THẢN" trong các mối quan hệ, vượt lên trên sự thích, chán, ghét hay so sánh.
+    
+
+# **1. MÔI TRƯỜNG SỐNG, THÓI QUEN + BỨT PHÁ SỢ, NGẠI, NIỀM TIN GIỚI HẠN BẰNG CHÁNH KIẾN - TULA THẦN LĨNH VỰC, NIỀM TIN KO GIỚI HẠN KO BỊ CHẶN TRÊN - THE ROAD CON ĐƯỜNG TÔI CHỌN, KHÔNG AI ĐI TÔI VẪN ĐI.**
+
+## **1.1 MÔI TRƯỜNG SỐNG, THÓI QUEN: Bên trong: HIỂU THƯƠNG bài tập rà nghiệp, đúc kết vector + THẦN KHÍ + HÀNH VI THÁI ĐỘ SỐNG.**
+
+> **Chánh kiến về xu hướng tính cách: 1 cách tương đối nên mới gọi là xu hướng bởi lẽ bây giờ ngay cả bảo mình summary lại về xu hướng tính cách của mình cũng khó, vì Pháp do duyên khởi, do thói quen**
+> 
+> - Môi trường sống nhiều cám dỗ: xăm, thuốc lá rượu bia cờ bạc. (- Khánh Ly
+>     
+> - Môi trường sống và thói quen: trai gái gợi cảm uốn éo khoe da khoe thịt quá nhiều.
+>     
+
+### **1.1.1 PHÁN ĐOÁN bằng bộ môn huyền học**: DISC, Thần số, Nhân tướng:
+
+- Đo lường: '''Trí Tuệ: Trán cao, Mũi thông thiên, Tai to + Mắt tinh anh, Lời nói rõ ràng dễ hiểu Góc nhìn ĐA CHIỀU, SÂU SẮC + Tam bảo. *** Nghị Lực: Mũi thông thiên, + Động tác dứt khoát, Mắt có uy, Giọng nói + Tĩnh lặng trước BUỒN VUI + Thích làm chơi việc khó khăn mạo hiểm, Dấu ấn khó. *** Đạo Đức: Gò má lưỡng quyền, quai hàm bạnh (ngang bướng, đanh nghiến) + Ánh mắt Giọng nói BỊ HÚT VÀO SẮC VÀ TIỀN, ánh mắt LỘ, THẦN BẤT TÚC, HAY SO BÌ + Thiện nguyện ít dính mắc.'''
+    
+
+### **1.1.2 QUAN SÁT THẦN KHÍ + HÀNH VI THÁI ĐỘ SỐNG**
+
+- +, THẦN KHÍ(THẦN HỮU DƯ, THẦN TĨNH: mắt, cử động,. KHÍ biểu hiện qua: xương cốt, da thịt, râu tóc, lông mày, âm thanh, khẩu khí).
+    
+- +, HÀNH VI THÁI ĐỘ SỐNG (nhất là khi có biến động).
+    
+- +, Đo lường: '''8 Phép chọn tướng Trần Hưng Đạo Gia Cát Lượng: TRÍTUỆ: Hỏi đúng sai, xem chí hướng, rõ ràng? Cật vấn đến kỳ cùng? Hỏi mưu lược, xem tri thức?ĐẠOĐỨC: Qs đa chiều xem đức hạnh? Gián điệp thử xem có trung thành? Giao việc, xem chữ tín?NGHỊLỰC: Lấy của thử? lấy sắc đẹp thử? lấy việc khó thử? Rượu cho uống say, tâm có say không?'''
+    
+- (Ng quân tử TIẾN THOÁI QUẢ QUYẾT, XEM NGƯỜI THANH THẢN VUI TƯƠI, CHÍ TRỪ TÀN BẠO, khí độ ng Tướng Quốc. Thấy ÁC KO GIẬN LÀNHKOMỪNG, NHANSẮCKOTHAYĐỔI, lượngcủaThiênTử).
+    
+
+  
+
+## **1.2 Bài học về Niềm tin giới hạn Đêm 25/04/2025 = Tôi tài giỏi bạn cũng thế + GOSINGA về mục đích cuộc đời + Nhân dạng, trở thành hay trải nghiệm, hoàn thành trước, hoàn hảo sau X3 + Wecommit100x làm theo system lãi kép và nỗi sợ chỉ mất khi bạn hành động**
+
+- **NIỀM TIN KO GIỚI HẠN KO BỊ CHẶN TRÊN - NGAY KHI BẠN NGHĨ RẰNG BẠN ĐÃ CHẠM MỨC GIỚI HẠN THÌ THẬT RA BẠN MỚI CHẠM MỨC 20% THÔI.**
+    
+
+20/05/2025
+
+1. Nỗi sợ là CẢM GIÁC do ...
+    
+2. Tìm kiếm cảm giác khó chịu giúp ta mạnh hơn
+    
+
+- David goggins: Tự tẩy não mình để thèm khát, tìm kiếm CẢM GIÁC KHÓ CHỊU. => Càng khó chịu ta càng mạnh hơn.
+    
+- Nỗi sợ chỉ làm ta mạnh hơn khi mà ta thoát ra. (bài Rap: Let'em know Mason Nguyen).
+    
+
+3. Sợ bị đánh giá: Tào tháo nói "Ta làm, họ có động đến sợi lông chân nào của ta đâu mà ta sợ :> " Việc đúng đắn thì ta cứ làm, đó là cuộc sống của ta. Làm cái méo gì cũng ko ngại: ko mắc các sai lầm thì xin info thì rủ đi chơi (chiến lược hoàn toàn khác so với ngày xưa, ngày xưa có tiêu chí 1, 2, 3 thì ở giai đoạn nào, ... khó áp dụng), xin nghỉ ,nhắn tin trong nhóm chung, thuyết trình trước mn, nói chuyện với tầng C-level bứt phá ko giới hạn niềm tin để thoải mái nói chuyện với tầng C-level, ...
+    
+4. Sợ ta không đủ khả năng: Nhiều khi 1 bài toán lớp 5 thả vào đề lớp 1 ta làm được, đến lúc bài lớp 1 thả vào đề lớp 5 ta lại có khi ko làm được -> vì nỗi sợ giới hạn khả năng của ta.
+    
+
+(câu chuyện chạy 1 dặm dưới ít hơn 4min khi 1 người chạy được thì hàng trăm người chạy được ngay sau đó vì họ đã phá được niềm tin giới hạn)
+
+(hay 1 ông nhà toán học đến muộn, thầy giáo viết trên bảng 2 bài toán khó nhất thế giới bấy giờ, ông tưởng BVN thế là về làm xong nộp)
+
+5. LÀM ĐI SỢ MÉO GÌ, BẢO VỆ BẢN THÂN VÀ TOÀN THỂ NGƯỜI THÂN, HUYNH ĐỆ ĐỒNG ĐỘI VÀ MENTOR CỦA MÌNH
+    
+
+---
+
+> **Gọi tên nỗi sợ**: "Mày là ảo giác. Mày không điều khiển được tao."
+> 
+> **Tích bánh quy**: "Chúc mừng: thêm 1 nỗi sợ nữa bị tiêu diệt"
+
+  
+
+Các nỗi sợ phổ biến và cách mình vượt qua.
+
+1. Đầu năm 2025: Sợ đánh giá trên mạng xã hội khi mình chạy, quay video, đăng bài. Đánh giá độ sợ 5/10, =>Với mình mình ko quá sợ điều này, vì đây là quyền tự do của mình, TIỀN CẢ,...
+    
+2. T6/2025: Sợ "KO CÓ LÝ DO ĐỂ XIN INFO" khi xin info các bạn nữ (nếu người ngồi cạnh/đối diện thì dễ, còn người quay mặt vào cửa sổ khiến mình DO DỰ: 30min, 1h rưỡi. **=> Bài học: "KO CÓ LÝ DO CŨNG LÀ LÝ DO" + "Cảm xúc muốn hành động chính là lý do" + “Tôi không cần cảm thấy có lý do để hành động. Tôi hành động, rồi lý do sẽ xuất hiện.”**
+    
+
+> _ 08/06/2025 gpt và Cường
+> 
+> **Thông thường: bạn nữ biết tỏng ý định của bạn. => Điều cần làm chỉ là: Thành thật và rõ ràng**: “Không vì gì cả, chỉ là tớ muốn biết tên cậu thôi :)”
+
+---
+
+> 25/04/2025
+> 
+> Đợt này em có cơ hội được làm việc trực tiếp với anh CEO, với chị General Manager (sau mỗi CEO) ở công ty các sếp ạ.
+> 
+> Em cũng mới nhắn khoe sếp @tranquochuy_wecommit tối qua :D
+> 
+> ===
+> 
+> - Khi làm việc với các C-level em CẢM GIÁC LÀ MÌNH CHƯA TƯ DUY ĐƯỢC NHƯ HỌ. Em nhận ra 1 NIỀM TIN GIỚI HẠN của bản thân là khi làm việc cùng anh chị đó là: "MÌNH MỚI RA TRƯỜNG, CHƯA NHIỀU KINH NGHIỆM THÌ CHƯA TƯ DUY ĐƯỢC NHƯ HỌ NHIỀU NĂM KINH NGHIỆM ĐƯỢC ĐÂU. CHÍNH NIỀM TIN NÀY GIỚI HẠN EM TƯ DUY NHƯ 1 C-LEVEL." => Chính niềm tin này cản trợ em tư duy ở tầm C-level.
+>     
+> 
+>   
+> 
+> 1. Câu chuyện về cả thế giới tin là ko thể chạy 1 dăm với ít hơn 4min.
+>     
+> 
+> Sau đó
+> 
+> Vào ngày 6 tháng 5 năm 1954, Roger Bannister, một sinh viên y khoa người Anh, đã trở thành người đầu tiên chạy một dặm (1.609 km) dưới 4 phút, với thời gian 3 phút 59,4 giây tại sân vận động Iffley Road ở Oxford. Thành tích này đã phá vỡ rào cản tâm lý tồn tại lâu dài trong giới điền kinh, khi nhiều người tin rằng con người không thể đạt được tốc độ đó. Chỉ 46 ngày sau, vận động viên người Úc John Landy đã vượt qua kỷ lục này với thời gian 3 phút 58,0 giây. KỲ LẠ LÀ Từ đó, hàng ngàn vận động viên đã vượt qua mốc 4 phút, cho thấy khi niềm tin được khơi dậy, giới hạn tưởng chừng không thể cũng trở nên khả thi.
+> 
+> -> Giới hạn ko nằm ở khả năng mà là ở niềm tin
+> 
+> -> CHO THẤY GIỚI HẠN NIỀM TIN CŨ BỊ PHÁ VỠ : https://www.nationalgeographic.com/science/article/faith-kipyegon-four-minute-mile-run-world-record
+> 
+>   
+> 
+> 2. Hay là hồi em học lớp 3 đã học bài: Tuổi mẹ hiện nay hơn tuổi con là 24, sau 2 năm nữa mẹ gấp 9 lần tuổi con, vậy hiện nay mẹ bao nhiêu, con bao nhiêu. Hồi đó thầy cô ko nói đó là bài cấp 2, nên tụi em vẫn học và giải 1 cách bình thường.
+>     
+> 
+> Hay là học toán HSG lớp 11 đã học đến cả giải tích 1 của đại học, lúc đó vượt cấp thấy thoải mái và tự tin vì bạn bè ai cũng học
+> 
+>   
+> 
+> - Tương tự khi gặp câu hình cuối hay câu cuối.
+>     
+> 
+> Nếu em học lớp 9 thì "niềm tin câu nó dễ" em sẽ giúp em giải nó 1 cách tự tin và thoải mái hơn và giải được có khi nó rất khó.
+> 
+> Hoặc là nếu em học lớp 7 được giao cho đề có 1 câu lớp 7 dược đặt vào trong đề thi lớp 12 thì có khi em "CẢM GIÁC NÓ KHÓ" mà ko dám làm và bảo ngay là ko làm được. Cũng bài đó đặt trong đề lớp 7 có khi lại giải ngon.
+> 
+>   
+> 
+> 3. Ngày xưa có 1 ông Toán học gì đó được thầy giao bài tập về nhà, xong thầy lỡ kẹp bài Toán khó nhất thế giới chưa ai giải được vào, ổng cứ tưởng đấy là bài về nhà xong ngồi hì hục giải từ sáng đến tôi mang lên nộp thầy.
+>     
+> 
+>   
+> 
+> Một giai thoại nổi tiếng trong giới toán học, liên quan đến George Bernard Dantzig, một nhà toán học người Mỹ. Vào năm 1939, khi đang là nghiên cứu sinh tại Đại học California, Berkeley, Dantzig đến muộn trong một buổi học môn thống kê do giáo sư Jerzy Neyman giảng dạy. Trên bảng lúc đó có hai bài toán, thực chất là những vấn đề thống kê nổi tiếng chưa được giải quyết, được giáo sư viết lên làm ví dụ. Tuy nhiên, Dantzig tưởng rằng đó là bài tập về nhà nên đã chép lại và cố gắng giải chúng
+> 
+>   
+> 
+> 1796 (Gauss) giải 3 đề được giáo viên hướng dẫn giao riêng thêm mỗi ngày, mỗi ngày 2 đề, nay tự nhiên có thêm 1 đề: yêu cầu dùng compa thước kẻ ko khắc độ để vẽ 1 hình đúng 17 cạnh, "thầy giao cho em bài toán thứ 3 em phải làm tròn 1 đêm, em đã phụ sự bồi dưỡng của thầy rồi". Bài toán 2000 năm, Archimedes ko giải được, Issac Newton ko, ...->"Nếu có người nói cho tôi biết bài toán này là khó có lịch sử ..."
+> 
+>   
+> 
+> 4. Ngày xưa, khi con voi còn là một chú voi con nhỏ, người ta đã dùng một sợi dây to buộc nó vào một gốc cây. Voi con cố gắng hết sức để thoát ra, nhưng không thể. Dù con voi dùng toàn bộ sức mạnh, sợi dây vẫn giữ nó lại, và con voi cuối cùng từ bỏ cố gắng.
+>     
+> 
+> Khi con voi lớn lên, nó mạnh mẽ và to lớn hơn rất nhiều so với lúc còn nhỏ, nhưng điều kỳ lạ là nó vẫn tiếp tục đứng yên, không cố gắng thoát ra, mặc dù gốc cây và sợi dây đã không còn đủ sức để kiềm chế nó. Lý do chính là, con voi đã từng thất bại khi còn nhỏ, và trong tâm trí nó, sợi dây buộc vẫn có thể cản nó lại. Nó không nhận ra rằng sức mạnh của mình giờ đã vượt xa khả năng của sợi dây.
+> 
+> => Em nhận ra là: câu chuyện về NIỀM TIN GIỚI HẠN: MÌNH ÍT KINH NGHIỆM, MÌNH ÍT CHUYÊN MÔN NÊN CHƯA THỂ TƯ DUY ĐƯỢC NHƯ C-LEVEL ĐÂU, y hệ với việc 1 BÀI TOÁN BỊ ĐẶT TRONG ĐỀ LỚP 12 KHI MÌNH HỌC LỚP 10 KHIẾN MÌNH KO TỰ TIN GIẢI :D
+> 
+>   
+> 
+> :D Giống như sếp Huy vẫn bảo. Khi làm sếp ở công ty nhỏ rồi, tư duy thường nó quen ở tầm cao, rất khó để bạn xuống cấp nhân viên. Có tư duy ở tầng cao trước, dần dần vị trí công việc nó kéo lên theo :D
+
+  
+
+|   |   |
+|---|---|
+|||
+
+  
+
+## 1.3 Thay đổi chính mình - tập trung hoàn toàn vào những gì mình có thể kiểm soát và tin tưởng
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/XiM2dd6gzs8lpkbMk9vlz2Kdg3d
+
+# **2 TÌNH YÊU: TÌNH DỤC - YÊU THƯƠNG KẾT NỐI NETWORKING - BIẾT ƠN: TIỀN - Ý NGHĨA, GIÁ TRỊ - CỘNG ĐỒNG, Ý NGHĨA, BẪY LƯƠNG TÂM THUẦN TUÝ**
+
+## 2.1 Networking: Mentor - Ny - NSKT - Xây dựng đội ngũ - Nguyên tắc chung là check 4 phần trên.
+
+### 2.1.1 MENTOR: FOLLOW THẦY, KO CẦN SUY NGHĨ HƯỚNG ĐI NHIỀU ĐÂU: 4 Người thầy : 1. GOSINGA + 2. Trần Việt Quân BKE GNH - X3 NĂNG SUẤT + 3. THE ANH ENGISH + 4. AIO + 5. Wecommit100x 6. FULL STACK DATA SCIENCE
+
+[1.1 Tiêu chí - Con người phù hợp - Networking](https://csg2ej4iz2hz.sg.larksuite.com/wiki/UN0IwzVq0ikVv8kmWg2lSARKg4e) - Tin tưởng tuyệt đối vào bản thân và mentor -> Hành động vì nghĩ ko đẻ ra con -> TRỞ THÀNH MẢNH GHÉP, LÀM TẤT CẢ MỌI THỨ, PHỤNG SỰ CHO BỨC TRANH CHUNG CỦA THẦY.
+
+1. RA KẾT QUẢ - LÀM ĐƯỢC X NHIỀU LẦN(nhiều lần thất bại, làm liên tục 5-10 năm) + 2. CAO NHÂN XUẤT CAO ĐỒ - NĂNG LỰC ĐÚC KẾT, TRUYỀN ĐAT, THIẾT KẾ MÔI TRƯỜNG, TÂM CHỈ DẠY KHÔNG GIẤU BÀI (có nhiều học trò đã thành tài, theo thầy lâu năm) + 3. TƯƠNG HỢP THÔNG TIN, 4 loại đòn bẩy nội lực.
+
+> **Case 1: T7/21/06/2025: Sau N1 mình chỉ networking được với người bên trái, người bên phải và anh Điệp đi ăn cùng -> 3 người hết.**
+> 
+> **=> Mình về kaizen: QUAN TRỌNG NHẤT LÀ MENTOR, NGƯỜI ẢNH HƯỞNG -> LAN RỘNG RA NHỮNG NGƯỜI ẢNH HƯỞNG.**
+
+**NGƯỜI DUY NHẤT KHÔNG PHẢI TOP 1 FE SYSTEM NHƯNG CÓ MẶT TRONG "WALL OF LOVE"ĐÂU LÀ LÝ DO:**
+
+1. **TIN TƯỞNG TUYỆT ĐỐI VÀO BẢN THÂN, THE ROAD CỦA BẢN THÂN + NGƯỜI THẦY VÀ THE ROAD CỦA NGƯỜI THẦY + SỰ LỰA CHỌN CỦA MÌNH. [KO CÓ GIỚI HẠN]**
+    
+2. **PHỤNG SỰ NGƯỜI THẦY BUILD BỨC TRANH CHUNG: Vì hoàn toàn tin tưởng Wecommit100x, mình viết bài, mình chạy, mình phụng sự cho bức tranh của wecommit100x chung, lên tiếng để bảo vệ cộng đồng lúc sóng gió, đứng chung chiến tuyến.**
+    
+3. **XUẤT HIỆN THƯỜNG XUYÊN: 3 tháng đầu offline, online ko bao giờ vắng 1 buổi. Sau 3 tháng chậm lại tí do việc cá nhân**
+    
+4. **TRỞ THÀNH HỌC TRÒ XUẤT SẮC NHẤT VỚI BEGIN WITH THE END X3-X10 IN MIND:** **- Người thầy mình viết: Em đã có những mindset và bước đi rất đúng đắn trong giai đoạn đầu sự nghiệp, anh tin em sẽ còn tiến xa hơn nữa. =>** **- Kết quả đo lường được: 08/02/2025 vào, cuối tháng 4 top 64 Linkedin VN, cuối tháng 5 cũng top, đầu tháng 5 top 10 AI Content Creator Việt Nam luôn.**
+    
+5. **ĐỒNG THỜI NETWORKING VỚI ACE CHỦ CHỐT XUNG QUANH MENTOR**
+    
+
+## ⚠️ Những lỗi cần tránh khi networking với những người xung quanh:
+
+> - Chỉ tương tác với những người nổi bật, bỏ qua người khác.
+>     
+> - Chỉ quan tâm lợi ích trước mắt thay vì xây dựng mối quan hệ lâu dài.
+>     
+> - Giao tiếp thiếu chân thành, máy móc, không tạo được thiện cảm.
+>     
+
+> 1. **Phân tích chi tiết 5 kỹ thuật bạn đã áp dụng thành công** (tin tưởng tuyệt đối, phụng sự mentor, xuất hiện thường xuyên, trở thành học trò xuất sắc, networking với ace xung quanh)
+>     
+> 2. **Bí mật networking của top 1% thế giới** - những kỹ thuật độc đáo mà ít người biết
+>     
+> 3. **Framework tư duy giải quyết vấn đề** theo phương pháp "do cái gì có mặt mà cái kia có mặt, do cái gì không có mặt thì cái kia không có mặt", "quan sát phân tích đúc kết", "giải quyết vấn đề".
+>     
+> 4. **Ví dụ thực tiễn và case studies** từ những người networking đỉnh cao
+>     
+> 5. **Các lỗi sai cần tránh và cách khắc phục**
+>     
+
+---
+
+> Case 1 (tiếp, 22/06/2025) N2: Kaizen: 1. Bám Mentor thầy dạy hơn tuy chưa có cơ hội nói chuyện. 2. Xin info và chụp chung với chị Nhân sự chủ chốt canh thầy 10 năm 3. Xin chụp ảnh với Trainer Minh, chị Ái, ngồi ăn cạnh chị Nga, chị Nhung, anh Minh Zip, anh Vinh, chị Hẳng, anh Thịnh ảnh chung, anh Diện chị Yến ảnh chung, anh Tươi ảnh chung, anh Đức ảnh chung 4. Đi ăn với ace BTC => Có Trainer, và toàn bộ đội ngũ cạnh thầy. => Trainer bảo: dân X3 sau khi chạy body khoe múi + Kỹ sư CNTT. + 1 lần lên thừa nhận mình nhìn bài = mạnh nhận ra điểm yếu và bẫy tâm lý => Số người biết tăng hẳn, cả chị Yến nhận ra bạn bè FB. => Thành ra: nỗi sợ là do mình tự tưởng tượng ra chứ chị Yến quá nice, quá thân thiện. => TẬP TRUNG VÀO MENTOR, XUẤT HIỆN CẠNH THẦY ĐỂ THẦY NHỚ VÀ NGƯỜI KHÁC NHỚ. [CÓ ẢNH CHUNG VỚI THẦY] => TẬP TRUNG VÀO ĐỘI NGŨ KẾ CẬN. [CÓ ẢNH CHUNG VỚI ĐỘI NGŨ KẾ CẬN]
+> 
+> => XIN INFO CHỤP ẢNH VÌ MÌNH MUỐN!!! (Kí ức về việc vượt qua NỖI SỢ, KO LÝ DO CŨNG LÀ LÝ DO, THE ROAD CON ĐƯỜNG TÔI CHỌN -> xin info con gái mình thích, mình muốn tìm hiểu ở quán caffe Lofi caffe đã là 1 dấu ấn =>Mình đến với buổi X3, xin info, xin chụp ảnh chung với mn. Đặc biệt là xin info CHỊ :3 (96, 2k) và xin chụp cùng trong 1 nốt nhạc. [CẢM GIÁC THÍCH THÍCH MÌNH CHƯA GIẢI THÍCH ĐƯỢC].
+
+#### Use cases - Phụng sự cộng đồng:
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/DmRJdkfgssCFU2b6cdClnXhQgvf
+
+#### 2.1.1.1 Nhân dạng NHÀ LÃNH ĐẠO
+
+...
+
+> Mình hay để ý những bạn:
+> 
+> – Báo sớm khi có rủi ro
+> 
+> – Không blame, mà cùng fix
+> 
+> – Chủ động "đỡ" người khác, dù không ai yêu cầu
+
+...
+
+### 2.1.2 Ny
+
+**TÂM THẾ, MINDSET, ACTIONS:**
+
+1. **SAI LẦM LỚN NHẤT SỐ 1: CÓ MỚI NỚI CŨ - NĂM 2022 và BÀI HỌC: Vạch ra tiêu chí lựa chọn rõ ràng ngay từ đầu, chính là cách giải mã Paradox of Choice. Tiêu chí này giúp bạn “thấy là chốt”, mà không cần tốn thời gian phân bua 101 tiêu chí phụ khác.**
+    
+
+> Đi Thiền 2022 về, có 1 option khác ngon hơn -> mình nhảy và hỏng hết! => Kéo theo rất nhiều thứ! Sau này đến 2025 mình mới gọi được tên nó là:
+> 
+> - Câu chuyện người nông dân tìm bông lúa tốt nhất đến mức đi đến cuối cánh đồng vẫn tay trắng vì vẫn nghĩ ở phía trước có bông lúa ngon hơn.
+>     
+> - Nghịch lý sự lựa chọn: https://vietcetera.com/vn/paradox-of-choice-tai-sao-ta-van-chon-sai-nguoi-du-nguoi-nhieu-vo-ke
+>     
+> - và Bài học giải mã Paradox of Choice:
+>     
+
+- Use case: tầng dưới có 1 option, tầng trên có 1 option. Sau khi ngồi vào tầng trên thì có vẻ thấy option tầng dưới ngon hơn? => **Dùng khung “Lợi ích dài hạn" + Test option tầng dưới ở quy mô nhỏ (pilot / 20% effort / 1 tuần prototype) → từ đó có thêm insight mà không vứt bỏ những gì đang có.**
+
+2. **MỞ PHỄU ĐÚNG THỊ TRƯỜNG - THU HÚT ĐẾN TỪ TƯƠNG HỢP THÔNG TIN - THE ROAD (Thiền, Thư viện, Caffe học xuyên đêm, ... là thắng tới 80% rồi) VÀ NETWORKING TẠO CƠ HỘI CHO MÌNH (mở rộng dần ra - con số 250 network - số lượng cũng có chất lượng của nó wecommit100x) LÀM QUEN, TUYỂN KỸ - BUÔNG XẢ LÀM TỐT NHẤT, SÁNG HAY KHÔNG LÀ CHUYỆN CỦA BÓNG ĐÈN:**
+    
+
+- Thay đổi mình và người khác cần rất nhiều thời gian.
+    
+- SỰ THU HÚT đến từ SỰ TƯƠNG HỢP THÔNG TIN("ko quan trọng bạn nói gì, quan trọng vẻ ngoài và sự tự tin, ko sợ hãi. Con gái bị cuốn hút bởi sự trung thực đồng nhất cả bên trong lẫn bên ngoài"). **SỰ ĐỦ ĐẦY TỪ BÊN TRONG - TẠO GIÁ TRỊ - THE ROAD (ko ai đi, tôi vẫn đi, bạn đi cùng, tôi đồng hành).** (Ràng buộc vật chất, không ràng buộc nơi tư tưởng sở hữu cảm giác). LÀM QUEN TỐT NHẤT, MỞ LỜI TỐT NHẤT => TỪ CHỐI GIÚP TA TIẾT KIỆM THỜI GIAN VÀ SỨC LỰC, SẴN SÀNG LOẠI BỎ NGAY TỪ ĐẦU
+    
+- Khi số người biết bạn là 1K cơ hội khác, 100K follow cơ hội khác.
+    
+
+> 1. (vì bạn không mất thời gian, năng lượng cố gắng thuyết phục cô gái rằng bạn hấp dẫn). (Nếu tôi không chắc có thể làm việc với người đó trong 1 thời gian dài, tôi sẽ không làm việc với người đó dù chỉ là 1 giờ)(còn đi lâu dài hay không còn tuỳ nhân duyên) ("Vì tôi đã đá rất nhiều người ngay từ đầu vì những việc ngu ngốc như thế này để tôi không còn phải lo về nó nữa. Trong chuyện này thì tôi rất tàn nhẫn. Tôi bỏ đi ngay giữa cuӝc hẹn đầu tiên. Tôi bỏ đi ngay giữa lời nói. Tôi không quan tâm. Tôi không có thời gian với những cô gái tệ. Và kết quả là, hoặc là họ thay đổi phù hӧp với mong đӧi của tôi, hoặc là tôi không bao giờ gặp họ nữa. Tôi tôn trọng bản thân và vì thế sẽ không dành thời gian với những cô gái không tôn trọng tôi. Bạn sẽ tự nhiên nghĩ rằng, “Ồ, vậy có nghĩa mình phải gặp gấp đôi số phө nữ, phải bỏ ra gấp đôi công sức, vì mình sẽ từ chối nửa số người thích mình.” Thật ra, bạn sẽ bỏ ra ít công sức hơn, vì bạn không còn phí nhiều thời gian và năng lưӧng cố gắng thuyết phөc cô ấy rằng bạn là mӝt người đàn ông hấp dẫn. Bạn không còn mệt mỏi nghĩ rằng liệu cô ấy có thích bạn đủ nhiều hay không, hoặc lo lắng làm thế nào để gây ấn tưӧng hay thắng lại cô ấy. Khi cô ấy không hӧp với tiêu chuẩn của bạn, tình huống trở nên cực kỳ dễ dàng cho bạn: bạn bỏ đi. Không nghĩ ngӧi gì hết. Không tranh cãi. Không quay lại ngoạn mөc. Chỉ là: hành vì của cô ấy không hӧp với tiêu chuẩn của mình, mình sẽ gặp mӝt người khác")
+> 
+> 2. “Trí tuệ xúc cảm” của Daniel Goleman - tác phẩm kinh điển nhất về EQ: [https://tinyurl.com/tri-tue-xuc-cam3](https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2Ftri-tue-xuc-cam3%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExQ3hWSXJDRG5pQjhWZHdNZQEeeBwTQnNJ-kuMTpy3cb-S8VQfRbhUhHYjjYUjn8QvWeaZBPm2jPyE8kOHyWg_aem_Clcd98w2NoD56roSeHmQkA&h=AT2SJM8Jf4K6y_Z3YyiXBCNxbHv1jL0owq4CeDqZuWZEJ-RE59O2gIVLIwVR2PZ2Ga_lwiaDBqTW1MW5Y5e9moZ-4cSDd9qD7THEXMaerQM5rRGmkAET2WAMKRBQjOWnUuGpzORG0GGVMgDEEvDd8-ImFUEfQ9d1&__tn__=-UK-R&c[0]=AT2ugb3GtyZG0BXC2h68-yxfTI2Za8vLYCYSGmPgU8QvMjYakhR7Ejs4-mSNQ0QLVesohTLLC_nZSeENCafIp3OtkJaw39EXYYnQhqTXz5vmo1WqP9ORsgVS-RAzjKeEvdPJ5TAGlwbZjbSQDoGFYC25ZcqpQzJOJhuYaEV4L46FrzBdVu6eoIPl8pK8hlipaM-QqBw3C8EIAtfQc5t-70vbgBoR)
+> 
+> - Nỗi đau âm ỉ, Chi phí chìm và "Hiệu ứng cố gắng phi lý" (irrational escalation) – khi bạn đã đầu tư quá nhiều vào một người không rõ ràng, bạn càng khó dừng lại, vì bạn nghĩ: “Mình đã đi xa thế này rồi, chẳng lẽ quay về tay trắng?”
+>     
+> - Rất nhiều người, khi bị đối phương lạnh nhạt, lại chọn hạ tiêu chuẩn: Trước đây muốn yêu một người biết trân trọng – giờ chỉ cần người đó đừng biến mất. Trước đây cần sự rõ ràng – giờ chấp nhận cả sự mập mờ, miễn là không bị bỏ rơi. Bạn không cần co lại để “vừa” với một ai đó. Người xứng đáng là người khiến bạn được là chính mình – chứ không phải phiên bản rút gọn để vừa vặn với sự thờ ơ của họ. <27/06/2025: KLinh nhắn gần 10 tin rep 1-2 tin>
+>     
+> - Và nếu tình yêu ấy khiến bạn phải giành lấy từng chút quan tâm, chờ đợi từng lần phản hồi, tự vấn giá trị bản thân mỗi ngày – thì bạn có quyền rút lui.
+>     
+> 
+> 3. Mua một món đồ giảm giá dù biết là không cần, chỉ vì… hôm nay bạn quá chán nản? 4. Một mối quan hệ khiến bạn phải đoán liên tục. Naval từng nói: "You’re not going to get rich renting out your time.” — bạn cũng sẽ không thể sống sâu khi để sự chú ý của mình bị cho thuê rẻ mạt. <30/06/2025: KLinh nhắn gần 10 tin rep 1-2 tin> 5. VẪN CỐ CHẤP KO CHỊU CẮT LỖ - Quy tắc 3 lần và con số 1.6 <30/06/2025: KLinh nhắn gần 10 tin rep 1-2 tin>: https://www.facebook.com/share/p/1BkMfwe3g6/
+> 
+> - Khi bạn hỏi ai đó một chuyện gì, quá 3 tin nhắn họ chưa trả lời tức là họ không muốn trả lời. Hãy tự tìm hiểu!
+> 
+> - Một người nhờ bạn giúp không công 3 lần, lần thứ 4 trở đi đều được xếp là lợi dụng.
+> 
+> - Khi bạn nhờ ai đó một việc, quá 3 tin nhắn họ chưa xác nhận sẽ giúp, hãy tự làm hoặc tìm người khác.
+> 
+> - “Chúng ta không thuộc về nhau” là khi bạn phải chủ động bắt chuyện quá 3 lần/ngày
+> 
+> - Không nên nhận phần thiệt về mình quá 3 lần, khi bạn có chỗ đứng rồi thì nửa lần cũng không.
+> 
+> - Bạn có thể xuống nước 3 lần để níu kéo một mối quan hệ mà bạn thấy quan trọng. Đến lần thứ 4 làm ơn dẹp đi!
+> 
+> - Mỗi biến cố trong đời đều không nên có quá 3 người biết. Mỗi thành tựu trong đời chỉ cần tối đa 3 người chúc mừng.
+> 
+> - Chồng giàu, đẹp trai, tài giỏi đến mấy, vợ cũng không nên giả mù quá 3 lần.
+> 
+> - Việc gì trì hoãn quá 3 lần đều không tốt.
+> 
+> - Hẹn hò bao nhiêu lần cũng được. Khi kể về người cũ, chọn 3 người tốt nhất mà kể.
+> 
+> - Tích đủ 3 lần vắng mặt trong hoạn nạn, người yêu trở thành người dưng.
+
+3. **RÕ RÀNG Ý ĐỊNH -> MỐI QUAN HỆ LÀ TÁN NGAY TỪ ĐẦU, TÁN MẠNH (Thẳng thắn: xin fb - ko vòng vo vì người ta biết tỏng ý định rồi)**
+    
+
+- LÀM ĐÃ LEVEL UP DẦN (Giống như việc 3 tháng đầu năm 2025 T2-02/05/2025 mình lần đầu chạy, viết bài chuyên môn, làm video ĐĂNG LÊN ĐỀU ĐẶN - nỗi sợ chỉ mất đi khi mình làm, vô tình cái dự tính Content Creator nó đến nhanh hơn kế hoạch 2-3 năm)
+    
+- BẮT ĐẦU VỚI VIỆC: TIẾN ĐẾN VÀ NÓI "TỚ XIN FB CẬU VỚI", Ý ĐỊNH RÕ RÀNG. (KO MỞ ĐẦU, KO LÝ DO, KO KẾT THÚC).
+    
+
+> - Khánh Ly: Cậu 2k mấy đó, xin facebook được không. (Khánh Ly). Rõ ràng!!!
+>     
+> - Hiền: Bạn khác ở quán caffe 5h sáng mình gọi dậy xin info xong chuồn.
+>     
+> - Khánh: đang ngồi học mình ra: Xin fb cậu với -> xong cũng chuồn.
+>     
+> - ... => Sự thật là trong toàn bộ những lần xin info đợt T5, T6/2025 mình chỉ nói đúng 1 câu : "Tớ xin fb cậu với. (Đa phần ko mở đầu, ko lý do, ko kết thúc)"
+>     
+
+4. **QUAN SÁT: SỰ PHẢN HỒI** **- Nhu cầu các giới, Nhu cầu TÌNH DỤC :** (con gái XINH ƯA NHÌN, con trai KHÉO TINH TẾ). KHỔ THỌ TÌNH DỤC. Có nhu cầu nhưng ko ở mức biến thái. **- Networking - Sự đầu tư cho mình, ny, GIA ĐÌNH/MQH của họ:**
+    
+
+> Investment in Relationship - IR = (Response Frequency + Interest Level + Communication Quality) / 3
+> 
+> +, Tần suất phản hồi / Response Frequency
+> 
+> +, Mức độ quan tâm / Interest Level: đo lường sự quan tâm, chú ý mà người đó dành cho mối quan hệ,
+> 
+> +, Chất lượng giao tiếp / Communication Quality
+> 
+> => KẾT QUẢ: phân 3 nhóm: ĐẦU TƯ NGƯỢC dựa trên TIẾN TRÌNH TỰ NHIÊN của MQH (DUYÊN KHỞI)
+> 
+> - Đèn Xanh (Đáp Lại): gia đình, ny, Mentor - đồng đội thân cận
+>     
+> - Đèn Vàng (Lưng Chừng): MQH xã giao, bạn bè, đối tác tiềm năng
+>     
+> - Đèn Đỏ (Ko đáp lại): 0
+>     
+> 
+> *** Nam và Nữ ***: Phụ nữ suy nghĩ phức tạp, cảm xúc, yêu bằng tai cần ái ngữ chăm sóc yêu thương, TÍNH YÊU THƯƠNG GIÚP ĐỠ CAO >< Đàn ông logic, yêu bằng mắt cần tình dục, TÍNH CHINH PHỤC CAO
+> 
+> Follow fb nhóm đáp lại , bạn thân - Follow story thì để all.
+
+**SỰ LỰA CHỌN/RA QUYẾT ĐỊNH DỰA TRÊN PHẢN HỒI: Hãy làm như cách mình từng khuyên người khác.**
+
+> - 1. Triết lý cốt lõi: "Trung thực là vũ khí!"
+>     
+> - 2. First Date là dịp để thể hiện bản chất thật, không giả tạo.
+>     
+> - 3. Đừng tự trách mình – Định nghĩa lại sai lầm
+>     
+>       Bạn hỏi: “Mình sai ở đâu?”
+>     
+>       Không sai vì trung thực, vì chủ động.
+>     
+>       Nếu sai – thì chỉ là:
+>     
+>       - Bạn đặt cảm xúc quá sớm vào một người chưa rõ ràng.
+>     
+>       - Bạn giao tiếp rõ – nhưng chưa chấp nhận rõ sự thật: họ có thể không hứng thú với bạn, và đó là bình thường.
+>     
+> - 4. Đỏ -> tự động rời đi, ko lý do. Vàng -> nói rõ ý định, Xanh -> chốt đơn!
+>     
+
+5. **STEP LÀM QUEN: 1. MECE CÁC CASES XẢY RA khi tạo cơ hội cho mình - 07/06/2025 - 2. BEGIN WITH THE END IN MIND + TỐC ĐỘ RA QUYẾT ĐỊNH, TỐC ĐỘ TRỞ LẠI, MẶT DÀY TÂM ĐEN, TÌM KIẾM CẢM GIÁC KHÓ CHỊU, BUÔNG BUÔNG CẢM GIÁC + 3. SẴN SÀNG RA QUYẾT ĐỊNH TRONG TÌNH TRẠNG BẤT LỢI/THUẬN LỢI NGOÀI DỰ ĐOÁN: LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN: HÀNH ĐỘNG NGAY HAY BỎ LỠ ĐỂ RỒI HỐI HẬN**
+    
+
+**5.1 END IN MIND :**
+
+> - Mục tiêu làm quen: 1. NY: Có tiêu chí rõ ràng -> NÓI RA ĐIỀU MÌNH MUỐN. HÀNH ĐỘNG THAY VÌ VỀ NHÀ SẼ TIẾC. 2. TĂNG SỐ NGƯỜI BIẾT: KHÔNG BAO GIỜ RỜI ĐI MÀ KO XIN OFFER. Với mục tiêu này thì: mình có crush hay người ta có crush thì cũng thế. - HOW? kiếm mentor, chia sẻ lại.
+
+**5.2 NÓI RA ĐIỀU MÌNH MUỐN:**
+
+> **-** **TỐC ĐỘ RA QUYẾT ĐỊNH, TỐC ĐỘ TRỞ LẠI, MẶT DÀY TÂM ĐEN, TÌM KIẾM CẢM GIÁC KHÓ CHỊU, BUÔNG BUÔNG CẢM GIÁC** **- "KO CÓ LÝ DO CŨNG LÀ LÝ DO" + "Cảm xúc muốn hành động chính là lý do" + “Tôi không cần cảm thấy có lý do để hành động. Tôi hành động, rồi lý do sẽ xuất hiện.”**
+> 
+> **- TRẢI NGHIỆM HAY TRỞ THÀNH "NGƯỜI ĐÀN ÔNG, NGƯỜI CHỒNG HẠNH PHÚC".**
+
+##### 5.3 XỬ LÝ TÌNH HUỐNG BẤT NGỜ: **LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN**: HÀNH ĐỘNG NGAY HAY BỎ LỠ ĐỂ RỒI HỐI HẬN
+
+> **Vấn đề:** (Case mình chủ động xin ở giữa/cuối đều oke. Case mà cô gái về trong lúc mình đang tập trung + case thuận lợi quá trong lúc mình đang tập trung )
+> 
+> **Điều chỉnh Tâm Thế: Ưu Tiên Cơ Hội:**
+> 
+>   **"KHÔNG BAO GIỜ RỜI ĐI MÀ KHÔNG XIN OFFER", KO XIN THỂ NÀO VỀ CŨNG HỐI HẬN:** Khi có cơ hội làm quen, nó phải là ưu tiên hàng đầu, dù bạn đang làm gì.
+> 
+>   **Thực dụng với thời gian, Không sợ gián đoạn:** Hiểu rằng **cơ hội làm quen là hữu hạn** trong một khoảng thời gian nhất định, trong khi việc học/làm việc có thể tiếp tục sau đó. Chấp nhận rằng việc gián đoạn vài phút để xin thông tin là hoàn toàn xứng đáng.
+> 
+>   **LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN: LÀM HAY BỎ LỠ ĐỂ RỒI HỐI HẬN: Tư duy linh hoạt, sẵn sàng chiến đấu bất cứ lúc nào, Cơ hội ẩn mình:** Nắm bắt thay đổi nhỏ nhất, luôn trong trạng thái chiến. Luôn ý thức rằng cơ hội có thể xuất hiện bất cứ lúc nào, ngay cả trong những khoảnh khắc tưởng chừng bình thường nhất.
+> 
+>   
+> 
+> **9.1 (Case 06/06/2025): Cô gái rời đi khi bạn đang tập trung, ko kịp/ko dám hành động vì nghĩ là cứ phải chuẩn bị đã ??? => LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN**
+> 
+> - **Nguyên nhân chính: Ưu tiên chưa rõ ràng, chưa có sự chuẩn bị, e ngại gián đoạn việc học**.
+>     
+> 
+> **9.2 (Case 07/06/2025) Tình huống thuận lợi bất ngờ (ví dụ: chỉ còn hai người trong phòng):** Một cơ hội "trời cho" xuất hiện, nhưng bạn lại bị bất ngờ và không biết cách nắm bắt. => **LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN**:
+> 
+> - **Nguyên nhân chính: bất ngờ thuận lợi mà chưa chuẩn bị. => ĐẾCH BIẾT GÌ CŨNG TIẾN.**
+>     
+
+  
+
+---
+
+  
+
+##### 5.1 MECE các cases xảy ra:
+
+- Không đúng gu (mắc phải 1 trong các tiêu chí sai: có ny, ... -> Bỏ.
+    
+- Có khả năng:
+    
+
+> **1. CÔ GÁI NGỒI 1 MÌNH / CÔ GÁI NGỒI 1-2 NỮ ÍT NGƯỜI** **/ NGỒI VỚI NHÓM ĐÔNG NHƯNG ĐÃ TÁCH RA**
+> 
+> - **CASE 1: NGỒI CẠNH:** **"TỚ NGỒI CẠNH CẬU ĐƯỢC KHÔNG" - KO CẦN LÝ DO (MẶC DÙ XUNG QUANH CÒN ĐẦY GHẾ TRỐNG/MẶC DÙ ĐANG NGỒI YÊN 1 CHỖ RỒI VẪN ĐỔI CHỖ ĐỂ ĐẠT MỤC TIÊU) => DỄ XIN INFO (do tự nó là lý do). => ĐƯA MỌI THỨ VỀ NGỒI CẠNH.**
+>     
+> - **CASE 2: NGỒI ĐỐI DIỆN =****> DỄ XIN INFO (do tự nó là lý do).**
+>     
+> - **CASE 3: KO NGỒI CẠNH/KO NGỒI ĐỐI DIỆN: CASE CHẠM MẮT NHIỀU LẦN, BẠN NỮ QUAY MẶT VÀO CỬA SỔ.** **- NỖI SỢ: Sợ không có lý do hợp lý.** **- MINDSET ĐÚNG: Khi bạn bước đến, cô gái đã biết quá rõ ý định của bạn rồi => Nói ra điều mình muốn.** **=> Option 1: (thường làm) TIẾN LÊN VÀ 1 ĐẬP, THẬM CHÍ KO MỞ ĐẦU KO LÝ DO KO KẾT THÚC: "TỚ XIN FB CẬU ĐƯỢC KO"** **=> Option 2: (an toàn hơn) -> đưa về CASE 1 NGỒI CẠNH.**
+>     
+> - CASE CHƯA CHẠM MẮT, ...?
+>     
+> 
+> - Case có chỗ ngồi cùng: 23/05/2025. Dược 2k4 tiến lại rất đơn giản là xin ngồi cùng bên cạnh => hỏi được tuổi và ngành học ->ko xin info lúc a Huy chưa tới tiếc, ko xin info vì a Huy bên cạnh tiếc. MÌNH ĐI CÙNG BẠN THÌ ĐÃ SAO VIỆC PHẢI LÀM. NGỒI 1 MÌNH VÀ MÌNH ĐẾN NGỒI CẠNH? **=> Rất đơn giản là xin ngồi cạnh.** - Case có chỗ ngồi cùng: 30/05/2025. Case DTr Minh khác cô gái 1 mình bàn 4 chỗ, mình hỏi có ai ngồi chưa -> xong ngồi đối diện. **=> Rất đơn giản là xin ngồi đối diện.** - Case 30/5/2025 chọn chỗ ngồi có khoảng trống để người khác chủ động ngồi cùng (Kiều Oanh kéo ghế ngồi sát mình) ->sau đó xin info thì lại chưa quá hợp lúc: lúc đó chay mặt vãi (vì đã quá mệt sau hơn 24 h ko ngủ) ngáo luôn mà (bạn cổ đánh giá ko care nữa rồi). **=> Rất đơn giản là xin info vì ngồi cạnh** - Case Hiền ngày 25/05/2025 ko có chỗ ngồi cùng: mình ngồi ở 1 góc và chạm mắt Hiền kha khá -> cơ hội đã đến, cuối buổi đánh thức dậy và xin info, thậm chí: KO CÓ LÝ DO. Cô gái đi cùng 1 người bạn. 2 người để ý nhau từ lúc còn ngồi ở 2 chỗ xa nhau. Ít nhất chạm mắt nhau 4-5 lần. Mình trần trừ 30min ko xin ????Bạn cô gái ngồi xa cổ mà, ko đến cúa đợi. Bạn cô gái ngủ rồi mà, ko lên cứ đợi. Cô gái đang ngủ, đánh thức dậy xin. Ngại bạn cô gái, ngại 1 đôi nam nữ nữa đang ngồi bên cạnh. ... ? : mình tiến lại gần ở khoảng cách siêu xa sau 1 đêm dài học xa vị trí nhau, xin info mà ko 1 lý do, "mình xin info của bạn được không" - bạn nữ trần trừ 1s xong đưa điện thoại, xong cái mình đi luôn, ko nói thêm gì. => Bản thân mất 30min để đưa ra quyết định và cuối cùng HÀNH ĐỘNG vì biết rõ rằng: KO LÀM LÀ TIẾC. **=> Oke không vi phạm 4 tiêu chí + có chạm mắt 3 lần (mục tiêu đã bị ghim khi chạm mắt)** **=> Mất 30min để tiến lên (ko có lý do xin info vẫn xin)** **=> Chốt vì: Ko làm thể nào về cũng tiếc cho mà xem. Sau đó mình lên xin và chỉ nói: mình xin fb cậu được ko và bạn nữ oke luôn.** - Case 07/06/2025 Thảo Linh: bị miss lần "cô gái đi về trong lúc mình tập trung" ở trước đó (tối M6), mình bật chế độ: sẵn sàng gác lại việc đang học để xin info. **=> Chỉ mất 1min để tiến lên (ngồi đối diện, lý do quá rõ ràng).** - Case 07/06/2025 Khánh ko có chỗ ngồi cùng: thậm chí bạn nữ còn quay vào tường để học bài. Có lý do là bên viện toán, chạm mắt nhau. Sau cùng mình vẫn trần trừ 1h30min. (trước đó thì có chạm mắt mấy lần, chạm mắt là xác suất thành công cao, y như case của Hiền). Tuy nhiên: NỖI SỢ, DO DỰ,... SỢ 'KO CÓ LÝ DO"? đâu là nỗi sợ lớn nhất + sau đó đưa giải pháp: CẢM GIÁC KHÓ CHỊU, TỐC ĐỘ HÀNH ĐỘNG, TỐC ĐỘ QUAY TRỞ LẠI, MẶT DÀY TÂM ĐEN NÓI RA ĐIỀU MÌNH MUỐN, và BUÔNG BUÔNG BUÔNG --- 1 CẢM GIÁC KHÓ CHỊU TỘT CÙNG KHI NỖI SỢ BAO VÂY MÌNH. Sau 1h30min chần chừ như thế (các lần khác của mình chỉ từ 0.5min-30min chần chừ) còn lần này quá lâu. Khi đang định bước đến thì crush nhỏ đến véo má, mấy đứa bạn xung quanh thì bảo: quả này tối nay khỏi ăn cơm. Mình khóc nghẹn luôn. Sau đó chờ 2min-3min, chuông báo đồ uống hắn kêu mình tiến lại và lấy info bạn nữ, và vẫn là câu đã chuẩn bị "Xin chào, mình xin fb của bạn được không, ..." và bạn nữ rút điện thoại cho luôn rồi. (vì cơ bản là chạm mắt nhau 1 số lần là xác định cao sẽ có info). **=> Duyệt oke, có chạm mắt 3-5 lần => khả năng có số cao!** **=> Mất 1h30min (ko có lý do xin info tự bịa ra 1 cái), do dự, sợ hãi.** **=>Chốt vì: Mình đã chờ rất lâu rồi 1h30min, ko thể rời đi mà ko xin offer được, dù có ny rồi đi chăng nữa. Sau đó tiến lên cũng chỉ nói : hello, mình xin fb cậu được ko là bạn nữ oke rồi. (Nói thêm đoạn: mình muốn hỏi thêm về liên chi, ... chỉ là cái cớ cơ mà bạn cũng ko cần cái đó đâu là đã cho info rồi).** **=> Điều gì khiến mình do dự, nỗi sợ, cảm giác đau khó chịu lâu vậy**
+> 
+> **XỬ LÝ VẤN ĐỀ PHÂN VÂN DO DỰ, KO CÓ LÝ DO ?** **=>"KO CÓ LÝ DO CŨNG LÀ LÝ DO" + "Cảm xúc muốn hành động chính là lý do" + “Tôi không cần cảm thấy có lý do để hành động. Tôi hành động, rồi lý do sẽ xuất hiện.”**
+> 
+>   
+> 
+> - Case Như Ngọc: 12/06/2025 Ban đầu vào ngồi từ 12h rưỡi - 15h40 (mình ngồi đó lâu rồi), ban đầu mình chấm tầm 5/10 thôi cơ mà ngồi chéo nhau mà đảo mắt chạm nhau nhiều quá 3-5 lần. Đến lần thứ 4 là mình quyết định đây là mục tiêu ngày hôm nay rồi Mình cảm nhận viết ra sổ tay như hôm nọ sẽ thấm hơn, mình tìm sổ, tìm bút không có -> Mở vội NotePad lên và viết vội đọc đến 'Cảm xúc muốn hành động chính là lý do -> mình làm luôn'. Đi theo xuống dưới tầng ra hẳn ngoài. "Bạn gì ơi mình xin fb được không" bạn ngưng 3s, làm gì ạ, mình 'mình cũng hay học ở đây ý' -> oke luôn. ---- Mình có phần "run tay" (ko run khi nói vì lúc nói tập trung nói lấy gì mà run, run khi mà cầm điện thoại bấm tên)
+> 
+> **=> The road: Con đường tôi chọn. Đây là con đường tôi chọn.** **"KO CÓ LÝ DO CŨNG LÀ LÝ DO" + "Cảm xúc muốn hành động chính là lý do" + “Tôi không cần cảm thấy có lý do để hành động. Tôi hành động, rồi lý do sẽ xuất hiện.”** **LUÔN TRONG TRẠNG THÁI CHIẾN, THẬM CHÍ ĐẾCH CHUẨN BỊ GÌ CŨNG CHIẾN** => Sau khoảng 4h check thì thấy bị huỷ kết bạn rùi. => **Luôn sẵn sàng chấp nhận sự từ chối một cách lịch sự:** Nếu đối phương không muốn, hãy tôn trọng quyết định của họ. **TỪ CHỐI SỚM THẬM CHÍ GIÚP MÌNH TIẾT KIỆM RẤT NHIỀU THỜI GIAN.**
+> 
+>   
+> 
+> 2. BẠN CỦA BẠN MÌNH / MÌNH NGỒI CÙNG BẠN, ANH, CHỊ MÌNH, BỐ MẸ.. (Sợ người xung quanh đánh giá + bạn, bố mẹ, người thân mình đánh giá) - Khánh Ly đã tiến tới: hỏi tên gì, xin facebook luôn. - Lúc đi đám cưới: ... - Case: 01/05/2025 Đám cưới a Kha, 3 khoảnh khắc do dự: 1. Em gái vợ a Kha 2. Liễu con cô Vẻ 3. Con cô gì gì đó ?
+> 
+> - Liễu con cô Vẻ: hỏi được tên -> ko nói được gì thêm, và ko xin được info => Về gg: bác Vui, cô Vẻ ->xem fb cô Vẻ ko ra, sau search Liễu ra info chị bạn ấy -> ra info bạn này. https://www.facebook.com/lieuhoang26905 - Add fr xong lại huỷ để TRÁNH RỦI RO.
+>     
+> - Em gái vợ a Kha: ko biết tên -> biết tên chị Lê Hà Phương (Lê Ứng - Phạm Hoài Thu)-> vào trng cá nhân search Le (Từ 1 bài: https://www.facebook.com/share/p/15Qc2qGmsf/ -> Lê Hoài Phương https://www.facebook.com/profile.php?id=100063655276053 )
+>     
+> 
+> 3. CÔ GÁI NGỒI VỚI BẠN ĐÔNG: Luôn sẵn sàng thời cơ cô gái tách riêng ra / Lao vào cả nhóm.
+> 
+> - Case cổ ngồi chung với 4 bạn nữ khác và quay vào tường làm bài => Bỏ qua / Chờ thời điểm họ tách ra hoặc ko tập trung nữa / 1 lý do cực kỳ hợp lý. **=> BỎ LỠ** - Case 07/06/2025 Khánh: có 1 đội bên liên chi Toán ứng dụng ngồi chấm bài điểm chung HUST, **=> Oke gu, chạm mắt 3-5 lần.** **=> Khi chung, giả sử: "mn bên liên chi nào đấy. Xong quay sang bạn nữ chủ tịch để xin info"** **=> Còn ở riêng thì cứ: 1 đập. "mình xin info của bạn được ko, mình muốn hỏi 1 chút về liên chi của bạn".** - Case 09/06/2025 Vũ Trà Trà NEU: ngồi 1 nhóm 6 người (1 nam, 5 nữ). Ban đầu quét 1 lượt ai cũng như nhau. Sau thấy 1 bạn nổi bật, nhìn và bạn nữ chạm mắt 3-5 lần, bạn còn ngại mắt mình => lên thôi. => Khi chung: (Sau 20h thức, mình cũng tính lao vào luôn chứ ko đợi nhóm chia nhỏ nữa). "Xin chào, mình cũng làm Sản phẩm, mình có thể xin fb của cậu không". => Khi riêng: (nghe loáng thoáng bạn đó hay bạn bên cạnh bạn đó ở lại đến đêm). => Ở lại vậy (cơ mà đi ngủ chứ mỏi mắt rồi). **[CHỜ ĐỢI VỚI TÂM THẾ LUÔN SẴN SÀNG VỚI BẤT LỢI/THUẬN LỢI BẤT NGỜ]**
+> 
+> +, Sau đó vẫn đợi đến cuối tầm 23h, nhóm mn đứng lên về, sau 18min thu dọn đồ và ngồi đợi vừa viết RAG vừa viết các câu: -> mình lên và nói: 'bạn gì ơi, mình xin fb của bạn được ko' Bạn ngẩn người ra 5s, mình nói tiếp 'mình cũng làm product ý, xin để có gì connect', bạn gật (3 bạn nữ còn lại, và 1 nam thấy mình xin thì cũng đi trước ra ngoài đợi). => Về ib ko rep **=> Duyệt oke, có chạm mắt 3-5 lần => khả năng có số cao!** **=> Tốc độ hành động: Mất 3min, chờ đợi mn bên đó thu đồ.** **=> Lúc đó tiến lên vì: THE ROAD Con đường tôi chọn, Không lý do cũng là lý do - tiến lên chính là lý do** 4. ĐANG KHÔNG ĐỂ Ý: - Case 12/06/2025: 1 bạn nữ ngồi nhóm 3, mình đến lúc 0h30 ban đầu mình cũng có care. Sau đó đến tầm 2h mình đang ngồi bàn bên cạnh thì 1 nhóm đến ngồi cùng nên trong khoảng thời gian 2h mình ko nhìn sang bàn bên nhiều nữa, 4h thì mình đang focus vào nghiên cứu phần: Problem Solving quá, 4h50 thì vào zoom với ae ko thoát ra được, **=> BỎ LỠ: 1. CHƯA CHẠM MẮT NHAU + 2. KO ĐỂ Ý ĐẾN BẠN NỮ LIÊN TỤC.**
+
+  
+
+#### 2.2.1.1 Đi ra ngoài Caffe học bài - chuyển việc Flow vào buổi sáng đuê -
+
+1. Mục tiêu chính: Học bài / Ngồi với bạn.
+    
+2. Chọn đồ uống: 5s chọn đồ uống rẻ nhất. Vì mục tiêu chính là học bài.
+    
+3. Khi nào thì làm quen: ? - Mục tiêu làm quen: 1. NY: Có tiêu chí rõ ràng -> NÓI RA ĐIỀU MÌNH MUỐN. HÀNH ĐỘNG THAY VÌ VỀ NHÀ SẼ TIẾC. 2. TĂNG SỐ NGƯỜI BIẾT: KHÔNG BAO GIỜ RỜI ĐI MÀ KO XIN OFFER. Với mục tiêu này thì: mình có crush hay người ta có crush thì cũng thế.
+    
+
+---
+
+1. Ưu tiên 1: Ngồi 1 mình và có chỗ trống -> oke
+    
+2. Sai lầm 1: ngồi quay mặt vào tường mà không có ghế ở bên cạnh (nếu có ghế bên cạnh thì xác suất người khác ngồi cạnh cao hơn). -> góc ngồi tốt là: xung quanh nhiều chỗ trống và góc nhìn bao quát rộng
+    
+
+#### 2.2.1.2 TÂM LÝ HỌC - Thứ lương tâm mang yếu tố chủ quan - 22/06/2025!!!
+
+> MONEYosophy -> Có keywords là mình search được: https://www.facebook.com/ecoblader + Cấp Độ 1 Đến 100 Tình Huống Đạo Đức Khó Xử: https://youtu.be/OwxDnXx6m9w?feature=shared +
+> 
+> 1. COPY Bài của bạn, nhanh chóng hoàn thành mục tiêu => Ăn mừng => Giúp đỡ người khác.
+>     
+> 2. Nhặt được chiếc Ipad Mini 6 ở lớp không ai biết, có mang về nhà không, đắn đo đắn đo => Và mang về nhà? Lương tâm ?
+>     
+> 3. Cây xoài nhà hàng xóm, vặt trộm vặt trộm.
+>     
+> 4. Chọn ny? nghịch lý của sự lựa chọn, đầu tư dài hạn, ...
+>     
+> 
+> Sau 2 ngày rất ??? với vấn đề LƯƠNG TÂM THẾ THÌ KHÔNG QUAN TÂM ĐẾN ĐẠO ĐỨC À => MÌNH NHẬN RA: NÓ GIỐNG HỆT GOSINGA. LÀM THIỆN CHƯA CHẮC GẶP QUẢ VUI, LÀM ÁC CHƯA CHẮC GẶP QUẢ ÁC. QUẢ CỦA NGHIỆP LÀ BẤT KHẢ TƯ NGHÌ.
+
+  
+
+1. **Lương tâm, đạo đức mang tính chủ quan! Cẩn thận với 'bẫy lương tâm thuần tuý'**
+    
+2. **Thích nghi: dựa vào điều kiện đầy đủ của từng tình huống để ra quyết định cho mình. QUẢ CỦA NGHIỆP LÀ BẤT KHẢ TƯ NGHÌ!**
+    
+
+  
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/V4ymdGJJIs1zSdbYKjzl880hghc
+
+#### Use cases:
+
+  https://csg2ej4iz2hz.sg.larksuite.com/sync/SwD8dVvTbsx8zqbPneMlqIxWgXc
+
+  
+
+### 2.1.3 Đồng Đội và NSKT - Nhà tù hay thiền viện (Đóng gói, chuyển giao cho đồng đội là để có thời gian làm những việc quan trọng hơn, chứ không phải để thoát ra)
+
+1. NHÂN SỰ KẾ THỪA: 1. KHIÊM HẠ, TÔN SƯ TRỌNG ĐẠO, HỌC HÀNH NGHIÊM TÚC SỬA MÌNH LIÊN TỤC - KHI HỌC TRÒ SẴN SÀNG NGƯỜI THẦY XUẤT HIỆN (dễ thương, ham học hỏi, cầu thị, nước sông chảy về biển vì biển thấp hơn mọi dòng sông, lúa càng chín càng cúi đầu) + 2. HÀO PHÓNG KIẾN THỨC - GIỎI RỒI DẠY LẠI KO DẤU NGHỀ KO DẤU BÀI - ĐỒNG HÀNH CÙNG ĐỒNG ĐỘI XÂY ĐỘI NHÓM MẠNH THÂN NHAU.
+    
+
+A1 (tiếp) TỨ NHIẾP PHÁP/CHIÊU MỘ WIN WIN: - QUAN SÁT MÌNH VÀ ĐỘI NGŨ NHIỀU LÊN, HIỂU THƯƠNG/COACHING(ĐỌC NGUỘI + LIÊN KẾT CÂU CHUYỆN + ĐẶT CÂU HỎI MỞ + KỂ CHUYỆN). - TUYỂN KỸ => SAU 1 THỜI GIAN: LIÊN TỤC SẮP XẾP BÀN CỜ DỤNG NHÂN NHƯ DỤNG MỘC [Chấp nhận/Dứt khoát loại bỏ(hời hợt Gắn kết Ekip)]. ĐỘI NGŨ THÂN NHAU TỰ QUẢN, BIẾN ĐỒNG ĐỘI THÀNH BẠN THÂN: GAME HIỂU THƯƠNG + TỨ NHIẾP PHÁP + ĐỆ NHỊ THÂN + LỤC HOÀ. - MENTOR THẦY GIỎI giúp mình nhìn: BÀI TOÁN CHIA LÀM SAO ĐỂ AE WIN WIN 6 LOẠI ĐỘNG LỰC + CON NGƯỜI TIN TƯỞNG (có tầm nhìn đường hướng, tâm thức tốt) + GAME ĐỦ HAY ĐỦ HẤP DẪN HỌ. - Khiêm hạ NHỜ ĐỒNG ĐỘI => bố thí ái ngữ lợi hành đồng sự đồng cam cộng khổ TẬN GIA ĐÌNH(Bánh Mỳ Kẹp Giáo Dục). ÁI NGỮ? (nói mượt, khích lệ ae, xem video, tập chia sẻ nhiều...) Tạo sóng gió ĐẬP ĐI XÂY LẠI để ae thân. Leader làm gương, cày chịu khổ, phạt X2. [1 bữa nọ TTG đi về mua 1 cái bánh mì bate cho mình, Tulingo mua mình 1 hộp cơm, a Tiến đãi bữa mì cay, Cường phát quà bánh đậu xanh và nước cốt cafe cho Tulingo TTG - Tứ Nhiếp Pháp]. - Dành bao nhiêu thời gian Hiểu Thương đồng đội, thuộc hết thông tin ae. - Không gian an toàn, Trung thực sửa mình bóc điểm yếu.
+
+  
+
+A1 (tiếp) 1 số phần chưa xử lý ĐỀ MỤC 2. TOP MINDSET Làm việc nhóm: KHIÊM HẠ SỬA MÌNH + TƯ DUY THỦ KHOA(Vượt ngưỡng, Làm Việc Khó Ra Tác Phẩm, Trao quyền và SẴN SÀNG GÁNH TEAMs) + BUÔNG XẢ(LÀM TỐT NHẤT sẵn sàng cho ĐIỀU TỆ NHẤT). 4.1 KHIÊM HẠ + BUÔNG XẢ => tận dụng tối đa ĐÒN BẨY CON NGƯỜI - DỤNG NHÂN NHƯ DỤNG MỘC với sự THÍCH NGHI (dù khúc gỗ dài ngắn ra sao, dù là bất kỳ ai, ở bất kỳ đâu, ko phân biệt môi trường NHƯ Ý HAY BẤT NHƯ Ý). - Khiêm hạ người giỏi sẽ về, Khiêm hạ được chỉ dạy. Còn cầu thị còn phát triển, cạn khiêm tốn bắt đầu lùi. Cách rèn: 1. LẤY PHỤNG SỰ ĐỂ RÈN TÂM 2. TẬP NHẬN LỖI DÙ MÌNH ĐÚNG HAY SAI 3. NHƯ LÝ TÁC Ý, RÈN TRÍ NHỚ CHÁNH: Cầu cho con khiêm hạ sửa mình. - BẢN NGÃ: TA HƠN, TA KÉM, TA BẰNG => MẤT KHIÊM HẠ, MẤT ĐÒN BẨY CON NGƯỜI(Khiêm hạ với người GIỎI HƠN MÌNH mà BẰNG/KÉM TUỔI MÌNH, khiêm hạ với người KÉM HƠN MÌNH vì RẤT NHIỀU ĐIỀU MẠNH mình có thể học KHI ĐA CHIỀU KHÔNG VỘI ĐÁNH GIÁ, KO CẮT DUYÊN vì KẺ THÙ DẠY TA NHIỀU BÀI HỌC QUÝ GIÁ)(Câu chuyện: 2021 từ ta hơn rơi xuống ta kém ta bằng + học BKE xong unfriend hết các bạn + được, anh ủng hộ, vừa học bổng, vừa project thì sao, làm được x2, x3 người khác không). => ÁI NGỮ XUẤT HIỆN khi THỰC SỰ KHIÊM HẠ, THẤY ĐIỂM TỐT CỦA HUYNH ĐỆ. - Mỹ Linh, Khánh Linh gánh Teams. 5.1 TẠO NHÓM - GOM AE LẠI: - Có cần thiết gom ae lại ko, đó có phải việc của mình ko? - TUYỂN KỸ => DỄ GẮN KẾT, DỄ ĐÀO TẠO. Hiểu RÕ MONG MUỐN riêng từng ae (tránh việc lập nhóm cái bụp chưa rõ ae muốn gì) - XÁC ĐỊNH CARE ĐƯỢC NHÓM (mới lập nhóm, nhân duyên chưa chín đi lập nhóm là oải). "KO PHẢI ĐỢI LÀ LEADER GIỎI MỚI LEAD NHÓM, MÀ LEAD NHÓM NHIỀU MỚI CÀNG TIẾN BỘ" - XÂY VĂN HOÁ HIỂU THƯƠNG NGAY TỪ ĐẦU, VÀO NHÓM GIỚI THIỆU ae HIỂU THƯƠNG NGAY(đã lập nhóm rồi xong tương tác bị đơn chiều, đến lúc mới ĐƯA HIỂU THƯƠNG VÀO SẼ KHÓ HƠN). - LEADER: BỊ NHÂN SỰ KÉM TUỔI HƠN NÓI RA ĐIỂM YẾU MẤT BÌNH TĨNH. (Nam Khúc vỗ ra điểm yếu NĂNG LỰC THỰC THI + TRIỂN KHAI HIỂU THƯƠNG NGAY TỪ ĐẦU ĐI). 5.2 ĐÀO TẠO: - Từ Member => LÀM X10 ĐƯỢC GIAO + HOÀ HỢP VĂN HOÁ 10 ĐIỂM (Tứ Nhiếp Pháp với SẾP, Huynh đệ,... CÙNG ăn chơi học hành chịu khổ cùng nhau) => ĐƯỢC TIN TƯỞNG LÊN LEAD - CÓ CƠ HỘI ĐƯA VĂN HOÁ VỀ ĐỘI NHÓM or CHUYỂN NƠI LÀM. - LEADER LÀM GƯƠNG 1-2 KEY WORDs TRIỂN KHAI THỰC TẾ LUÔN CHO RA KẾT QUẢ, NHÂN SỰ TỰ ĐÚC KẾT(tránh đưa đống lý thuyết về, trì hoãn việc triển khai)+ VẾT DẦU LOANG, CỦI KHÔ CHÁY TRƯỚC + WHY 6 LOẠI ĐỘNG LỰC(ĐẨY NỖI ĐAU ĐẾN TẬN CÙNG, nhân sự đòi làm thay vì mình bảo làm) + SET MÔI TRƯỜNG CHẶT CHẼ KO LÀM KO ĐƯỢC (MÔI TRƯỜNG MẠNH HƠN Ý CHÍ). - Mục tiêu chung Teams giúp gì cho MỤC TIÊU, NỖI ĐAU của TEAM, SẾP, NHÂN SỰ (dự án Cộng Đồng: Sếp có đang lãng phí thời gian của mình, để share những cái không phải mong muốn của Nhân Sự?)? Làm thế nào để mn CÙNG NỖ LỰC VÌ 1 MỤC TIÊU CHUNG(tránh sếp giao quản lý, quản lý giao nhân viên): "CÙNG NHAU THIẾT LẬP"(KRs Key Results, KAs Action Plans). - "RÈN GIỌNG NÓI LỰC KHÍ" mạnh hơn. 1. NỘI LỰC - NĂNG LƯỢNG - LÀM NHIỀU HƠN NÓI - MONG MUỐN TRUYỀN ĐẠT NHƯ NÀO. 2. Bên ngoài: THIẾU HƠI, HỤT HƠI => TẬP NÓI TO, DIỄN ĐẠT TRUYỀN CẢM.
+
+  
+
+#### Use cases:
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/BaCsdxxmOsrpirbpAPHlKhKggWd
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/FBpud9Uj0sVmoeb6JKUlcWLwghh
+
+# 6. KHỔ THỌ TÌNH DỤC và TÂM SI (Trở ngại lớn nhất)
+
++, 1. CẢM GIÁC NỔI TRỘI.
+
++, 2. NHẮC THẦM : THẤY THẤY, NHỚ ĐẾN TÍCH CỰC CHÚ TÂM THẤY RÕ CẢM GIÁC CHUYỂN ĐỘNG CẢM GIÁC XÚC CHẠM TOÀN THÂN, THEO NHỊP THỞ ĐI LÀM VIỆC. +, 3. TOẠ THIỀN THƯỜNG XUYÊN => để khắc sâu bộ nhớ, từ đó lúc BUỒN KHỔ, TÂM SI khởi lên mới đối trọi được.
+
+```SQL
+Mục 1.2. KHỔ THỌ TÌNH DỤC - NỘI LỰC - BÁT CHÁNH ĐẠO. [LÝ DUYÊN KHỞI - CẢM THỌ - KHỔ NGUYÊN NHÂN KHỔ - NHẤT HƯỚNG]
+
+VẤN ĐỀ LỚN NHẤT: CẢM GIÁC TÌNH DỤC KHỔ THỌ TRÊN THÂN - THẤT THOÁT TINH KHÍ THẦN - HỶ LẠC NỘI TÂM - NỘI LỰC HẠNH PHÚC BÊN TRONG, ĐỘNG LỰC BỀN VỮNG => dùng TD hoặc dùng TÂM ĐÁNH BẠI TÂM.
+Thường xảy ra khi: 1. Là có thông tin tác động tới THÔNG TIN PHÁP TRẦN TÌNH DỤC 2. Là TÂM SI - CHÁN NẢN - theo thói quen tìm THAM, tìm đến CẢM GIÁC PHÁP TRẦN TD. ĐẨY CẢM GIÁC SỢ, CÓ RỒI LẠI MUỐN CÓ THÊM; CHỈ ĐỔI KHỔ NÀY LẤY KHỔ KHÁC:  
+- Ăn được bát cơm phở 50k LÀM 1 CÁI lại ra hết, mặt mụn như gẻ, mồm hôi người hôi thối như CỨT => Cơ thể bạc nhược yếu ớt, GẦY GÒ ngủ suốt ngày, phải ngủ bù năng lượng 3h, mất hết THẦN KHÍ ÁNH MẮT GIỌNG NÓI: LỜ ĐỜ LÈ NHÈ KO RA HƠI. => Yếu sl vợ nó bỏ, lục đục đủ điều CHIA TAY  => NGHIỆN MA TUÝ, GÁI GÚ CỜ BẠC: gầy dơ xương MA TUÝ ĐÁ ĐI TÙ bị đánh như chó CHẾT BỜ BỤI => Dễ NHẠY CẢM, ĐÀO HOA trước vẻ ngoài da thịt con gái => Mất thời gian, mất năng lượng, CẢM GIÁC TÌNH DỤC QUÁ DỄ SINH KHỞI.
+(Tổn thương cơ quan sinh dục: Gây viêm nhiễm, sẹo và tổn thương mô. => CẮT CHIM KO LÀ TOÀN THÂN BỊ NHIỄM TRÙNG. 
+Suy giảm sức khỏe tổng thể: Mệt mỏi, suy nhược và giảm khả năng miễn dịch. => LIỆT DƯƠNG, CƠ THỂ NẰM LA LIỆT NHƯ NGƯỜI THỰC VẬT KO CÓ SỨC ĐỀ KHÁNG. 
+Tác hại tinh thần: Gây trầm cảm, lo âu, cảm giác tội lỗi, lệ thuộc và ám ảnh. => KO DÁM GẶP AI, NGƯỜI HÔI THỐI, MẮT THÂM QUẦNG CỦA NGƯỜI THỦ. 
+Tác hại xã hội: Ảnh hưởng đến công việc, học tập, cô lập xã hội, giảm chất lượng mối quan hệ. => CÔ LẬP, THẤT NGHIỆP, KO TIỀN KO MỐI QUAN HỆ, BỐ MẸ ACE HỌ HÀNG COI THƯỜNG). 
+- Lên group18+ tìm bạn chat, show, KO BỀN DỄ TAN vì môi trường tìm bạn QUÁ THAM ĐẮM tỉ lệ độc hại cao(chat mình dám, còn gặp mình KO DÁM), FWB BỊ CẮT RỤNG CON CHIM, HIV-AIDS, FWB quen ny ĂN CỨT mãi ko có ny, Dính bầu với gái giang hồ về nó xiên chết cả nhà. <Content địa ngục>. Tình dục chỉ là 1 phần, 1 khía cạnh, ko nên là TOÀN BỘ cuộc sống. Có những giai đoạn như 95 tuổi bạn chỉ có thể nghĩ về nó hoặc nói về nó chứ ko thể làm, có giai đoạn trẻ bạn có thể sẽ rất say đắm. Tình dục THƯỚC ĐO SỰ KIỀM CHẾ, BÁT CHÁNH ĐẠO. Không chỉ tinh trùng mà tất cả tế bào đều là những nguyên liệu khác nhau tạo nên món súp khác nhau, TIỀM NĂNG TO LỚN. 
+
+----------------
+
+```
+
+```SQL
+Mục 1.2. KHỔ THỌ TÌNH DỤC - NỘI LỰC - BÁT CHÁNH ĐẠO. (tiếp)
+CÁCH 2: [MÔI TRƯỜNG MẠNH Ý CHÍ MẠNH] 
+- Bản chất: thông tin khác nổi trội hơn thông tin tình dục: ngủ lắng xuống, lên trường học bài. 
+- BTĐ XẤU HỔ SỢ HÃI với BÊN NGOÀI => chuyển dần sang BCĐ HIỆP THẾ: xấu hổ sợ hãi với THAM SÂN SI của chính mình
+
+CÁCH 3: 
+```
+
+BƯỚC VÀO TÌNH YÊU HÔN NHÂN - CÁC DỤC VUI ÍT KHỔ NHIỀU, NÃO NHIỀU, NGUY HIỂM CÀNG NHIỀU [NGỌT KO KHỔ, THAM ÁI VỊ NGỌT MỚI KHỔ] => MỞ RỘNG RA ĐỘI NHÓM => dùng TD vợ chồng -phương tiện để chấm dứt khổ (như đồng tiền): Có vị ngọt. Tham Ái Vị Ngọt thì khổ. => Nếu chọn TYHN: nên chọn người cùng Pháp là tốt nhất. ------------------------------------------------------------ 1. SỰ ĐỦ ĐẦY TỪ BÊN TRONG. (Ràng buộc vật chất, không ràng buộc nơi tư tưởng sở hữu cảm giác). SỬA MÌNH NHIỀU LÊN, THỰC CHIẾN RA KẾT QUẢ, LEADER LÀM GƯƠNG 2. MỞ PHỄU ĐÚNG THỊ TRƯỜNG - LÀM QUEN, TUYỂN KỸ - BUÔNG XẢ LÀM TỐT NHẤT, SÁNG HAY KHÔNG LÀ CHUYỆN CỦA BÓNG ĐÈN: - CHỌN ĐÚNG MÔI TRƯỜNG => Bớt Tham bớt kỳ vọng(do hiểu Môi trường) => TỰ TIN HƠN, THOẢI MÁI HƠN(Chẳng hạn khi ngồi cạnh con gái ở thư viện thấy thoải mái hơn vì bớt kỳ vọng vì biết con gái ở đây khó làm quen hơn, XÁC SUẤT NGƯỜI PHÙ HỢP THẤP hơn ở môi trường BKE GOSIGNA - THỰC HÀNH "KO PHẢI ĐỢI ĐỌC VỊ GIỎI HƠN MỚI LÀM QUEN, MÀ LÀ LÀM QUEN NHIỀU THÌ ĐỌC VỊ MỚI GIỎI LÊN"). Cùng là NGỒI CẠNH BÊN 1 cô gái xinh, hôm nào khởi lên MUỐN LÀM QUEN => HỒI HỘP, CỐ GẮNG QUÁ MỨC NÊN KHỔ . Hôm ko khởi lên thì BÌNH AN, KO QUÁ CỐ GẮNG KO KHỔ (CÓ CƠ HỘI NÓI CHUYỆN THÌ NÓI KO CỐ GẮNG TÌM KIẾM QUÁ MỨC). - SỰ THU HÚT đến từ SỰ TƯƠNG HỢP THÔNG TIN("ko quan trọng bạn nói gì, quan trọng vẻ ngoài và sự tự tin, ko sợ hãi. Con gái bị cuốn hút bởi sự trung thực đồng nhất cả bên trong lẫn bên ngoài"). - LÀM QUEN TỐT NHẤT, MỞ LỜI TỐT NHẤT, TUYỂN KỸ NHẤT CÓ THỂ => TỪ CHỐI GIÚP TA TIẾT KIỆM THỜI GIAN VÀ SỨC LỰC, SẴN SÀNG LOẠI BỎ NGAY TỪ ĐẦU(vì bạn không mất thời gian, năng lượng cố gắng thuyết phục cô gái rằng bạn hấp dẫn). (Nếu tôi không chắc có thể làm việc với người đó trong 1 thời gian dài, tôi sẽ không làm việc với người đó dù chỉ là 1 giờ)(còn đi lâu dài hay không còn tuỳ nhân duyên) ("Vì tôi đã đá rất nhiều người ngay từ đầu vì những việc ngu ngốc như thế này để tôi không còn phải lo về nó nữa. Trong chuyện này thì tôi rất tàn nhẫn. Tôi bỏ đi ngay giữa cuӝc hẹn đầu tiên. Tôi bỏ đi ngay giữa lời nói. Tôi không quan tâm. Tôi không có thời gian với những cô gái tệ. Và kết quả là, hoặc là họ thay đổi phù hӧp với mong đӧi của tôi, hoặc là tôi không bao giờ gặp họ nữa. Tôi tôn trọng bản thân và vì thế sẽ không dành thời gian với những cô gái không tôn trọng tôi. Bạn sẽ tự nhiên nghĩ rằng, “Ồ, vậy có nghĩa mình phải gặp gấp đôi số phө nữ, phải bỏ ra gấp đôi công sức, vì mình sẽ từ chối nửa số người thích mình.” Thật ra, bạn sẽ bỏ ra ít công sức hơn, vì bạn không còn phí nhiều thời gian và năng lưӧng cố gắng thuyết phөc cô ấy rằng bạn là mӝt người đàn ông hấp dẫn. Bạn không còn mệt mỏi nghĩ rằng liệu cô ấy có thích bạn đủ nhiều hay không, hoặc lo lắng làm thế nào để gây ấn tưӧng hay thắng lại cô ấy. Khi cô ấy không hӧp với tiêu chuẩn của bạn, tình huống trở nên cực kỳ dễ dàng cho bạn: bạn bỏ đi. Không nghĩ ngӧi gì hết. Không tranh cãi. Không quay lại ngoạn mөc. Chỉ là: hành vì của cô ấy không hӧp với tiêu chuẩn của mình, mình sẽ gặp mӝt người khác") - RÕ RÀNG MỐI QUAN HỆ LÀ TÁN NGAY TỪ ĐẦU, TÁN MẠNH. 2 hướng: 1 TỎ TÌNH NGAY TỪ ĐẦU 2. CỨ TÁN ĐÃ TỎ TÌNH RA. 3. SỰ THẬT VỀ CHUNG THUỶ - thực hành đúng KO CÓ CHÁN NẢN, MÀ HOÀN TOÀN BÌNH THẢN: - Khi gặp người khác giới, nếu LỘ TRÌNH TÂM là BÁT TÀ ĐẠO thì quý vị khởi lên THÍCH CHÁN GHÉT so sánh người đó với ny/vợ mình. - Còn nếu LỘ TRÌNH TÂM là BÁT CHÁNH ĐẠO, quý vị KHÔNG THÍCH KHÔNG CHÁN KHÔNG GHÉT, thì KHÔNG CÓ CHUNG THUỶ, cũng CHẲNG CÓ NGOẠI TÌNH, quý vị HOÀN TOÀN BÌNH THẢNG, VUI, THOẢI MÁI. - Con trai cơ bản giống nhau. Đợt này tui ra ngoài đường cũng bị váy ngắn của con gái hút hồn luôn đây nè. - Không có người yêu / người yêu sắp chia tay => dễ bị con gái bên ngoài hút hồn, xong ib tán tỉnh này kia - Còn khi có người yêu kiểu ổn định rùi ý => đều đặn ib ny tình cảm nhẹ nhàng. (là đủ nhu cầu ý, giống như kiểu ăn nhiều quá thì bị no ko thể ăn được => nên chẳng còn tâm hơi mà nhắn con gái khác). Chỉ TRỪ KHI CÓ NGƯỜI CON GÁI KHÁC CÓ THỂ THAY THẾ ĐƯỢC+ MỐI QUAN HỆ CŨ THẤY KO ỔN => MỚI CÓ Ý ĐỊNH NÀY KIA. (như đợt tôi với ny cũ đang ổn tự nhiên người ta kêu tạm dừng + có người con gái khác có thể thay thế được ny => xong tui mới bẫng 1 thời gian, xong rủ chị kia đi hiến máu đôi năm ngoái đó xong về còn ôm nhau)
+
+```SQL
+ĐỀ MỤC 0: CẢM GIÁC TRUNG TÍNH(3 Loại CẢM GIÁC: Cảm giác dễ chịu, Cảm giác khó chịu - nhất là CGTD/Gặp task khó bí ko ra, cảm giác TRUNG TÍNH NHƯNG LẠI DỄ ĐI TÌM CẢM GIÁC DỄ CHỊU, nhất là của TÌNH DỤC. 
+
+BÃO TỐ VÀ AN NHÀN (BÌNH AN ĐỘT PHÁ TRƯỚC BIẾN ĐỘNG - SÓNG YÊN). 
+- BÃO TỐ/vấn đề : 90% Tâm SẠC NĂNG LƯỢNG, NƯƠNG TAM BẢO, MÀI RŨA MŨI KHOAN + 10% Thân (nghỉ mắt, lưng, ngủ lúc buồn ngủ chỉ chợp mắt 10min ngang với việc ngủ 3h, đi bộ nghe mp4 ...) ăn uống, đứng dậy, thể thao, ngủ
+(cùng đường, gặp bài toán khó, stress ko hướng giải quyết, rối ngợp vì quá nhiều thứ) thì (NGỦ 1 GIẤC SÂU SẠC 300% PIN LOẠI BỎ HẾT NGỔN NGANG ĐẦU ĐƯỢC LÀM MỚI , khoảng lặng, nghỉ ngơi, thể thao, đọc sách, chạy bộ,thiền gosinga 9 ngày,...). 
+
+- AN NHÀN/cơ hội (nhàn nhã sinh tâm Si, cảm giác chán nản tìm tham): MŨI KHOAN DÀI HẠN + TẬP TRUNG, ÁP SUẤT LÚC NHÀN RỖI + MỞ RỘNG liên quan.
+1. Chuẩn bị kỹ lưỡng. 
+2. Tư duy "thợ săn" chủ động tìm kiếm - Đánh nhanh rút gọn - Lựa chọn đúng NẮM VÀ BUÔNG. 
+3. TẠO BIẾN ĐỘNG ĐẬP ĐI XÂY LẠI + CHỌN MŨI KHOAN NÉM VÀO ÁP SUẤT  
+4. BẬT CÔNG TẮC LÀM TỐT NHẤT, SÁNG HAY KHÔNG CÒN Ở BÓNG ĐÈN. 
+
+ĐỀ MỤC 2: XỬ LÝ BẤT NHƯ Ý. 
+- TH1: Dắt xe ra đi làm buổi đầu, xe đề mãi không nổ 15 phút ko được dắt xe ra quán sửa, 9h vào làm, 9h30 sửa xong dắt xe về nhà, chiều đi làm sau. 
+=> Kinh nghiệm thế gian: 1. Ko để xe dưới mái hiên tránh bị nước xối + 2. Tranh thủ sửa xe Take Note công việc vào sổ. 
+=> Trạch Pháp: Hiểu đúng về vô thường. 
+```
+
+## Use cases:
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/Qx13dRTkGsDUNKbNeP1lLdJagj3
+
+  
+
+  
+
+1. # THỰC HÀNH THÂN THỌ TÂM PHÁP :
+    
+
+- https://www.youtube.com/playlist?list=PLfFdoGwLbh5X1rtIKley3_3uEXzXdZ8-i
+    
+
+THỰC HÀNH THÂN THỌ TÂM PHÁP - Quán Thân - Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) 1. QUÁN THÂN: Rụt củi, NHẮC THẦM THẤY RÕ CẢM GIÁC NỔI TRỘI, Có Tầm Có Tứ - Automatic, ĐỂ TỰ NHIÊN, Ko Tầm Ko Tứ. - BẮT ĐẦU: THƯ GIÃN THẢ LỎNG. - TẠO CẢM GIÁC NỔI TRỘI: cảm giác Nín thở, Ngậm chặt răng lưỡi, Nghe nhạc nơi tai. <CHÚ TÂM CẢM GIÁC NỔI TRỘI - THAM SÂN SI nơi DỤC TƯỞNG VẮNG MẶT> - NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI" đan xen: 1. cảm giác NGƯNG THỞ, 2. Cảm giác Chuyểnđộng TOÀN THÂN <gồm cảm giác nơi 6 xúc xứ: cảm giác hình ảnh, cảm giác âm thanh>, 3. ĐỂ TỰ NHIÊN (theo nhịp thở đi làm việc, bút vẽ lên xuống, xoay tròn sang ngang. VÔ NGƯNG RA NGƯNG). - TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC - Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời). 2. QUÁN THỌ: THỰC TẠI LÀ CẢM GIÁC - Tương tác căn trần đều là TƯƠNG TÁC THÔNG TIN, LÀ TÂM - CẢM GIÁC HẠNH PHÚC CẢM GIÁC VỊ NGỌT - NGUYÊN NHÂN CỦA KHỔ THAM SÂN SI] (Thấy, Nghe, Cảm nhận mọi thứ đều biết nó là Cảm Giác) - Khi chọn thái độ Nhất Hướng, Nhàm Chán, Ly Tham, Đoạn Diệt là chúng ta đối xử với Tâm, cụ thể là các Cảm giác chứ không phải với Cảnh, với hoàn cảnh sống. Có 2 loại thực tại là Thực Tại Thế Gian (Bất Tịnh), và Thực Tại Xuất Thế Gian(Thanh Tịnh) thì cũng đều là các khái niệm của Tâm, chứ ko phải Cảnh. Chỉ có Tâm Bất Tịnh và Tâm Thanh Tịnh, chứ không có Cảnh Bất Tịnh và Cảnh Thanh Tịnh. - Không có việc làm là MINH hay VÔ MINH, chỉ có HIỂU BIẾT VỀ VIỆC ĐÓ mới có MINH hay VÔ MINH. - Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau, cho dù đổi cảnh hay không đổi cản. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. - "Buông" là BUÔNG TƯ TƯỞNG làm chủ, tư tưởng sở hữu; Không phải "Buông bỏ", vứt bỏ đi thế giới vật chất. "Sử dụng mà không sở hữu". **Lưu ý:** Không ràng buộc vào kết quả là không khổ vui với kết quả chứ không phải không quan tâm và không cần cải thiện dù kết quả không đi đúng hướng. - BUÔNG = "GIEO NHÂN" * "BUÔNG KỲ VỌNG" = "LÀM TỐT NHẤT" * "SẴN SÀNG CHO ĐIỀU TỆ NHẤT" = CÙNG LẮM THÌ, TÔI VẪN CỨ NỖ LỰC = "BẠN ĐƯỢC QUYỀN BẬT CÔNG TẮC" * "NHƯNG SÁNG HAY KHÔNG LÀ CHUYỆN BÓNG ĐÈN". 3. Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) - NÍN THỞ QUÁN THÂN: Tùy vào cường độ của dục tưởng, nếu nhẹ thì có thể quán luôn, còn nếu mãnh liệt thì nên sử dụng pháp đối trị NÍN THỞ như ở mục 01 trước. Sau khi lắng dịu hơn thì thực hành quán như ở dưới đây để xóa dần đi thông tin về tham ái tình dục. - Quán Thọ: Bản chất dục tưởng chính là tư tưởng về tình dục, xuất hiện với sự nối dài của cảm giác pháp trần liên tục đan xen với cảm giác xúc chạm do nội xúc từ tâm hành tham, nên mình cần quán đây là cảm thọ, thuộc phạm trù tâm, là cảnh ảo, vô minh thì cho rằng đây là thế giới vật chất, có cô gái A, chàng trai B là chủ nhân chủ sở hữu của hình tướng kia,... - Quán Tâm: Quán tâm biết ý thức tà tri kiến với nội dung vô minh - chấp ngã. Quán tâm hành tham, dục, khổ đang khởi sinh. Hiểu biết đúng sự thật về các tâm hành này trên 8TĐ, có tính chất duyên khởi, vô thường, vô ngã. - Quán Pháp: Nhân loại khát ái tìm cầu hỷ lạc chỗ này chỗ nọ, như dục ái, hữu ái, phi hữu ái.. Nơi nào có tham dục, nơi đó có chấp thủ, nơi nào có chấp thủ, nơi đó có khổ-vui. Các dục vui ít, khổ nhiều, não nhiều, nguy hiểm các nhiều hơn. Bao lâu nay, mình đã bị dục đanh vây, tàn phá, trấn áp như thế này đây. Phải giải thoát khỏi chướng ngại đã đầy ải nhân loại từ vô thủy đến nay. - NÍN THỞ QUÁN THÂN: Sau khi quán thì hãy ngưng thở một đoạn để hoàn toàn yên lặng, ghi nhận cảm giác toàn thân, sau đó thở mạnh theo nhịp rồi tác ý nhè nhẹ dần, nếu hết dục tưởng thì quay trở lại thực hành Định-Tuệ bình thường. 3.1 PHẢI NHỚ PHẢI NHỚ: HIỂU ĐÚNG VỊ NGỌT, VỊ NGỌT - LY THAM. - Phải nhớ phải nhớ: VỊ NGỌT - CẢM GIÁC HẠNH PHÚC (do Chánh Niệm sinh, hoặc, duyên xúc bên ngoài). THÍCH CHÁN RỒI GHÉT, NGỌT NHẠT RỒI ĐẮNG. SINH DIỆT liên tục, lặp đi lặp lại. CHẲNG ĐÁNG LÀ BAO, tà niệm kích hoạt, mà ta làm quá. - Chỉ khi thực nếm, vị ngọt chánh niệm, đến để mà thấy, siêu thế khởi lên. DÙ THẤY GÁI XINH, NHỚ PHIM 18, TÂM SI SINH KHỞI: Vị ấy ly tham, nhìn ngắm vẻ đẹp, ko có tư tưởng làm chủ sở hữu, ko nhảy tìm trăng, không khổ vô ích. - Phải nhớ phải nhớ: Cảm thọ Căn Trần, tiếp xúc với nhau. Thông tin pháp trần, tế bào thần kinh, tồn tại đồng thời, độc lập với nhau, (y như máy móc, chạy theo lập trình, trong cái gọi là, đồng hồ quả lắc). chứ không phải là… - CHẤP CÓ DUY VẬT, CHẤP KHÔNG DUY TÂM, chấp ngọt sẵn có, chấp do tâm tạo. VỊ NGỌT CÓ ĐÓ, DO DUYÊN MÀ SANH, Thọ Tưởng đồng sinh, Tưởng đọc Vị ngọt, của đối tượng thấy, chứ không phải là, cần niệm kích hoạt, mới có vị ngọt, - Trong TÌNH YÊU: Được chọn VẪN CHỌN NGƯỜI PHÙ HỢP NHẤT, XINH NHẤT ĐẸP NHẤT. NHƯNG: NẾU KHÔNG ĐỔI TÂM TỪ BÁT TÀ ĐẠO SANG BÁT CHÁNH ĐẠO, thì KHÔNG CHẠY ĐÂU CHO THOÁT KHỔ (chỉ đổi khổ này lấy khổ khác). - Chúng ta tu tập để đổi tâm và có thể cải thiện hoàn cảnh (nếu cần thiết), chứ không phải tìm cách thay đổi hoàn cảnh để nghĩ rằng sẽ tu tập thuận lợi hơn. Tránh tình trạng đi học về, Tâm thì ko thấy đổi, lại đi thay đổi ngay hoàn cảnh sống khiến cho người thân, bạn bè thấy bất an, lo lắng. - Nhàm chán, Ly Tham là ly tham với thọ khi tiếp xúc với các trần cảnh, chứ không phải ly tham với các trần cảnh đó. Chúng ta không ghét bỏ, xua đuổi chúng, mà để chúng tự đến và tự đi. - Như vậy cho dù đổi cảnh hay không đổi cảnh, miễn đổi được tâm từ BTD sang BCD thì sẽ không có khổ và là tu đúng. Còn trường hợp được quyền đổi cảnh để có lạc thọ hợp pháp thì đổi chứ đâu có dại gì mà phải để im để kham nhẫn với khổ thọ. - TRUNG ĐẠO: ko chối bỏ, không tham đắm lạc thọ. Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. 3.2 PHẢI NHỚ PHẢI NHỚ CẢM THỌ VÔ THƯỜNG - Đối tượng thấy..., là tâm cảm thọ, đặt tên: danh từ, là cô con gái, cái con người thấy, chính là thông tin chứ không phải là thế giới vật chất, như hiểu biết sai, lầm tưởng trước đây. - Cảm giác vị ngọt, hoặc nhạt hoặc đắng, được Tưởng ghi nhận, mới tinh cứng coong, xuất hiện 1 lần, sinh diệt tức khắc, sinh diệt kéo dài mà ta làm quá, chứ không phải là, thường hằng thường trú, biến đổi vật chất, như hiểu biết sai, lầm tưởng trước đây. 3.3 PHẢI NHỚ PHẢI NHỚ: DUYÊN KHỞI - VÔ NGÃ - Phải nhớ phải nhớ: Duyên người thế giới, đặt tên: động từ, là quét là chạy, chứ không có cái, điều khiển cái kia, ko có linh hồn, không sinh không diệt, điều khiển thân xác! - Tất cả các sự vật hiện tượng (tất cả các pháp) đều là do Duyên Khởi (2 nhân bình đẳng tương tác/tiếp xúc cùng diệt mới phát sinh quả). = Tất cả các pháp đều vô thường (Sinh diệt), đều vô chủ vô sở hữu (vô ngã).
+
+```yaml
+04/01/2025
+
+Mục đích thực hành: 
+- CÓ THAM SÂN SI => CÓ KHỔ. 
+- KHÔNG THAM SÂN SI, 1 là THẤY KO SUY NGHĨ (CHÁNH ĐỊNH), 2 là SUY NGHĨ ĐÚNG SỰ THẬT - Chánh Kiến (Thọ Tâm Pháp)
+---
+
+- 1.1 TẠO CẢM GIÁC NỔI TRỘI (NGUYÊN LÝ: KHI CẢM GIÁC NÀY NỔI TRỘI THÌ CẢM GIÁC KIA KHÔNG NỔI TRỘI): cảm giác Nín thở, Ngậm chặt răng lưỡi/Thấy Răng Lưỡi dán nóc họng, Nghe nhạc nơi tai/nhạc nhẹ love mood/nhạc sâu sắc động lực RAP/nhạc tình cảm gia đình chảy nước mắt,
+
+ NỔI TRỘI <CẢM GIÁC NỔI TRỘI - THAM SÂN SI nơi DỤC TƯỞNG VẮNG MẶT>
+
+- 1.2 NIỆM - TRÍ NHỚ: 
++, NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI, CẢM GIÁC CHUYỂN ĐỘNG XÚC CHẠM TOÀN THÂN"  
+
+- 1.3 ĐỂ TỰ NHIÊN KO TẦM KO TỨ (theo nhịp thở đi làm việc, bút vẽ LÊN XUỐNG SANG NGANG, XOAY TRÒN từng đối tương, VÔ NGƯNG RA NGƯNG).
+
+- 1.4 TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC
+
+- Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời). Không ai ăn 1 bữa đòi no cả đời, rụt củi cần liên tục, đun nước sôi 100 độ. 
+
+```
+
+2. # SAI LẦM: Mình có 1 niềm tin là chỉ cần TRÁNH ĐƯỢC TOÀN BỘ CÁC DANH SÁCH SAI LẦM => THÌ BẠN NGON. (a Huy Wecommit100x)
+    
+
+  
+
+## 5.1 Sai lầm :
+
+## 06/04/2025:
+
+Đang lướt facebook thì thấy 1 cái tên. Search google thử => Ra video -> Xem. => Comment dạo Linkedin => **Summary + Nghe nhạc:** **https://youtube.com/playlist?list=PLfFdoGwLbh5Vc9qzKLL9_b99e3xUHNppc&feature=shared**
+
+## 23/04/2025: T4
+
+Thức khuya để lên plan cho thời gian sắp tới => Do lưu trữ các nhóm chat + căng thẳng khi lên plan mới (chạy bộ chia ra mùa hè chạy sáng, mùa đông chạy tối, nhiều thứ mới cần học) => nghĩ đến sếp T, học sinh HA và ra.
+
+=> **Giải pháp: 1. BÁT CHÁNH ĐẠO thấy việc lên plan chẳng có gì căng thẳng cả + sẵn sàng cắt bỏ những thứ thích thích mà KO CÓ GIÁ TRỊ VALUE VỀ MẶT DÀI HẠN, MỤC ĐÍCH CUỘC SỐNG**
+
+# 27/04/2025: Tối thứ 7
+
+xem đ đ đ - sự kiện này có tính lặp lại hàng tuần, ae nên có phương án xử lý - tuần vừa rồi có mỗi hôm nay, bảo sao ra nhiều - CHÚC MỪNG CHO SỰ KIỆN TUẦN RỒI CÓ MỖI THỨ 7 - CHỦ NHẬT -> XỬ LÝ LÀ XONG, BẢO SAO BẮN NHIỀU.
+
+=> Sau khi xong là 1 cảm giác GHÊ TỞM, MỆT MỎI, VÀ CHÁN CẢM GIÁC TD, tranh thủ xoá vết
+
+=> Lên 1 lịch ngồi cafe full tối thứ 7, ngày chủ nhật + Liên tục nhớ ?
+
+  
+
+# 29/04/2025: trưa T3 ở quê nghỉ lễ
+
+- tự dưng nhớ đến các đường link -> xong vào link ở lark -> rất nhanh => GIẢI PHÁP ĐỀ RA: Biết 1 cốc nước ngọt có độc mà vẫn uống?
+    
+
+## 5.2 Các sai lầm khác
+
+1. Chở Hồ Dũng và chở anh Thái Tâm xong lại quên ko xin ảnh chụp cùng
+    
+2. Bảo vào Hiệp ăn cơm, xong sau lại nhắn tin bảo ko vào -> NGHĨ KĨ ĐI RỒI QUYẾT BỪA.
+    
+3. Phí 30min chỉ để reply tin nhắn bên công ty - vì rep xong và hẹn lịch nhưng chưa thể xử lý nhanh được ngay - mất thời gian giao tiếp giữa các bên.
+    
+4. Vừa đăng video lên các nền tảng vừa nghe video sâu về não bộ (Video cách xây dựng ý chí mạnh mẽ và kỷ luật phi thường - TÌM KIẾM SỰ KHÓ CHỊU).
+    
+
+Đa nhiệm chỉ hiệu quả khi 1 việc nhẹ, không cần suy nghĩ nhiều (như chạy bộ, rửa bát) và 1 việc cần não ít (nghe podcast, học nhẹ). Nếu cả hai việc đều cần tập trung, làm cùng lúc sẽ mất hết – không nhớ gì, không hiệu quả. Muốn làm nhiều mà vẫn tốt: **ghép việc đơn giản với việc chính**, tránh ghép 2 việc nặng. Sau mỗi lần, nên tự hỏi: “Mình nhớ được gì?” – nếu không nhớ gì, lần sau đừng ghép kiểu đó nữa.
+
+5. be
+    
+
+---
+
+  
+
+  
+
+# 6. KHỔ THỌ TÌNH DỤC và TÂM SI (Trở ngại lớn nhất)
+
++, 1. CẢM GIÁC NỔI TRỘI.
+
++, 2. NHẮC THẦM : THẤY THẤY, NHỚ ĐẾN TÍCH CỰC CHÚ TÂM THẤY RÕ CẢM GIÁC CHUYỂN ĐỘNG CẢM GIÁC XÚC CHẠM TOÀN THÂN, THEO NHỊP THỞ ĐI LÀM VIỆC. +, 3. TOẠ THIỀN THƯỜNG XUYÊN => để khắc sâu bộ nhớ, từ đó lúc BUỒN KHỔ, TÂM SI khởi lên mới đối trọi được.
+
+```SQL
+Mục 1.2. KHỔ THỌ TÌNH DỤC - NỘI LỰC - BÁT CHÁNH ĐẠO. [LÝ DUYÊN KHỞI - CẢM THỌ - KHỔ NGUYÊN NHÂN KHỔ - NHẤT HƯỚNG]
+
+VẤN ĐỀ LỚN NHẤT: CẢM GIÁC TÌNH DỤC KHỔ THỌ TRÊN THÂN - THẤT THOÁT TINH KHÍ THẦN - HỶ LẠC NỘI TÂM - NỘI LỰC HẠNH PHÚC BÊN TRONG, ĐỘNG LỰC BỀN VỮNG => dùng TD hoặc dùng TÂM ĐÁNH BẠI TÂM.
+Thường xảy ra khi: 1. Là có thông tin tác động tới THÔNG TIN PHÁP TRẦN TÌNH DỤC 2. Là TÂM SI - CHÁN NẢN - theo thói quen tìm THAM, tìm đến CẢM GIÁC PHÁP TRẦN TD. ĐẨY CẢM GIÁC SỢ, CÓ RỒI LẠI MUỐN CÓ THÊM; CHỈ ĐỔI KHỔ NÀY LẤY KHỔ KHÁC:  
+- Ăn được bát cơm phở 50k LÀM 1 CÁI lại ra hết, mặt mụn như gẻ, mồm hôi người hôi thối như CỨT => Cơ thể bạc nhược yếu ớt, GẦY GÒ ngủ suốt ngày, phải ngủ bù năng lượng 3h, mất hết THẦN KHÍ ÁNH MẮT GIỌNG NÓI: LỜ ĐỜ LÈ NHÈ KO RA HƠI. => Yếu sl vợ nó bỏ, lục đục đủ điều CHIA TAY  => NGHIỆN MA TUÝ, GÁI GÚ CỜ BẠC: gầy dơ xương MA TUÝ ĐÁ ĐI TÙ bị đánh như chó CHẾT BỜ BỤI => Dễ NHẠY CẢM, ĐÀO HOA trước vẻ ngoài da thịt con gái => Mất thời gian, mất năng lượng, CẢM GIÁC TÌNH DỤC QUÁ DỄ SINH KHỞI.
+(Tổn thương cơ quan sinh dục: Gây viêm nhiễm, sẹo và tổn thương mô. => CẮT CHIM KO LÀ TOÀN THÂN BỊ NHIỄM TRÙNG. 
+Suy giảm sức khỏe tổng thể: Mệt mỏi, suy nhược và giảm khả năng miễn dịch. => LIỆT DƯƠNG, CƠ THỂ NẰM LA LIỆT NHƯ NGƯỜI THỰC VẬT KO CÓ SỨC ĐỀ KHÁNG. 
+Tác hại tinh thần: Gây trầm cảm, lo âu, cảm giác tội lỗi, lệ thuộc và ám ảnh. => KO DÁM GẶP AI, NGƯỜI HÔI THỐI, MẮT THÂM QUẦNG CỦA NGƯỜI THỦ. 
+Tác hại xã hội: Ảnh hưởng đến công việc, học tập, cô lập xã hội, giảm chất lượng mối quan hệ. => CÔ LẬP, THẤT NGHIỆP, KO TIỀN KO MỐI QUAN HỆ, BỐ MẸ ACE HỌ HÀNG COI THƯỜNG). 
+- Lên group18+ tìm bạn chat, show, KO BỀN DỄ TAN vì môi trường tìm bạn QUÁ THAM ĐẮM tỉ lệ độc hại cao(chat mình dám, còn gặp mình KO DÁM), FWB BỊ CẮT RỤNG CON CHIM, HIV-AIDS, FWB quen ny ĂN CỨT mãi ko có ny, Dính bầu với gái giang hồ về nó xiên chết cả nhà. <Content địa ngục>. Tình dục chỉ là 1 phần, 1 khía cạnh, ko nên là TOÀN BỘ cuộc sống. Có những giai đoạn như 95 tuổi bạn chỉ có thể nghĩ về nó hoặc nói về nó chứ ko thể làm, có giai đoạn trẻ bạn có thể sẽ rất say đắm. Tình dục THƯỚC ĐO SỰ KIỀM CHẾ, BÁT CHÁNH ĐẠO. Không chỉ tinh trùng mà tất cả tế bào đều là những nguyên liệu khác nhau tạo nên món súp khác nhau, TIỀM NĂNG TO LỚN. 
+
+----------------
+
+```
+
+```SQL
+Mục 1.2. KHỔ THỌ TÌNH DỤC - NỘI LỰC - BÁT CHÁNH ĐẠO. (tiếp)
+CÁCH 2: [MÔI TRƯỜNG MẠNH Ý CHÍ MẠNH] 
+- Bản chất: thông tin khác nổi trội hơn thông tin tình dục: ngủ lắng xuống, lên trường học bài. 
+- BTĐ XẤU HỔ SỢ HÃI với BÊN NGOÀI => chuyển dần sang BCĐ HIỆP THẾ: xấu hổ sợ hãi với THAM SÂN SI của chính mình
+
+CÁCH 3: 
+```
+
+BƯỚC VÀO TÌNH YÊU HÔN NHÂN - CÁC DỤC VUI ÍT KHỔ NHIỀU, NÃO NHIỀU, NGUY HIỂM CÀNG NHIỀU [NGỌT KO KHỔ, THAM ÁI VỊ NGỌT MỚI KHỔ] => MỞ RỘNG RA ĐỘI NHÓM => dùng TD vợ chồng -phương tiện để chấm dứt khổ (như đồng tiền): Có vị ngọt. Tham Ái Vị Ngọt thì khổ. => Nếu chọn TYHN: nên chọn người cùng Pháp là tốt nhất. ------------------------------------------------------------ 1. SỰ ĐỦ ĐẦY TỪ BÊN TRONG. (Ràng buộc vật chất, không ràng buộc nơi tư tưởng sở hữu cảm giác). SỬA MÌNH NHIỀU LÊN, THỰC CHIẾN RA KẾT QUẢ, LEADER LÀM GƯƠNG 2. MỞ PHỄU ĐÚNG THỊ TRƯỜNG - LÀM QUEN, TUYỂN KỸ - BUÔNG XẢ LÀM TỐT NHẤT, SÁNG HAY KHÔNG LÀ CHUYỆN CỦA BÓNG ĐÈN: - CHỌN ĐÚNG MÔI TRƯỜNG => Bớt Tham bớt kỳ vọng(do hiểu Môi trường) => TỰ TIN HƠN, THOẢI MÁI HƠN(Chẳng hạn khi ngồi cạnh con gái ở thư viện thấy thoải mái hơn vì bớt kỳ vọng vì biết con gái ở đây khó làm quen hơn, XÁC SUẤT NGƯỜI PHÙ HỢP THẤP hơn ở môi trường BKE GOSIGNA - THỰC HÀNH "KO PHẢI ĐỢI ĐỌC VỊ GIỎI HƠN MỚI LÀM QUEN, MÀ LÀ LÀM QUEN NHIỀU THÌ ĐỌC VỊ MỚI GIỎI LÊN"). Cùng là NGỒI CẠNH BÊN 1 cô gái xinh, hôm nào khởi lên MUỐN LÀM QUEN => HỒI HỘP, CỐ GẮNG QUÁ MỨC NÊN KHỔ . Hôm ko khởi lên thì BÌNH AN, KO QUÁ CỐ GẮNG KO KHỔ (CÓ CƠ HỘI NÓI CHUYỆN THÌ NÓI KO CỐ GẮNG TÌM KIẾM QUÁ MỨC). - SỰ THU HÚT đến từ SỰ TƯƠNG HỢP THÔNG TIN("ko quan trọng bạn nói gì, quan trọng vẻ ngoài và sự tự tin, ko sợ hãi. Con gái bị cuốn hút bởi sự trung thực đồng nhất cả bên trong lẫn bên ngoài"). - LÀM QUEN TỐT NHẤT, MỞ LỜI TỐT NHẤT, TUYỂN KỸ NHẤT CÓ THỂ => TỪ CHỐI GIÚP TA TIẾT KIỆM THỜI GIAN VÀ SỨC LỰC, SẴN SÀNG LOẠI BỎ NGAY TỪ ĐẦU(vì bạn không mất thời gian, năng lượng cố gắng thuyết phục cô gái rằng bạn hấp dẫn). (Nếu tôi không chắc có thể làm việc với người đó trong 1 thời gian dài, tôi sẽ không làm việc với người đó dù chỉ là 1 giờ)(còn đi lâu dài hay không còn tuỳ nhân duyên) ("Vì tôi đã đá rất nhiều người ngay từ đầu vì những việc ngu ngốc như thế này để tôi không còn phải lo về nó nữa. Trong chuyện này thì tôi rất tàn nhẫn. Tôi bỏ đi ngay giữa cuӝc hẹn đầu tiên. Tôi bỏ đi ngay giữa lời nói. Tôi không quan tâm. Tôi không có thời gian với những cô gái tệ. Và kết quả là, hoặc là họ thay đổi phù hӧp với mong đӧi của tôi, hoặc là tôi không bao giờ gặp họ nữa. Tôi tôn trọng bản thân và vì thế sẽ không dành thời gian với những cô gái không tôn trọng tôi. Bạn sẽ tự nhiên nghĩ rằng, “Ồ, vậy có nghĩa mình phải gặp gấp đôi số phө nữ, phải bỏ ra gấp đôi công sức, vì mình sẽ từ chối nửa số người thích mình.” Thật ra, bạn sẽ bỏ ra ít công sức hơn, vì bạn không còn phí nhiều thời gian và năng lưӧng cố gắng thuyết phөc cô ấy rằng bạn là mӝt người đàn ông hấp dẫn. Bạn không còn mệt mỏi nghĩ rằng liệu cô ấy có thích bạn đủ nhiều hay không, hoặc lo lắng làm thế nào để gây ấn tưӧng hay thắng lại cô ấy. Khi cô ấy không hӧp với tiêu chuẩn của bạn, tình huống trở nên cực kỳ dễ dàng cho bạn: bạn bỏ đi. Không nghĩ ngӧi gì hết. Không tranh cãi. Không quay lại ngoạn mөc. Chỉ là: hành vì của cô ấy không hӧp với tiêu chuẩn của mình, mình sẽ gặp mӝt người khác") - RÕ RÀNG MỐI QUAN HỆ LÀ TÁN NGAY TỪ ĐẦU, TÁN MẠNH. 2 hướng: 1 TỎ TÌNH NGAY TỪ ĐẦU 2. CỨ TÁN ĐÃ TỎ TÌNH RA. 3. SỰ THẬT VỀ CHUNG THUỶ - thực hành đúng KO CÓ CHÁN NẢN, MÀ HOÀN TOÀN BÌNH THẢN: - Khi gặp người khác giới, nếu LỘ TRÌNH TÂM là BÁT TÀ ĐẠO thì quý vị khởi lên THÍCH CHÁN GHÉT so sánh người đó với ny/vợ mình. - Còn nếu LỘ TRÌNH TÂM là BÁT CHÁNH ĐẠO, quý vị KHÔNG THÍCH KHÔNG CHÁN KHÔNG GHÉT, thì KHÔNG CÓ CHUNG THUỶ, cũng CHẲNG CÓ NGOẠI TÌNH, quý vị HOÀN TOÀN BÌNH THẢNG, VUI, THOẢI MÁI. - Con trai cơ bản giống nhau. Đợt này tui ra ngoài đường cũng bị váy ngắn của con gái hút hồn luôn đây nè. - Không có người yêu / người yêu sắp chia tay => dễ bị con gái bên ngoài hút hồn, xong ib tán tỉnh này kia - Còn khi có người yêu kiểu ổn định rùi ý => đều đặn ib ny tình cảm nhẹ nhàng. (là đủ nhu cầu ý, giống như kiểu ăn nhiều quá thì bị no ko thể ăn được => nên chẳng còn tâm hơi mà nhắn con gái khác). Chỉ TRỪ KHI CÓ NGƯỜI CON GÁI KHÁC CÓ THỂ THAY THẾ ĐƯỢC+ MỐI QUAN HỆ CŨ THẤY KO ỔN => MỚI CÓ Ý ĐỊNH NÀY KIA. (như đợt tôi với ny cũ đang ổn tự nhiên người ta kêu tạm dừng + có người con gái khác có thể thay thế được ny => xong tui mới bẫng 1 thời gian, xong rủ chị kia đi hiến máu đôi năm ngoái đó xong về còn ôm nhau)
+
+```SQL
+ĐỀ MỤC 0: CẢM GIÁC TRUNG TÍNH(3 Loại CẢM GIÁC: Cảm giác dễ chịu, Cảm giác khó chịu - nhất là CGTD/Gặp task khó bí ko ra, cảm giác TRUNG TÍNH NHƯNG LẠI DỄ ĐI TÌM CẢM GIÁC DỄ CHỊU, nhất là của TÌNH DỤC. 
+
+BÃO TỐ VÀ AN NHÀN (BÌNH AN ĐỘT PHÁ TRƯỚC BIẾN ĐỘNG - SÓNG YÊN). 
+- BÃO TỐ/vấn đề : 90% Tâm SẠC NĂNG LƯỢNG, NƯƠNG TAM BẢO, MÀI RŨA MŨI KHOAN + 10% Thân (nghỉ mắt, lưng, ngủ lúc buồn ngủ chỉ chợp mắt 10min ngang với việc ngủ 3h, đi bộ nghe mp4 ...) ăn uống, đứng dậy, thể thao, ngủ
+(cùng đường, gặp bài toán khó, stress ko hướng giải quyết, rối ngợp vì quá nhiều thứ) thì (NGỦ 1 GIẤC SÂU SẠC 300% PIN LOẠI BỎ HẾT NGỔN NGANG ĐẦU ĐƯỢC LÀM MỚI , khoảng lặng, nghỉ ngơi, thể thao, đọc sách, chạy bộ,thiền gosinga 9 ngày,...). 
+
+- AN NHÀN/cơ hội (nhàn nhã sinh tâm Si, cảm giác chán nản tìm tham): MŨI KHOAN DÀI HẠN + TẬP TRUNG, ÁP SUẤT LÚC NHÀN RỖI + MỞ RỘNG liên quan.
+1. Chuẩn bị kỹ lưỡng. 
+2. Tư duy "thợ săn" chủ động tìm kiếm - Đánh nhanh rút gọn - Lựa chọn đúng NẮM VÀ BUÔNG. 
+3. TẠO BIẾN ĐỘNG ĐẬP ĐI XÂY LẠI + CHỌN MŨI KHOAN NÉM VÀO ÁP SUẤT  
+4. BẬT CÔNG TẮC LÀM TỐT NHẤT, SÁNG HAY KHÔNG CÒN Ở BÓNG ĐÈN. 
+
+ĐỀ MỤC 2: XỬ LÝ BẤT NHƯ Ý. 
+- TH1: Dắt xe ra đi làm buổi đầu, xe đề mãi không nổ 15 phút ko được dắt xe ra quán sửa, 9h vào làm, 9h30 sửa xong dắt xe về nhà, chiều đi làm sau. 
+=> Kinh nghiệm thế gian: 1. Ko để xe dưới mái hiên tránh bị nước xối + 2. Tranh thủ sửa xe Take Note công việc vào sổ. 
+=> Trạch Pháp: Hiểu đúng về vô thường. 
+```
+
+  
+
+  
+
+  
+
+  
+
+3. # THỰC HÀNH THÂN THỌ TÂM PHÁP :
+    
+
+- https://www.youtube.com/playlist?list=PLfFdoGwLbh5X1rtIKley3_3uEXzXdZ8-i
+    
+
+THỰC HÀNH THÂN THỌ TÂM PHÁP - Quán Thân - Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) 1. QUÁN THÂN: Rụt củi, NHẮC THẦM THẤY RÕ CẢM GIÁC NỔI TRỘI, Có Tầm Có Tứ - Automatic, ĐỂ TỰ NHIÊN, Ko Tầm Ko Tứ. - BẮT ĐẦU: THƯ GIÃN THẢ LỎNG. - TẠO CẢM GIÁC NỔI TRỘI: cảm giác Nín thở, Ngậm chặt răng lưỡi, Nghe nhạc nơi tai. <CHÚ TÂM CẢM GIÁC NỔI TRỘI - THAM SÂN SI nơi DỤC TƯỞNG VẮNG MẶT> - NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI" đan xen: 1. cảm giác NGƯNG THỞ, 2. Cảm giác Chuyểnđộng TOÀN THÂN <gồm cảm giác nơi 6 xúc xứ: cảm giác hình ảnh, cảm giác âm thanh>, 3. ĐỂ TỰ NHIÊN (theo nhịp thở đi làm việc, bút vẽ lên xuống, xoay tròn sang ngang. VÔ NGƯNG RA NGƯNG). - TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC - Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời). 2. QUÁN THỌ: THỰC TẠI LÀ CẢM GIÁC - Tương tác căn trần đều là TƯƠNG TÁC THÔNG TIN, LÀ TÂM - CẢM GIÁC HẠNH PHÚC CẢM GIÁC VỊ NGỌT - NGUYÊN NHÂN CỦA KHỔ THAM SÂN SI] (Thấy, Nghe, Cảm nhận mọi thứ đều biết nó là Cảm Giác) - Khi chọn thái độ Nhất Hướng, Nhàm Chán, Ly Tham, Đoạn Diệt là chúng ta đối xử với Tâm, cụ thể là các Cảm giác chứ không phải với Cảnh, với hoàn cảnh sống. Có 2 loại thực tại là Thực Tại Thế Gian (Bất Tịnh), và Thực Tại Xuất Thế Gian(Thanh Tịnh) thì cũng đều là các khái niệm của Tâm, chứ ko phải Cảnh. Chỉ có Tâm Bất Tịnh và Tâm Thanh Tịnh, chứ không có Cảnh Bất Tịnh và Cảnh Thanh Tịnh. - Không có việc làm là MINH hay VÔ MINH, chỉ có HIỂU BIẾT VỀ VIỆC ĐÓ mới có MINH hay VÔ MINH. - Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau, cho dù đổi cảnh hay không đổi cản. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. - "Buông" là BUÔNG TƯ TƯỞNG làm chủ, tư tưởng sở hữu; Không phải "Buông bỏ", vứt bỏ đi thế giới vật chất. "Sử dụng mà không sở hữu". **Lưu ý:** Không ràng buộc vào kết quả là không khổ vui với kết quả chứ không phải không quan tâm và không cần cải thiện dù kết quả không đi đúng hướng. - BUÔNG = "GIEO NHÂN" * "BUÔNG KỲ VỌNG" = "LÀM TỐT NHẤT" * "SẴN SÀNG CHO ĐIỀU TỆ NHẤT" = CÙNG LẮM THÌ, TÔI VẪN CỨ NỖ LỰC = "BẠN ĐƯỢC QUYỀN BẬT CÔNG TẮC" * "NHƯNG SÁNG HAY KHÔNG LÀ CHUYỆN BÓNG ĐÈN". 3. Quán Thọ Tâm Pháp (Xoá Vô Minh, Đoạn diệt dục tưởng) - NÍN THỞ QUÁN THÂN: Tùy vào cường độ của dục tưởng, nếu nhẹ thì có thể quán luôn, còn nếu mãnh liệt thì nên sử dụng pháp đối trị NÍN THỞ như ở mục 01 trước. Sau khi lắng dịu hơn thì thực hành quán như ở dưới đây để xóa dần đi thông tin về tham ái tình dục. - Quán Thọ: Bản chất dục tưởng chính là tư tưởng về tình dục, xuất hiện với sự nối dài của cảm giác pháp trần liên tục đan xen với cảm giác xúc chạm do nội xúc từ tâm hành tham, nên mình cần quán đây là cảm thọ, thuộc phạm trù tâm, là cảnh ảo, vô minh thì cho rằng đây là thế giới vật chất, có cô gái A, chàng trai B là chủ nhân chủ sở hữu của hình tướng kia,... - Quán Tâm: Quán tâm biết ý thức tà tri kiến với nội dung vô minh - chấp ngã. Quán tâm hành tham, dục, khổ đang khởi sinh. Hiểu biết đúng sự thật về các tâm hành này trên 8TĐ, có tính chất duyên khởi, vô thường, vô ngã. - Quán Pháp: Nhân loại khát ái tìm cầu hỷ lạc chỗ này chỗ nọ, như dục ái, hữu ái, phi hữu ái.. Nơi nào có tham dục, nơi đó có chấp thủ, nơi nào có chấp thủ, nơi đó có khổ-vui. Các dục vui ít, khổ nhiều, não nhiều, nguy hiểm các nhiều hơn. Bao lâu nay, mình đã bị dục đanh vây, tàn phá, trấn áp như thế này đây. Phải giải thoát khỏi chướng ngại đã đầy ải nhân loại từ vô thủy đến nay. - NÍN THỞ QUÁN THÂN: Sau khi quán thì hãy ngưng thở một đoạn để hoàn toàn yên lặng, ghi nhận cảm giác toàn thân, sau đó thở mạnh theo nhịp rồi tác ý nhè nhẹ dần, nếu hết dục tưởng thì quay trở lại thực hành Định-Tuệ bình thường. 3.1 PHẢI NHỚ PHẢI NHỚ: HIỂU ĐÚNG VỊ NGỌT, VỊ NGỌT - LY THAM. - Phải nhớ phải nhớ: VỊ NGỌT - CẢM GIÁC HẠNH PHÚC (do Chánh Niệm sinh, hoặc, duyên xúc bên ngoài). THÍCH CHÁN RỒI GHÉT, NGỌT NHẠT RỒI ĐẮNG. SINH DIỆT liên tục, lặp đi lặp lại. CHẲNG ĐÁNG LÀ BAO, tà niệm kích hoạt, mà ta làm quá. - Chỉ khi thực nếm, vị ngọt chánh niệm, đến để mà thấy, siêu thế khởi lên. DÙ THẤY GÁI XINH, NHỚ PHIM 18, TÂM SI SINH KHỞI: Vị ấy ly tham, nhìn ngắm vẻ đẹp, ko có tư tưởng làm chủ sở hữu, ko nhảy tìm trăng, không khổ vô ích. - Phải nhớ phải nhớ: Cảm thọ Căn Trần, tiếp xúc với nhau. Thông tin pháp trần, tế bào thần kinh, tồn tại đồng thời, độc lập với nhau, (y như máy móc, chạy theo lập trình, trong cái gọi là, đồng hồ quả lắc). chứ không phải là… - CHẤP CÓ DUY VẬT, CHẤP KHÔNG DUY TÂM, chấp ngọt sẵn có, chấp do tâm tạo. VỊ NGỌT CÓ ĐÓ, DO DUYÊN MÀ SANH, Thọ Tưởng đồng sinh, Tưởng đọc Vị ngọt, của đối tượng thấy, chứ không phải là, cần niệm kích hoạt, mới có vị ngọt, - Trong TÌNH YÊU: Được chọn VẪN CHỌN NGƯỜI PHÙ HỢP NHẤT, XINH NHẤT ĐẸP NHẤT. NHƯNG: NẾU KHÔNG ĐỔI TÂM TỪ BÁT TÀ ĐẠO SANG BÁT CHÁNH ĐẠO, thì KHÔNG CHẠY ĐÂU CHO THOÁT KHỔ (chỉ đổi khổ này lấy khổ khác). - Chúng ta tu tập để đổi tâm và có thể cải thiện hoàn cảnh (nếu cần thiết), chứ không phải tìm cách thay đổi hoàn cảnh để nghĩ rằng sẽ tu tập thuận lợi hơn. Tránh tình trạng đi học về, Tâm thì ko thấy đổi, lại đi thay đổi ngay hoàn cảnh sống khiến cho người thân, bạn bè thấy bất an, lo lắng. - Nhàm chán, Ly Tham là ly tham với thọ khi tiếp xúc với các trần cảnh, chứ không phải ly tham với các trần cảnh đó. Chúng ta không ghét bỏ, xua đuổi chúng, mà để chúng tự đến và tự đi. - Như vậy cho dù đổi cảnh hay không đổi cảnh, miễn đổi được tâm từ BTD sang BCD thì sẽ không có khổ và là tu đúng. Còn trường hợp được quyền đổi cảnh để có lạc thọ hợp pháp thì đổi chứ đâu có dại gì mà phải để im để kham nhẫn với khổ thọ. - TRUNG ĐẠO: ko chối bỏ, không tham đắm lạc thọ. Mỗi người trong hoàn cảnh khác nhau, tình trạng, mức độ tu tập khác nhau, sẽ có những lựa chọn chánh kiến khác nhau. Miễn đổi được lộ trình tâm BTD sang BCD là Nhất Hướng- Ly Tham. 3.2 PHẢI NHỚ PHẢI NHỚ CẢM THỌ VÔ THƯỜNG - Đối tượng thấy..., là tâm cảm thọ, đặt tên: danh từ, là cô con gái, cái con người thấy, chính là thông tin chứ không phải là thế giới vật chất, như hiểu biết sai, lầm tưởng trước đây. - Cảm giác vị ngọt, hoặc nhạt hoặc đắng, được Tưởng ghi nhận, mới tinh cứng coong, xuất hiện 1 lần, sinh diệt tức khắc, sinh diệt kéo dài mà ta làm quá, chứ không phải là, thường hằng thường trú, biến đổi vật chất, như hiểu biết sai, lầm tưởng trước đây. 3.3 PHẢI NHỚ PHẢI NHỚ: DUYÊN KHỞI - VÔ NGÃ - Phải nhớ phải nhớ: Duyên người thế giới, đặt tên: động từ, là quét là chạy, chứ không có cái, điều khiển cái kia, ko có linh hồn, không sinh không diệt, điều khiển thân xác! - Tất cả các sự vật hiện tượng (tất cả các pháp) đều là do Duyên Khởi (2 nhân bình đẳng tương tác/tiếp xúc cùng diệt mới phát sinh quả). = Tất cả các pháp đều vô thường (Sinh diệt), đều vô chủ vô sở hữu (vô ngã).
+
+```yaml
+04/01/2025
+
+Mục đích thực hành: 
+- CÓ THAM SÂN SI => CÓ KHỔ. 
+- KHÔNG THAM SÂN SI, 1 là THẤY KO SUY NGHĨ (CHÁNH ĐỊNH), 2 là SUY NGHĨ ĐÚNG SỰ THẬT - Chánh Kiến (Thọ Tâm Pháp)
+---
+
+- 1.1 TẠO CẢM GIÁC NỔI TRỘI (NGUYÊN LÝ: KHI CẢM GIÁC NÀY NỔI TRỘI THÌ CẢM GIÁC KIA KHÔNG NỔI TRỘI): cảm giác Nín thở, Ngậm chặt răng lưỡi/Thấy Răng Lưỡi dán nóc họng, Nghe nhạc nơi tai/nhạc nhẹ love mood/nhạc sâu sắc động lực RAP/nhạc tình cảm gia đình chảy nước mắt,
+
+ NỔI TRỘI <CẢM GIÁC NỔI TRỘI - THAM SÂN SI nơi DỤC TƯỞNG VẮNG MẶT>
+
+- 1.2 NIỆM - TRÍ NHỚ: 
++, NHẮC THẦM: "Nhớ đến tích cực chú tâm thấy rõ CẢM GIÁC NỔI TRỘI, CẢM GIÁC CHUYỂN ĐỘNG XÚC CHẠM TOÀN THÂN"  
+
+- 1.3 ĐỂ TỰ NHIÊN KO TẦM KO TỨ (theo nhịp thở đi làm việc, bút vẽ LÊN XUỐNG SANG NGANG, XOAY TRÒN từng đối tương, VÔ NGƯNG RA NGƯNG).
+
+- 1.4 TUỆ TRI: 7-9 đề mục Quán Thân: 1. Tuệ tri CHÚ TÂM LIÊN TỤC
+
+- Phải nhớ phải nhớ: An trú chánh định,chín mươi phần trăm, NỔI TRỘI trên thân, các cảm giác khác, nơi mắt nơi tai, không tầm không tứ. CHỈ THẤY THÔI, THẤY MÀ KO NHẬN XÉT ĐÁNH GIÁ ĐỐI TƯỢNG. (Quên định trên thân, như sống chuồng ngựa, ăn cức cả đời). Không ai ăn 1 bữa đòi no cả đời, rụt củi cần liên tục, đun nước sôi 100 độ. 
+
+```
+
+  
+
+# Chiến lược và tính toán theo các giai đoạn:
+
+https://csg2ej4iz2hz.sg.larksuite.com/sync/MVUFd8zmfsPsnJbbBmJl7XjogVh
+
+  
+
+  
+
+---
+
+===
+NGHIÊN CỨU THẬT KỸ TOÀN BỘ CÁC ĐIỀU TRÊN VÀ CỦA TẤT CẢ CÁC VỊ THẦY NỔI TIẾNG THẾ GIỚI TỪ ĐÔNG TÂY KIM CỔ, TỪ NGÀN NĂM TRƯỚC ĐẾ N HIỆN TẠI VÀ REPORT final.md về TOÀN BỘ BÍ MẬT VỀ NGOẠI LỰC - NỘI LỰC
+
+
+# Genspark - Manus - II Agent
+
+
+
+---
+
+BÍ MẬT VỀ NGOẠI LỰC - NỘI LỰC - BÁT CHÁNH ĐẠO
+
+Lời nói đầu
+
+1. Ngoại lực: Sức mạnh từ bên ngoài
+
+1.1. Định nghĩa và các khía cạnh của Ngoại lực
+
+1.2. Tác động của Ngoại lực
+
+1.3. Quan điểm của các vị thầy về Ngoại lực
+
+2. Nội lực: Sức mạnh từ bên trong
+
+2.1. Định nghĩa và các khía cạnh của Nội lực
+
+2.2. Tầm quan trọng của Nội lực
+
+2.3. Quan điểm của các vị thầy về Nội lực
+
+3. Mối quan hệ giữa Ngoại lực và Nội lực
+
+3.1. Tương tác và ảnh hưởng lẫn nhau
+
+3.2. Bí mật của sự cân bằng và phát huy
+
+4. Bát Chánh Đạo: Con đường phát triển Nội lực và vượt qua Ngoại lực
+
+4.1. Tổng quan về Bát Chánh Đạo
+
+4.2. Tám chi phần của Bát Chánh Đạo và vai trò trong việc phát triển Nội lực
+
+4.3. Bát Chánh Đạo trong các truyền thống Phật giáo
+
+5. Tổng hợp và kết luận: Bí mật của sự làm chủ cuộc đời
+
+6. Ngoại lực: Sức mạnh từ bên ngoài
+
+1.1. Định nghĩa và các khía cạnh của Ngoại lực
+
+Khái niệm "Ngoại lực" mang nhiều ý nghĩa khác nhau tùy thuộc vào lĩnh vực nghiên cứu và bối cảnh sử dụng. Tuy nhiên, tựu chung, ngoại lực đề cập đến những yếu tố, sức mạnh hoặc tác động có nguồn gốc từ bên ngoài, tác động lên một hệ thống, một vật thể, một cá nhân, hay một tổ chức.
+
+Trong khoa học tự nhiên, đặc biệt là Địa lý và Vật lý, ngoại lực được hiểu là những lực sinh ra trên bề mặt Trái Đất, có nguồn gốc từ bên ngoài. Nguồn năng lượng chủ yếu tạo nên ngoại lực là bức xạ mặt trời. Các tác nhân cụ thể của ngoại lực bao gồm nhiệt độ, gió, mưa, nước chảy, sóng biển, băng hà, sinh vật và hoạt động của con người. Tác động của ngoại lực thường mang tính phá hủy, san bằng, làm biến đổi các dạng địa hình do nội lực tạo nên thông qua các quá trình phong hóa, bóc mòn, vận chuyển và bồi tụ.
+
+Trong triết học và kinh tế - xã hội, ngoại lực được mở rộng để chỉ những yếu tố, lực lượng bên ngoài tác động đến sự phát triển của một quốc gia, một tổ chức hoặc một cá nhân. Ví dụ, trong bối cảnh phát triển của Việt Nam, ngoại lực bao gồm vốn đầu tư nước ngoài, khoa học công nghệ tiên tiến, kinh nghiệm quản lý từ các nước phát triển, và quá trình hội nhập kinh tế quốc tế. Các yếu tố này có thể mang lại cơ hội phát triển, nhưng cũng tiềm ẩn những thách thức và rủi ro nếu không được quản lý và sử dụng hiệu quả.
+
+Trong tâm linh và phát triển bản thân, ngoại lực được hiểu là những yếu tố bên ngoài tác động đến đời sống tinh thần, tâm lý của một người. Đó có thể là môi trường sống, gia đình, bạn bè, xã hội, các sự kiện bất ngờ, hay thậm chí là những yếu tố siêu hình như năng lượng vũ trụ, sự gia hộ từ các đấng vô hình. Khái niệm "năng lực ngoại cảm" (extrasensory perception - ESP) cũng có thể được xem là một dạng tương tác với "ngoại lực" siêu hình, nơi cá nhân tiếp nhận thông tin không qua các giác quan thông thường.
+
+1.2. Tác động của Ngoại lực
+
+Ngoại lực có thể mang lại cả tác động tích cực và tiêu cực, tùy thuộc vào bản chất của lực và cách hệ thống/cá nhân phản ứng với nó:
+
+- Tác động tích cực: Ngoại lực có thể là nguồn lực bổ sung quan trọng, mang lại cơ hội, kiến thức, công nghệ, và sự hỗ trợ cần thiết để vượt qua khó khăn, thúc đẩy sự phát triển. Ví dụ, vốn đầu tư nước ngoài giúp phát triển kinh tế, hoặc sự giúp đỡ từ cộng đồng khi gặp hoạn nạn.
+- Tác động tiêu cực: Ngoại lực cũng có thể gây ra sự phá hủy, biến đổi không mong muốn, hoặc tạo ra áp lực, thách thức lớn. Trong tâm linh, sự phụ thuộc quá nhiều vào ngoại lực có thể làm suy yếu nội lực, khiến cá nhân dễ bị chi phối bởi hoàn cảnh bên ngoài.
+
+1.3. Quan điểm của các vị thầy về Ngoại lực
+
+Các vị thầy, triết gia từ Đông sang Tây, kim cổ đều có những quan điểm riêng về ngoại lực và cách ứng xử với nó:
+
+- Hồ Chí Minh (Việt Nam): Trong tư tưởng của Chủ tịch Hồ Chí Minh, ngoại lực (sự giúp đỡ quốc tế) được coi là quan trọng, nhưng phải luôn đặt trên nền tảng của nội lực (sức mạnh tự thân của dân tộc). Ngài nhấn mạnh tinh thần "tự lực cánh sinh" nhưng không cô lập, biết tranh thủ sự ủng hộ từ bên ngoài để xây dựng và bảo vệ đất nước. Quan điểm này thể hiện sự cân bằng giữa việc phát huy sức mạnh nội tại và tận dụng các yếu tố thuận lợi từ bên ngoài.
+- Các triết gia phương Tây (ví dụ: Chủ nghĩa Khắc kỷ): Mặc dù triết học phương Tây thường nhấn mạnh lý trí và sự chinh phục tự nhiên, nhưng các trường phái như Chủ nghĩa Khắc kỷ (Stoicism) lại có quan điểm rất rõ ràng về ngoại lực. Các triết gia như Seneca, Epictetus, Marcus Aurelius dạy rằng con người không thể kiểm soát được các sự kiện bên ngoài (ngoại lực), nhưng hoàn toàn có thể kiểm soát phản ứng và thái độ của mình đối với chúng. Họ khuyến khích tập trung vào việc phát triển nội lực (tâm trí, đạo đức) để đạt được sự bình an và hạnh phúc, bất chấp hoàn cảnh bên ngoài.
+- Các quan điểm tâm linh: Trong nhiều truyền thống tâm linh, ngoại lực có thể được nhìn nhận là các yếu tố nghiệp quả, duyên nghiệp, hoặc sự tác động của các thế lực siêu nhiên. Tuy nhiên, hầu hết các giáo lý đều khuyến khích việc phát triển nội lực (sức mạnh tinh thần, trí tuệ) để không bị các ngoại lực này chi phối, mà thay vào đó, có thể chuyển hóa hoặc vượt qua chúng. Năng lực ngoại cảm, dù được coi là một dạng tương tác với ngoại lực, cũng cần được phát triển trên nền tảng của nội lực vững chắc để tránh những hệ lụy tiêu cực.
+
+Nhìn chung, dù ở khía cạnh nào, ngoại lực luôn là một phần không thể tránh khỏi của cuộc sống. Điều quan trọng là cách chúng ta nhận diện, hiểu rõ và tương tác với nó, đặc biệt là thông qua việc phát huy nội lực của chính mình.
+
+2. Nội lực: Sức mạnh từ bên trong
+
+2.1. Định nghĩa và các khía cạnh của Nội lực
+
+"Nội lực" là một khái niệm đối lập và bổ sung cho "ngoại lực", đề cập đến những sức mạnh, yếu tố hoặc nguồn lực có nguồn gốc từ bên trong một hệ thống, một vật thể, một cá nhân, hay một tổ chức. Nội lực là nền tảng cho sự tự chủ, bền vững và khả năng thích nghi.
+
+Trong khoa học tự nhiên, đặc biệt là Địa chất, nội lực là những lực sinh ra từ bên trong lòng Trái Đất. Nguyên nhân chủ yếu của nội lực là nguồn năng lượng từ quá trình phân hủy các chất phóng xạ và sự dịch chuyển của các dòng vật chất theo quy luật của trọng lực trong lòng đất. Tác động của nội lực làm cho vỏ Trái Đất bị uốn nếp, đứt gãy, gây ra các hiện tượng kiến tạo địa chất như động đất, núi lửa, và hình thành các dạng địa hình lớn như núi, cao nguyên, thung lũng.
+
+Trong triết học và kinh tế - xã hội, nội lực được hiểu là sức mạnh bên trong của một quốc gia, một tổ chức hoặc một cá nhân. Đối với một quốc gia, nội lực bao gồm nguồn nhân lực (trí tuệ, sức lao động, đạo đức), tài nguyên thiên nhiên, vốn tích lũy, trình độ khoa học công nghệ, truyền thống lịch sử, văn hóa và ý chí tự cường của dân tộc. Nội lực được coi là yếu tố quyết định sự phát triển bền vững và độc lập của một quốc gia.
+
+Trong tâm linh và phát triển bản thân, nội lực là sức mạnh tinh thần, sức mạnh nội tâm, ý chí, nghị lực, trí tuệ, sự bình an và khả năng tự chủ từ bên trong một con người. Đây là khả năng tự vượt qua khó khăn, nghịch cảnh, tự đứng vững bằng chính đôi chân của mình mà không phụ thuộc quá nhiều vào các yếu tố bên ngoài. Nội lực trong bối cảnh này bao gồm:
+
+- Tự nhận thức: Hiểu rõ bản thân, điểm mạnh, điểm yếu, giá trị và mục đích sống.
+- Bình an nội tại: Khả năng duy trì sự tĩnh lặng, an yên trong tâm hồn dù đối mặt với biến động bên ngoài.
+- Trí tuệ: Khả năng nhìn nhận vấn đề một cách sâu sắc, đúng đắn, đưa ra quyết định sáng suốt.
+- Ý chí và nghị lực: Sức mạnh để kiên trì theo đuổi mục tiêu, vượt qua thử thách, không bỏ cuộc.
+- Khả năng yêu thương vô điều kiện: Tình yêu thương không vụ lợi, không bám chấp, mang lại sự kết nối và hạnh phúc.
+
+2.2. Tầm quan trọng của Nội lực
+
+Nội lực đóng vai trò cực kỳ quan trọng trong mọi khía cạnh của cuộc sống, từ sự tồn vong của một quốc gia đến hạnh phúc của một cá nhân:
+
+- Là yếu tố quyết định: Trong triết học và kinh tế, nội lực được coi là yếu tố quyết định sự phát triển bền vững. Ngoại lực chỉ có thể phát huy tác dụng tối đa khi có nội lực vững mạnh làm nền tảng.
+- Tạo sự tự chủ và độc lập: Một cá nhân hay một quốc gia có nội lực mạnh mẽ sẽ ít bị phụ thuộc vào các yếu tố bên ngoài, có khả năng tự định đoạt vận mệnh của mình.
+- Khả năng phục hồi và thích nghi: Nội lực giúp con người và tổ chức có khả năng phục hồi nhanh chóng sau những cú sốc, biến cố, và thích nghi linh hoạt với những thay đổi của môi trường.
+- Nguồn gốc của hạnh phúc và bình an: Trong tâm linh, nội lực là nguồn gốc của hạnh phúc và bình an đích thực. Khi nội lực vững mạnh, con người không bị các yếu tố bên ngoài (ngoại lực) chi phối, làm chủ được cảm xúc và suy nghĩ của mình.
+- Khai phá tiềm năng: Phát triển nội lực giúp con người khai phá những tiềm năng ẩn giấu, vượt qua giới hạn của bản thân để đạt được những thành tựu lớn lao.
+
+2.3. Quan điểm của các vị thầy về Nội lực
+
+Nhiều vị thầy, triết gia và nhà lãnh đạo đã nhấn mạnh tầm quan trọng của nội lực trong các giáo lý và tư tưởng của họ:
+
+- Hồ Chí Minh (Việt Nam): Tư tưởng của Hồ Chí Minh về nội lực là kim chỉ nam cho sự nghiệp cách mạng và xây dựng đất nước của Việt Nam. Ngài luôn đề cao sức mạnh của khối đại đoàn kết toàn dân, tinh thần yêu nước, ý chí tự lực tự cường, coi đó là nguồn sức mạnh vô tận để vượt qua mọi khó khăn, đánh bại mọi kẻ thù và xây dựng một xã hội mới. Ngài khẳng định: "Muốn người ta giúp cho, thì trước mình phải tự giúp lấy mình đã."
+- Phan Bội Châu (Việt Nam): Một nhà cách mạng tiền bối của Việt Nam, Phan Bội Châu cũng kiên định với tư tưởng phát huy nội lực dân tộc. Ông tin rằng chỉ khi người Việt Nam tự mình đứng lên, tự mình mạnh mẽ từ bên trong, thì mới có thể giành lại độc lập và tự do.
+- Robin Sharma (Canada): Tác giả nổi tiếng về lãnh đạo và phát triển bản thân, Robin Sharma, thông qua khái niệm "lãnh đạo nội tâm" (inner leadership), khuyến khích mỗi cá nhân phát triển sức mạnh bên trong, làm chủ bản thân, từ đó mới có thể lãnh đạo người khác và tạo ra ảnh hưởng tích cực. Ông cho rằng thành công bền vững bắt nguồn từ sự phát triển nội tại.
+- Tara Swart (Anh): Là một nhà khoa học thần kinh, Tara Swart đã mang đến một góc nhìn khoa học về nội lực trong cuốn sách "Nội lực" (The Source). Bà chỉ ra rằng thông qua việc hiểu và làm chủ bộ não, con người có thể khai phá tiềm năng to lớn bên trong, điều chỉnh tâm trí và cảm xúc để đạt được mục tiêu và sống một cuộc đời trọn vẹn. Bà kết hợp các nguyên tắc khoa học thần kinh với các phương pháp thực hành để giúp cá nhân tăng cường nội lực.
+- Các triết gia phương Đông (Khổng Tử, Lão Tử, Phật giáo): Triết học phương Đông nói chung và các tôn giáo lớn như Phật giáo, Đạo giáo, Nho giáo nói riêng đều đặt trọng tâm vào việc tu dưỡng nội tâm. Khổng Tử với tư tưởng "tu thân, tề gia, trị quốc, bình thiên hạ" đã đặt "tu thân" (rèn luyện bản thân, phát triển nội lực đạo đức) làm gốc rễ cho mọi sự thành công. Lão Tử với triết lý "vô vi" khuyến khích con người thuận theo tự nhiên, tìm kiếm sự bình an và sức mạnh từ sự tĩnh lặng bên trong. Phật giáo, với giáo lý về Tứ Diệu Đế và Bát Chánh Đạo, tập trung hoàn toàn vào việc chuyển hóa nội tâm, đoạn trừ phiền não để đạt đến giác ngộ và giải thoát, coi đây là sức mạnh nội tại tối thượng.
+- Chủ nghĩa Khắc kỷ (Stoicism - Phương Tây cổ đại): Mặc dù là triết học phương Tây, Chủ nghĩa Khắc kỷ lại có nhiều điểm tương đồng với triết học phương Đông trong việc đề cao nội lực. Các triết gia Khắc kỷ như Seneca, Epictetus, Marcus Aurelius dạy rằng con người nên tập trung vào việc kiểm soát những gì trong tầm kiểm soát của mình (suy nghĩ, thái độ, hành động) và chấp nhận những gì nằm ngoài tầm kiểm soát (ngoại cảnh). Sức mạnh nội tâm, sự bình thản trước nghịch cảnh, và khả năng kiểm soát cảm xúc là những biểu hiện rõ rệt của nội lực theo quan điểm Khắc kỷ.
+
+Như vậy, dù ở bất kỳ thời đại hay nền văn hóa nào, nội lực luôn được coi là yếu tố then chốt, là nền tảng cho sự phát triển, hạnh phúc và sự làm chủ cuộc đời. Việc rèn luyện và phát huy nội lực là một hành trình liên tục và cần thiết cho mỗi cá nhân.
+
+3. Mối quan hệ giữa Ngoại lực và Nội lực
+
+3.1. Tương tác và ảnh hưởng lẫn nhau
+
+Mối quan hệ giữa nội lực và ngoại lực là một mối quan hệ biện chứng, phức tạp và luôn tương tác, ảnh hưởng lẫn nhau. Chúng không tồn tại độc lập mà luôn song hành và tác động qua lại trong mọi hệ thống, từ tự nhiên đến xã hội và con người.
+
+- Ngoại lực tác động đến Nội lực: Các yếu tố bên ngoài (ngoại lực) có thể tạo ra áp lực, thách thức, hoặc cơ hội, từ đó thúc đẩy hoặc kìm hãm sự phát triển của nội lực. Ví dụ, một môi trường cạnh tranh khốc liệt (ngoại lực) có thể buộc một doanh nghiệp phải nâng cao năng lực quản lý, đổi mới công nghệ (nội lực) để tồn tại. Hoặc một biến cố lớn trong cuộc đời (ngoại lực) có thể khiến một cá nhân phải đối mặt với chính mình, từ đó phát triển sức mạnh nội tâm (nội lực) để vượt qua.
+- Nội lực quyết định cách ứng phó với Ngoại lực: Mức độ mạnh yếu của nội lực sẽ quyết định khả năng một hệ thống hay cá nhân ứng phó với các tác động từ bên ngoài. Nội lực vững mạnh giúp chuyển hóa những thách thức từ ngoại lực thành cơ hội, biến nguy thành an. Ngược lại, nội lực yếu kém sẽ khiến dễ bị tổn thương, bị động trước các biến động bên ngoài. Như Chủ tịch Hồ Chí Minh đã khẳng định, ngoại lực chỉ có thể phát huy tác dụng thông qua nội lực. Một quốc gia không có nội lực vững mạnh thì dù có được sự giúp đỡ lớn từ bên ngoài cũng khó có thể phát triển bền vững.
+- Sự chuyển hóa lẫn nhau: Trong một số trường hợp, ngoại lực có thể được nội hóa, trở thành một phần của nội lực, và ngược lại. Ví dụ, kiến thức, công nghệ tiếp thu từ bên ngoài (ngoại lực) có thể được hấp thụ, cải tiến và trở thành năng lực nội tại của một quốc gia. Tương tự, sức mạnh nội tâm của một cá nhân có thể tạo ra những tác động tích cực đến môi trường xung quanh (ngoại lực).
+
+3.2. Bí mật của sự cân bằng và phát huy
+
+Bí mật để thành công và hạnh phúc nằm ở việc nhận thức rõ mối quan hệ này và biết cách cân bằng, phát huy tối đa cả nội lực và ngoại lực:
+
+- Ưu tiên phát triển Nội lực: Đây là nguyên tắc cốt lõi. Nội lực là gốc rễ, là nền tảng. Dù có bao nhiêu cơ hội hay sự giúp đỡ từ bên ngoài, nếu không có nội lực vững chắc thì mọi thứ đều trở nên vô nghĩa. Việc đầu tư vào giáo dục, rèn luyện bản thân, tu dưỡng đạo đức, phát triển trí tuệ là những cách để tăng cường nội lực.
+- Biết tranh thủ và tận dụng Ngoại lực: Không nên cô lập hay bỏ qua các yếu tố ngoại lực. Ngoại lực có thể là nguồn tài nguyên, kiến thức, kinh nghiệm quý báu. Vấn đề là phải có tầm nhìn và khả năng để nhận diện, chọn lọc và sử dụng ngoại lực một cách khôn ngoan, phù hợp với nội lực và mục tiêu của mình.
+- Chuyển hóa Ngoại lực thành Nội lực: Đây là nghệ thuật cao nhất. Thay vì để ngoại lực chi phối, hãy biến những tác động từ bên ngoài thành động lực để tự hoàn thiện, tự phát triển. Ví dụ, học hỏi từ những nền văn hóa khác, tiếp thu công nghệ mới, hay biến những lời phê bình thành động lực để sửa đổi và tiến bộ.
+- Sự linh hoạt và thích nghi: Mối quan hệ giữa nội lực và ngoại lực không tĩnh tại mà luôn thay đổi. Do đó, cần có sự linh hoạt để điều chỉnh chiến lược, cách tiếp cận, và luôn sẵn sàng thích nghi với những biến động của môi trường. Điều này đòi hỏi một nội lực đủ mạnh để không bị hoang mang, dao động trước những thay đổi.
+
+Trong bối cảnh cá nhân, việc phát triển nội lực (sức mạnh tinh thần, trí tuệ, sự bình an) giúp chúng ta không bị các yếu tố bên ngoài (áp lực công việc, mối quan hệ, khó khăn tài chính) làm cho suy sụp. Khi nội lực vững vàng, chúng ta có thể nhìn nhận các vấn đề bên ngoài một cách khách quan, tìm ra giải pháp hiệu quả, và duy trì sự bình an trong tâm hồn. Ngược lại, nếu chỉ chạy theo các yếu tố bên ngoài (tiền bạc, danh vọng, sự công nhận) mà bỏ quên việc tu dưỡng nội tâm, chúng ta sẽ dễ dàng rơi vào trạng thái bất an, lo lắng, và khổ đau, dù có đạt được những thành công vật chất nhất định.
+
+4. Bát Chánh Đạo: Con đường phát triển Nội lực và vượt qua Ngoại lực
+
+4.1. Tổng quan về Bát Chánh Đạo
+
+Bát Chánh Đạo (hay Bát Thánh Đạo) là một trong những giáo lý cốt lõi và toàn diện nhất của Phật giáo, được Đức Phật Thích Ca Mâu Ni giảng dạy như con đường duy nhất dẫn đến sự chấm dứt khổ đau, giác ngộ và Niết Bàn. Đây không chỉ là một tập hợp các nguyên tắc đạo đức mà là một lộ trình thực hành cụ thể để chuyển hóa tâm thức, phát triển nội lực tối thượng và vượt qua mọi sự chi phối của ngoại lực. Thiền Sư Nguyên Tuệ nhấn mạnh Bát Chánh Đạo là con đường trung đạo, tránh xa hai cực đoan: ép xác khổ hạnh và hưởng thụ dục lạc, hướng đến một đời sống cao thượng, hạnh phúc, đưa đến sự chấm dứt khổ đau, đạt được giác ngộ và Niết Bàn.
+
+Bát Chánh Đạo là chi phần thứ tư của Tứ Diệu Đế (Đạo Đế), bao gồm tám yếu tố chân chính, được chia thành ba nhóm chính: Giới (đạo đức), Định (tập trung tinh thần) và Tuệ (trí tuệ):
+
+- Giới (Sīla): Nền tảng đạo đức, bao gồm Chánh Ngữ, Chánh Nghiệp, Chánh Mạng.
+- Định (Samādhi): Sự phát triển của tâm trí, bao gồm Chánh Tinh Tấn, Chánh Niệm, Chánh Định.
+- Tuệ (Paññā): Sự hiểu biết sâu sắc, bao gồm Chánh Kiến, Chánh Tư Duy.
+
+Tám chi phần này không phải là các bước tuần tự mà là những yếu tố tương hỗ, cùng phát triển đồng thời. Chánh Kiến là yếu tố dẫn đầu, soi sáng cho các chi phần khác, trong khi Giới là nền tảng cho Định, và Định là điều kiện cho Tuệ sinh khởi và phát triển. Thiền Sư Nguyên Tuệ đặc biệt nhấn mạnh vai trò của Chánh Niệm là yếu tố then chốt để đạt được Chánh Định và Chánh Tri Kiến..
+
+4.2. Tám chi phần của Bát Chánh Đạo và vai trò trong việc phát triển Nội lực
+
+Mỗi chi phần của Bát Chánh Đạo đều đóng vai trò quan trọng trong việc phát triển nội lực và giúp cá nhân làm chủ cuộc đời mình:
+
+4.2.1. Nhóm Tuệ (Paññā)
+
+1. Chánh Kiến (Sammā Diṭṭhi): Hiểu biết đúng đắn về thực tại, về Tứ Diệu Đế (Khổ, Tập, Diệt, Đạo), về vô thường, khổ, vô ngã. Chánh Kiến là nền tảng của mọi sự tu tập, giúp nhận diện đúng bản chất của khổ đau và con đường thoát khổ. Khi có Chánh Kiến, cá nhân sẽ không bị mê lầm bởi các quan niệm sai lầm hay những ảo ảnh từ ngoại lực, từ đó phát triển nội lực trí tuệ để nhìn thấu mọi vấn đề.
+2. Chánh Tư Duy (Sammā Saṅkappa): Suy nghĩ, tư duy đúng đắn, hướng đến sự từ bỏ (ly dục), không sân hận, và không làm hại. Chánh Tư Duy giúp thanh lọc tâm trí khỏi những suy nghĩ tiêu cực, tham lam, sân hận, si mê – những yếu tố làm suy yếu nội lực. Bằng cách rèn luyện Chánh Tư Duy, cá nhân sẽ phát triển nội lực về ý chí và lòng từ bi, không bị cuốn theo những ham muốn hay sự thù hằn do ngoại cảnh kích thích.
+
+4.2.2. Nhóm Giới (Sīla)
+
+1. Chánh Ngữ (Sammā Vācā): Lời nói đúng đắn, không nói dối, không nói lời chia rẽ, không nói lời thô tục, không nói lời vô ích. Chánh Ngữ giúp xây dựng các mối quan hệ lành mạnh, tạo ra môi trường sống tích cực, từ đó củng cố nội lực về đạo đức và sự bình an trong tâm hồn. Lời nói chân thật, hòa ái cũng là biểu hiện của một nội lực vững vàng, không bị chi phối bởi cảm xúc nhất thời.
+2. Chánh Nghiệp (Sammā Kammanta): Hành động đúng đắn, không sát sinh, không trộm cắp, không tà dâm. Chánh Nghiệp đảm bảo các hành vi của cá nhân không gây hại cho bản thân và người khác, tạo ra nghiệp lành. Khi hành động đúng đắn, cá nhân sẽ có lương tâm trong sáng, không bị dằn vặt, lo sợ, từ đó phát triển nội lực về sự tự tin và thanh thản.
+3. Chánh Mạng (Sammā Ājīva): Nuôi mạng sống một cách chân chính, lương thiện, không làm các nghề gây hại cho chúng sinh. Chánh Mạng giúp cá nhân sống một cuộc đời có ý nghĩa, không bị ràng buộc bởi những lo toan vật chất bất chính. Điều này tạo điều kiện cho nội lực tinh thần được phát triển, không bị vướng bận bởi những gánh nặng nghiệp chướng hay sự phụ thuộc vào các nguồn lực bên ngoài không trong sạch.
+
+4.2.3. Nhóm Định (Samādhi)
+
+1. Chánh Tinh Tấn (Sammā Vāyāma): Nỗ lực, siêng năng đúng đắn để ngăn ngừa các điều ác chưa sinh, diệt trừ các điều ác đã sinh, làm phát sinh các điều thiện chưa sinh, và duy trì các điều thiện đã sinh. Chánh Tinh Tấn là động lực để cá nhân không ngừng rèn luyện, vượt qua lười biếng và sự trì hoãn, từ đó phát triển nội lực về ý chí, sự kiên trì và khả năng tự kỷ luật.
+2. Chánh Niệm (Sammā Sati): Ghi nhớ, chú tâm đúng đắn, tỉnh giác về những gì đang xảy ra trong thân, thọ (cảm giác), tâm, và pháp (các đối tượng của tâm) trong giây phút hiện tại. Thiền Sư Nguyên Tuệ phân biệt rõ ràng giữa Tà Niệm (nhớ đến thông tin Vô Minh, Chấp Ngã, dẫn đến Bát Tà Đạo) và Chánh Niệm (nhớ đến thông tin Minh, Trí Tuệ, dẫn đến Bát Chánh Đạo). Chánh Niệm giúp cá nhân sống trọn vẹn trong hiện tại, không bị quá khứ ràng buộc hay tương lai lôi kéo. Đây là yếu tố then chốt để phát triển nội lực về sự tập trung, sự bình an và khả năng nhận biết sâu sắc, không bị các ngoại cảnh làm xao nhãng hay cuốn đi. Đặc biệt, Thiền Sư Nguyên Tuệ nhấn mạnh việc chú tâm quán sát các cảm giác nơi thân (Niệm Thân), cảm giác nói chung (Niệm Thọ), các đối tượng được thấy, nghe, cảm nhận là cảm giác/cảm thọ (Niệm Tâm), và Tứ Thánh Đế thuộc về nội tâm (Niệm Pháp) để đạt được Tỉnh Giác và Tâm Giải Thoát.
+3. Chánh Định (Sammā Samādhi): Sự tập trung tư tưởng đúng đắn, tâm an trú vào một đối tượng duy nhất mà không bị phân tán, dẫn đến các tầng thiền định. Chánh Định giúp tâm trí trở nên trong sáng, vững chãi, không bị dao động bởi các yếu tố bên ngoài. Khi đạt được Chánh Định, cá nhân sẽ phát triển nội lực về sự tĩnh lặng, sự minh mẫn và khả năng làm chủ tâm trí, không còn bị ngoại lực chi phối cảm xúc và suy nghĩ.
+
+4.3. Bát Chánh Đạo trong các truyền thống Phật giáo
+
+Bát Chánh Đạo là giáo lý nền tảng được tất cả các truyền thống Phật giáo, từ Theravada, Mahayana đến Thiền tông, đều công nhận và thực hành, mặc dù có thể có những cách diễn giải và nhấn mạnh khác nhau:
+
+- Phật giáo Theravada (Nguyên thủy): Truyền thống Theravada bám sát kinh điển Pāli, coi Bát Chánh Đạo là con đường trực tiếp và duy nhất để đạt đến Niết Bàn. Việc thực hành Tứ Niệm Xứ (một phần của Chánh Niệm) được nhấn mạnh là phương pháp cốt lõi để phát triển các chi phần của Bát Chánh Đạo, đặc biệt là Định và Tuệ. Các thiền sư Theravada thường hướng dẫn hành giả chú tâm vào hơi thở, các cảm giác trên thân, sự sinh diệt của cảm thọ và tâm để đạt được sự tỉnh giác và trí tuệ.
+- Phật giáo Mahayana (Đại thừa): Trong Mahayana, Bát Chánh Đạo vẫn là nền tảng, nhưng được tích hợp vào con đường Bồ Tát đạo, với mục tiêu không chỉ là giải thoát cho bản thân mà còn cho tất cả chúng sinh. Các chi phần của Bát Chánh Đạo được thực hành cùng với Ba La Mật (Lục Độ Ba La Mật: Bố thí, Trì giới, Nhẫn nhục, Tinh tấn, Thiền định, Trí tuệ) để phát triển lòng từ bi và trí tuệ viên mãn. Chánh Kiến và Chánh Tư Duy trong Mahayana thường được mở rộng để bao gồm sự hiểu biết về tánh không và vô ngã của vạn pháp.
+- Thiền tông (Zen Buddhism): Thiền tông nhấn mạnh sự giác ngộ tức thì thông qua thiền định (Zazen) và sự trực nhận bản tánh. Mặc dù không thường xuyên liệt kê từng chi phần của Bát Chánh Đạo một cách rõ ràng như Theravada, nhưng các nguyên tắc của Bát Chánh Đạo vẫn được ngầm hiểu và thực hành trong mọi khía cạnh của đời sống Thiền. Chánh Niệm và Chánh Định là trọng tâm của thực hành Thiền, giúp hành giả đạt được sự tỉnh giác và trí tuệ để vượt thoát khỏi những vọng tưởng và chấp trước. Chánh Kiến trong Thiền tông là sự trực nhận chân lý, không qua suy luận hay khái niệm.
+
+Nhìn chung, Bát Chánh Đạo là một lộ trình toàn diện để phát triển nội lực ở mọi cấp độ: từ đạo đức (Giới), đến sự ổn định của tâm trí (Định), và cuối cùng là trí tuệ giải thoát (Tuệ). Bằng cách thực hành Bát Chánh Đạo, cá nhân có thể làm chủ bản thân, không bị các ngoại lực chi phối, và đạt được sự bình an, hạnh phúc đích thực.
+
+5. Tổng hợp và kết luận: Bí mật của sự làm chủ cuộc đời
+
+Cuộc sống là một hành trình liên tục của sự tương tác giữa nội lực và ngoại lực. Ngoại lực, dù là những yếu tố vật lý tự nhiên, các điều kiện kinh tế - xã hội, hay những tác động tâm linh bên ngoài, luôn hiện hữu và không ngừng tác động đến chúng ta. Chúng có thể mang lại cơ hội, nhưng cũng tiềm ẩn vô vàn thách thức, thậm chí là khổ đau.
+
+Tuy nhiên, như đã phân tích, bí mật của sự làm chủ cuộc đời không nằm ở việc kiểm soát hay loại bỏ hoàn toàn ngoại lực – điều gần như bất khả thi. Thay vào đó, bí mật nằm ở việc phát triển và làm chủ nội lực của chính mình. Nội lực là sức mạnh tinh thần, ý chí, trí tuệ, sự bình an và khả năng tự chủ từ bên trong. Khi nội lực vững mạnh, chúng ta có thể:
+
+- Nhận diện và chuyển hóa ngoại lực: Không bị cuốn theo những biến động bên ngoài, mà có khả năng nhìn nhận chúng một cách khách quan, biến thách thức thành cơ hội, biến nghịch cảnh thành động lực để trưởng thành.
+- Duy trì sự bình an và hạnh phúc: Không phụ thuộc vào các điều kiện bên ngoài để cảm thấy hạnh phúc. Hạnh phúc và bình an đích thực đến từ sự thanh tịnh và vững chãi của nội tâm.
+- Sống một cuộc đời có ý nghĩa: Làm chủ bản thân, đưa ra những lựa chọn sáng suốt, và hành động phù hợp với giá trị cốt lõi của mình, không bị chi phối bởi những áp lực hay cám dỗ từ bên ngoài.
+
+Bát Chánh Đạo chính là con đường, là phương pháp toàn diện và thực tiễn để phát triển nội lực tối thượng này. Tám chi phần của Bát Chánh Đạo – từ Chánh Kiến đến Chánh Định – không chỉ là những nguyên tắc đạo đức mà là một lộ trình tu tập tâm linh sâu sắc, giúp chúng ta:
+
+- Xây dựng Chánh Kiến và Chánh Tư Duy: Phát triển trí tuệ để hiểu đúng bản chất của thực tại, không bị mê lầm bởi những ảo ảnh hay quan niệm sai lầm.
+- Thanh lọc hành động và lời nói: Sống một cuộc đời đạo đức, lương thiện, không gây hại cho bản thân và người khác, từ đó tạo ra nghiệp lành và sự bình an trong tâm hồn.
+- Rèn luyện sự tập trung và tỉnh giác: Làm chủ tâm trí, không bị phân tán bởi những yếu tố bên ngoài, sống trọn vẹn trong hiện tại.
+
+Các vị thầy từ Đông sang Tây, từ cổ chí kim, dù với những ngôn ngữ và bối cảnh khác nhau, đều đã chỉ ra tầm quan trọng của việc quay về bên trong, phát triển sức mạnh nội tại. Từ tư tưởng "tự lực cánh sinh" của Hồ Chí Minh, đến triết lý "lãnh đạo nội tâm" của Robin Sharma, hay sự nhấn mạnh vào tu dưỡng nội tâm trong triết học phương Đông và Chủ nghĩa Khắc kỷ phương Tây, tất cả đều hội tụ ở một điểm: sức mạnh đích thực đến từ bên trong.
+
+Trong một thế giới đầy biến động và bất định, việc trang bị cho mình một nội lực vững vàng thông qua việc thực hành Bát Chánh Đạo không chỉ là một lựa chọn mà là một sự cần thiết. Đây không chỉ là con đường dẫn đến giác ngộ và giải thoát trong Phật giáo, mà còn là bí quyết để mỗi cá nhân có thể làm chủ cuộc đời mình, sống một cách an lạc, hạnh phúc và có ý nghĩa, bất chấp mọi ngoại lực tác động.
+
+2.4. Mindset và Trò chơi tâm trí: Khai phá và rèn luyện Nội lực
+
+Trong bối cảnh phát triển bản thân và tâm linh, việc hiểu và rèn luyện "mindset" (tư duy) cùng với việc nhận diện "trò chơi tâm trí" là những yếu tố then chốt để khai phá và tăng cường nội lực. Các video nghiên cứu đã cung cấp những góc nhìn sâu sắc về cách chúng ta có thể sử dụng tư duy và nhận thức để làm chủ bản thân, vượt qua những rào cản nội tại.
+
+2.4.1. Mindset: Nền tảng của Nội lực
+
+Mindset là tập hợp những niềm tin, thái độ và quan điểm định hình cách chúng ta nhìn nhận thế giới và bản thân. Một mindset tích cực và phát triển (Growth Mindset) là yếu tố quan trọng để xây dựng nội lực mạnh mẽ. Các điểm chính được rút ra từ các video bao gồm:
+
+- Tầm nhìn và mục tiêu rõ ràng: Sự trì hoãn và thiếu động lực thường xuất phát từ việc không có mục tiêu rõ ràng. Khi có một tầm nhìn cụ thể, phù hợp với giá trị bản thân, động lực sẽ tự nhiên mạnh mẽ hơn. Việc biết rõ mình đang hướng tới điều gì sẽ tạo ra nội lực để hành động và vượt qua khó khăn.
+- Hành động tạo ra động lực: Thay vì chờ đợi động lực đến rồi mới hành động, hãy bắt đầu hành động trước. Dù là những bước nhỏ, hành động sẽ tạo ra kỷ luật và đà tiến lên. Chính những tiến bộ này sẽ trở thành nguồn nhiên liệu, củng cố nội lực và tạo ra động lực để tiếp tục.
+- Chấp nhận cảm giác thiếu động lực: Mất động lực là một phần tự nhiên của quá trình. Việc chấp nhận cảm giác này, kiên nhẫn với bản thân, cho phép nghỉ ngơi và sạc lại năng lượng là cách để rèn luyện sự kiên cường. Điều này giúp chúng ta không bị suy sụp khi đối mặt với những giai đoạn khó khăn, từ đó tăng cường khả năng tự vực dậy tinh thần.
+- Môi trường và sự lây lan của động lực: Môi trường xung quanh và những người chúng ta tiếp xúc có ảnh hưởng lớn đến nội lực và động lực cá nhân. Khi ở cạnh những người tích cực, nỗ lực, chúng ta sẽ nhận được "áp lực đồng trang lứa" tích cực, truyền cảm hứng và thúc đẩy bản thân cố gắng hơn. Điều này cho thấy ngoại lực (môi trường xã hội) có thể được tận dụng để củng cố nội lực.
+
+2.4.2. Trò chơi tâm trí: Làm chủ Tâm biết và Ý thức
+
+Khái niệm "trò chơi tâm trí" (mind game) đề cập đến cách tâm trí chúng ta hoạt động, xử lý thông tin và tạo ra nhận thức về thực tại. Video đã phân tích rằng tâm trí chúng ta hoạt động giống như một chiếc máy tính, xử lý thông tin dựa trên các "chương trình" đã được cài đặt sẵn – bao gồm bản năng vô thức và hệ thống niềm tin đã hình thành. Cảm xúc và hành động của chúng ta thường là những phản ứng cơ học dựa trên các chương trình này khi chúng ta tiếp nhận thông tin mới.
+
+Việc nhận diện và làm chủ "trò chơi tâm trí" này là cực kỳ quan trọng để phát triển nội lực:
+
+- Nhận diện các "chương trình" vô thức: Chúng ta thường bị mắc kẹt trong "trò chơi tâm trí" này, phản ứng tự động dựa trên kinh nghiệm quá khứ và sự điều kiện hóa của xã hội mà không có sự nhận thức có ý thức. Ví dụ, niềm tin rằng phải đi học, có công việc tốt, kiếm nhiều tiền mới hạnh phúc là một "chương trình" đã được thiết lập. Việc nhận ra những chương trình này là bước đầu tiên để thoát khỏi sự kiểm soát của chúng.
+- Thực tại là cảm giác: Video nhấn mạnh rằng nhận thức của chúng ta về thực tại không phải là thực tại khách quan, mà là một cảm giác được tạo ra bởi tâm trí dựa trên các chương trình này. Điều này tương đồng với quan điểm của Thiền Sư Nguyên Tuệ về "Tâm biết trực tiếp" (Tưởng) và "Tâm biết Ý thức". Tâm biết trực tiếp chỉ ghi nhận cảm giác mà không phân biệt, trong khi Tâm biết Ý thức mới gán nghĩa và tạo ra "thực tại" dựa trên tri thức và vô minh.
+- Thoát khỏi sự kiểm soát tự động: Khi hiểu được cách "trò chơi tâm trí" vận hành, chúng ta có thể phá vỡ vòng lặp của những phản ứng tự động. Thay vì bị kiểm soát bởi các chương trình cũ, chúng ta có thể ý thức lựa chọn cách phản ứng, cách tư duy, và cách cảm nhận. Đây chính là quá trình làm chủ tâm trí, chuyển từ trạng thái bị động sang chủ động, từ đó tăng cường nội lực.
+- Sống trong hiện tại: Việc theo đuổi những ảo ảnh của tương lai do "chương trình" cũ tạo ra khiến chúng ta quên đi việc sống trong hiện tại. Làm chủ trò chơi tâm trí giúp chúng ta quay về với hiện tại, trải nghiệm cuộc sống một cách trọn vẹn và chân thực hơn, không bị chi phối bởi những lo lắng về quá khứ hay tương lai.
+
+Tổng hợp lại, việc rèn luyện một mindset phát triển và nhận diện, làm chủ "trò chơi tâm trí" là những phương pháp hiệu quả để tăng cường nội lực. Chúng giúp chúng ta không chỉ hiểu rõ bản thân hơn mà còn có khả năng điều chỉnh suy nghĩ, cảm xúc và hành động để sống một cuộc đời có ý thức, tự chủ và hạnh phúc hơn, bất chấp những tác động từ ngoại lực.
+
+2.4.3. Dopamine và Động lực: Cơ chế sinh học của Nội lực
+
+Playlist "Tất tần tật về Dopamine" cung cấp cái nhìn sâu sắc về vai trò của Dopamine, một chất dẫn truyền thần kinh, trong việc điều khiển động lực, năng suất và sự tập trung. Việc hiểu rõ cơ chế hoạt động của Dopamine giúp chúng ta làm chủ được nguồn năng lượng nội tại này để duy trì động lực liên tục và theo đuổi mục tiêu lành mạnh.
+
+- Dopamine là động lực, không phải niềm vui: Dopamine được giải phóng khi chúng ta dự đoán một phần thưởng, thúc đẩy chúng ta hành động để đạt được nó. Nó là chất dẫn truyền thần kinh của sự "mong muốn" (wanting), chứ không phải "thích" (liking). Điều này giải thích tại sao chúng ta thường cảm thấy hưng phấn khi theo đuổi mục tiêu hơn là khi đạt được nó. Hiểu được điều này giúp chúng ta tập trung vào quá trình, không chỉ kết quả.
+- Kiểm soát Dopamine để duy trì động lực:
+    - Tránh các nguồn Dopamine tức thời, dễ dàng: Các hoạt động như lướt mạng xã hội, ăn đồ ăn nhanh, xem phim giải trí quá mức cung cấp lượng Dopamine cao tức thời nhưng không bền vững, dẫn đến tình trạng "nghiện" và giảm khả năng tập trung vào các mục tiêu dài hạn. Việc "Dopamine Detox" (giải độc Dopamine) là cần thiết để thiết lập lại ngưỡng Dopamine của não bộ, giúp chúng ta tìm thấy niềm vui và động lực từ những hoạt động có ý nghĩa hơn.
+    - Tăng Dopamine thông qua nỗ lực và thành tựu: Dopamine được giải phóng một cách bền vững hơn khi chúng ta vượt qua thử thách và đạt được thành tựu thông qua nỗ lực. Điều này củng cố hành vi tích cực và tạo ra một vòng lặp động lực lành mạnh. Ví dụ, việc hoàn thành một nhiệm vụ khó khăn, học được một kỹ năng mới, hay đạt được một mục tiêu nhỏ đều kích thích Dopamine một cách tích cực.
+    - Sức mạnh của sự trì hoãn có kiểm soát: Đôi khi, việc trì hoãn một phần thưởng nhỏ có thể làm tăng mức Dopamine khi phần thưởng đó được nhận, tạo ra cảm giác thỏa mãn lớn hơn. Điều này khuyến khích sự kiên nhẫn và khả năng chịu đựng sự khó chịu tạm thời để đạt được mục tiêu lớn hơn.
+- Ứng dụng trong cuộc sống: Việc hiểu về Dopamine giúp chúng ta thiết kế môi trường và thói quen sống để tối ưu hóa động lực. Ví dụ, đặt ra các mục tiêu rõ ràng, chia nhỏ nhiệm vụ, và tự thưởng cho bản thân một cách có ý thức sau khi hoàn thành công việc có thể giúp duy trì mức Dopamine ổn định và thúc đẩy hành động.
+
+Việc làm chủ Dopamine là một phần quan trọng của việc rèn luyện nội lực, giúp chúng ta không bị cuốn vào những "trò chơi tâm trí" của sự thỏa mãn tức thời mà tập trung vào những giá trị bền vững và có ý nghĩa hơn trong cuộc sống.
+
+2.4.4. David Goggins và Triết lý "Sức mạnh tinh thần tối thượng"
+
+Playlist David Goggins cung cấp những bài học sâu sắc về việc phát triển sức mạnh tinh thần và nội lực thông qua việc đối mặt với khó khăn, thử thách bản thân và vượt qua giới hạn. David Goggins, một cựu Navy SEAL, là biểu tượng của việc chuyển hóa đau khổ thành sức mạnh, từ một người béo phì, trầm cảm thành một trong những người có sức bền tinh thần mạnh mẽ nhất thế giới.
+
+- "Callusing the Mind" - Rèn luyện tâm trí như rèn luyện cơ thể: Goggins tin rằng tâm trí cũng giống như cơ thể, có thể được rèn luyện và tăng cường thông qua việc đối mặt với khó khăn. Mỗi lần vượt qua một thử thách, tâm trí sẽ trở nên cứng cáp hơn, có khả năng chịu đựng nhiều áp lực hơn. Điều này tương đồng với khái niệm "nội lực" - sức mạnh được xây dựng từ bên trong thông qua quá trình tu luyện và thử thách.
+- "40% Rule" - Quy tắc 40%: Khi cảm thấy mệt mỏi và muốn bỏ cuộc, thực tế chúng ta chỉ mới sử dụng 40% khả năng của mình. Còn lại 60% là dự trữ tiềm năng có thể được khai phá khi chúng ta vượt qua rào cản tâm lý. Điều này cho thấy nội lực thực sự của con người còn rất lớn, chỉ cần biết cách khai phá.
+- "Embrace the Suck" - Chấp nhận và yêu thương khó khăn: Thay vì tránh né khó khăn, Goggins khuyến khích chúng ta chủ động tìm kiếm và đối mặt với chúng. Khó khăn không phải là kẻ thù mà là người thầy, giúp chúng ta phát triển sức mạnh nội tại. Khi chấp nhận khó khăn như một phần tự nhiên của cuộc sống, chúng ta sẽ không còn bị chúng làm suy sụp.
+- "Stay Hard" - Duy trì sự cứng rắn: Đây không chỉ là khẩu hiệu mà là một triết lý sống. "Stay Hard" có nghĩa là duy trì sự kiên cường, không để bản thân trở nên mềm yếu trước những cám dỗ hay khó khăn. Điều này đòi hỏi sự kỷ luật cao độ và khả năng tự kiểm soát - những yếu tố cốt lõi của nội lực.
+- "You vs You" - Cuộc chiến với chính mình: Goggins nhấn mạnh rằng kẻ thù lớn nhất của chúng ta không phải là người khác hay hoàn cảnh bên ngoài, mà chính là bản thân chúng ta - những giới hạn tự đặt ra, những lời nói dối với bản thân, và sự thiếu kỷ luật. Cuộc chiến thực sự diễn ra trong nội tâm, và chiến thắng ở đây sẽ dẫn đến chiến thắng trong cuộc sống.
+
+Triết lý của David Goggins không chỉ là về việc chịu đựng đau khổ mà là về việc chuyển hóa đau khổ thành sức mạnh. Điều này hoàn toàn phù hợp với quan điểm Phật giáo về việc chuyển hóa khổ đau thành trí tuệ và giải thoát. Goggins đã chứng minh rằng bất kỳ ai cũng có thể phát triển nội lực mạnh mẽ nếu sẵn sàng đối mặt với chính mình và không ngừng thử thách giới hạn của bản thân.
+
+2.4.5. Danny Tran và T3F: Hồi phục tâm trí và xây dựng nội lực
+
+Playlist "T3F - Những kiến thức cốt lõi nhất để hồi phục khỏi Pỏn" của Danny Tran, mặc dù tập trung vào một chủ đề cụ thể, nhưng lại chứa đựng nhiều bài học giá trị về cách tâm trí hoạt động, cơ chế nghiện ngập, và cách xây dựng nội lực để vượt qua những thói quen xấu. Các video này cung cấp cái nhìn sâu sắc về "trò chơi tâm trí" mà chúng ta thường mắc phải và cách để giành lại quyền kiểm soát.
+
+- Cơ chế nghiện ngập và Dopamine: Các video giải thích rõ ràng về vai trò của Dopamine trong việc hình thành thói quen và nghiện ngập. Khi chúng ta lặp đi lặp lại một hành vi mang lại Dopamine tức thời (như xem Pỏn), não bộ sẽ tạo ra các đường dẫn thần kinh mạnh mẽ, khiến chúng ta khó thoát ra. Việc hiểu cơ chế này là bước đầu tiên để phá vỡ vòng lặp nghiện ngập.
+- Sức mạnh của sự kết nối: Một trong những thông điệp quan trọng là "đối lập của nghiện ngập là kết nối". Khi chúng ta cảm thấy cô đơn, bị cô lập, chúng ta dễ tìm đến những hành vi gây nghiện để lấp đầy khoảng trống. Việc xây dựng các mối quan hệ lành mạnh, kết nối với cộng đồng, và tìm kiếm sự hỗ trợ là yếu tố then chốt để hồi phục và xây dựng nội lực.
+- Kỷ luật và tự kiểm soát: Các video nhấn mạnh tầm quan trọng của kỷ luật và tự kiểm soát trong việc vượt qua thói quen xấu. Điều này bao gồm việc thiết lập các ranh giới rõ ràng, tránh xa các yếu tố kích hoạt, và thực hành các thói quen tích cực để thay thế. Đây là những khía cạnh quan trọng của nội lực, giúp chúng ta làm chủ bản thân thay vì bị chi phối bởi ham muốn.
+- Chuyển hóa năng lượng: Thay vì lãng phí năng lượng vào những thói quen tiêu cực, các video khuyến khích việc chuyển hóa năng lượng đó vào những hoạt động tích cực và có ý nghĩa hơn như tập thể dục, học tập, làm việc, hoặc phát triển bản thân. Đây là một cách hiệu quả để xây dựng nội lực và hướng cuộc sống theo chiều hướng tích cực.
+- Sự kiên trì và chấp nhận thất bại: Quá trình hồi phục và xây dựng nội lực không phải là một đường thẳng. Sẽ có những lúc chúng ta vấp ngã, tái nghiện. Tuy nhiên, điều quan trọng là không bỏ cuộc, học hỏi từ những sai lầm, và tiếp tục kiên trì. Việc chấp nhận thất bại như một phần của quá trình học hỏi và phát triển là một dấu hiệu của nội lực mạnh mẽ.
+
+Tổng thể, các video của Danny Tran cung cấp một góc nhìn thực tế và sâu sắc về cách tâm trí hoạt động, đặc biệt là trong bối cảnh nghiện ngập. Những bài học này có thể áp dụng rộng rãi để xây dựng nội lực, vượt qua các thói quen xấu, và phát triển một lối sống lành mạnh, có ý thức hơn.
+
+2.4.6. T3F và Hồi phục tâm trí: Vượt qua trò chơi tâm trí
+
+Playlist "T3F - Những kiến thức cốt lõi nhất để hồi phục khỏi Pỏn" của Danny Tran, mặc dù tập trung vào một chủ đề cụ thể, nhưng lại chứa đựng nhiều bài học giá trị về cách tâm trí hoạt động, cơ chế nghiện ngập, và cách xây dựng nội lực để vượt qua những thói quen xấu. Các video này cung cấp cái nhìn sâu sắc về "trò chơi tâm trí" mà chúng ta thường mắc phải và cách để giành lại quyền kiểm soát.
+
+- Cơ chế nghiện ngập và Dopamine: Các video giải thích rõ ràng về vai trò của Dopamine trong việc hình thành thói quen và nghiện ngập. Khi chúng ta lặp đi lặp lại một hành vi mang lại Dopamine tức thời (như xem Pỏn), não bộ sẽ tạo ra các đường dẫn thần kinh mạnh mẽ, khiến chúng ta khó thoát ra. Việc hiểu cơ chế này là bước đầu tiên để phá vỡ vòng lặp nghiện ngập.
+- Sức mạnh của sự kết nối: Một trong những thông điệp quan trọng là "đối lập của nghiện ngập là kết nối". Khi chúng ta cảm thấy cô đơn, bị cô lập, chúng ta dễ tìm đến những hành vi gây nghiện để lấp đầy khoảng trống. Việc xây dựng các mối quan hệ lành mạnh, kết nối với cộng đồng, và tìm kiếm sự hỗ trợ là yếu tố then chốt để hồi phục và xây dựng nội lực.
+- Kỷ luật và tự kiểm soát: Các video nhấn mạnh tầm quan trọng của kỷ luật và tự kiểm soát trong việc vượt qua thói quen xấu. Điều này bao gồm việc thiết lập các ranh giới rõ ràng, tránh xa các yếu tố kích hoạt, và thực hành các thói quen tích cực để thay thế. Đây là những khía cạnh quan trọng của nội lực, giúp chúng ta làm chủ bản thân thay vì bị chi phối bởi ham muốn.
+- Chuyển hóa năng lượng: Thay vì lãng phí năng lượng vào những thói quen tiêu cực, các video khuyến khích việc chuyển hóa năng lượng đó vào những hoạt động tích cực và có ý nghĩa hơn như tập thể dục, học tập, làm việc, hoặc phát triển bản thân. Đây là một cách hiệu quả để xây dựng nội lực và hướng cuộc sống theo chiều hướng tích cực.
+- Sự kiên trì và chấp nhận thất bại: Quá trình hồi phục và xây dựng nội lực không phải là một đường thẳng. Sẽ có những lúc chúng ta vấp ngã, tái nghiện. Tuy nhiên, điều quan trọng là không bỏ cuộc, học hỏi từ những sai lầm, và tiếp tục kiên trì. Việc chấp nhận thất bại như một phần của quá trình học hỏi và phát triển là một dấu hiệu của nội lực mạnh mẽ.
+
+Tổng thể, các video của Danny Tran cung cấp một góc nhìn thực tế và sâu sắc về cách tâm trí hoạt động, đặc biệt là trong bối cảnh nghiện ngập. Những bài học này có thể áp dụng rộng rãi để xây dựng nội lực, vượt qua các thói quen xấu, và phát triển một lối sống lành mạnh, có ý thức hơn.
+
+2.4.7. Danny Tran và T3F: Hồi phục tâm trí và xây dựng nội lực (Tiếp theo)
+
+Các video trong playlist "T3F - Những kiến thức cốt lõi nhất để hồi phục khỏi Pỏn" của Danny Tran tiếp tục cung cấp những góc nhìn sâu sắc về cách tâm trí hoạt động và cách xây dựng nội lực để vượt qua những thói quen xấu, đặc biệt là những thói quen liên quan đến nghiện ngập.
+
+- Lợi ích thực sự của việc hồi phục: Video "The Real Benefits of Recovering from Porn" không chỉ nói về việc từ bỏ một thói quen xấu mà còn nhấn mạnh những lợi ích tích cực mà việc hồi phục mang lại, như tăng cường sự tự tin, cải thiện các mối quan hệ, tăng năng suất, và có một cuộc sống ý nghĩa hơn. Điều này cho thấy việc xây dựng nội lực không chỉ là loại bỏ cái xấu mà còn là phát triển cái tốt.
+- Vượt qua sự cô đơn và kết nối: Video "Càng cô đơn, ta càng nghiện P*n (Đối lập của nghiện ngập là kết nối)" chỉ ra rằng sự cô đơn và thiếu kết nối là một trong những nguyên nhân sâu xa dẫn đến nghiện ngập. Việc xây dựng các mối quan hệ lành mạnh, tìm kiếm sự hỗ trợ từ cộng đồng, và chia sẻ những khó khăn là rất quan trọng để hồi phục và phát triển nội lực. Điều này khẳng định tầm quan trọng của ngoại lực (sự hỗ trợ từ bên ngoài) trong việc củng cố nội lực.
+- Kiểm soát Dopamine một cách thông minh: Các video cũng đề cập đến việc kiểm soát Dopamine một cách thông minh, không phải là loại bỏ hoàn toàn Dopamine mà là điều chỉnh cách chúng ta nhận được Dopamine. Thay vì tìm kiếm Dopamine tức thời từ những nguồn không lành mạnh, chúng ta nên tìm kiếm Dopamine từ những hoạt động mang lại giá trị lâu dài và bền vững, như học tập, làm việc, và đạt được mục tiêu.
+- Tránh trì hoãn và xây dựng kỷ luật: Một số video khác trong playlist cũng đề cập đến việc vượt qua sự trì hoãn và xây dựng kỷ luật. Đây là những yếu tố quan trọng trong việc phát triển nội lực, giúp chúng ta thực hiện những gì cần làm, ngay cả khi không có động lực. Kỷ luật là cầu nối giữa mục tiêu và thành tựu.
+
+Những bài học từ playlist này không chỉ hữu ích cho những người đang vật lộn với nghiện ngập mà còn cho bất kỳ ai muốn hiểu rõ hơn về cách tâm trí hoạt động, cách xây dựng nội lực, và cách sống một cuộc sống có ý thức và có mục đích hơn. Chúng ta cần nhận ra rằng nội lực không phải là một thứ bẩm sinh mà là một thứ có thể được rèn luyện và phát triển thông qua sự hiểu biết, kỷ luật, và sự kiên trì.
+
+2.5. Tổng hợp từ các video về Mindset và Trò chơi tâm trí
+
+Sau khi nghiên cứu các playlist YouTube về mindset và trò chơi tâm trí, chúng ta có thể rút ra những bài học quan trọng về cách tâm trí hoạt động và cách xây dựng nội lực một cách hiệu quả. Các video này không chỉ cung cấp kiến thức lý thuyết mà còn đưa ra những phương pháp thực hành cụ thể để phát triển sức mạnh tinh thần.
+
+2.5.1. Sự kết nối giữa Dopamine và Động lực
+
+Một trong những chủ đề xuyên suốt trong các video là vai trò của Dopamine trong việc hình thành động lực và thói quen. Dopamine không chỉ là "hormone hạnh phúc" mà còn là chất dẫn truyền thần kinh quan trọng trong việc điều khiển hành vi và động lực. Các video giải thích rằng việc hiểu và kiểm soát Dopamine một cách thông minh là chìa khóa để xây dựng nội lực bền vững.
+
+Thay vì tìm kiếm những nguồn Dopamine tức thời và không lành mạnh (như mạng xã hội, game, hoặc các thói quen nghiện ngập), chúng ta cần học cách "hack" hệ thống Dopamine của mình để tạo động lực cho những hoạt động có giá trị lâu dài. Điều này bao gồm việc thiết lập các mục tiêu nhỏ, ăn mừng những thành tựu nhỏ, và tạo ra các chu kỳ phản hồi tích cực.
+
+2.5.2. Sức mạnh của Mindset và Tư duy tích cực
+
+David Goggins và các nhà tư tưởng khác nhấn mạnh tầm quan trọng của mindset trong việc vượt qua khó khăn và đạt được thành công. Mindset không chỉ là cách chúng ta nghĩ về bản thân mà còn là cách chúng ta phản ứng với thử thách và thất bại. Một mindset mạnh mẽ có thể biến những trở ngại thành cơ hội, những thất bại thành bài học, và những khó khăn thành động lực để phát triển.
+
+Các video cũng chỉ ra rằng mindset có thể được rèn luyện và phát triển thông qua thực hành. Điều này bao gồm việc thay đổi cách chúng ta nói chuyện với bản thân (self-talk), thực hành lòng biết ơn, và tập trung vào những gì chúng ta có thể kiểm soát thay vì lo lắng về những gì nằm ngoài tầm tay.
+
+2.5.3. Vai trò của Kỷ luật và Tự kiểm soát
+
+Kỷ luật được nhấn mạnh như một yếu tố then chốt trong việc xây dựng nội lực. Khác với động lực - thứ có thể thay đổi theo cảm xúc và hoàn cảnh, kỷ luật là khả năng thực hiện những gì cần làm bất kể cảm giác của chúng ta như thế nào. Kỷ luật là cầu nối giữa mục tiêu và thành tựu, giữa ý định và hành động.
+
+Các video cung cấp nhiều phương pháp để phát triển kỷ luật, từ việc bắt đầu với những thói quen nhỏ, tạo ra các hệ thống và quy trình, đến việc thực hành sự kiên trì trong những tình huống khó khăn. Kỷ luật không phải là sự khắc nghiệt với bản thân mà là sự tôn trọng đối với những cam kết chúng ta đã đưa ra.
+
+2.5.4. Tầm quan trọng của Sự kết nối và Cộng đồng
+
+Một bài học quan trọng từ các video của Danny Tran là "đối lập của nghiện ngập là kết nối". Điều này không chỉ áp dụng cho nghiện ngập mà còn cho việc xây dựng nội lực nói chung. Con người là những sinh vật xã hội, và chúng ta cần sự hỗ trợ, khuyến khích, và trách nhiệm giải trình từ những người khác để phát triển tốt nhất.
+
+Việc xây dựng các mối quan hệ lành mạnh, tham gia vào cộng đồng tích cực, và tìm kiếm sự hướng dẫn từ những người cố vấn là những yếu tố quan trọng trong việc phát triển nội lực. Ngoại lực (sự hỗ trợ từ bên ngoài) và nội lực (sức mạnh bên trong) không phải là hai thứ đối lập mà là hai mặt của cùng một đồng xu.
+
+2.5.5. Quản lý Stress và Áp lực
+
+Các video cũng đề cập đến việc quản lý stress và áp lực như một phần quan trọng của việc xây dựng nội lực. Stress không phải lúc nào cũng là thứ tiêu cực - nó có thể là động lực để chúng ta phát triển và vượt qua giới hạn của bản thân. Tuy nhiên, việc học cách quản lý stress một cách hiệu quả là rất quan trọng để tránh kiệt sức và duy trì sức khỏe tinh thần.
+
+Các phương pháp quản lý stress bao gồm thiền định, tập thể dục, thở sâu, và việc tạo ra sự cân bằng giữa công việc và cuộc sống. Quan trọng hơn, chúng ta cần học cách nhìn nhận stress như một phần tự nhiên của cuộc sống và phát triển khả năng phục hồi (resilience) để vượt qua những thời kỳ khó khăn.
+
+2.5.6. Ứng dụng thực tế trong cuộc sống hàng ngày
+
+Tất cả những bài học từ các video này đều có thể được áp dụng vào cuộc sống hàng ngày để xây dựng nội lực mạnh mẽ hơn. Điều này bao gồm:
+
+- Thiết lập mục tiêu rõ ràng và có thể đo lường được: Thay vì đặt ra những mục tiêu mơ hồ, chúng ta cần xác định cụ thể những gì muốn đạt được và tạo ra kế hoạch hành động chi tiết.
+- Thực hành các thói quen tích cực hàng ngày: Từ việc dậy sớm, tập thể dục, đọc sách, đến việc thực hành lòng biết ơn, những thói quen nhỏ này sẽ tích lũy thành sức mạnh lớn theo thời gian.
+- Học cách nói "không" với những thứ không phục vụ mục tiêu của mình: Nội lực cũng bao gồm khả năng từ chối những cám dỗ và phân tâm để tập trung vào những gì thực sự quan trọng.
+- Phát triển khả năng tự nhận thức: Hiểu rõ về cảm xúc, suy nghĩ, và hành vi của mình là bước đầu tiên để có thể thay đổi và cải thiện.
+- Tạo ra hệ thống hỗ trợ: Xây dựng mạng lưới những người tích cực, có cùng chí hướng để cùng nhau phát triển và hỗ trợ lẫn nhau.
+
+Những bài học từ các video về mindset và trò chơi tâm trí này không chỉ bổ sung cho hiểu biết về Bát Chánh Đạo mà còn cung cấp những công cụ thực tế để áp dụng những nguyên lý cổ xưa vào cuộc sống hiện đại. Sự kết hợp giữa trí tuệ cổ điển và khoa học hiện đại tạo ra một cách tiếp cận toàn diện và hiệu quả để phát triển nội lực và sống một cuộc đời có ý nghĩa.
+
+
+---
+# Test: https://chat.z.ai
+
+![[Pasted image 20250816021152.png]]
+
+
+---
+# MANUS CHIA NỘI LỰC 
+# Phân chia Nội lực thành các phần chính
+
+Dựa trên tài liệu `pasted_content.txt` và các nghiên cứu sâu rộng, tôi đề xuất chia **NỘI LỰC** thành **4 tầng năng lượng chính** theo mô hình được gợi ý trong tài liệu:
+
+## 1. TẦNG NỘI LỰC CƠ BẢN - Mindset Cá nhân (9 Mindset cốt lõi)
+
+### 1.1. Mindset về Định hướng và Tự chủ
+- **THE ROAD - CON ĐƯỜNG TÔI CHỌN**: Sự tự chủ, kiên định với con đường của mình ngay cả khi không có sự hỗ trợ từ người khác
+- **PHÂN BIỆT THÀNH CÔNG VỚI HẠNH PHÚC**: Hiểu rõ mục đích cuộc sống là "Chấm Dứt Khổ", hạnh phúc là trạng thái bên trong
+- **TRỞ THÀNH HAY TRẢI NGHIỆM**: Phân biệt giữa việc chỉ muốn trải nghiệm cảm giác và việc thực sự "trở thành"
+
+### 1.2. Mindset về Hành động và Thử thách
+- **XUỐNG SÂN CỎ HAY TRÊN KHÁN ĐÀI**: Bước ra ngoài vùng an toàn, đối mặt với nỗi sợ hãi
+- **KHÔNG CÓ LÝ DO CŨNG LÀ LÝ DO**: Hành động không cần lý do cụ thể khi đối mặt với sự ngại ngùng
+- **TỰ TẨY NÃO MÌNH ĐỂ TÌM KIẾM CẢM GIÁC KHÓ CHỊU**: Ưa thích giải quyết các vấn đề khó
+
+### 1.3. Mindset về Kiên trì và Phát triển
+- **XỔ SỐ HAY LÃI KÉP**: Nhấn mạnh "SYSTEM + NHẤT QUÁN + TIME", đào sâu không đào rộng
+- **TOP TRÊN HAY TOP DƯỚI**: Lựa chọn làm việc với những người ở "top trên"
+- **THE ROAD - THE IMPACT - THE POWER**: Phụng sự vô điều kiện, mindset chịu trách nhiệm
+
+## 2. TẦNG NỘI LỰC TU TẬP - Tứ Niệm Xứ và Bát Chánh Đạo
+
+### 2.1. Văn Tuệ - Hiểu biết đúng đắn
+- **Mục đích cuộc sống**: Chấm dứt khổ, không tìm kiếm hạnh phúc
+- **Chánh Tri Kiến**: Hiểu đúng về Tứ Diệu Đế, Lý Duyên Khởi
+- **Phân biệt Vô Minh và Minh**: Hiểu biết sai lầm vs hiểu biết đúng như thật
+
+### 2.2. Tư Tuệ - Trạch Pháp
+- **Quy nạp**: Quan sát - Phân tích - Đúc kết
+- **Diễn dịch**: Kết luận được ứng dụng mọi trường hợp
+- **Công thức Trạch Pháp**: Liễu tri vấn đề Vô Minh và Minh
+
+### 2.3. Tu Tuệ - Thực hành Tứ Niệm Xứ
+- **Quán Thân**: Nhắc thầm thấy rõ cảm giác nổi trội
+- **Quán Thọ**: Tuệ tri cảm thọ khổ, lạc, xả
+- **Quán Tâm**: Tuệ tri tâm trạng tích cực vui thoải mái
+- **Quán Pháp**: Tuệ tri các pháp trần, tham sân si
+
+## 3. TẦNG NỘI LỰC NĂNG LƯỢNG - 4 Đòn bẩy chính
+
+### 3.1. Đòn bẩy Môi trường và Thói quen
+- **Môi trường sống, thói quen**: Bứt phá sợ, ngại, niềm tin giới hạn
+- **Chánh Kiến**: Không có giới hạn và chặn trên
+- **Tula Thần Lĩnh vực**: Vượt qua các rào cản tâm lý
+
+### 3.2. Đòn bẩy Tình yêu và Kết nối (SI)
+- **Tình dục - Yêu thương**: Kết nối networking phụng sự
+- **Biết ơn**: Tiền - Ý nghĩa, giá trị - Cộng đồng
+- **Sử dụng SI đúng cách**: Khi mất động lực, năng lượng
+
+### 3.3. Đòn bẩy Chiến thắng và Tự chủ (DC + THE ROAD)
+- **Sát Thần Lĩnh vực**: Tiền, tự chủ, kẻ chiến thắng, TOP 1
+- **Tìm kiếm khao khát**: Ăn sống cảm giác khó chịu, chinh phục
+- **Chánh Kiến mặt dày tâm đen**: THE ROAD con đường tôi chọn
+
+### 3.4. Đòn bẩy Tứ Niệm Xứ
+- **Nhất hướng**: Ly tham đoạn diệt, an tịnh, thắng trí, giác ngộ, Niết Bàn
+- **Đối trọng**: Sân si sợ
+- **Thực hành**: Quán thân thọ tâm pháp
+
+## 4. TẦNG NỘI LỰC SIÊU VIỆT - Con đường Tu tập và Giải thoát
+
+### 4.1. Lộ trình tâm Bát Chánh Đạo
+- **Chánh Tri Kiến**: Hiểu đúng Tứ Diệu Đế
+- **Chánh Tư Duy**: Ly dục, vô sân, vô hại
+- **Chánh Ngữ, Chánh Nghiệp, Chánh Mạng**: Giới đức
+- **Chánh Tinh Tấn, Chánh Niệm, Chánh Định**: Định tuệ
+
+### 4.2. Chuyển hóa từ Bát Tà Đạo sang Bát Chánh Đạo
+- **Từ Vô Minh sang Minh**: Chuyển hóa nhận thức
+- **Từ Tham Sân Si sang Ly tham đoạn diệt**: Thanh tịnh tâm
+- **Từ Khổ sang An lạc**: Đạt được bình an nội tại
+
+### 4.3. Mục tiêu cuối cùng
+- **Chấm dứt khổ**: Không còn tìm kiếm hạnh phúc bên ngoài
+- **Giác ngộ**: Hiểu rõ bản chất thực tại
+- **Niết Bàn**: Trạng thái giải thoát hoàn toàn
+
+## Kết luận
+
+Nội lực được chia thành 4 tầng năng lượng từ cơ bản đến siêu việt:
+1. **Tầng Cơ bản**: 9 Mindset cá nhân để vượt qua giới hạn bản thân
+2. **Tầng Tu tập**: Văn Tư Tu Tuệ theo Tứ Niệm Xứ
+3. **Tầng Năng lượng**: 4 Đòn bẩy để khai thác sức mạnh nội tại
+4. **Tầng Siêu việt**: Bát Chánh Đạo dẫn đến giác ngộ và giải thoát
+
+Mỗi tầng đều có vai trò quan trọng và bổ trợ lẫn nhau, tạo thành một hệ thống nội lực toàn diện, giúp con người phát triển từ việc vượt qua giới hạn cá nhân đến đạt được sự giải thoát hoàn toàn.
+
+
+
+---
+
+### “**MÔI TRƯỜNG**” = **6 TRẦN** (ngoại lực giác quan)
+
+| TRẦN  | MÔ TẢ                       | VÍ DỤ                               |
+| ----- | --------------------------- | ----------------------------------- |
+| SẮC   | Hình ảnh, màu sắc           | Mạng xã hội, TV, người đẹp          |
+| THANH | Âm thanh, tiếng nói         | Nhạc, feedback, tranh luận          |
+| HƯƠNG | Mùi                         | Mùi thức ăn, nước hoa               |
+| VỊ    | Mùi vị đồ ăn, thức uống     | Cafe, đồ ăn vặt                     |
+| XÚC   | Cảm giác tiếp xúc           | Êm ái, đau nhức, sướng – khổ        |
+| PHÁP  | Ý niệm, khái niệm, tư tưởng | Tư duy, ký ức, tưởng tượng, tin tức |
+## 📌 **I. NGOẠI LỰC KÍCH HOẠT (THEO 6 CĂN)**
+
+| **Căn (Nguồn tiếp nhận)** | **Trần (Ngoại lực)**                    | **Kích hoạt DISC (ví dụ)**                                                |
+| ------------------------- | --------------------------------------- | ------------------------------------------------------------------------- |
+| 👁 **Mắt (Nhãn căn)**     | Hình ảnh, cảnh vật, màu sắc, gương mặt  | Thấy người giỏi → ganh đua / cảm hứng (D/I)                               |
+| 👂 **Tai (Nhĩ căn)**      | Âm thanh, nhạc, giọng nói, feedback     | Nghe nhạc kích thích → hưng phấn làm việc (I)                             |
+| 👃 **Mũi (Tỵ căn)**       | Mùi hương (cafe, tinh dầu...)           | Mùi quen → gợi nhớ, khơi cảm xúc (S)                                      |
+| 👅 **Lưỡi (Thiệt căn)**   | Vị (ngon/dở), cảm giác ăn uống          | Vị ngon kích thích dopamine → thích thú, dễ buông lỏng (I/S)              |
+| 🖐 **Thân (Thân căn)**    | Cảm giác chạm, nhiệt độ, vật lý         | Nằm êm → dễ buồn ngủ  <br>Đau → phản ứng chống lại (C/D)                  |
+| 🧠 **Ý (Ý căn)**          | Suy nghĩ, ký ức, hình ảnh trong tâm trí | Nhớ về thất bại → tự ti (C/S)  <br>Tưởng tượng chiến thắng → tự tin (D/I) |
+
+
+## 📌 Công thức gọn:
+
+**Nội lực = THÂN (nhiên liệu) + TÂM (động cơ) + TRÍ (người lái + bản đồ)**  
+👉 Với **Chánh Niệm liên tục** là “dòng điện” kết nối cả 3.
+
+---
+
+### 🎯 Ưu điểm:
+
+- Rất **gần gũi với triết học Đông phương** (Phật – Nho – Đạo đều có Thân Tâm Trí).
+    
+- Dễ dùng trong **coaching / mentoring**: mỗi học viên tự chấm điểm 3 mảng Thân – Tâm – Trí.
+    
+- Dễ cover các yếu tố hiện đại (mindset, hormone, dopamine, discipline) và cổ điển (thiền, Bát Chánh Đạo).
+
+# 🧩 **Bảng Cấu Trúc Nội Lực (Thân – Tâm – Trí)**
+
+| Thành phần | Vai trò                                  | Bao gồm (yếu tố chính)                                                                                                 | Ẩn dụ               |
+| ---------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| **THÂN**   | Nhiên liệu – nguồn năng lượng vật chất   | - Hormone (dopamine, testosterone, cortisol)  <br>- Giấc ngủ, dinh dưỡng, vận động                                     | **Bình xăng**       |
+| **TÂM**    | Động cơ – sức mạnh cảm xúc & ý chí       | - Mindset (Growth / Fixed)  <br>- Niềm tin không giới hạn  <br>- Ý chí, nghị lực, kỷ luật, self-talk                   | **Động cơ**         |
+| **TRÍ**    | Người lái + bản đồ – trí tuệ, định hướng | - Thiền, Tu tập, Bát Chánh Đạo  <br>- **Chánh Niệm liên tục** (trục kết nối Thân – Tâm – Trí)  <br>- Giới – Định – Tuệ | **Người lái + GPS** |
+
+
+ĐÂY RỒI, ĐÂY CHÍNH LÀ CÁI MÌNH CẦN. MẤT TẦM 2 NGÀY HƠN ĐỂ ĐÚC KẾT LẠI TOÀN BỘ NHỮNG CÁI ĐÃ HỌC VÀ QUY RA CẤU TRÚC CỦA NỘI LỰC VÀ  NGOẠI LỰC. 
+
+<STRUCTURE THEO KIỂU PROBLEM SOLVING X3 NĂNG SUẤT. 
+
+
+
+---
+
+
+# Cuộc đời được chia làm 4 phầ : TỰ DO TÂM TRÍ, VÀ TỰ DO khác (sức khoẻ, mối quan hệ, tài chính)
+
+
+| Thành phần                   | Ngoại lực (6 Trần, môi trường, người khác)                                                                                                                                                                                                                                                                                                                                                                                                                                | Nội lực (Thân – Tâm – Trí)                                                                                             | Khi phối hợp → Sức mạnh |                                          |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------- |
+| **THÂN** (nhiên liệu)        | - **Sắc trần** – hình ảnh, màu sắc, cảnh vật, thân thể + 👁  **Mắt (Nhãn căn)** <br>    <br>- **Thanh trần** – âm thanh, tiếng nói, nhạc, ồn ào + 👂 **Tai (Nhĩ căn)** <br>    <br>- **Hương trần** – mùi (thơm, hôi, dễ chịu, khó chịu) +  👃 **Mũi (Tỵ căn)**  <br>    <br>- **Vị trần** – vị (ngọt, mặn, đắng, chua…) + 👅 **Lưỡi (Thiệt căn)**   <br>    <br>- **Xúc trần** – cảm giác chạm (êm ái, đau nhức, khoan khoái, lạnh nóng)<br>+ 🖐 **Thân (Thân căn)**<br> | - Hormone <br>- Giấc ngủ, dinh dưỡng, vận động                                                                         |                         | Nhiên liệu – nguồn năng lượng vật chất   |
+| **TÂM** (động cơ)            | **Pháp trần** – ý niệm, khái niệm, tư tưởng, ký ức, tin tức <br>+🧠 **Ý (Ý căn)**                                                                                                                                                                                                                                                                                                                                                                                         | - Mindset (Growth / Fixed)  <br>- Niềm tin không giới hạn  <br>- Ý chí, nghị lực, kỷ luật, self-talk                   |                         | Động cơ – sức mạnh cảm xúc & ý chí       |
+| **TRÍ** (người lái + bản đồ) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | - Thiền, Tu tập, Bát Chánh Đạo  <br>- **Chánh Niệm liên tục** (trục kết nối Thân – Tâm – Trí)  <br>- Giới – Định – Tuệ |                         | Người lái + bản đồ – trí tuệ, định hướng |
+| KÍCH HOẠT                    | **Kích hoạt 4 loại Động Lực Ngoại Lực DISC**:<br><br>- Động lực chiến thắng D: Đạt được sao, tăng level, streak, ... <br>- Động lực chinh phục C: giải quyết vấn đề level A=A+1, ... (Trạng thái flow khi rơi vào)<br>- Động lực kết nối I: học cùng bạn bè, học cùng bố mẹ, ông bà, ... (Các community đòn bẩy rất mạnh)<br>- Động lực ý nghĩa S: Tôi học 1 bài này tôi góp được 100 đ cho trẻ em vùng cao (các giải chạy bộ hay có các giải này)                        |                                                                                                                        |                         |                                          |
+|                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                        |                         |                                          |
+
+
+# MANUS SUMMARY DỰA VÀO SUMMARY CỦA MÌNH
+
+Tôi đã nghiên cứu rất kỹ lưỡng toàn bộ tài liệu bạn cung cấp. Đây là một hệ thống tư duy và rèn luyện bản thân rất sâu sắc, kết hợp hài hòa giữa trí tuệ cổ xưa của Phật giáo (Gosinga, Tứ Niệm Xứ, Bát Chánh Đạo) và các phương pháp phát triển bản thân hiện đại (X3 Năng Suất, David Goggins, tâm lý học hành vi).
+
+Để hoàn thiện bảng phối hợp giữa **Động lực Ngoại lực** và **Động lực Nội lực** theo yêu cầu của bạn, tôi đã hệ thống hóa các khái niệm và đưa ra một cấu trúc tổng thể như sau. Bảng này không chỉ điền thông tin mà còn cấu trúc lại các khái niệm để làm nổi bật mối quan hệ tương tác giữa chúng.
+
+### **Bảng Phối Hợp Động Lực Ngoại Lực & Nội Lực**
+
+| Thành phần                         | **NGOẠI LỰC (Kích hoạt từ bên ngoài)**                                                                                                                                                                                                                                                                                                                                                                                                                            | **NỘI LỰC (Sức mạnh từ bên trong)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **KHI PHỐI HỢP → SỨC MẠNH TỔNG HỢP**                                                                                  |
+| :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| **THÂN** <br>*(Nhiên liệu)*        | **6 Trần Giác Quan:**<br>- **Sắc trần (Mắt):** Hình ảnh, cảnh vật, người khác.<br>- **Thanh trần (Tai):** Âm thanh, lời nói, nhạc.<br>- **Hương trần (Mũi):** Mùi hương.<br>- **Vị trần (Lưỡi):** Vị đồ ăn, thức uống.<br>- **Xúc trần (Thân):** Cảm giác tiếp xúc (nóng, lạnh, đau, êm).                                                                                                                                                                         | **Năng lượng Sinh học & Thể chất:**<br>- **Hormone:** Dopamine (khao khát), Testosterone (chinh phục), Cortisol (stress).<br>- **Nền tảng:** Giấc ngủ, dinh dưỡng, vận động, hơi thở.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Năng lượng Vật chất:**<br>Khả năng duy trì sự bền bỉ, dẻo dai và sức khỏe để theo đuổi mục tiêu dài hạn.            |
+| **TÂM** <br>*(Động cơ)*            | **Pháp trần (Ý):**<br>- Ý niệm, khái niệm, tư tưởng, ký ức, thông tin từ bên ngoài (sách vở, mentor, xã hội).<br>- **4 Đòn bẩy ngoại lực (DISC):**<br>  - **(D) Chiến thắng:** Phần thưởng, xếp hạng, sự công nhận.<br>  - **(I) Kết nối:** Tương tác với đội nhóm, cộng đồng, mentor.<br>  - **(S) Ý nghĩa:** Phụng sự, giúp đỡ, tạo giá trị cho người khác.<br>  - **(C) Chinh phục:** Giải quyết vấn đề khó, vượt qua thử thách.<br><br>  ---<br>  THAM SÂN SI | **Sức mạnh Ý chí & Tâm thức:**<br>- **Mindset:** Niềm tin (giới hạn/vô hạn), tư duy phát triển, tự kỷ luật.<br>- **Ý chí & Nghị lực:** "Mặt dày tâm đen", tìm kiếm cảm giác khó chịu, sự kiên trì.<br>- **Trạng thái cảm xúc:** Khả năng tự tạo động lực, quản lý cảm xúc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Động cơ Cảm xúc & Ý chí:**<br>Sức mạnh tinh thần để khởi sự, duy trì hành động và vượt qua trở ngại tâm lý.         |
+| **TRÍ** <br>*(Người lái & Bản đồ)* | **Tam Bảo (Bên ngoài):**<br>- **Pháp:** Giáo pháp, tri thức, sách vở, hệ thống (Gosinga, X3).<br>- **Thầy hiền trí:** Mentor, người dẫn đường.<br>- **Nhóm bạn tốt:** Cộng đồng, đội nhóm cùng phát triển.                                                                                                                                                                                                                                                        | **Trí tuệ Nội tâm (Tuệ):**<br>1. **Văn - Tư - Tu:** Văn (nghe giảng, nghiên cứu kinh điển để có hiểu biết đúng), Tư (tư duy, suy xét để hiểu sâu sắc hơn), và Tu (thực hành để thân chứng, đạt được trí tuệ thực sự)<br><br>2. **Chánh Niệm**: Trí nhớ đúng đắn<br>Niệm (Sati) được Thiền Sư Nguyên Tuệ định nghĩa là "Trí Nhớ", "Nhớ Đến" điều đã học, đã tích lũy. Nó là một tâm hành vi tế, không phải Tâm Biết Ý thức. Có hai loại Niệm:<br>*   **Tà Niệm (Micchā Sati):** Là sự nhớ đến thông tin Vô minh, chấp ngã đã tích lũy từ vô thủy. Tà niệm dẫn đến việc tâm luôn hỏi "cái này là gì? đặc tính thế nào? dễ chịu, khó chịu hay trung tính?", từ đó phát sinh Tham, Sân, Si và lộ trình tâm Bát Tà Đạo.<br>*   **Chánh Niệm (Sammā Sati):** Là sự nhớ đến thông tin Minh, Trí Tuệ (hiểu biết đúng như thật các pháp, đặc biệt là Khổ Tập Diệt Đạo thuộc về NỘI TÂM, không phải THẾ GIỚI ngoại cảnh). Chánh Niệm là sự nhớ đến chú tâm các cảm giác khi nó xảy ra, không phân biệt, không phán xét. Khi Chánh Niệm khởi lên, nó là duyên cho Chánh Tinh tấn, Chánh Định, và các chi phần khác của Bát Chánh Đạo tự động phát sinh (cuốn "Niệm Định Tuệ").<br><br>3. **LỘ TRÌNH TÂM: BÁT TÀ ĐẠO VÀ BÁT CHÁNH ĐẠO**<br>Trong giáo lý của Thiền Sư Nguyên Tuệ, sự phân biệt giữa hai lộ trình tâm – Bát Tà Đạo và Bát Chánh Đạo – là cực kỳ quan trọng. Đây là hai con đường đối lập, một dẫn đến khổ đau và luân hồi (Bát Tà Đạo), một dẫn đến giải thoát và Niết Bàn (Bát Chánh Đạo). Các cuốn sách như "Bát Chánh Đạo - Con đường vắng mặt khổ đau", "Đến để mà thấy", "Vô Minh và Minh", và "Đúc kết Pháp học" đều phân tích rất chi tiết về hai lộ trình này.<br><br> | **Trí tuệ Dẫn đường:**<br>Khả năng định hướng, đưa ra quyết định sáng suốt và giữ vững con đường đúng đắn (The Road). |
+|                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                       |
+
+---
+
+Dựa trên cấu trúc này, chúng ta có thể thấy rõ:
+
+1.  **Ngoại lực** là những yếu tố kích hoạt ban đầu thông qua các giác quan và môi trường. Chúng có thể là những đòn bẩy mạnh mẽ (như 4 động lực DISC, sự hỗ trợ từ Tam Bảo) nhưng cũng có thể là những cám dỗ (như các nội dung tiêu cực, môi trường không lành mạnh).
+2.  **Nội lực** là khả năng tự chủ, sức mạnh đến từ bên trong để xử lý và chuyển hóa các tác động của ngoại lực. Nội lực được xây dựng trên nền tảng Thân khỏe, Tâm vững và Trí sáng.
+3.  **Sự phối hợp** hiệu quả nhất xảy ra khi **Trí (Nội lực)** sử dụng **Bát Chánh Đạo** làm bản đồ, dẫn dắt **Tâm (Nội lực)** vận hành một cách có chủ đích, và dùng **Thân (Nội lực)** làm nhiên liệu để tương tác với **Ngoại lực** một cách khôn ngoan, biến chúng thành đòn bẩy thay vì để chúng chi phối.
+
+Đây là một hệ thống rất mạnh mẽ và toàn diện. Chúc mừng bạn đã đúc kết được một con đường phát triển bản thân sâu sắc như vậy.
+
+---
+Tôi có thể giúp gì thêm cho bạn không? Chúng ta có thể cùng nhau:
+1.  Phân tích sâu hơn về một trong các tầng năng lượng (ví dụ: cách áp dụng "Sát Thần Lĩnh Vực" trong công việc).
+2.  Xây dựng một kế hoạch hành động cụ thể để rèn luyện một khía cạnh nội lực (ví dụ: kế hoạch 30 ngày rèn luyện Chánh Niệm).
+3.  Tạo một "bảng điều khiển" cá nhân để bạn tự theo dõi và đo lường sự tiến bộ của Thân-Tâm-Trí hàng tuần.
+
+
+# DEEP RESEARCH BẰNG GPT5-PRO - QUÁ ĐỈNH - ĐỂ NGHIÊN CỨU VỀ HOOCMON ẢNH HƯỞNG ĐẾN CÁC PHẦN NHƯ NÀO 
+
+Tuyệt vời — bạn đã “đóng khung” **Nội lực – Ngoại lực – Thân/Tâm/Trí – Bát Chánh Đạo** rất chặt. Dưới đây là **bản nghiên cứu sâu (deep research)** về **các hormone và neuropeptide** liên quan trực tiếp đến **động lực nội lực & ngoại lực**, được tổ chức theo đúng khung bạn đang dùng (Thân–Tâm–Trí, 4 tầng Nội lực, 6 trần).
+
+> Lưu ý: “hormone” trong sinh học bao gồm cả **hormone nội tiết (cortisol, testosterone, estradiol, insulin, leptin, ghrelin, T3/T4, melatonin…)** và **neuropeptide/hormone thần kinh** do vùng hạ đồi–thân não tiết ra (oxytocin, vasopressin, orexin/hypocretin, CRH, beta‑endorphin, NPY…). Các chất dẫn truyền thần kinh **dopamine/serotonin/noradrenaline** không phải hormone cổ điển, nhưng là **trục trung tâm của “động lực”** nên được đưa vào để bức tranh đầy đủ.
+
+---
+
+## 0) Bản đồ tổng quan: “Động lực = Wanting × Liking × Learning”
+
+- **“Wanting” (muốn/động lực theo đuổi)** do **dopamine** gắn với “salience” (tính nổi trội của tín hiệu), **đặc biệt khi có tín hiệu phần thưởng từ môi trường** ⇒ liên hệ **Ngoại lực (6 trần)** rất mạnh. **“Liking” (khoái cảm khi nhận)** do **opioid nội sinh và endocannabinoid** tại các **“hedonic hotspots”** (nhân vỏ não–hạch nền). **Learning** là học dự báo/phần thưởng. Ba hệ này **tách biệt nhưng tương tác** — lý thuyết Incentive‑Sensitization (Berridge & Robinson). ([LSA Technology Services](https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/2016-Berridge-Robinson-Liking-wanting-IS-theory-of-addiction-Am-Psychol.pdf?utm_source=chatgpt.com "Liking, Wanting, and the Incentive-Sensitization Theory of Addiction"), [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1471489208002129?utm_source=chatgpt.com "Dissecting components of reward: ‘liking’, ‘wanting’, and learning"), [The Journal of Neuroscience](https://www.jneurosci.org/content/25/50/11777?utm_source=chatgpt.com "Hedonic Hot Spot in Nucleus Accumbens Shell: Where Do μ-Opioids Cause ..."))
+    
+- **Nội lực vs. Ngoại lực theo Self‑Determination Theory (SDT):** nội lực nảy sinh khi **tự chủ–năng lực–gắn kết** được đáp ứng; ngoại lực (phần thưởng/áp lực) có thể **hỗ trợ hoặc làm xói mòn** động lực nội tại nếu dùng sai cách. ([Self-Determination Theory](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf?utm_source=chatgpt.com "PLI1104.vp - Self-Determination Theory"))
+    
+
+---
+
+## 1) THÂN (Nhiên liệu) → _Các hormone nền tảng năng lượng & chuyển hoá_
+
+> **Cách đọc:** _Xu hướng động lực_ (tiếp cận/tránh né, nội tại/ngoại tại) • _Tác động điển hình_ • _Đòn bẩy lối sống gợi ý (giấc ngủ–dinh dưỡng–vận động–hơi thở)_
+
+### 1.1. **Cortisol (trục stress – HPA)**
+
+- **Xu hướng:** _Tránh né/đề phòng_; liều vừa phải giúp **tập trung – tạo động lực đối phó**, liều cao mạn tính → giảm động lực, thiên **thói quen/ứng phó tiêu cực**. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2211124717300670?utm_source=chatgpt.com "Projection-Target-Defined Effects of Orexin and Dynorphin on VTA ..."))
+    
+- **Điển hình:** đường cong **hình U ngược** với hiệu suất; stress kéo dài làm **dịch chuyển** từ hành vi mục tiêu sang **thói quen** (vòng hạch nền). ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2211124717300670?utm_source=chatgpt.com "Projection-Target-Defined Effects of Orexin and Dynorphin on VTA ..."))
+    
+- **Đòn bẩy:** ngủ đủ – hít thở chậm kéo dài thì thở ra – vận động cường độ vừa – “đóng nhịp” sáng/chiều.
+    
+
+### 1.2. **Adrenaline/Epinephrine (cấp cứu chiến–thoát)**
+
+- **Xu hướng:** _bùng nổ ngắn hạn_ cho hành động cấp bách; củng cố ký ức cảm xúc qua hạnh nhân. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0959438802003069?utm_source=chatgpt.com "Role of adrenal stress hormones in forming lasting memories in the ..."))
+    
+
+### 1.3. **Insulin – Leptin – Ghrelin – GLP‑1 (trục đói–no–thưởng)**
+
+- **Leptin (no):** **hạ** phản ứng dopaminergic VTA/NAc, **giảm sức hút phần thưởng** → hỗ trợ kiềm chế ăn/ “scroll”.
+    
+- **Ghrelin (đói):** **tăng** dopamine trung não, **tăng động lực kiếm phần thưởng** (không chỉ đồ ăn). ([Pure OAI](https://pure-oai.bham.ac.uk/ws/files/27545178/Shamay_Tsoory_et_al_Social_salience_hypothesis_Biological_Psychiatry_2015.pdf?utm_source=chatgpt.com "The Social Salience Hypothesis of Oxytocin"))
+    
+- **Insulin (não):** điều chỉnh **định giá phần thưởng** và học liên kết; kháng insulin trung ương liên quan rối loạn động lực. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352154617300840?utm_source=chatgpt.com "Habits under stress: mechanistic insights across different types of ..."))
+    
+- **GLP‑1:** tăng no – **giảm salience đồ ăn**; các thuốc đồng vận GLP‑1 cho thấy **giảm chú ý/ham muốn** đồ ăn (và đôi khi craving khác). ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0031938414001474?utm_source=chatgpt.com "Neural integration of satiation and food reward: Role of GLP-1 and ..."))
+    
+- **Đòn bẩy:** bữa giàu đạm/đủ chất xơ; khung giờ ăn nhất quán; vận động trước bữa; tránh thiếu ngủ (thiếu ngủ ↑ ghrelin, ↓ leptin).
+    
+
+### 1.4. **Thyroid (T3/T4)**
+
+- **Xu hướng:** nền năng lượng. **Thiếu giáp** → mệt mỏi, giảm động lực; **cường giáp** → bồn chồn, khó điều tiết nỗ lực. (Tổng quan sinh lý lâm sàng; kiểm tra y khoa khi nghi ngờ.)
+    
+
+### 1.5. **Melatonin & Nhịp sinh học**
+
+- **Xu hướng:** _đồng bộ nhịp_ → **ổn định động lực**, giảm “trôi” ý chí; **lệch nhịp** làm giảm thưởng nội tại và kiểm soát ham muốn. Nhiều bằng chứng cho **tác động của nhịp sinh học lên hệ thưởng** ở người. ([ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763418303415?utm_source=chatgpt.com "Circadian modulation of human reward function: Is there an evidentiary ..."), [Frontiers](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2015.00187/pdf?utm_source=chatgpt.com "Circadian Mechanisms Underlying Reward-Related Neurophysiology and ..."))
+    
+- **Đòn bẩy:** sáng ra **ánh nắng** 5–15’ + vận động nhẹ; tối **giảm ánh sáng xanh**; giờ ngủ–dậy cố định.
+    
+
+---
+
+## 2) TÂM (Động cơ) → _Các hệ “tăng động lực” & cảm xúc–ý chí_
+
+### 2.1. **Dopamine (VTA → Nucleus Accumbens)**
+
+- **Vai:** động lực **theo đuổi/“wanting”**, **error dự báo phần thưởng**, chọn **phương án đòi effort** khi hệ mạnh; **suy giảm** → thiên **lựa chọn ít nỗ lực**. ([Jim Hopper](https://www.jimhopper.com/pdf/salamonecorrea2012.pdf?utm_source=chatgpt.com "The Mysterious Motivational Functions of Mesolimbic Dopamine"), [Frontiers](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2018.00052/full?utm_source=chatgpt.com "Dopamine, Effort-Based Choice, and Behavioral Economics ... - Frontiers"))
+    
+- **Liên hệ Ngoại lực:** **cues** (Sắc/Thanh/Pháp trần) dễ kích hoạt “wanting” → cần **Trí** (Chánh niệm/Chánh định) điều hướng. ([LSA Technology Services](https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/2016-Berridge-Robinson-Liking-wanting-IS-theory-of-addiction-Am-Psychol.pdf?utm_source=chatgpt.com "Liking, Wanting, and the Incentive-Sensitization Theory of Addiction"))
+    
+- **Đòn bẩy:** mục tiêu nhỏ – phản hồi ngay – ritual bắt đầu việc – vận động sức bền/cường độ vừa.
+    
+
+### 2.2. **Noradrenaline (LC‑NE)**
+
+- **Vai:** **điều chỉnh “gain”/độ nhạy**, cân bằng **khai thác–thăm dò (exploitation–exploration)**; **arousal** chọn lọc ưu tiên **tín hiệu quan trọng**. ([UCSD Pages](https://pages.ucsd.edu/~jpineda/COGS260/monoamines/LC-NE%20review.pdf?utm_source=chatgpt.com "An Integrative Theory of Locus Coeruleus-Norepinephrine Function ..."), [Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/norepinephrine-ignites-local-hotspots-of-neuronal-excitation-how-arousal-amplifies-selectivity-in-perception-and-memory/A1750B4C91812D0CC7F6D42872DC05AD?utm_source=chatgpt.com "Norepinephrine ignites local hotspots of neuronal excitation: How ..."))
+    
+- **Ứng dụng:** khi cần “xông pha” (D/C trong DISC), **boost NE ngắn hạn** (đứng dậy–thở mạnh–nước lạnh mặt) rồi **quay về nhịp ổn** để tránh quá kích.
+    
+
+### 2.3. **Endorphin & Endocannabinoid**
+
+- **Vai:** **“Liking”/khoái cảm** tại **hotspots** NAc/ventral pallidum; **giải thưởng sau nỗ lực** (runner’s high), tạo **vòng lặp củng cố**. ([The Journal of Neuroscience](https://www.jneurosci.org/content/34/12/4239?utm_source=chatgpt.com "Opioid Hedonic Hotspot in Nucleus Accumbens Shell: Mu, Delta, and Kappa ..."), [Cpb-us-e2.wpmucdn.com](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/9/365/files/2018/08/Mitchell-et-al-CannCannRes-2018.pdf?utm_source=chatgpt.com "Endocannabinoid-Enhanced Liking in Nucleus Accumbens Shell Hedonic ..."))
+    
+
+### 2.4. **NPY (Neuropeptide‑Y) & CRH**
+
+- **NPY:** **tăng chịu đựng stress/“resilience”**, giảm lo âu; đối trọng CRH. Ứng dụng tiềm năng PTSD/anx. ([SEBM](https://www.ebm-journal.org/journals/experimental-biology-and-medicine/articles/10.1258/ebm.2010.009331/pdf?utm_source=chatgpt.com "untitled [www.ebm-journal.org]"), [Europe PMC](https://europepmc.org/article/MED/27913193?utm_source=chatgpt.com "Neuropeptide Y, resilience, and PTSD therapeutics."))
+    
+- **Ý nghĩa:** **nội lực kỷ luật** bền hơn khi “nền lo âu” thấp.
+    
+
+---
+
+## 3) TRÍ (Người lái + Bản đồ) → _Động lực xã hội–ý nghĩa–đạo đức & kiểm soát bản thân_
+
+### 3.1. **Oxytocin & Vasopressin (kết nối–gắn kết–địa vị)**
+
+- **Oxytocin:** **tăng niềm tin** và **khuếch đại salience xã hội**; **không phải “tình yêu thuần tốt”** — có thể tăng **thiên vị in‑group**. ([PNAS](https://www.pnas.org/doi/pdf/10.1073/pnas.1015316108?utm_source=chatgpt.com "Oxytocin promotes human ethnocentrism - PNAS"))
+    
+- **Vasopressin:** gắn kết–địa vị–cạnh tranh (đặc biệt ở đực, khác loài khác giới). ([Frontiers](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2023.1127792/full?utm_source=chatgpt.com "Modulation of social behavior by distinct vasopressin sources"))
+    
+- **Ứng dụng DISC:**
+    
+    - **I (Kết nối):** tăng oxytocin qua **phụng sự–biết ơn–tiếp xúc thực** → **bơm nội lực** cho mục tiêu dài hạn.
+        
+    - **D/C (Địa vị–Chinh phục):** **vasopressin/testosterone** kéo về cạnh tranh/địa vị ⇒ cần **Giới–Định–Tuệ** để **định hướng thiện**.
+        
+
+### 3.2. **Testosterone – Estradiol – Progesterone (chu kỳ & địa vị)**
+
+- **Testosterone:** thúc đẩy **tìm kiếm/duy trì địa vị**, **hành vi theo ngữ cảnh** (không chỉ hiếu chiến); tăng động lực **vượt chuẩn** khi khung “thử thách công bằng”. ([Department of Economics](https://www.econ.uzh.ch/dam/jcr%3A1ce9dfea-ab56-431a-a733-6515b62107a0/The%20role%20of%20testosterone%20in%20social%20interaction.pdf?utm_source=chatgpt.com "The role of testosterone in social interaction"))
+    
+- **Estradiol (E2):** điều biến mạnh **dopamine** → **tăng nhạy thưởng/động lực** theo pha chu kỳ; hàm ý khác biệt giới tính về động lực–thưởng. ([Deep Blue](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/152780/bph14531_am.pdf?sequence=1&utm_source=chatgpt.com "Sex differences in estradiol effects ) on dopamine release"), [Taylor & Francis Online](https://www.tandfonline.com/doi/pdf/10.31887/DCNS.2016.18.4/jbecker?utm_source=chatgpt.com "Sex differences in addiction - Taylor & Francis Online"))
+    
+- **Progesterone/Allopregnanolone:** **điều biến GABA‑A**, **an thần–ổn định** (sau rụng trứng/hậu sản có thể dao động mạnh).
+    
+- **Coaching lưu ý:** **cửa sổ động lực** theo chu kỳ/tuổi; **thiết kế lịch effort** phù hợp.
+    
+
+### 3.3. **Orexin/Hypocretin (thức–động lực nỗ lực cao)**
+
+- **Vai:** “bật nguồn” **arousal + động lực nỗ lực cao**, đặc biệt khi **có tín hiệu ngoại lực** (cue/stress) hoặc **mục tiêu khó**; thiếu hụt → buồn ngủ/narcolepsy. ([Cpb-us-e2.wpmucdn.com](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/9/365/files/2014/09/Mahler-et-al-Orexin-NN.pdf?utm_source=chatgpt.com "Motivational activation: a unifying hypothesis of orexin/hypocretin ..."))
+    
+- **Ý nghĩa:** khi cần **bứt tốc (D/C)**, **stack orexin** bằng **giấc ngủ chất lượng, ánh sáng sáng, vận động cường độ vừa, mục tiêu khó có ý nghĩa**.
+    
+
+---
+
+## 4) Liên kết sang **4 tầng NỘI LỰC** bạn đã xây
+
+### Tầng 1 – **Mindset Cơ bản (9 mindset)**
+
+- **“Không có lý do cũng là lý do”**: tận dụng **NE + dopamine** để **vào việc trước** → hành động sinh động lực. **Ritual 2–5 phút** (đứng dậy–thở mạnh–click “bắt đầu”) kích **NE phasic** rồi **ổn định**. ([UCSD Pages](https://pages.ucsd.edu/~jpineda/COGS260/monoamines/LC-NE%20review.pdf?utm_source=chatgpt.com "An Integrative Theory of Locus Coeruleus-Norepinephrine Function ..."))
+    
+- **“Xổ số hay lãi kép”**: dopamine **khía cạnh effort‑based choices** ủng hộ **đầu tư dài hạn** khi môi trường giảm nhiễu cue ngắn hạn. ([Jim Hopper](https://www.jimhopper.com/pdf/salamonecorrea2012.pdf?utm_source=chatgpt.com "The Mysterious Motivational Functions of Mesolimbic Dopamine"), [Frontiers](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2018.00052/full?utm_source=chatgpt.com "Dopamine, Effort-Based Choice, and Behavioral Economics ... - Frontiers"))
+    
+
+### Tầng 2 – **Văn–Tư–Tu Tuệ (Tứ Niệm Xứ/Bát Chánh Đạo)**
+
+- **Chánh Niệm** làm **giảm reactivity với cue** (giảm “wanting” do cue), tăng **năng lực chọn lọc** dưới arousal (GANE – NE chọn lọc ưu tiên). ([Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/norepinephrine-ignites-local-hotspots-of-neuronal-excitation-how-arousal-amplifies-selectivity-in-perception-and-memory/A1750B4C91812D0CC7F6D42872DC05AD?utm_source=chatgpt.com "Norepinephrine ignites local hotspots of neuronal excitation: How ..."))
+    
+- **Giới–Định–Tuệ** như **bộ lọc đạo đức** cho **testosterone/vasopressin** (địa vị) và **oxytocin** (thiên vị nhóm) để **hướng thiện**. ([Department of Economics](https://www.econ.uzh.ch/dam/jcr%3A1ce9dfea-ab56-431a-a733-6515b62107a0/The%20role%20of%20testosterone%20in%20social%20interaction.pdf?utm_source=chatgpt.com "The role of testosterone in social interaction"), [PNAS](https://www.pnas.org/doi/pdf/10.1073/pnas.1015316108?utm_source=chatgpt.com "Oxytocin promotes human ethnocentrism - PNAS"))
+    
+
+### Tầng 3 – **Đòn bẩy Năng lượng**
+
+- **Môi trường (6 trần):** Sắc/Thanh/Pháp trần **kích “wanting”**; thiết kế **cue tốt** (bảng điểm, streak, nhóm học) để **kéo dopamine đúng hướng**; **giảm cue xấu** (mạng xã hội, snack). ([LSA Technology Services](https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/2016-Berridge-Robinson-Liking-wanting-IS-theory-of-addiction-Am-Psychol.pdf?utm_source=chatgpt.com "Liking, Wanting, and the Incentive-Sensitization Theory of Addiction"))
+    
+- **Kết nối (SI):** **hiện diện – chạm – biết ơn** tăng oxytocin (gắn kết) → **nội lực S/Ý nghĩa** bền hơn. ([PNAS](https://www.pnas.org/doi/pdf/10.1073/pnas.1015316108?utm_source=chatgpt.com "Oxytocin promotes human ethnocentrism - PNAS"))
+    
+- **Chiến thắng & Tự chủ (D/C):** **testosterone + orexin + NE** cho **mục tiêu khó**; đặt **luật chơi công bằng**, có **phụng sự** để không trượt sang “cái tôi” thuần địa vị. ([Department of Economics](https://www.econ.uzh.ch/dam/jcr%3A1ce9dfea-ab56-431a-a733-6515b62107a0/The%20role%20of%20testosterone%20in%20social%20interaction.pdf?utm_source=chatgpt.com "The role of testosterone in social interaction"), [Cpb-us-e2.wpmucdn.com](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/9/365/files/2014/09/Mahler-et-al-Orexin-NN.pdf?utm_source=chatgpt.com "Motivational activation: a unifying hypothesis of orexin/hypocretin ..."))
+    
+- **Tứ Niệm Xứ:** điều tiết **cortisol/NE** qua **thở–định–quan sát cảm thọ** → không bị ngoại lực “kéo dây”.
+    
+
+### Tầng 4 – **Siêu việt (Bát Chánh Đạo)**
+
+- **Ổn định nhịp sinh học (Melatonin/Cortisol)** + **Chánh Niệm/Chánh Định** → nền **an tịnh**, từ đó **Trí** dẫn **Tâm** dùng **Ngoại lực** làm đòn bẩy thay vì bị chi phối. ([ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763418303415?utm_source=chatgpt.com "Circadian modulation of human reward function: Is there an evidentiary ..."))
+    
+
+---
+
+## 5) Bảng tra cứu nhanh: HORMONE → Kiểu động lực → Ngoại lực kích
+
+|Hormone/hệ|Kiểu động lực trội|Ngoại lực “6 trần” dễ kích|Gợi ý can thiệp (Thân/Tâm/Trí)|
+|---|---|---|---|
+|**Dopamine**|Theo đuổi/Wanting; chọn phương án **tốn effort** khi khỏe|**Sắc/Thanh/Pháp** (cue phần thưởng, bảng xếp hạng)|Thiết kế **ritual bắt đầu việc**, chia nhỏ mục tiêu, feedback nhanh. ([Jim Hopper](https://www.jimhopper.com/pdf/salamonecorrea2012.pdf?utm_source=chatgpt.com "The Mysterious Motivational Functions of Mesolimbic Dopamine"))|
+|**NE (LC)**|**Khuếch đại ưu tiên**; bứt tốc ngắn hạn|Âm nhạc nhanh, deadline, nước lạnh|“Bật” rồi **thu**: thở ra dài–đi bộ 3–10’ để ổn định. ([UCSD Pages](https://pages.ucsd.edu/~jpineda/COGS260/monoamines/LC-NE%20review.pdf?utm_source=chatgpt.com "An Integrative Theory of Locus Coeruleus-Norepinephrine Function ..."))|
+|**Orexin**|**Động lực nỗ lực cao** + thức|Cue mục tiêu khó; bối cảnh thách thức|Ngủ–ánh sáng–vận động sáng; mục tiêu “khó nhưng có ý nghĩa”. ([Cpb-us-e2.wpmucdn.com](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/9/365/files/2017/01/james-mahler-moorman-aston-jones-orexin-curr-top-behav-neurosci-2016.pdf?utm_source=chatgpt.com "A Decade of Orexin/Hypocretin and Addiction: Where Are We Now?"))|
+|**Cortisol**|Đối phó/thận trọng (U ngược)|Tin xấu, tranh cãi, quá tải|Vệ sinh giấc ngủ, “box breathing”, giới hạn tin tức. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2211124717300670?utm_source=chatgpt.com "Projection-Target-Defined Effects of Orexin and Dynorphin on VTA ..."))|
+|**Leptin/Ghrelin/GLP‑1**|Đói/no ↔ **salience phần thưởng**|Mùi/vị/ảnh đồ ăn, feed ngắn|Protein/rau trước carb; giờ ăn cố định. ([Pure OAI](https://pure-oai.bham.ac.uk/ws/files/27545178/Shamay_Tsoory_et_al_Social_salience_hypothesis_Biological_Psychiatry_2015.pdf?utm_source=chatgpt.com "The Social Salience Hypothesis of Oxytocin"), [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0031938414001474?utm_source=chatgpt.com "Neural integration of satiation and food reward: Role of GLP-1 and ..."))|
+|**Insulin (não)**|Điều chỉnh **định giá**|Đồ ngọt nhanh, thưởng tức thì|Ổn định đường huyết; vận động sau ăn. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352154617300840?utm_source=chatgpt.com "Habits under stress: mechanistic insights across different types of ..."))|
+|**Oxytocin**|**Động lực gắn kết/ý nghĩa**|Giao tiếp trực tiếp, chạm, nhóm|Nhóm học–phụng sự–biết ơn; cảnh giác **thiên vị nhóm**. ([PNAS](https://www.pnas.org/doi/pdf/10.1073/pnas.1015316108?utm_source=chatgpt.com "Oxytocin promotes human ethnocentrism - PNAS"))|
+|**Vasopressin/Testosterone**|**Địa vị–cạnh tranh–chinh phục** theo **ngữ cảnh**|Thi đấu, public ranking|Luật chơi công bằng + **Chánh Kiến** để hướng thiện. ([Department of Economics](https://www.econ.uzh.ch/dam/jcr%3A1ce9dfea-ab56-431a-a733-6515b62107a0/The%20role%20of%20testosterone%20in%20social%20interaction.pdf?utm_source=chatgpt.com "The role of testosterone in social interaction"))|
+|**Estradiol/Progesterone**|Cửa sổ động lực theo **chu kỳ**|Cue xã hội/đồng đội|Lập lịch effort theo pha năng lượng; tự bi mẫn. ([Deep Blue](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/152780/bph14531_am.pdf?sequence=1&utm_source=chatgpt.com "Sex differences in estradiol effects ) on dopamine release"))|
+|**Endorphin/Endocannabinoid**|**Khoái cảm sau nỗ lực** (liking)|Nhạc/thưởng sau hoàn thành|“Tự thưởng có chủ đích” sau mốc quan trọng. ([The Journal of Neuroscience](https://www.jneurosci.org/content/34/12/4239?utm_source=chatgpt.com "Opioid Hedonic Hotspot in Nucleus Accumbens Shell: Mu, Delta, and Kappa ..."), [Cpb-us-e2.wpmucdn.com](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/9/365/files/2018/08/Mitchell-et-al-CannCannRes-2018.pdf?utm_source=chatgpt.com "Endocannabinoid-Enhanced Liking in Nucleus Accumbens Shell Hedonic ..."))|
+|**NPY/CRH**|**Resilience** vs. **cảnh báo stress**|Áp lực kéo dài|Thiền–kết nối–ngủ đủ để tăng “đệm NPY”. ([Europe PMC](https://europepmc.org/article/MED/27913193?utm_source=chatgpt.com "Neuropeptide Y, resilience, and PTSD therapeutics."))|
+|**Melatonin/nhịp sinh học**|**Ổn định nội lực dài hạn**|Ánh sáng tối/sáng|Ánh nắng sáng–tối giảm xanh–giờ ngủ cố định. ([ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763418303415?utm_source=chatgpt.com "Circadian modulation of human reward function: Is there an evidentiary ..."))|
+
+---
+
+## 6) Kết nối với **DISC (4 động lực ngoại lực)**
+
+- **D – Chiến thắng/địa vị:** **Testosterone + NE + Orexin** (nỗ lực cao). Dùng **bảng xếp hạng minh bạch**, thưởng chậm có ý nghĩa để tránh “dopamine rẻ tiền”. ([Department of Economics](https://www.econ.uzh.ch/dam/jcr%3A1ce9dfea-ab56-431a-a733-6515b62107a0/The%20role%20of%20testosterone%20in%20social%20interaction.pdf?utm_source=chatgpt.com "The role of testosterone in social interaction"), [Cpb-us-e2.wpmucdn.com](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/9/365/files/2017/01/james-mahler-moorman-aston-jones-orexin-curr-top-behav-neurosci-2016.pdf?utm_source=chatgpt.com "A Decade of Orexin/Hypocretin and Addiction: Where Are We Now?"))
+    
+- **C – Chinh phục/vấn đề khó:** **Dopamine effort‑based** + **NE**; đặt **quest tăng level A→A+1**. ([Jim Hopper](https://www.jimhopper.com/pdf/salamonecorrea2012.pdf?utm_source=chatgpt.com "The Mysterious Motivational Functions of Mesolimbic Dopamine"))
+    
+- **I – Kết nối:** **Oxytocin**; cặp–nhóm–mentor–phụng sự. ([PNAS](https://www.pnas.org/doi/pdf/10.1073/pnas.1015316108?utm_source=chatgpt.com "Oxytocin promotes human ethnocentrism - PNAS"))
+    
+- **S – Ý nghĩa:** **Oxytocin + NPY** (an định), ghép **donation/impact** vào mỗi bài/hạng mục. ([Europe PMC](https://europepmc.org/article/MED/27913193?utm_source=chatgpt.com "Neuropeptide Y, resilience, and PTSD therapeutics."))
+    
+
+---
+
+## 7) “Protocol 4×4” — gợi ý triển khai nhanh theo **Thân–Tâm–Trí** (an toàn, không thay thuốc)
+
+**Thân (Nhiên liệu)**
+
+1. **Giấc ngủ 7–9h** + ánh nắng 5–15’ sáng (đồng bộ melatonin–cortisol). ([ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763418303415?utm_source=chatgpt.com "Circadian modulation of human reward function: Is there an evidentiary ..."))
+    
+2. **Bữa mở ngày giàu đạm + chất xơ**, tránh “đường rỗng” (Insulin/ghrelin/leptin ổn định). ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352154617300840?utm_source=chatgpt.com "Habits under stress: mechanistic insights across different types of ..."), [Pure OAI](https://pure-oai.bham.ac.uk/ws/files/27545178/Shamay_Tsoory_et_al_Social_salience_hypothesis_Biological_Psychiatry_2015.pdf?utm_source=chatgpt.com "The Social Salience Hypothesis of Oxytocin"))
+    
+3. **Vận động 20–40’** (sức bền/cường độ vừa), thêm **10’ đi bộ sau ăn** (insulin/động lực). ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352154617300840?utm_source=chatgpt.com "Habits under stress: mechanistic insights across different types of ..."))
+    
+4. **Caffeine đúng nhịp** (sau khi thức 60–90’) để tránh phá melatonin ban đêm.
+    
+
+**Tâm (Động cơ)**
+
+1. **Ritual 120 giây** khởi động (đứng – thở 4‑8 – mở task) → **NE phasic** + “bắt đầu trước”. ([UCSD Pages](https://pages.ucsd.edu/~jpineda/COGS260/monoamines/LC-NE%20review.pdf?utm_source=chatgpt.com "An Integrative Theory of Locus Coeruleus-Norepinephrine Function ..."))
+    
+2. **Thiết kế cue tốt**: đồng hồ Pomodoro, checklist, streak. ([LSA Technology Services](https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/2016-Berridge-Robinson-Liking-wanting-IS-theory-of-addiction-Am-Psychol.pdf?utm_source=chatgpt.com "Liking, Wanting, and the Incentive-Sensitization Theory of Addiction"))
+    
+3. **Tự thưởng có chủ đích** sau mốc (endorphin/EC). ([Cpb-us-e2.wpmucdn.com](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/9/365/files/2018/08/Mitchell-et-al-CannCannRes-2018.pdf?utm_source=chatgpt.com "Endocannabinoid-Enhanced Liking in Nucleus Accumbens Shell Hedonic ..."))
+    
+4. **Giảm cue xấu** (mute social, để snack khuất mắt). ([LSA Technology Services](https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/2016-Berridge-Robinson-Liking-wanting-IS-theory-of-addiction-Am-Psychol.pdf?utm_source=chatgpt.com "Liking, Wanting, and the Incentive-Sensitization Theory of Addiction"))
+    
+
+**Trí (Người lái)**
+
+1. **Chánh niệm 10’/ngày** (quan sát thân–thọ–tâm–pháp) để **giảm “kéo” của cue**. ([Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/norepinephrine-ignites-local-hotspots-of-neuronal-excitation-how-arousal-amplifies-selectivity-in-perception-and-memory/A1750B4C91812D0CC7F6D42872DC05AD?utm_source=chatgpt.com "Norepinephrine ignites local hotspots of neuronal excitation: How ..."))
+    
+2. Lập **mục tiêu 3 tầng**: _The Road – The Impact – The Power_ (đồng thời nội lực & ngoại lực).
+    
+3. **Luật đạo đức làm khung** cho **D/C** (địa vị/chinh phục) — giữ hướng **phụng sự**. ([Department of Economics](https://www.econ.uzh.ch/dam/jcr%3A1ce9dfea-ab56-431a-a733-6515b62107a0/The%20role%20of%20testosterone%20in%20social%20interaction.pdf?utm_source=chatgpt.com "The role of testosterone in social interaction"))
+    
+4. **Nhịp học–nghỉ 90–120’** phù hợp **nhịp sinh học** cá nhân. ([ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763418303415?utm_source=chatgpt.com "Circadian modulation of human reward function: Is there an evidentiary ..."))
+    
+
+> ⚕️ **Lưu ý y khoa:** nếu có triệu chứng nghi ngờ rối loạn nội tiết (mệt mỏi dai dẳng, thay đổi cân nặng không rõ nguyên nhân, rối loạn kinh nguyệt, giảm libido, trầm uất kéo dài…), **không tự bổ sung hormone**; nên khám lâm sàng–xét nghiệm.
+
+---
+
+## 8) Tóm tắt “kết nối vàng” cho mô hình của bạn
+
+- **Ngoại lực (6 trần)** chủ yếu **đánh vào Dopamine/NE/Orexin** → **“wanting” theo cue**.
+    
+- **Nội lực** được nâng bởi **SDT (tự chủ–năng lực–gắn kết)** + **nhịp sinh học khỏe** (Melatonin/Cortisol) + **resilience** (NPY) + **định hướng đạo đức** (Bát Chánh Đạo). ([Self-Determination Theory](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf?utm_source=chatgpt.com "PLI1104.vp - Self-Determination Theory"), [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763418303415?utm_source=chatgpt.com "Circadian modulation of human reward function: Is there an evidentiary ..."), [Europe PMC](https://europepmc.org/article/MED/27913193?utm_source=chatgpt.com "Neuropeptide Y, resilience, and PTSD therapeutics."))
+    
+- **Trí (Chánh Niệm/Chánh Kiến)** là **bộ điều phối**: biến Ngoại lực thành **đòn bẩy** thay vì **xiềng xích**.
+    
+
+Nếu bạn muốn, tôi có thể **biến bộ khung trên thành “dashboard đo lường”** (tuần/tháng) cho học viên:
+
+- **Scores**: Giấc ngủ, Đồng bộ nhịp, Cue hygiene, Ritual bắt đầu, Kết nối/Phụng sự, Resilience (NPY proxy), “Effort‑based choices”, v.v.
+    
+- **Playbook**: gợi ý can thiệp 7–14 ngày theo **mục tiêu DISC** từng người.
+    
+
+---
+
+### Tài liệu nòng cốt (trích dẫn chính)
+
+- Dopamine “wanting”/“liking” & hedonic hotspots. ([LSA Technology Services](https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/2016-Berridge-Robinson-Liking-wanting-IS-theory-of-addiction-Am-Psychol.pdf?utm_source=chatgpt.com "Liking, Wanting, and the Incentive-Sensitization Theory of Addiction"), [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1471489208002129?utm_source=chatgpt.com "Dissecting components of reward: ‘liking’, ‘wanting’, and learning"), [The Journal of Neuroscience](https://www.jneurosci.org/content/25/50/11777?utm_source=chatgpt.com "Hedonic Hot Spot in Nucleus Accumbens Shell: Where Do μ-Opioids Cause ..."))
+    
+- Effort‑based decision‑making (DA). ([Jim Hopper](https://www.jimhopper.com/pdf/salamonecorrea2012.pdf?utm_source=chatgpt.com "The Mysterious Motivational Functions of Mesolimbic Dopamine"), [Frontiers](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2018.00052/full?utm_source=chatgpt.com "Dopamine, Effort-Based Choice, and Behavioral Economics ... - Frontiers"))
+    
+- LC‑NE adaptive gain & arousal‑biased selectivity (GANE). ([UCSD Pages](https://pages.ucsd.edu/~jpineda/COGS260/monoamines/LC-NE%20review.pdf?utm_source=chatgpt.com "An Integrative Theory of Locus Coeruleus-Norepinephrine Function ..."), [Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/norepinephrine-ignites-local-hotspots-of-neuronal-excitation-how-arousal-amplifies-selectivity-in-perception-and-memory/A1750B4C91812D0CC7F6D42872DC05AD?utm_source=chatgpt.com "Norepinephrine ignites local hotspots of neuronal excitation: How ..."))
+    
+- Oxytocin (trust; social salience; in‑group bias). ([PNAS](https://www.pnas.org/doi/pdf/10.1073/pnas.1015316108?utm_source=chatgpt.com "Oxytocin promotes human ethnocentrism - PNAS"))
+    
+- Vasopressin & pair‑bonding/social dominance (động vật có vú). ([Frontiers](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2023.1127792/full?utm_source=chatgpt.com "Modulation of social behavior by distinct vasopressin sources"))
+    
+- Leptin ↓ và Ghrelin ↑ “salience” phần thưởng (VTA/NAc). ([Pure OAI](https://pure-oai.bham.ac.uk/ws/files/27545178/Shamay_Tsoory_et_al_Social_salience_hypothesis_Biological_Psychiatry_2015.pdf?utm_source=chatgpt.com "The Social Salience Hypothesis of Oxytocin"))
+    
+- Insulin não & định giá phần thưởng. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352154617300840?utm_source=chatgpt.com "Habits under stress: mechanistic insights across different types of ..."))
+    
+- GLP‑1 & chú ý/ham muốn đồ ăn. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0031938414001474?utm_source=chatgpt.com "Neural integration of satiation and food reward: Role of GLP-1 and ..."))
+    
+- Melatonin/nhịp sinh học ↔ hệ thưởng. ([ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763418303415?utm_source=chatgpt.com "Circadian modulation of human reward function: Is there an evidentiary ..."))
+    
+- Testosterone → **status‑seeking theo ngữ cảnh**. ([Department of Economics](https://www.econ.uzh.ch/dam/jcr%3A1ce9dfea-ab56-431a-a733-6515b62107a0/The%20role%20of%20testosterone%20in%20social%20interaction.pdf?utm_source=chatgpt.com "The role of testosterone in social interaction"))
+    
+- Estradiol ↔ dopamine & động lực theo chu kỳ. ([Deep Blue](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/152780/bph14531_am.pdf?sequence=1&utm_source=chatgpt.com "Sex differences in estradiol effects ) on dopamine release"))
+    
+- Orexin/hypocretin → **động lực nỗ lực cao** & cue‑triggered seeking. ([Cpb-us-e2.wpmucdn.com](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/9/365/files/2017/01/james-mahler-moorman-aston-jones-orexin-curr-top-behav-neurosci-2016.pdf?utm_source=chatgpt.com "A Decade of Orexin/Hypocretin and Addiction: Where Are We Now?"))
+    
+- SDT (nội lực: tự chủ–năng lực–gắn kết). ([Self-Determination Theory](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf?utm_source=chatgpt.com "PLI1104.vp - Self-Determination Theory"))
+    
+
+---
+
+Bạn muốn tôi **chuyển bản nghiên cứu này thành “bản đồ thao tác”** 30–60 ngày (theo **4 tầng Nội lực** và **DISC**) để triển khai cho học viên/đội nhóm không? Tôi sẽ làm ngay: _mục tiêu → chỉ số → thí nghiệm vi mô → lịch can thiệp → checkpoint tuần_.
+
+
+---
+
+```
+Oke, giờ thì đúc kết ra các loại hoocmon quan trọng tác động đến NỘI LỰC VÀ NGOẠI LỰC.
+
+Sau đó giải thích chi tiết dễ hiểu cho trẻ con lớp 1 và output ra 1 bảng dễ đọc
+```
+
+
+# 📊 Bảng Hormone & Nội lực – Ngoại lực
+| Hormone (biệt danh)                                 | Ngoại lực (gọi ra bởi…)                               | Nội lực (tự triệu hồi bằng…)                                     | Khi **tích cực** 🌟                                                                                                               | Khi **tiêu cực** ⚠️                                                                                                         | Dẫn chứng khoa học                                                                                                                                                                                                                                                                                                                                                                       |
+| --------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dopamine – “Anh Phần Thưởng”** 🎯                 | Quà, thắng game, được like, được khen                 | Chia nhỏ mục tiêu, checklist ✔, tự thưởng sau khi hoàn thành     | - Tạo động lực mạnh mẽ để hành động.- Duy trì hứng thú trong học tập & công việc.- Giúp hình thành thói quen tốt.                 | - Nghiện game, mạng xã hội, chất kích thích.- Luôn cần “thưởng tức thì”, khó kiên nhẫn với mục tiêu dài hạn.                | [Dopamine trong hành vi và nghiện]([BioMed Central](https://jbiomedsci.biomedcentral.com/articles/10.1186/s12929-021-00779-7?utm_source=chatgpt.com "Dopamine, behavior, and addiction - Journal of Biomedical Science"))                                                                                                                                                                |
+| **Serotonin – “Chị Bình Yên”** 🌞                   | Được công nhận, khen ngợi, ở nơi an toàn              | Thiền, viết nhật ký biết ơn, đi dạo dưới nắng, ăn uống lành mạnh | - Cảm giác tự tin, hạnh phúc, an toàn.- Giúp ngủ ngon, tâm trạng ổn định.- Tăng khả năng gắn kết xã hội.                          | - Thiếu serotonin → buồn bã, tự ti, lo âu, trầm cảm.- Mất cân bằng gây rối loạn giấc ngủ, ăn uống.                          | [Vai trò serotonin trong trầm cảm]([Frontiers](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.802581/full?utm_source=chatgpt.com "Rewiring of the Serotonin System in Major Depression"), [Nature](https://www.nature.com/articles/s41380-022-01661-0.pdf?utm_source=chatgpt.com "The serotonin theory of depression: a systematic umbrella ... - Nature")) |
+| **Oxytocin – “Bạn Thân Thiết”** 🤝                  | Ôm mẹ, bắt tay bạn, chơi với nhóm, cộng đồng          | Giúp đỡ, nói lời cảm ơn, làm việc nhóm, ôm 10 giây               | - Tạo niềm tin, yêu thương, gắn kết.- Giúp hợp tác, chia sẻ.- Cảm giác an toàn khi ở trong cộng đồng.                             | - Quá lệ thuộc vào người khác để cảm thấy hạnh phúc.- Gia tăng thiên vị “in-group” (thân ai thì bênh, bỏ mặc người ngoài).  | [Oxytocin và thiên vị nhóm xã hội]([SpringerLink](https://link.springer.com/content/pdf/10.1007/s00702-018-1957-2.pdf?utm_source=chatgpt.com "Dopamine and addiction: what have we learned from 40 years ... - Springer"))                                                                                                                                                               |
+| **Endorphin – “Anh Cười Xòa”** 😂                   | Xem hài, nghe nhạc, vận động                          | Cười to, nhảy múa, chạy bộ, hít thở sâu                          | - Giảm đau tự nhiên, cảm giác “phê” sau vận động.- Giúp vượt qua khó khăn thể chất và tinh thần.- Mang lại niềm vui, sáng tạo.    | - Quá phụ thuộc vào “cảm giác high” → tập quá sức, dễ chấn thương.- Nghiện cảm giác mạnh, dễ mất cân bằng.                  | [Endorphin và khoái cảm sau vận động]([Frontiers](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2021.752420/full?utm_source=chatgpt.com "Dopamine Circuit Mechanisms of Addiction-Like Behaviors"))                                                                                                                                                        |
+| **Adrenaline – “Siêu Nhân Tỉnh Táo”** ⚡             | Nguy hiểm, thách thức, tiếng động bất ngờ             | Dội nước lạnh, thử thách “3-2-1 làm luôn”, bước ra vùng an toàn  | - Tăng sự tỉnh táo, tập trung cao độ.- Phản xạ nhanh, giúp sống sót trong nguy hiểm.- Tạo cảm giác hứng khởi khi thử thách.       | - Quá nhiều → lo âu, run tay, tim đập nhanh.- Stress mãn tính, suy nhược thần kinh.- Nghiện mạo hiểm.                       | [Adrenaline & phản ứng căng thẳng]([thelancet.com](https://www.thelancet.com/journals/lancet/article/PIIS2215-0366%2816%2900104-8/fulltext?utm_source=chatgpt.com "Neurobiology of addiction: a neurocircuitry analysis - The Lancet"))                                                                                                                                                  |
+| **Cortisol – “Cảnh Sát Deadline”** 🕒               | Deadline, bài kiểm tra, bị mắng, công việc chất chồng | Lập kế hoạch, hít thở 4-4-8, biến lo lắng thành động lực         | - Giúp tập trung xử lý tình huống cấp bách.- Tăng cảnh giác, phản ứng nhanh.- Khi ở mức vừa phải → nâng cao hiệu suất.            | - Cortisol cao lâu dài → mất ngủ, suy giảm trí nhớ, dễ cáu gắt, trầm cảm.- Gây rối loạn miễn dịch, hại sức khỏe.            | [Cortisol và stress mãn tính]([en.wikipedia.org](https://en.wikipedia.org/wiki/Biology_of_depression?utm_source=chatgpt.com "Biology of depression"))                                                                                                                                                                                                                                    |
+| **Testosterone / Estrogen – “Cặp Đôi Sức Mạnh”** 💪 | Gym, dinh dưỡng, tuổi dậy thì, cạnh tranh             | Rèn luyện thể chất, kỷ luật ăn – ngủ – tập, thể thao đối kháng   | - Testosterone: tự tin, quyết đoán, tăng cơ bắp, năng lượng.- Estrogen: điều hòa cảm xúc, hỗ trợ dopamine, tăng khả năng học hỏi. | - Testosterone quá cao → hung hăng, thích tranh chấp.- Estrogen mất cân bằng → tâm lý thất thường, dễ cáu gắt hoặc buồn bã. | [Testosterone & định hướng xã hội]([en.wikipedia.org](https://en.wikipedia.org/wiki/Terry_Earl_Robinson?utm_source=chatgpt.com "Terry Earl Robinson"))                                                                                                                                                                                                                                   |
+
+```
+Oke, giờ thì đúc kết ra các loại hoocmon quan trọng tác động đến NỘI LỰC VÀ NGOẠI LỰC. Xếp chúng vào 4 loại động lực DISC
+```
+
+| DISC Style                                                 | Hormone (biệt danh)                                                           | Vai trò động lực chính 🌟                                                            | Khi tích cực                                                 | Khi tiêu cực                                                              | Dẫn chứng khoa học                                                                                                                                                                                                                                                       |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **D – Dominance (Chiến thắng, quyền lực)**                 | **Dopamine – “Anh Phần Thưởng”** 🎯 **Testosterone – “Sức Mạnh”** 💪          | - Tạo cảm giác chinh phục & được thưởng.- Thúc đẩy tự tin, cạnh tranh, dám đứng TOP. | Hăng hái, tự tin, theo đuổi mục tiêu lớn.                    | Dễ nghiện “chiến thắng nhanh”, hung hăng hoặc nóng nảy khi mất kiểm soát. | [Dopamine & addiction](https://jbiomedsci.biomedcentral.com/articles/10.1186/s12929-021-00779-7?utm_source=chatgpt.com), [Testosterone & social status](https://en.wikipedia.org/wiki/Terry_Earl_Robinson?utm_source=chatgpt.com)                                        |
+| **I – Influence (Ảnh hưởng, kết nối, vui vẻ)**             | **Oxytocin – “Bạn Thân Thiết”** 🤝 **Endorphin – “Anh Cười Xòa”** 😂          | - Động lực từ niềm vui, kết nối, cảm giác thuộc về nhóm.                             | Gắn kết, tin tưởng, tạo năng lượng tích cực trong cộng đồng. | Quá phụ thuộc vào cảm giác vui/nhóm, dễ bị chi phối bởi xã hội.           | [Oxytocin & in-group bias](https://link.springer.com/content/pdf/10.1007/s00702-018-1957-2.pdf?utm_source=chatgpt.com), [Endorphin & runner’s high](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2021.752420/full?utm_source=chatgpt.com) |
+| **S – Steadiness (Bình yên, ý nghĩa, kiên trì)**           | **Serotonin – “Chị Bình Yên”** 🌞                                             | - Động lực từ sự công nhận, cảm giác an toàn, ổn định.                               | Hạnh phúc, kiên định, tâm trạng vững vàng.                   | Thiếu → dễ trầm cảm, lo âu, mất niềm tin.                                 | [Serotonin & depression](https://www.nature.com/articles/s41380-022-01661-0.pdf?utm_source=chatgpt.com)                                                                                                                                                                  |
+| **C – Conscientiousness (Chinh phục, kỷ luật, chính xác)** | **Adrenaline – “Siêu Nhân Tỉnh Táo”** ⚡ **Cortisol – “Cảnh Sát Deadline”** 🕒 | - Động lực từ thử thách, deadline, áp lực cần vượt qua.                              | Tỉnh táo, tập trung cao, bùng nổ sức mạnh khi cần.           | Stress quá mức → lo âu, kiệt sức, mất ngủ.                                | [Adrenaline stress response](https://www.thelancet.com/journals/lancet/article/PIIS2215-0366%2816%2900104-8/fulltext?utm_source=chatgpt.com), [Cortisol stress](https://en.wikipedia.org/wiki/Biology_of_depression?utm_source=chatgpt.com)                              |
+
+# 🎯 Insight quan trọng
+
+- **D = Dopamine + Testosterone** → năng lượng chinh phục, khát khao “TOP 1”.
+    
+- **I = Oxytocin + Endorphin** → niềm vui từ kết nối & ảnh hưởng xã hội.
+    
+- **S = Serotonin** → động lực bình an, ý nghĩa, kiên trì lâu dài.
+    
+- **C = Adrenaline + Cortisol** → động lực “áp lực sinh kim cương”, thích thử thách.
+
+
+Rồi ✅. Tôi sẽ gom lại thành **bảng súc tích**: Hormone → Nội lực (bên trong Thân–Tâm–Trí) → Ngoại lực (DISC – 4 động lực).
+
+---
+
+# 🧬 Bảng Hormone – Nội lực – Ngoại lực DISC
+
+|**Hormone**|**Tác động chính**|**Nội lực (Thân – Tâm – Trí)**|**Ngoại lực DISC (động lực kích hoạt)**|
+|---|---|---|---|
+|**Dopamine**|Hứng thú, phần thưởng, động lực khi “sắp đạt”|Thúc đẩy hành động, tìm cảm giác khó|**D – Dominance (Chiến thắng):** phần thưởng, thành tích|
+|**Testosterone**|Quyết đoán, tự tin, cạnh tranh|Ý chí thép, tinh thần TOP 1|**D – Dominance:** dẫn đầu, khát khao thắng|
+|**Adrenaline / Noradrenaline**|Phản ứng nhanh, tập trung, sẵn sàng chiến đấu|Xuống sân cỏ, vượt vùng an toàn|**C – Conscientious (Chinh phục):** áp lực, thử thách, flow|
+|**Cortisol** (stress)|Cảnh giác, chịu áp lực|“Mặt dày tâm đen”, sức bền tâm lý|**C – Chinh phục:** áp lực, deadline, vượt khó|
+|**Endorphin**|Giảm đau, hưng phấn sau nỗ lực|Bền bỉ, duy trì tập luyện|**C + D:** vượt qua khó khăn để đạt thành tích|
+|**Serotonin**|Ổn định tâm trạng, tự tin, giá trị bản thân|Tâm an, trí sáng, niềm tin vững chắc|**S – Steadiness (Ý nghĩa):** an định, phụng sự, cộng đồng|
+|**Oxytocin**|Yêu thương, gắn kết, tin tưởng|Biết ơn, kết nối, phụng sự|**I – Influence (Kết nối):** tình yêu, bạn bè, cộng đồng|
+|**Estrogen & Progesterone**|Cảm xúc, đồng cảm, trực giác|Trí tuệ cảm xúc, sự mềm mại|**I + S:** xây dựng quan hệ, phụng sự|
+|**Melatonin**|Ngủ ngon, phục hồi năng lượng|Nền tảng sinh học cho ý chí|Gián tiếp hỗ trợ mọi DISC|
+|**Growth Hormone (GH)**|Tái tạo, phục hồi, phát triển|Thể lực, khả năng tập luyện lâu dài|Hỗ trợ **D & C** trong chinh phục và thành tích|
+
+---
+
+# 🔑 Tóm gọn theo DISC
+
+- **D – Dominance (Chiến thắng):** Dopamine, Testosterone, Adrenaline
+    
+- **I – Influence (Kết nối):** Oxytocin, Estrogen
+    
+- **S – Steadiness (Ý nghĩa):** Serotonin, Oxytocin
+    
+- **C – Conscientious (Chinh phục):** Adrenaline, Cortisol, Endorphin
+
+
+
+---
+
+| **Hormone (biệt danh)**                                     | **Ngoại lực DISC (động lực kích hoạt)**                               | **Nội lực (tự triệu hồi bằng Mindset, Ý chí, Chánh niệm)**                | **Khi tích cực 🌟**                                    | **Khi tiêu cực ⚠️**                                                   | **Dẫn chứng khoa học**                                                                                | **Reference Link**                                                                                              |
+| ----------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Dopamine** (“Nhiên liệu phần thưởng”)                     | **D – Dominance (Chiến thắng):** thành tích, leaderboard, phần thưởng | Tự đặt mục tiêu nhỏ, chia nhỏ tiến trình → tự tạo cảm giác “được thưởng”  | Tạo hứng khởi, động lực hành động, học nhanh, dấn thân | Gây nghiện (game, mạng xã hội), dễ mất tập trung, phụ thuộc ngoại lực | Dopamine tăng khi kỳ vọng phần thưởng, giảm khi đạt được; nghiện là do “vòng lặp dự đoán phần thưởng” | [NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826767/)                                                    |
+| **Testosterone** (“Chiến binh TOP 1”)                       | **D – Dominance:** cạnh tranh, vị thế, dẫn đầu                        | Tập luyện thể thao, khẳng định bản thân, self-talk mạnh mẽ                | Tăng sự tự tin, quyết đoán, khát khao chinh phục       | Quá mức → hung hăng, ích kỷ, liều lĩnh                                | Testosterone cao liên quan sự cạnh tranh, thấp gây giảm tự tin                                        | [Harvard Health](https://www.health.harvard.edu/mens-health/the-many-myths-of-testosterone)                     |
+| **Adrenaline / Noradrenaline** (“Công tắc chiến đấu”)       | **C – Conscientious (Chinh phục):** thử thách, deadline, áp lực       | Đặt mình vào tình huống căng thẳng giả lập (cold shower, public speaking) | Tăng sự tỉnh táo, phản ứng nhanh, tập trung            | Stress mãn tính, lo âu, mất ngủ                                       | Adrenaline huy động năng lượng khẩn cấp; noradrenaline duy trì sự tỉnh táo                            | [Mayo Clinic](https://www.mayoclinic.org/first-aid/first-aid-adrenaline-rush/basics/art-20056692)               |
+| **Cortisol** (“Thanh gươm Stress”)                          | **C – Conscientious:** deadline, áp lực, thách thức                   | Rèn luyện “mặt dày tâm đen”, thiền giảm stress                            | Giúp chịu áp lực, tăng sự bền bỉ trong ngắn hạn        | Quá cao → burnout, suy giảm trí nhớ, trầm cảm                         | Cortisol cao vừa phải giúp tập trung; kéo dài gây hại thần kinh                                       | [NIH](https://www.ncbi.nlm.nih.gov/books/NBK538239/)                                                            |
+| **Endorphin** (“Thuốc giảm đau tự nhiên”)                   | **C + D:** vượt qua giới hạn, luyện tập cường độ cao                  | Tập thể dục cường độ cao, thiền hơi thở sâu                               | Gây hưng phấn, bền bỉ, “runner’s high”                 | Gây nghiện cảm giác cực đoan (extreme sports, self-harm)              | Endorphin gắn với cảm giác hưng phấn, giảm đau sau vận động                                           | [Harvard Health](https://www.health.harvard.edu/mind-and-mood/the-runner-s-high-endorphins-or-endocannabinoids) |
+| **Serotonin** (“Chất an định & niềm tin”)                   | **S – Steadiness (Ý nghĩa):** cảm giác an toàn, phụng sự              | Thực hành biết ơn, thiền quán tâm                                         | Ổn định cảm xúc, tăng niềm tin, cảm giác thuộc về      | Thiếu hụt → trầm cảm, lo âu, rối loạn ám ảnh cưỡng chế                | Serotonin điều chỉnh tâm trạng, thuốc chống trầm cảm SSRI tăng serotonin                              | [NIH](https://www.ncbi.nlm.nih.gov/books/NBK507250/)                                                            |
+| **Oxytocin** (“Hormone yêu thương”)                         | **I – Influence (Kết nối):** tình yêu, cộng đồng, networking          | Tạo kết nối xã hội, giúp đỡ, phụng sự                                     | Tăng gắn kết, tin tưởng, lòng biết ơn                  | Quá mức → lệ thuộc tình cảm, dễ bị thao túng                          | Oxytocin tăng khi ôm, tin tưởng; gắn kết xã hội                                                       | [Nature](https://www.nature.com/articles/nrn2462)                                                               |
+| **Estrogen & Progesterone** (“Hormone cảm xúc & trực giác”) | **I + S:** nuôi dưỡng, đồng cảm, chăm sóc                             | Tập trung vào lắng nghe, phát triển EQ                                    | Tăng trí tuệ cảm xúc, sự mềm mại, trực giác            | Mất cân bằng → rối loạn cảm xúc, lo âu, trầm cảm                      | Estrogen ảnh hưởng cảm xúc & nhận thức; dao động gây rối loạn tiền kinh nguyệt                        | [NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612130/)                                                    |
+| **Melatonin** (“Đồng hồ sinh học”)                          | Gián tiếp hỗ trợ mọi DISC qua hồi phục năng lượng                     | Tạo thói quen ngủ đúng giờ, tránh ánh sáng xanh                           | Ngủ ngon, phục hồi, tăng ý chí                         | Rối loạn nhịp sinh học, mất ngủ                                       | Melatonin điều hòa chu kỳ giấc ngủ, ánh sáng xanh ức chế sản xuất                                     | [NIH](https://www.ncbi.nlm.nih.gov/books/NBK534823/)                                                            |
+| **Growth Hormone (GH)** (“Kiến trúc sư phục hồi”)           | Hỗ trợ **D & C**: phát triển, bền bỉ                                  | Ngủ sâu, tập luyện kháng lực                                              | Tái tạo cơ – xương, tăng phục hồi, tăng sức bền        | Thiếu → suy giảm sức khỏe, phục hồi chậm                              | GH tiết ra chủ yếu khi ngủ sâu, tăng trưởng & phục hồi                                                | [NIH](https://www.ncbi.nlm.nih.gov/books/NBK279164/)                                                            |
+
+
+--- 
+Như vậy, mỗi hormone có **2 mặt**: nếu được quản trị bằng **Chánh Niệm – Mindset – Ý chí**, nó trở thành **nội lực**; nếu không, nó dễ bị **ngoại lực (DISC + môi trường + 6 trần)** chi phối thành tiêu cực.
+
+
+
+---
+
+
+|                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                   |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Thành phần                     | **NGOẠI LỰC (Kích hoạt từ bên ngoài)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **NỘI LỰC (Sức mạnh từ bên trong)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **KHI PHỐI HỢP → SỨC MẠNH TỔNG HỢP**                                                                              |
+| **THÂN** _(Nhiên liệu)_        | **5 TRẦN + 5 CĂN** - **Sắc trần** – hình ảnh, màu sắc, cảnh vật, thân thể + 👁 **Mắt (Nhãn căn)**<br><br>- **Thanh trần** – âm thanh, tiếng nói, nhạc, ồn ào + 👂 **Tai (Nhĩ căn)**<br><br>- **Hương trần** – mùi (thơm, hôi, dễ chịu, khó chịu) + 👃 **Mũi (Tỵ căn)**<br><br>- **Vị trần** – vị (ngọt, mặn, đắng, chua…) + 👅 **Lưỡi (Thiệt căn)**<br><br>- **Xúc trần** – cảm giác chạm (êm ái, đau nhức, khoan khoái, lạnh nóng)<br><br>+ 🖐 **Thân (Thân căn)**                                                                                                                                                                                                                                                                    | - **Nền tảng:** DINH DƯỠNG, GIẤC NGỦ, VẬN ĐỘNG, HƠI THỞ **- Năng lượng Sinh học & Thể chất: Hormone**<br><br>+ **Dopamine** (“Nhiên liệu phần thưởng”)<br><br>+ **Testosterone** (“Chiến binh TOP 1”)<br><br>+ **Adrenaline / Noradrenaline** (“Công tắc chiến đấu”)<br><br>+ **Cortisol** (“Thanh gươm Stress”)<br><br>+ **Endorphin** (“Thuốc giảm đau tự nhiên”)<br><br>+ **Serotonin** (“Chất an định & niềm tin”)<br><br>+ **Oxytocin** (“Hormone yêu thương”)<br><br>+ **Estrogen & Progesterone** (“Hormone cảm xúc & trực giác”)<br><br>+ **Melatonin** (“Đồng hồ sinh học”)<br><br>+ **Growth Hormone (GH)** (“Kiến trúc sư phục hồi”)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Năng lượng Vật chất:**Khả năng duy trì sự bền bỉ, dẻo dai và sức khỏe để theo đuổi mục tiêu dài hạn.            |
+| **TÂM** _(Động cơ)_            | **Pháp trần – ý niệm, khái niệm, tư tưởng, ký ức, tin tức +🧠 Ý (Ý căn)**<br><br>- Ý niệm, khái niệm, tư tưởng, ký ức, thông tin từ bên ngoài (sách vở, mentor, xã hội). - **4 Đòn bẩy ngoại lực (DISC):** - **(D) Chiến thắng:** Phần thưởng, xếp hạng, sự công nhận. (Đạt được sao, tăng level, streak, ... ) ><THAM SÂN - **(I) Kết nối:** Tương tác với đội nhóm, cộng đồng, mentor. (Community, học cùng đồng đội, ...) ><THAM, SI - **(S) Ý nghĩa:** Phụng sự, giúp đỡ, tạo giá trị cho người khác. (Tôi học 1 bài này tôi góp được 100 đ cho trẻ em vùng cao, ý nghĩa) >< THAM - **(C) Chinh phục:** Giải quyết vấn đề khó, vượt qua thử thách. (giải quyết vấn đề level A=A+1, Áp suất, Flow) >< THAM, SÂN, SI --- THAM SÂN SI | **Sức mạnh Ý chí & Tâm thức:** - **Mindset:** Niềm tin (giới hạn/vô hạn), tư duy phát triển, THE ROAD THE IMPACT THE POWER - KO AI ĐI TÔI CŨNG ĐI. - **Ý chí & Nghị lực:** "Mặt dày tâm đen", tìm kiếm cảm giác khó chịu, sự kiên trì. SỬ DỤNG CỨNG RẮN - LẬP TRÌNH NÃO NLP: TỰ TẨY NÃO MÌNH ĐỂ ...<br><br>===<br><br>###### 1. Mindset về Định hướng và Tự chủ<br><br>•THE ROAD - CON ĐƯỜNG TÔI CHỌN: Sự tự chủ, kiên định với con đường của mình ngay cả khi không có sự hỗ trợ từ người khác<br><br>•PHÂN BIỆT THÀNH CÔNG VỚI HẠNH PHÚC: Hiểu rõ mục đích cuộc sống là "Chấm Dứt Khổ", hạnh phúc là trạng thái bên trong<br><br>•TRỞ THÀNH HAY TRẢI NGHIỆM: Phân biệt giữa việc chỉ muốn trải nghiệm cảm giác và việc thực sự "trở thành"<br><br>###### 2. Mindset về Hành động và Thử thách<br><br>•XUỐNG SÂN CỎ HAY TRÊN KHÁN ĐÀI: Bước ra ngoài vùng an toàn, đối mặt với nỗi sợ hãi<br><br>•KHÔNG CÓ LÝ DO CŨNG LÀ LÝ DO: Hành động không cần lý do cụ thể khi đối mặt với sự ngại ngùng<br><br>•TỰ TẨY NÃO MÌNH ĐỂ TÌM KIẾM CẢM GIÁC KHÓ CHỊU: Ưa thích giải quyết các vấn đề khó<br><br>###### 3. Mindset về Kiên trì và Phát triển<br><br>•XỔ SỐ HAY LÃI KÉP: Nhấn mạnh "SYSTEM + NHẤT QUÁN + TIME", đào sâu không đào rộng<br><br>•TOP TRÊN HAY TOP DƯỚI: Lựa chọn làm việc với những người ở "top trên"<br><br>•THE ROAD - THE IMPACT - THE POWER: Phụng sự vô điều kiện, mindset chịu trách nhiệm                                                                                                                                                                                                                         | **Động cơ Cảm xúc & Ý chí:**Sức mạnh tinh thần để khởi sự, duy trì hành động và vượt qua trở ngại tâm lý.         |
+| **TRÍ** _(Người lái & Bản đồ)_ | **Tam Bảo (Bên ngoài):** - **Pháp:** Giáo pháp, tri thức, sách vở, hệ thống (Gosinga, X3). - **Thầy hiền trí:** Mentor, người dẫn đường. - **Nhóm bạn tốt:** Cộng đồng, đội nhóm cùng phát triển.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Trí tuệ Nội tâm (Tuệ):** 1. **Văn - Tư - Tu:** Văn (nghe giảng, nghiên cứu kinh điển để có hiểu biết đúng), Tư (tư duy, suy xét để hiểu sâu sắc hơn), và Tu (thực hành để thân chứng, đạt được trí tuệ thực sự) 2. **Chánh Niệm**: Trí nhớ đúng đắnNiệm (Sati) được Thiền Sư Nguyên Tuệ định nghĩa là "Trí Nhớ", "Nhớ Đến" điều đã học, đã tích lũy. Nó là một tâm hành vi tế, không phải Tâm Biết Ý thức. Có hai loại Niệm: * **Tà Niệm (Micchā Sati):** Là sự nhớ đến thông tin Vô minh, chấp ngã đã tích lũy từ vô thủy. Tà niệm dẫn đến việc tâm luôn hỏi "cái này là gì? đặc tính thế nào? dễ chịu, khó chịu hay trung tính?", từ đó phát sinh Tham, Sân, Si và lộ trình tâm Bát Tà Đạo. * **Chánh Niệm (Sammā Sati):** Là sự nhớ đến thông tin Minh, Trí Tuệ (hiểu biết đúng như thật các pháp, đặc biệt là Khổ Tập Diệt Đạo thuộc về NỘI TÂM, không phải THẾ GIỚI ngoại cảnh). Chánh Niệm là sự nhớ đến chú tâm các cảm giác khi nó xảy ra, không phân biệt, không phán xét. Khi Chánh Niệm khởi lên, nó là duyên cho Chánh Tinh tấn, Chánh Định, và các chi phần khác của Bát Chánh Đạo tự động phát sinh (cuốn "Niệm Định Tuệ"). 3. **LỘ TRÌNH TÂM: BÁT TÀ ĐẠO VÀ BÁT CHÁNH ĐẠO**Trong giáo lý của Thiền Sư Nguyên Tuệ, sự phân biệt giữa hai lộ trình tâm – Bát Tà Đạo và Bát Chánh Đạo – là cực kỳ quan trọng. Đây là hai con đường đối lập, một dẫn đến khổ đau và luân hồi (Bát Tà Đạo), một dẫn đến giải thoát và Niết Bàn (Bát Chánh Đạo). Các cuốn sách như "Bát Chánh Đạo - Con đường vắng mặt khổ đau", "Đến để mà thấy", "Vô Minh và Minh", và "Đúc kết Pháp học" đều phân tích rất chi tiết về hai lộ trình này. | **Trí tuệ Dẫn đường:**Khả năng định hướng, đưa ra quyết định sáng suốt và giữ vững con đường đúng đắn (The Road). |

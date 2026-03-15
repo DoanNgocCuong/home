@@ -1,0 +1,34 @@
+graph TB
+    Upload["User Upload<br/>(Video File)"]
+    UploadSvc["Upload Service"]
+    VideoStore["Video Store<br/>(Object Storage)"]
+    Queue["Transcoding Queue<br/>(Kafka)"]
+    Encoder["Encoder Worker<br/>(Multiple qualities)"]
+    Cache["Cache<br/>(Redis)"]
+    CDN["CDN Nodes<br/>(Global)"]
+    MetaDB["Metadata DB<br/>(Cassandra)"]
+
+    User["User Streaming"]
+    Gateway["API Gateway"]
+    Recommend["Recommendation<br/>Engine"]
+
+    Upload --> UploadSvc
+    UploadSvc --> VideoStore
+    UploadSvc --> MetaDB
+    UploadSvc --> Queue
+    Queue --> Encoder
+    Encoder --> VideoStore
+    VideoStore --> CDN
+    CDN --> Cache
+
+    User --> Gateway
+    Gateway --> Cache
+    Cache -->|Miss| CDN
+    Gateway --> MetaDB
+    Gateway --> Recommend
+    Recommend --> MetaDB
+
+    style UploadSvc fill:#4A90E2,stroke:#2E5C8A,color:#fff
+    style Queue fill:#F5A623,stroke:#C17F1A,color:#fff
+    style Encoder fill:#50E3C2,stroke:#2D8A78,color:#fff
+    style CDN fill:#BD10E0,stroke:#8B0A9D,color:#fff

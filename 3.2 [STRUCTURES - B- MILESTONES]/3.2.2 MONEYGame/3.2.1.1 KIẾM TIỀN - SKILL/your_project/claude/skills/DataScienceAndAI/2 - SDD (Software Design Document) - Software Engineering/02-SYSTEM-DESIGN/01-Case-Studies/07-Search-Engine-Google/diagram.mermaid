@@ -1,0 +1,45 @@
+graph TB
+    subgraph Crawl["Crawling Phase"]
+        Crawler["Web Crawler<br/>(Distributed)"]
+        Frontier["URL Frontier<br/>(Priority Queue)"]
+        Fetcher["Page Fetcher"]
+        Parser["Content Parser"]
+    end
+
+    subgraph Index["Indexing Phase"]
+        Tokenizer["Tokenizer<br/>(Stemming)"]
+        InvIndex["Inverted Index<br/>(Term -> Docs)"]
+        PageRank["PageRank<br/>(Link Analysis)"]
+    end
+
+    subgraph Query["Query Phase"]
+        QInput["Search Query"]
+        Processor["Query Processor"]
+        Searcher["Index Searcher"]
+        Ranker["Ranker<br/>(BM25, etc.)"]
+        Cache["Query Cache<br/>(Redis)"]
+    end
+
+    Results["Search Results"]
+
+    Frontier --> Fetcher
+    Fetcher --> Parser
+    Parser --> Crawler
+    Crawler -.->|Update| Frontier
+
+    Parser --> Tokenizer
+    Tokenizer --> InvIndex
+    PageRank --> InvIndex
+
+    QInput --> Processor
+    Processor --> Cache
+    Cache -->|Hit| Results
+    Cache -->|Miss| Searcher
+    Searcher --> InvIndex
+    Searcher --> Ranker
+    Ranker --> Results
+
+    style Crawler fill:#4A90E2,stroke:#2E5C8A,color:#fff
+    style InvIndex fill:#50E3C2,stroke:#2D8A78,color:#fff
+    style Ranker fill:#F5A623,stroke:#C17F1A,color:#fff
+    style Cache fill:#BD10E0,stroke:#8B0A9D,color:#fff

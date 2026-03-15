@@ -1,0 +1,40 @@
+graph TB
+    Client["Client<br/>(Upload/Download)"]
+    APIGate["API Gateway<br/>(Load Balance)"]
+
+    subgraph Services["Core Services"]
+        FileSvc["File Service<br/>(Chunking)"]
+        MetaSvc["Metadata Service<br/>(File Info)"]
+        SyncSvc["Sync Service<br/>(Device Sync)"]
+        ShareSvc["Sharing Service<br/>(Permissions)"]
+    end
+
+    subgraph Storage["Storage Layer"]
+        BlockStore["Block Storage<br/>(Deduplicated)"]
+        MetaDB["Metadata DB<br/>(Cassandra)"]
+        Cache["Cache<br/>(Redis)"]
+    end
+
+    NotifSvc["Notification Service"]
+
+    Client --> APIGate
+    APIGate --> FileSvc
+    APIGate --> MetaSvc
+    APIGate --> SyncSvc
+    APIGate --> ShareSvc
+
+    FileSvc --> BlockStore
+    MetaSvc --> MetaDB
+    MetaSvc --> Cache
+    SyncSvc --> BlockStore
+    SyncSvc --> MetaDB
+    ShareSvc --> MetaDB
+
+    FileSvc --> NotifSvc
+    MetaSvc --> NotifSvc
+    SyncSvc --> NotifSvc
+
+    style FileSvc fill:#4A90E2,stroke:#2E5C8A,color:#fff
+    style MetaSvc fill:#50E3C2,stroke:#2D8A78,color:#fff
+    style SyncSvc fill:#F5A623,stroke:#C17F1A,color:#fff
+    style BlockStore fill:#BD10E0,stroke:#8B0A9D,color:#fff

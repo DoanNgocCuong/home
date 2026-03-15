@@ -1,0 +1,1 @@
+[Qwen Prompt (kaggle.com)](https://www.kaggle.com/code/linhlnguynthy/qwen-prompt)

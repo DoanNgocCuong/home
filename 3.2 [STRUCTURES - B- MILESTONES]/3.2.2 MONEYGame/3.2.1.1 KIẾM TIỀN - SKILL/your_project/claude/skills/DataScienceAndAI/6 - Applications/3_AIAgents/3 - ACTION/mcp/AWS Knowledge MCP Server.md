@@ -1,0 +1,1 @@
+**https://github.com/awslabs/mcp/tree/main/src/aws-knowledge-mcp-server**

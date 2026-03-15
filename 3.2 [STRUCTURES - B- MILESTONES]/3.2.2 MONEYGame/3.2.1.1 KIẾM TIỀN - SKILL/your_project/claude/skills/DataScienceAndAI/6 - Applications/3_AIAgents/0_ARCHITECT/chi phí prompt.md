@@ -1,0 +1,1 @@
+ehehe, đọc thấy ngon vãi ạ, Có 300 tín dụng mà ngon luôn ạ (đúng là prompt đểu thì mất 100 tín dụng, prompt ngon thì lãi ạ)

@@ -1,0 +1,2 @@
+- Dùng step cho các bước 
+- Dùng order cho thứ tự các bước trong 1 step

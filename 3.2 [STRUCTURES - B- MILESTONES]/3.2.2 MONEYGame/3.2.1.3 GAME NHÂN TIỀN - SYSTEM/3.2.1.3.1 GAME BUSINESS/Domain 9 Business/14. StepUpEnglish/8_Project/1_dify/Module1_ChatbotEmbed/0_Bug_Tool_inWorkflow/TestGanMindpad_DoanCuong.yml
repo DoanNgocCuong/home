@@ -1,0 +1,180 @@
+app:
+  description: ''
+  icon: 🤖
+  icon_background: '#FFEAD5'
+  mode: workflow
+  name: TestGanMindpad_DoanCuong
+  use_icon_as_answer_icon: false
+kind: app
+version: 0.1.2
+workflow:
+  conversation_variables: []
+  environment_variables: []
+  features:
+    file_upload:
+      image:
+        enabled: false
+        number_limits: 3
+        transfer_methods:
+        - local_file
+        - remote_url
+    opening_statement: ''
+    retriever_resource:
+      enabled: false
+    sensitive_word_avoidance:
+      enabled: false
+    speech_to_text:
+      enabled: false
+    suggested_questions: []
+    suggested_questions_after_answer:
+      enabled: false
+    text_to_speech:
+      enabled: false
+      language: ''
+      voice: ''
+  graph:
+    edges:
+    - data:
+        isInIteration: false
+        sourceType: start
+        targetType: tool
+      id: 1728356050308-source-1730906407873-target
+      selected: false
+      source: '1728356050308'
+      sourceHandle: source
+      target: '1730906407873'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: tool
+        targetType: tool
+      id: 1730906407873-source-1730965596462-target
+      selected: false
+      source: '1730906407873'
+      sourceHandle: source
+      target: '1730965596462'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: tool
+        targetType: end
+      id: 1730965596462-source-1728358611199-target
+      source: '1730965596462'
+      sourceHandle: source
+      target: '1728358611199'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    nodes:
+    - data:
+        desc: ''
+        selected: false
+        title: Bắt đầu
+        type: start
+        variables:
+        - label: Vấn đề cần giải quyết
+          max_length: null
+          options: []
+          required: true
+          type: paragraph
+          variable: problem_statement
+      height: 89
+      id: '1728356050308'
+      position:
+        x: 75.71465120632718
+        y: 237.25926341783878
+      positionAbsolute:
+        x: 75.71465120632718
+        y: 237.25926341783878
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 243
+    - data:
+        desc: ''
+        outputs:
+        - value_selector:
+          - '1730968056350'
+          - text
+          variable: text
+        selected: false
+        title: End
+        type: end
+      height: 89
+      id: '1728358611199'
+      position:
+        x: 335.46840490550846
+        y: 385.24018976767553
+      positionAbsolute:
+        x: 335.46840490550846
+        y: 385.24018976767553
+      selected: true
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 243
+    - data:
+        desc: ''
+        provider_id: c30ff79c-f013-4e6c-becb-f7b9462ca922
+        provider_name: 1.0 - PS/Input Problem Scope
+        provider_type: workflow
+        selected: false
+        title: 1.0 - PS/Input Problem Scope
+        tool_configurations: {}
+        tool_label: 1.0 - PS/Input Problem Scope
+        tool_name: 1_input_problem_scope
+        tool_parameters:
+          problem_statement:
+            type: mixed
+            value: '{{#1728356050308.problem_statement#}}'
+        type: tool
+      height: 53
+      id: '1730906407873'
+      position:
+        x: 335.46840490550846
+        y: 253.65845845663944
+      positionAbsolute:
+        x: 335.46840490550846
+        y: 253.65845845663944
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 243
+    - data:
+        desc: ''
+        provider_id: 6e125e21-f0b6-4bb1-93a4-53fd7c446de6
+        provider_name: 1.0 - PS/Define scope (Custom Framework)
+        provider_type: workflow
+        selected: false
+        title: 1.0 - PS/Define scope (Custom Framework)(User_input)
+        tool_configurations: {}
+        tool_label: 1.0 - PS/Define scope (Custom Framework)
+        tool_name: 1_define_scope_custom
+        tool_parameters:
+          problem_statement:
+            type: mixed
+            value: '{{#1728356050308.problem_statement#}}'
+        type: tool
+      height: 53
+      id: '1730965596462'
+      position:
+        x: 62.33339722788446
+        y: 368.5798161538529
+      positionAbsolute:
+        x: 62.33339722788446
+        y: 368.5798161538529
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 243
+    viewport:
+      x: 68.01685032113221
+      y: -157.21142312624352
+      zoom: 1.2704339987408622

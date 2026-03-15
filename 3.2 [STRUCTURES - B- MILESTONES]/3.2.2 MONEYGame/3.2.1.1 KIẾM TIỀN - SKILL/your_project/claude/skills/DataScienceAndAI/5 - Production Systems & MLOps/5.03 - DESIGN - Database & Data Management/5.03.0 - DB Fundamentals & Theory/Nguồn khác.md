@@ -1,0 +1,4 @@
+
+- [Building a Data Engineering Project in 20 Minutes | ssp.sh](https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes/?ref=dailydev)
+- [20231025-EB-Top_Six_Kafka_Projects_Fail.pdf](https://assets.confluent.io/m/582e1d9d257e568e/original/20231025-EB-Top_Six_Kafka_Projects_Fail.pdf?utm_source=marketo&utm_medium=transactionalemail&utm_campaign=web-content-Kafka+challenges&fbclid=IwY2xjawHRwx5leHRuA2FlbQIxMAABHYU-syhHWQpGKSIvk82bVIQ3ElS4dAUAoCZSsagEVg2aX4UQpiWbQ42xgQ_aem_FR49YRsemBE-V-CTXSAUgw): The Top 6 Reasons Kafka Projects Fail
+- ## **5 lỗi thường gặp trong CV Data Engineer khiến bạn trượt từ vòng gửi xe ![🚫](https://static.xx.fbcdn.net/images/emoji.php/v9/t48/1/20/1f6ab.png)**: https://www.facebook.com/share/p/1F1SfKRr1c/

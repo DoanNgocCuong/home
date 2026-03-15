@@ -1,0 +1,7 @@
+# Ignore PDF files
+*.pdf
+
+# Ignore the pdf directory
+pdf/
+
+*.mp4

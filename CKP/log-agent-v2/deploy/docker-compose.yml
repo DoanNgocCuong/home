@@ -1,0 +1,148 @@
+###############################################################################
+#  LOG ANALYSIS AGENT v2 — Full Open-Source Stack
+#
+#  Components:
+#    1. SigNoz        — OTel-native observability (logs + metrics + traces)
+#    2. Langfuse      — LLM Observability (monitor AI agent)
+#    3. Log Agent     — Python AI agent (LogAI + LLM reasoning)
+#    4. Dashboard     — React dashboard
+#    5. Redis         — Cache layer
+#    6. PostgreSQL    — Shared DB for Langfuse + Agent
+#
+#  Usage:
+#    cp .env.example .env   # fill in your keys
+#    docker-compose up -d
+###############################################################################
+
+version: "3.9"
+
+services:
+
+  # ════════════════════════════════════════════════════════════════
+  #  POSTGRESQL — Shared database
+  # ════════════════════════════════════════════════════════════════
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-logagent}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-logagent_secret}
+      POSTGRES_DB: logagent
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init-db.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U logagent"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # ════════════════════════════════════════════════════════════════
+  #  REDIS — Cache & message broker
+  # ════════════════════════════════════════════════════════════════
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  # ════════════════════════════════════════════════════════════════
+  #  LANGFUSE — LLM Observability (monitor our AI agent)
+  #  Self-hosted, MIT license, 19K+ GitHub stars
+  # ════════════════════════════════════════════════════════════════
+  langfuse:
+    image: langfuse/langfuse:2
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql://${POSTGRES_USER:-logagent}:${POSTGRES_PASSWORD:-logagent_secret}@postgres:5432/langfuse
+      NEXTAUTH_SECRET: ${LANGFUSE_SECRET:-my-langfuse-secret-change-me}
+      NEXTAUTH_URL: http://localhost:3000
+      SALT: ${LANGFUSE_SALT:-my-langfuse-salt-change-me}
+      TELEMETRY_ENABLED: "true"
+      LANGFUSE_ENABLE_EXPERIMENTAL_FEATURES: "true"
+    ports:
+      - "3000:3000"
+
+  # ════════════════════════════════════════════════════════════════
+  #  OTEL COLLECTOR — Receives logs/traces from your apps
+  #  Forwards to SigNoz or any OTel-compatible backend
+  # ════════════════════════════════════════════════════════════════
+  otel-collector:
+    image: otel/opentelemetry-collector-contrib:0.96.0
+    restart: unless-stopped
+    command: ["--config=/etc/otel/config.yaml"]
+    volumes:
+      - ./otel-collector-config.yaml:/etc/otel/config.yaml
+    ports:
+      - "4317:4317"   # OTLP gRPC
+      - "4318:4318"   # OTLP HTTP
+      - "8889:8889"   # Prometheus metrics
+
+  # ════════════════════════════════════════════════════════════════
+  #  LOG ANALYSIS AGENT — The AI brain
+  # ════════════════════════════════════════════════════════════════
+  log-agent:
+    build:
+      context: ../agent
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      # Data sources (pick one or both)
+      DATADOG_API_KEY: ${DATADOG_API_KEY:-}
+      DATADOG_APP_KEY: ${DATADOG_APP_KEY:-}
+      DATADOG_SITE: ${DATADOG_SITE:-datadoghq.com}
+      DATADOG_CLUSTER: ${DATADOG_CLUSTER:-}
+
+      # LLM Config (tiered)
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY:-}
+      LLM_TIER2_MODEL: ${LLM_TIER2_MODEL:-deepseek-chat}
+      LLM_TIER3_MODEL: ${LLM_TIER3_MODEL:-gpt-4o}
+
+      # Langfuse (LLM observability)
+      LANGFUSE_SECRET_KEY: ${LANGFUSE_SECRET_KEY:-}
+      LANGFUSE_PUBLIC_KEY: ${LANGFUSE_PUBLIC_KEY:-}
+      LANGFUSE_HOST: http://langfuse:3000
+
+      # Infrastructure
+      REDIS_URL: redis://redis:6379/0
+      DATABASE_URL: postgresql://${POSTGRES_USER:-logagent}:${POSTGRES_PASSWORD:-logagent_secret}@postgres:5432/logagent
+
+      # Agent config
+      SCAN_INTERVAL_SECONDS: ${SCAN_INTERVAL_SECONDS:-300}
+      ANOMALY_THRESHOLD: ${ANOMALY_THRESHOLD:-2.0}
+      USE_SAMPLE_DATA: ${USE_SAMPLE_DATA:-true}
+    ports:
+      - "8000:8000"
+
+  # ════════════════════════════════════════════════════════════════
+  #  DASHBOARD — React frontend
+  # ════════════════════════════════════════════════════════════════
+  dashboard:
+    image: nginx:alpine
+    restart: unless-stopped
+    volumes:
+      - ../dashboard:/usr/share/nginx/html:ro
+    ports:
+      - "8080:80"
+
+volumes:
+  postgres_data:
+  redis_data:

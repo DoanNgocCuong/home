@@ -1,0 +1,35 @@
+{
+  "name": "writing-tracker",
+  "version": "1.0.0",
+  "description": "A beautiful web app to track your writing progress and maintain writing streaks",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server --port=3000 --open=/index.html",
+    "dev": "npx live-server --port=3000 --open=/index.html --watch=.",
+    "build": "echo 'No build process needed for static HTML/CSS/JS'",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "writing",
+    "tracker",
+    "streak",
+    "progress",
+    "blogging",
+    "journaling",
+    "productivity",
+    "web-app"
+  ],
+  "author": "Doan Ngoc Cuong",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DoanNgocCuong/writing-tracker"
+  },
+  "bugs": {
+    "url": "https://github.com/DoanNgocCuong/writing-tracker/issues"
+  },
+  "homepage": "https://github.com/DoanNgocCuong/writing-tracker#readme"
+}

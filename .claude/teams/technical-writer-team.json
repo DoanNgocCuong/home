@@ -1,0 +1,35 @@
+{
+  "team_name": "technical-writer-team",
+  "description": "Team hỗ trợ Technical Writer: Research, Writing, Analysis, Review",
+  "members": [
+    {
+      "name": "researcher",
+      "agent_type": "researcher",
+      "role": "Nghiên cứu và thu thập thông tin"
+    },
+    {
+      "name": "writer",
+      "agent_type": "writer",
+      "role": "Viết báo cáo, case study, tài liệu"
+    },
+    {
+      "name": "analyst",
+      "agent_type": "analyst",
+      "role": "Phân tích sai lầm và rút kinh nghiệm"
+    },
+    {
+      "name": "reviewer",
+      "agent_type": "reviewer",
+      "role": "Review và kiểm tra chất lượng tài liệu"
+    }
+  ],
+  "workflow": {
+    "standard_process": [
+      "researcher - Nghiên cứu chủ đề",
+      "writer - Viết draft",
+      "reviewer - Review và feedback",
+      "writer - Chỉnh sửa theo feedback",
+      "analyst - Phân tích và rút kinh nghiệm (nếu cần)"
+    ]
+  }
+}

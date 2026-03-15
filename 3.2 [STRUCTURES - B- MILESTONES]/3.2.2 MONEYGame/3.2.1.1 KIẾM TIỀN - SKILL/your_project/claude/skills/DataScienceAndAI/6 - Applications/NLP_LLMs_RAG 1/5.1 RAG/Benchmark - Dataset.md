@@ -1,0 +1,5 @@
+1. [raptor-rag/raptor at master · profintegra/raptor-rag (github.com)](https://github.com/profintegra/raptor-rag/tree/master/raptor)
+2. [hotpotqa/hotpot (github.com)](https://github.com/hotpotqa/hotpot)
+3. Frames-Benchmark: Evaluation Dataset for testing Retrieval-Augmented Generation (RAG) applications on factuality, retrieval accuracy, and reasoning, from GOOGLE. ------ Datasets :[https://huggingface.co/datasets/google/frames-benchmark](https://huggingface.co/datasets/google/frames-benchmark?fbclid=IwZXh0bgNhZW0CMTAAAR2aAuEfAVysTSr0dWyR6oi9t6qgrnoPhdoveZCGnApaOChgs6eEewpY2uk_aem_RFosm6tGDPHpXZsgv2e3FQ) Paper :Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation [https://arxiv.org/abs/2409.12941](https://arxiv.org/abs/2409.12941?fbclid=IwZXh0bgNhZW0CMTAAAR3RSmlRxLaVvQk0T3HcSoZPJoU1dMkBMPJxD2vx3tsR158DzSaknmoL5H8_aem_t-iuwr3RPCicWwaJTHPY0g)
+4. [CuongNN218/zalo_ltr_2021: Source code for Zalo AI 2021 submission (github.com)](https://github.com/CuongNN218/zalo_ltr_2021)
+5. 

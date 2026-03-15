@@ -1,0 +1,535 @@
+
+
+# 🏆 TEMPLATE 3 - CLAUDE 500 NGUỒN RECOMMEND - EXPERT .CLAUDE TEMPLATES — Từ các ông lớn AI Engineering
+
+Xuất phát từ câu hỏi: 
+```bash
+các best practices của các ông lớn, các chuyên gia AI Engineer khi setup .CLAUDE là gì???
+Có template ko, nhanh gọn lẹ CHẤT LƯỢNG 100 X ???
+```
+
+---
+
+Đây là tổng hợp templates thực tế từ các chuyên gia hàng đầu, rút ra từ toàn bộ research 585+ nguồn:
+
+**9 templates copy-paste** từ 7 experts khác nhau:
+
+| Template | Từ ai | Đặc trưng |
+|----------|-------|-----------|
+| CLAUDE.md 60 dòng | **HumanLayer** | Tối giản cực độ — ít instruction = chất lượng cao hơn |
+| CLAUDE.md team-shared | **Boris Cherny** (creator Claude Code, 259 PRs/30 ngày) | Living document, cả team contribute hàng tuần |
+| settings.json | **Boris + Trail of Bits** | Wildcard permissions + auto-format hook + security deny-list |
+| `/commit` command | **Boris** | Haiku model, `!`backtick inject git state, dùng hàng chục lần/ngày |
+| `/review` command | **ChrisWiles** | Structured checklist: Security → Logic → Perf → Conventions |
+| Sub-agent reviewer | **Anthropic teams nội bộ** | PROACTIVELY trigger, memory: project, read-only tools |
+| Path-scoped rules | **Anthropic official** | Chỉ load khi Claude chạm matching files → tiết kiệm context |
+| Debugging skill | **ChrisWiles showcase** | 5-step protocol + "3 fails = STOP" rule |
+| Monorepo hierarchy | **Anthropic Data Infra team** | Root 40 dòng + lazy-loaded sub-CLAUDE.md |
+
+**Insight quan trọng nhất** mà TẤT CẢ experts đồng ý: CLAUDE.md ngắn hơn = Claude thông minh hơn. HumanLayer 60 dòng outperform 500 dòng vì frontier LLMs chỉ follow ~150 instructions reliably, và Claude Code system prompt đã chiếm 50 slots rồi.
+
+
+
+> **Nguồn:** Boris Cherny (creator Claude Code, 259 PRs/30 ngày), HumanLayer (60 dòng CLAUDE.md),
+> Trail of Bits (security-first), ChrisWiles (showcase repo), Andrej Karpathy, Anthropic teams nội bộ,
+> shanraisshan (8.7k⭐ repo), Shrivu Shankar (sshh.io)
+
+---
+
+
+
+## ⚡ COPY-PASTE TRONG 5 PHÚT — Cấu trúc thư mục chuẩn
+
+```
+your-project/
+├── CLAUDE.md                          # ← BẮT ĐẦU TỪ ĐÂY
+├── .claude/
+│   ├── settings.json                  # Team-shared (commit git)
+│   ├── settings.local.json            # Personal (gitignore)
+│   ├── commands/
+│   │   ├── commit.md                  # /commit
+│   │   ├── review.md                  # /review
+│   │   └── fix.md                     # /fix [mô tả]
+│   ├── agents/
+│   │   └── reviewer.md                # code-reviewer agent
+│   ├── skills/
+│   │   └── project-arch/
+│   │       └── SKILL.md               # architecture knowledge
+│   └── rules/
+│       ├── api.md                     # path: src/api/**
+│       ├── db.md                      # path: **/migration/**
+│       └── tests.md                   # path: tests/**
+├── .mcp.json                          # MCP servers (nếu cần)
+└── .gitignore                         # ← thêm .claude/settings.local.json
+```
+
+---
+
+## 🔴 TEMPLATE 1: CLAUDE.md — Phong cách HumanLayer (60 dòng, tối giản cực độ)
+
+> **Triết lý:** "CLAUDE.md đi vào MỌI session. Mỗi dòng thừa = giảm chất lượng toàn bộ."
+> HumanLayer giữ 60 dòng. Anthropic system prompt đã chiếm ~50/150 instruction slots.
+> **Nguồn:** [humanlayer.dev/blog/writing-a-good-claude-md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+
+```markdown
+# [Project Name]
+
+## Stack
+Backend: [lang + framework]  |  Frontend: [framework]
+DB: [database]  |  Infra: [K8s/Docker/etc]
+
+## Commands
+- Build: `[command]`
+- Test: `[command]`
+- Lint: `[command]`
+- Dev: `[command]`
+
+## Structure
+- `src/api/` — REST endpoints
+- `src/services/` — Business logic
+- `src/models/` — Data models
+- `tests/` — Test files mirror src/
+
+## Key Rules
+1. [Most critical convention — e.g. "Always use Result pattern, never throw exceptions"]
+2. [Second most critical — e.g. "DB migrations: never edit existing, always create new"]
+3. [Third — e.g. "Commits: conventional format (feat/fix/refactor)"]
+4. [Fourth — e.g. "All API endpoints must validate input"]
+5. [Fifth — e.g. "Never hardcode secrets"]
+
+## Verify
+After changes, ALWAYS run: `[test command]`
+If tests fail, fix before marking done.
+
+## Mistakes Claude Makes
+- [Thêm mỗi khi Claude lặp lỗi — đây là phần QUAN TRỌNG NHẤT]
+```
+
+**Tại sao chỉ 60 dòng?**
+- Frontier LLMs follow ~150-200 instructions reliably
+- Claude Code system prompt đã dùng ~50 slots
+- Còn ~100-150 slots cho CLAUDE.md + rules + skills + conversation
+- Mỗi instruction thêm = giảm attention ở TẤT CẢ instructions khác
+
+---
+
+## 🟠 TEMPLATE 2: CLAUDE.md — Phong cách Boris Cherny (Team-shared, practical)
+
+> **Triết lý:** "Team shares ONE CLAUDE.md in git. Everyone contributes multiple times weekly."
+> Boris ships 20-30 PRs/day. CLAUDE.md = living document, cập nhật liên tục.
+> **Nguồn:** [howborisusesclaudecode.com](https://howborisusesclaudecode.com/), Tweet threads Jan-Feb 2026
+
+```markdown
+# ProjectX — Claude Context
+
+## Tech
+- TypeScript 5.4, Bun runtime, React 19, PostgreSQL 16
+- Monorepo: apps/ (web, mobile) + packages/ (shared, ui, db)
+
+## Build & Test
+- `bun run build` — full build
+- `bun run build:web` — web only
+- `bun run test` — all tests
+- `bun run test:unit` — unit only
+- `bun run lint:fix` — auto-fix lint
+- `bun run db:migrate` — run migrations
+
+## Architecture
+- apps/web/ — Next.js app router, RSC by default
+- apps/mobile/ — React Native (Expo)
+- packages/db/ — Drizzle ORM, migrations in drizzle/
+- packages/shared/ — shared types, utils, validators (Zod)
+- packages/ui/ — shared components (Radix + Tailwind)
+
+## Conventions
+- Prefer server components. Use 'use client' only when needed.
+- Zod for ALL validation (API input, env vars, config)
+- drizzle-kit for migrations. NEVER edit existing migration files.
+- Error handling: Result<T, E> pattern. No throwing for control flow.
+- Tests: colocate with source (*.test.ts next to *.ts)
+- Imports: use @repo/ workspace aliases, never relative ../../../
+
+## Git
+- Conventional commits: feat(scope): description
+- One logical change per commit
+- Always run `bun run test` before committing
+- PR description must explain WHY, not just WHAT
+
+## When Claude Gets It Wrong
+- STOP using `throw new Error()` for expected failures → use Result type
+- STOP adding `"use client"` to components that don't need interactivity
+- STOP creating barrel exports (index.ts re-exports) → import directly
+- STOP using `any` type → use `unknown` and narrow
+- STOP putting business logic in API routes → extract to services/
+
+## Tips for Claude
+- When unsure about a pattern, grep existing code first: `rg "pattern" src/`
+- Before adding a dependency, check if packages/shared already has it
+- After every change: `bun run build && bun run test`
+```
+
+---
+
+## 🟡 TEMPLATE 3: settings.json — Phong cách Boris + Trail of Bits
+
+> **Boris Tip 10:** "I do NOT use `--dangerously-skip-permissions`. I use `/permissions` with wildcards."
+> **Boris Tip 35:** "Check `settings.json` into git so the team benefits."
+> **Trail of Bits:** Security-first, opinionated defaults
+> **Nguồn:** [github.com/trailofbits/claude-code-config](https://github.com/trailofbits/claude-code-config)
+
+```json
+{
+  "permissions": {
+    "allow": [
+      "Bash(bun run *)",
+      "Bash(npm run *)",
+      "Bash(npx *)",
+      "Bash(git add:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git commit:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(rg:*)",
+      "Bash(cat:*)",
+      "Bash(ls:*)",
+      "Bash(wc:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Edit(src/**)",
+      "Edit(tests/**)",
+      "Edit(docs/**)",
+      "Edit(packages/**)"
+    ],
+    "deny": [
+      "Bash(rm -rf *)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(curl * | bash*)",
+      "Bash(wget * | bash*)",
+      "Edit(.env*)",
+      "Edit(**/secrets/**)",
+      "Edit(**/*.pem)",
+      "Edit(**/*.key)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bun run lint:fix --quiet 2>/dev/null || true"
+          }
+        ]
+      }
+    ]
+  }
+}
+```
+
+---
+
+## 🟢 TEMPLATE 4: /commit command — Phong cách Boris
+
+> **Boris Tip 7:** "I use /commit-push-pr dozens of times daily — essential inner loop."
+> Model: haiku (fast + cheap cho simple task)
+> **Nguồn:** [howborisusesclaudecode.com](https://howborisusesclaudecode.com/)
+
+```markdown
+---
+description: Smart conventional commit from staged changes
+allowed-tools: Bash(git add:*), Bash(git commit:*), Bash(git status:*)
+model: haiku
+---
+## Current state
+- Status: !`git status --short`
+- Staged diff: !`git diff --cached --stat`
+- Diff detail: !`git diff --cached`
+- Branch: !`git branch --show-current`
+
+## Rules
+- Format: type(scope): concise description
+- Types: feat, fix, refactor, docs, test, chore, perf, ci
+- Scope: most affected module/package
+- Description: imperative mood, lowercase, no period
+- Body: only if change is non-obvious
+
+If $ARGUMENTS provided, use as commit message directly.
+Otherwise, analyze the diff and create the most accurate message.
+```
+
+---
+
+## 🔵 TEMPLATE 5: /review command — Phong cách ChrisWiles
+
+> **ChrisWiles showcase:** code-reviewer agent + ticket workflow
+> **Boris Tip 13:** "Give Claude a way to verify its work — 2-3x quality improvement"
+> **Nguồn:** [github.com/ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)
+
+```markdown
+---
+description: Review recent changes for bugs, security, and conventions
+allowed-tools: Read, Grep, Glob, Bash(git diff:*), Bash(git log:*)
+model: sonnet
+---
+## Changes to review
+!`git diff --name-only HEAD~1`
+!`git diff HEAD~1 --stat`
+
+## Review checklist
+1. **SECURITY** — injection, auth bypass, secrets in code, XSS
+2. **LOGIC** — edge cases, null/undefined, race conditions, off-by-one
+3. **PERFORMANCE** — N+1 queries, missing indexes, memory leaks, unnecessary re-renders
+4. **CONVENTIONS** — violations of CLAUDE.md rules, inconsistent patterns
+5. **TESTS** — are new paths tested? are edge cases covered?
+
+## Output format
+### 🔴 Critical (must fix before merge)
+### 🟡 Warning (should fix)
+### 🟢 Suggestion (nice to have)
+### ✅ Good patterns noticed
+
+Be specific: file, line number, what's wrong, how to fix.
+```
+
+---
+
+## 🟣 TEMPLATE 6: Sub-agent — Phong cách Anthropic teams
+
+> **Anthropic nội bộ:** Agents với memory scope, proactive invocation
+> **shanraisshan:** "Feature-specific sub-agents with extra context + skills"
+> **Nguồn:** [PDF "How Anthropic teams use Claude Code"](https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf)
+
+```markdown
+---
+name: code-reviewer
+description: Expert code reviewer. MUST BE USED proactively after code changes.
+tools: Read, Grep, Glob
+disallowedTools: Write, Edit
+model: sonnet
+memory: project
+maxTurns: 20
+---
+You are a senior code reviewer with 15+ years of experience.
+
+## Protocol
+1. Read ALL changed files completely before commenting
+2. Check CLAUDE.md for project-specific conventions
+3. Cross-reference with existing patterns in codebase (grep first)
+
+## Focus areas (priority order)
+1. Security vulnerabilities
+2. Logic errors and unhandled edge cases
+3. Performance issues
+4. Convention violations
+5. Readability and maintainability
+
+## Rules
+- Be specific: file path, line, issue, fix suggestion
+- If 3+ issues share same root cause → flag as ARCHITECTURAL
+- Never suggest changes that aren't backed by evidence from the codebase
+- Output format: Critical → Warning → Suggestion → Praise
+```
+
+---
+
+## ⚫ TEMPLATE 7: .claude/rules/ — Path-scoped rules (Anthropic official pattern)
+
+> **Nguồn:** [code.claude.com/docs/en/memory#organize-rules](https://code.claude.com/docs/en/memory)
+> Rules chỉ load khi Claude chạm vào file matching paths → tiết kiệm context
+
+```markdown
+<!-- .claude/rules/api-endpoints.md -->
+---
+paths:
+  - src/**/controller/**
+  - src/**/api/**
+  - src/**/routes/**
+---
+API endpoint rules:
+- Validate ALL input (Zod schema or Bean Validation)
+- Consistent error response: { code, message, details, correlationId }
+- Log request at DEBUG, errors at ERROR with correlation ID
+- Rate limiting on public endpoints
+- Never return raw database errors to client
+```
+
+```markdown
+<!-- .claude/rules/database.md -->
+---
+paths:
+  - src/**/repository/**
+  - src/**/migration/**
+  - **/drizzle/**
+  - **/flyway/**
+  - **/prisma/**
+---
+Database rules:
+- NEVER edit existing migration files — always create new
+- Parameterized queries only (prevent SQL injection)
+- Add index for columns in WHERE/JOIN clauses
+- Use BIGINT for IDs, TIMESTAMPTZ for timestamps
+- Test migrations with rollback before committing
+```
+
+```markdown
+<!-- .claude/rules/tests.md -->
+---
+paths:
+  - tests/**
+  - **/*.test.*
+  - **/*.spec.*
+---
+Testing rules:
+- Never modify tests to match incorrect implementation
+- Test edge cases: null, empty, boundary values, error paths
+- Mock external services, never call real APIs in tests
+- Each test must be independent (no shared mutable state)
+- Descriptive test names: "should [behavior] when [condition]"
+```
+
+---
+
+## 🎯 TEMPLATE 8: Skill — Progressive disclosure (ChrisWiles pattern)
+
+> **Tại sao skill thay vì nhét vào CLAUDE.md?**
+> Skill metadata = ~100 tokens tại startup. Full content chỉ load khi relevant.
+> 20 skills = 2000 tokens. Cùng nội dung trong CLAUDE.md = 20,000+ tokens MỌI LÚC.
+> **Nguồn:** [github.com/ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)
+
+```markdown
+<!-- .claude/skills/systematic-debugging/SKILL.md -->
+---
+name: systematic-debugging
+description: Five-step root cause analysis. Use when debugging errors, test failures, or unexpected behavior.
+allowed-tools: Read, Grep, Glob, Bash
+---
+# Systematic Debugging Protocol
+
+## 5-Step Process (NEVER skip steps)
+1. **REPRODUCE** — Confirm you can trigger the bug
+2. **LOCATE** — Find the immediate error (logs, stack trace, test output)
+3. **TRACE** — Follow the call chain UPWARD: "What called this?"
+4. **ROOT** — Keep tracing until you find the ORIGINAL trigger
+5. **FIX** — Fix at the ROOT, not the symptom
+
+## Anti-patterns to AVOID
+- ❌ Guessing the fix without reproducing
+- ❌ Fixing the symptom instead of the cause
+- ❌ Changing multiple things at once
+- ❌ Skipping step 3 (most common mistake)
+
+## CRITICAL RULE
+If THREE consecutive fix attempts fail → STOP.
+This signals an architectural problem. Flag it, don't keep patching.
+```
+
+---
+
+## 🏗️ TEMPLATE 9: Monorepo setup — Phong cách Anthropic Data Infra team
+
+> **Anthropic case study:** Data Infra team dùng hierarchical CLAUDE.md cho monorepo lớn
+> Root = shared, subdirectory = lazy-loaded khi Claude chạm file trong đó
+> **Nguồn:** [PDF Anthropic teams](https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf)
+
+```
+monorepo/
+├── CLAUDE.md                    # ← 40-60 dòng: shared conventions ONLY
+├── services/
+│   ├── auth/
+│   │   └── CLAUDE.md            # Auth-specific: JWT, OAuth patterns
+│   ├── payments/
+│   │   └── CLAUDE.md            # Payments: Stripe, idempotency rules
+│   └── ai-engine/
+│       └── CLAUDE.md            # AI: model configs, prompt patterns
+├── packages/
+│   ├── shared/
+│   │   └── CLAUDE.md            # Shared utils, types, validators
+│   └── ui/
+│       └── CLAUDE.md            # Component library conventions
+└── infra/
+    └── CLAUDE.md                # K8s, Docker, CI/CD rules
+```
+
+**Root CLAUDE.md (40 dòng max):**
+```markdown
+# [Company] Monorepo
+
+## Workspace
+- Package manager: pnpm (workspace protocol)
+- Build: `pnpm build`  |  Test: `pnpm test`  |  Lint: `pnpm lint`
+- Services: services/[name]  |  Packages: packages/[name]
+
+## Universal Rules
+1. TypeScript strict mode everywhere
+2. Conventional commits
+3. No cross-service direct imports (use packages/shared)
+4. Tests required for all new features
+5. Never edit existing DB migrations
+```
+
+---
+
+## 📊 AI ENGINEERS SO SÁNH NHAU NHƯ THẾ NÀO?
+
+| Expert | CLAUDE.md size | Key philosophy | Đặc trưng |
+|--------|---------------|----------------|-----------|
+| **Boris Cherny** | ~80-100 dòng | "Surprisingly vanilla" — Claude Code works great out of the box | Team-shared, `/commit-push-pr`, 5 parallel sessions, Opus for everything |
+| **HumanLayer** | **60 dòng** | "Fewer instructions = higher quality per instruction" | ACE-FCA framework, RPI workflow, context engineering |
+| **Trail of Bits** | ~120 dòng | Security-first, opinionated defaults | Deny-list dangerous commands, LSP plugins, audit-focused |
+| **ChrisWiles** | ~150 dòng | Full showcase: hooks + skills + agents + commands + CI | Skill auto-activation hook, JIRA integration, weekly automation |
+| **Karpathy** | ~50-80 dòng | "80% agent, 20% manual edits" | Minimal config, focus on prompting quality |
+| **Shrivu Shankar** | Minimal | "Put all context in CLAUDE.md, use Task() clones" | Anti-custom-agents, pro-clone pattern, document-and-clear |
+| **shanraisshan** | Reference repo | "Practice makes Claude perfect" | Command→Agent→Skill pattern, RPI workflow, comprehensive docs |
+
+---
+
+## 🚀 5-MINUTE SPEED SETUP (copy-paste sequence)
+
+```bash
+# 1. Init
+claude /init
+
+# 2. Create structure
+mkdir -p .claude/{commands,agents,skills,rules}
+
+# 3. Permissions + hooks (paste template 3 above)
+# Edit .claude/settings.json
+
+# 4. Commands (paste templates 4-5 above)
+# Create .claude/commands/commit.md
+# Create .claude/commands/review.md
+
+# 5. Gitignore
+echo ".claude/settings.local.json" >> .gitignore
+echo ".claude/agent-memory-local/" >> .gitignore
+echo ".claude/worktrees/" >> .gitignore
+
+# 6. Install LSP (pick your language)
+claude /plugin install typescript-lsp@claude-code-lsps
+# or: pyright, java-lsp, gopls, etc.
+
+# 7. Start coding
+claude
+# Shift+Tab ×2 → Plan Mode → refine → Shift+Tab → Auto-Accept → ship
+```
+
+---
+
+## ⚠️ TOP 10 SAI LẦM CỦA EXPERTS (họ đã mắc và sửa)
+
+| #   | Sai lầm                               | Ai mắc              | Bài học                                                            |
+| --- | ------------------------------------- | ------------------- | ------------------------------------------------------------------ |
+| 1   | CLAUDE.md 500+ dòng                   | Hầu hết beginners   | HumanLayer chứng minh 60 dòng tốt hơn 500 dòng                     |
+| 2   | Nhảy thẳng vào code không Plan        | Trước khi Boris tip | Task 35 phút → 12 phút khi plan trước                              |
+| 3   | Dùng `--dangerously-skip-permissions` | Devs lười approve   | Boris: "I do NOT use it" — dùng wildcards thay thế                 |
+| 4   | Không cho Claude cách verify          | Phổ biến nhất       | Boris Tip 13: "2-3x quality" khi có test command                   |
+| 5   | Enable tất cả MCP servers             | Mới dùng MCP        | HumanLayer: ">20K tokens MCP = crippling Claude"                   |
+| 6   | Đợi auto-compact ở 95%                | Hầu hết users       | shanraisshan: manual `/compact` ở max 50%                          |
+| 7   | Dùng Opus cho mọi thứ                 | Beginners           | Boris: Opus cho architecture, Sonnet 90% tasks, Haiku cho commands |
+| 8   | Custom agent quá phức tạp             | Over-engineers      | Shrivu: Start with Task() clones, specialize khi thấy need         |
+| 9   | Formatting rules trong CLAUDE.md      | Rất phổ biến        | Boris Tip 9: PostToolUse hook + linter = deterministic 100%        |
+| 10  | Không commit CLAUDE.md vào git        | Solo devs           | Boris Tip 4: "Whole team contributes multiple times weekly"        |

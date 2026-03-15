@@ -1,8 +1,7 @@
 {
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./image",
-  "promptDelete": false,
   "newLinkFormat": "relative",
+  "attachmentFolderPath": "./image",
   "useMarkdownLinks": true,
-  "openBehavior": "daily"
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

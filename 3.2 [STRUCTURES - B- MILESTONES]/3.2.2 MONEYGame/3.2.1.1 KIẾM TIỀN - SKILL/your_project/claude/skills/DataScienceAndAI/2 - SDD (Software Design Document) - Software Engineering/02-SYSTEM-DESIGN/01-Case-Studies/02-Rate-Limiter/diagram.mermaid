@@ -1,0 +1,22 @@
+graph TB
+    Client["Client Request"]
+    RL["Rate Limiter<br/>(Check Quota)"]
+    Redis["Redis/Cache<br/>(Store State)"]
+    Allow["Allow Request"]
+    Reject["Reject 429"]
+    Service["Upstream Service"]
+    Response["Response"]
+
+    Client -->|Request| RL
+    RL -->|Query State| Redis
+    Redis -->|Current Count| RL
+    RL -->|Within Limit?| Allow
+    RL -->|Exceeded?| Reject
+    Allow --> Service
+    Service --> Response
+    Reject --> Response
+
+    style RL fill:#4A90E2,stroke:#2E5C8A,color:#fff
+    style Redis fill:#F5A623,stroke:#C17F1A,color:#fff
+    style Allow fill:#7ED321,stroke:#5FA01B,color:#fff
+    style Reject fill:#D0021B,stroke:#8B0113,color:#fff

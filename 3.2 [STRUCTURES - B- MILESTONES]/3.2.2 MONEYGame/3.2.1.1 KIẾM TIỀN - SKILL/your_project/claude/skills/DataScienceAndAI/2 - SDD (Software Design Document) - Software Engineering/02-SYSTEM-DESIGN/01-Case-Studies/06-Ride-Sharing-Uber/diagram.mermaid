@@ -1,0 +1,31 @@
+graph TB
+    Rider["Rider<br/>(Request Ride)"]
+    Driver["Driver<br/>(Online)"]
+
+    RideAPI["Ride API<br/>(Request)"]
+    Matching["Matching Service<br/>(Algorithm)"]
+    Location["Location Service<br/>(Geohashing)"]
+    Pricing["Pricing Service<br/>(Surge)"]
+    Payment["Payment Service"]
+    Notification["Notification<br/>(WebSocket)"]
+
+    RideDB["Ride Database<br/>(Ride State)"]
+    LocationDB["Location Cache<br/>(Redis)"]
+    Rating["Rating Service"]
+
+    Rider -->|Request| RideAPI
+    RideAPI --> Pricing
+    RideAPI --> Matching
+    Matching --> Location
+    Location --> LocationDB
+    Location -->|Find nearby drivers| Driver
+    Matching -->|Match found| Notification
+    Notification -->|Offer| Driver
+    Driver -->|Accept| RideDB
+    RideAPI --> Payment
+    RideDB --> Rating
+
+    style Matching fill:#4A90E2,stroke:#2E5C8A,color:#fff
+    style Location fill:#50E3C2,stroke:#2D8A78,color:#fff
+    style Pricing fill:#F5A623,stroke:#C17F1A,color:#fff
+    style Notification fill:#BD10E0,stroke:#8B0A9D,color:#fff

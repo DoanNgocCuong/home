@@ -1,0 +1,74 @@
+![[Pasted image 20250728053837.png]]
+
+---
+Mindset: 
+1. LÃNH ĐẠO, VIỆC CỦA ACE, THẤT BẠI CỦA ACE LÀ THẤT BẠI CỦA TÔI 
+2. KẺ CHIẾN THẮNG >< KẺ TOP DƯỚI
+
+
+Tư duy cấu trúc 
+
+![[Pasted image 20250728053142.png]]
+
+---
+
+
+![[Pasted image 20250728054603.png]]
+
+
+Muốn chuyển giao phần nào thì tách lớp nó ra: 
+- Tấn công vào 80/20: Đâu là 80/20 để tấn công vào. Tấn công vào 1 phần cả hệ thống to chạy theo
+- Chuyển giao: Ko chuyển cả cục to Marketing và Sale được. Mà chuyển dần từng cục từng cục nhỏ
+- Tài chính: 
+
+![[Pasted image 20250728055201.png]]
+
+
+![[Pasted image 20250728055829.png]]
+
+
+```
+The road: con đường tôi chọn :D
+```
+
+chương trình Retreat  ?
+Đi hàng quý ?-> Ko ai đi thì mình vẫn đi -> Điều gì khiến cho mình hạnh phúc, mà cũng khiến người khác hạnh phúc (thay vì hỏi làm sao để khiến người khác hạnh phúc)
+- 5-7h: chạy, 
+- 7h-9h: dành thời gian cho mình 
+- 9h-12h: làm việc
+
+![[Pasted image 20250728060555.png]]
+
+![[Pasted image 20250728061303.png]]
+
+
+Mục tiêu của tôi là: A ........ /B 
+Hãy giúp tôi giải quyết vấn đề trên 
+Nhưng đầu tiên hãy tách lớp thành cấu trúc 4-5 phần quan trọng nhất tác động đến B ....... (sắp xếp theo thứ tự) 
+Trong mỗi cấu trúc nhỏ chỉ rõ kết quả đầu ra rõ ràng
+
+Hãy cho tôi cấu trúc của dinh dưỡng 
+
+
+```
+Mục tiêu của tôi là: làm việc mọi việc với việc rõ 3O1T (Object, Outcome, Output, Tasks)
+
+Hãy giúp tôi giải quyết vấn đề trên
+
+Nhưng đầu tiên hãy tách lớp thành cấu trúc 4-5 phần quan trọng nhất tác động đến B ....... (sắp xếp theo thứ tự)
+
+Trong mỗi cấu trúc nhỏ chỉ rõ kết quả đầu ra rõ ràng
+```
+
+
+Mục tiêu của tôi là: 
++, Chuyển từ AI Engineering domain Edu, sang AI Engineering domain Stock, Investment. 
++, Hiện tại 3/40 bài MLOps mới học, mục tiêu mỗi ngày tăng 1 bài MLOps 
++, Lương hiện tại 12 tr, mục tiêu 15 triệu trong 1 tháng tới 
++, Lương hiện tại 12 tr, mục tiêu đánh job AI Engineeirng doamin Stock, Investment nước ngoài, lương 12*3 = 36 tr trong 1 năm tới. 
+
+Hãy giúp tôi giải quyết vấn đề trên 
+Nhưng đầu tiên hãy tách lớp thành cấu trúc 4-5 phần quan trọng nhất tác động đến B ....... (sắp xếp theo thứ tự) 
+Trong mỗi cấu trúc nhỏ chỉ rõ kết quả đầu ra rõ ràng
+
+Hãy cho tôi cấu trúc của dinh dưỡng 

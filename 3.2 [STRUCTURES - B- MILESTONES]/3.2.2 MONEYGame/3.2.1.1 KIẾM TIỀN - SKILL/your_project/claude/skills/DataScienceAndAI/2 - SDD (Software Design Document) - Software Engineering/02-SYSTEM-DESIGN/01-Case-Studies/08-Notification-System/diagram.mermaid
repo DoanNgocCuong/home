@@ -1,0 +1,38 @@
+graph TB
+    Event["Event/API<br/>(Notification Request)"]
+    NotifAPI["Notification API"]
+    Queue["Message Queue<br/>(Kafka)"]
+    Worker["Worker Service<br/>(Dedup, Rate Limit)"]
+
+    subgraph Channels["Notification Channels"]
+        EmailSvc["Email Service"]
+        SMSSvc["SMS Service"]
+        PushSvc["Push Service"]
+        InAppSvc["In-App Service"]
+    end
+
+    subgraph External["External Providers"]
+        EmailProv["Email Provider<br/>(SendGrid)"]
+        SMSProv["SMS Provider<br/>(Twilio)"]
+        PushProv["Push Provider<br/>(FCM, APNS)"]
+    end
+
+    User["End User"]
+    Analytics["Analytics<br/>(Delivery Metrics)"]
+
+    Event --> NotifAPI
+    NotifAPI --> Queue
+    Queue --> Worker
+    Worker --> Channels
+    EmailSvc --> EmailProv
+    SMSSvc --> SMSProv
+    PushSvc --> PushProv
+    InAppSvc --> User
+    EmailProv --> User
+    SMSProv --> User
+    PushProv --> User
+    Worker --> Analytics
+
+    style Queue fill:#F5A623,stroke:#C17F1A,color:#fff
+    style Worker fill:#4A90E2,stroke:#2E5C8A,color:#fff
+    style Channels fill:#50E3C2,stroke:#2D8A78,color:#fff

@@ -1,0 +1,1 @@
+[Education API overview - Microsoft Graph | Microsoft Learn](https://learn.microsoft.com/en-us/graph/education-concept-overview)

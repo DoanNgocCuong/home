@@ -1,0 +1,45 @@
+graph TB
+    subgraph Clients
+        C1[Web Browser]
+        C2[Mobile App]
+    end
+
+    subgraph "Load Balancer"
+        LB[Nginx / AWS ALB]
+    end
+
+    subgraph "Application Layer"
+        WS1[Web Server 1]
+        WS2[Web Server 2]
+        WS3[Web Server 3]
+    end
+
+    subgraph "Key Generation"
+        KGS[Key Generation Service]
+        KDB[(Key DB<br/>Pre-generated keys)]
+    end
+
+    subgraph "Cache Layer"
+        RC[Redis Cluster]
+    end
+
+    subgraph "Database Layer"
+        DB_W[(DB Primary<br/>Write)]
+        DB_R1[(DB Replica 1<br/>Read)]
+        DB_R2[(DB Replica 2<br/>Read)]
+    end
+
+    C1 & C2 --> LB
+    LB --> WS1 & WS2 & WS3
+
+    WS1 & WS2 & WS3 --> KGS
+    KGS --> KDB
+
+    WS1 & WS2 & WS3 --> RC
+    RC -.-> |Cache Miss| DB_R1 & DB_R2
+    WS1 & WS2 & WS3 --> |Write| DB_W
+    DB_W --> |Replicate| DB_R1 & DB_R2
+
+    style RC fill:#ff6b6b,color:#fff
+    style KGS fill:#4ecdc4,color:#fff
+    style DB_W fill:#45b7d1,color:#fff

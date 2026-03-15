@@ -1,0 +1,3 @@
+1. https://www.marktechpost.com/2024/09/25/microsoft-releases-rd-agent-an-open-source-ai-tool-designed-to-automate-and-optimize-research-and-development-processes/?ref=dailydev
+2. [Build AI applications with the new AI App Template Gallery - Azure SDK Blog](https://devblogs.microsoft.com/azure-sdk/build-ai-applications-with-the-new-ai-app-template-gallery/?ref=dailydev)
+3. [2501.09223](https://arxiv.org/pdf/2501.09223) - Foundations of Large Language Models

@@ -1,0 +1,1 @@
+# ADR: API versioning strategy

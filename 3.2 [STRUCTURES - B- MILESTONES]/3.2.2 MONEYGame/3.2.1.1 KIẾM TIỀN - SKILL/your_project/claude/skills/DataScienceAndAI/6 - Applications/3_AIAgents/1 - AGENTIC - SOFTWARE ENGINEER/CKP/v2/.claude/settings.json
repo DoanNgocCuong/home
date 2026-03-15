@@ -1,0 +1,86 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(npx *)",
+      "Bash(pnpm *)",
+      "Bash(bun run *)",
+      "Bash(yarn *)",
+      "Bash(./gradlew *)",
+      "Bash(pytest *)",
+      "Bash(python -m pytest *)",
+      "Bash(make *)",
+      "Bash(git add:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git commit:*)",
+      "Bash(git branch:*)",
+      "Bash(git checkout:*)",
+      "Bash(git stash:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(rg:*)",
+      "Bash(cat:*)",
+      "Bash(ls:*)",
+      "Bash(wc:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(sort:*)",
+      "Bash(jq:*)",
+      "Bash(curl:*)",
+      "Bash(docker compose *)",
+      "Edit(src/**)",
+      "Edit(tests/**)",
+      "Edit(test/**)",
+      "Edit(docs/**)",
+      "Edit(packages/**)",
+      "Edit(apps/**)"
+    ],
+    "deny": [
+      "Bash(rm -rf /)*",
+      "Bash(rm -rf ~)*",
+      "Bash(rm -rf .)*",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git reset --hard origin*)",
+      "Bash(curl * | bash*)",
+      "Bash(curl * | sh*)",
+      "Bash(wget * | bash*)",
+      "Bash(> /dev/sda*)",
+      "Bash(chmod 777*)",
+      "Bash(:(){ :|:& };:)*",
+      "Edit(.env)",
+      "Edit(.env.*)",
+      "Edit(**/secrets/**)",
+      "Edit(**/*.pem)",
+      "Edit(**/*.key)",
+      "Edit(**/*.p12)",
+      "Edit(**/id_rsa*)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "if command -v prettier >/dev/null 2>&1; then prettier --write \"$CLAUDE_FILE_PATH\" 2>/dev/null; elif command -v ruff >/dev/null 2>&1; then ruff format \"$CLAUDE_FILE_PATH\" 2>/dev/null; elif command -v gofmt >/dev/null 2>&1 && echo \"$CLAUDE_FILE_PATH\" | grep -q '\\.go$'; then gofmt -w \"$CLAUDE_FILE_PATH\" 2>/dev/null; fi; true"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "BLOCKED='rm -rf /|rm -rf ~|DROP TABLE|DROP DATABASE|git push.*--force|git push.*-f |> /dev/sd|format c:|del /f /s /q|mkfs\\.' && echo \"$TOOL_INPUT\" | grep -qiE \"$BLOCKED\" && exit 2 || exit 0"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+https://hub.docker.com/r/vllm/vllm-openai/tags?name=v0.7

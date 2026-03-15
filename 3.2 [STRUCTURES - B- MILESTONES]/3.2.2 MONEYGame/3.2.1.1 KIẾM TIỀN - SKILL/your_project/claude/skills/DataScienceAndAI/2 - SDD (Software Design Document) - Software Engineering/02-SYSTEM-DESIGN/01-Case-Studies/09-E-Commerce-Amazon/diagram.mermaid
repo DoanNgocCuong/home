@@ -1,0 +1,43 @@
+graph TB
+    User["User"]
+    Web["Web/Mobile App"]
+
+    ProductSvc["Product Service<br/>(Search, Cache)"]
+    ProductDB["Product DB<br/>(Cassandra)"]
+    SearchIdx["Search Index<br/>(Elasticsearch)"]
+
+    CartSvc["Shopping Cart<br/>(Redis)"]
+    InventorySvc["Inventory Service<br/>(Strong Consistency)"]
+    InventoryDB["Inventory DB<br/>(MySQL)"]
+
+    OrderSvc["Order Service"]
+    OrderDB["Order DB"]
+    PaymentSvc["Payment Service<br/>(PCI Compliant)"]
+    PaymentGW["Payment Gateway<br/>(Stripe, Square)"]
+
+    RecommendSvc["Recommendation<br/>Engine"]
+    Analytics["Analytics<br/>(Logging)"]
+
+    User --> Web
+    Web --> ProductSvc
+    Web --> CartSvc
+    Web --> OrderSvc
+    Web --> RecommendSvc
+
+    ProductSvc --> ProductDB
+    ProductSvc --> SearchIdx
+    CartSvc --> InventorySvc
+    InventorySvc --> InventoryDB
+
+    OrderSvc --> OrderDB
+    OrderSvc --> PaymentSvc
+    PaymentSvc --> PaymentGW
+    PaymentSvc --> Analytics
+
+    RecommendSvc --> ProductDB
+    CartSvc --> Analytics
+
+    style ProductSvc fill:#4A90E2,stroke:#2E5C8A,color:#fff
+    style CartSvc fill:#50E3C2,stroke:#2D8A78,color:#fff
+    style InventorySvc fill:#F5A623,stroke:#C17F1A,color:#fff
+    style PaymentSvc fill:#BD10E0,stroke:#8B0A9D,color:#fff

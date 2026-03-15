@@ -1,0 +1,21 @@
+graph TB
+    User["User Request<br/>Fetch Feed"]
+    Cache["Cache<br/>(Redis)"]
+    Feed["Feed Service<br/>(Ranking)"]
+    PostDB["Post Database<br/>(NoSQL)"]
+    UserDB["User/Graph DB<br/>(Relationships)"]
+    Response["Feed Response<br/>(Ranked Posts)"]
+
+    User -->|Check Cache| Cache
+    Cache -->|Cache Hit| Response
+    Cache -->|Cache Miss| Feed
+    Feed -->|Get Posts| PostDB
+    Feed -->|Get Friends| UserDB
+    Feed -->|Apply Ranking| Feed
+    Feed -->|Update Cache| Cache
+    Feed --> Response
+
+    style Cache fill:#50E3C2,stroke:#2D8A78,color:#fff
+    style Feed fill:#4A90E2,stroke:#2E5C8A,color:#fff
+    style PostDB fill:#F5A623,stroke:#C17F1A,color:#fff
+    style UserDB fill:#BD10E0,stroke:#8B0A9D,color:#fff
