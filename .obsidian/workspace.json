@@ -11,10 +11,13 @@
             "id": "17f2db0f574154ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -138,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/NHẬT KÝ/2026/2026-03-15.md",
+                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-15"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -166,8 +169,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7bbd2100f0471588",
+  "active": "17f2db0f574154ac",
   "lastOpenFiles": [
+    "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MINDGame/NHẬT KÝ/2026/2026-03-15.md",
+    "Untitled.base",
+    "Untitled.canvas",
     "_bmad-output/planning-artifacts",
     "_bmad-output/implementation-artifacts",
     "_bmad-output",
@@ -202,8 +208,6 @@
     "_bmad/bmm/workflows/2-plan-workflows/create-prd/data/domain-complexity.csv",
     "_bmad/bmm/workflows/document-project/templates/project-scan-report-schema.json",
     "_bmad/bmm/workflows/4-implementation/sprint-status/bmad-skill-manifest.yaml",
-    "_bmad/bmm/workflows/4-implementation/sprint-planning/sprint-status-template.yaml",
-    "_bmad/bmm/workflows/4-implementation/sprint-planning/bmad-skill-manifest.yaml",
     "src/image/CHANGLOG/1757226793810.png",
     "doanngoccuong-blog/astro-blog/src/assets/langfuse/sdk-v3-architecture.png",
     "doanngoccuong-blog/astro-blog/src/assets/langfuse/overhead-step-comparison-2.png",
@@ -222,7 +226,6 @@
     "home/3.2 [STRUCTURES - B- MILESTONES]/3.2.2 MONEYGame/3.2.1.1 KIẾM TIỀN - SKILL/your_project/claude/skills/DataScienceAndAI/6 - Applications/NLP_LLMs_RAG 1/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MONEYGAME/3.2.1.1 KIẾM TIỀN - SKILL/your_project/claude/skills/DataScienceAndAI/6 - Applications/2-RAG-and-Memory/2.1 RAG/CKP/5.1 RAG/RAG 1/Search/Untitled.canvas",
     "3.2 [STRUCTURES - B- MILESTONES]/3.2.1 MONEYGAME/3.2.1.1 KIẾM TIỀN - SKILL/your_project/claude/skills/DataScienceAndAI/6 - Applications/NLP_LLMs_RAG 1/5.1 RAG/RAG 1/Search/Untitled.canvas",
-    "32FD6~1.2_S/32434A~1.1_M/321~1.1KI/YOUR_P~1/claude/skills/DataScienceAndAI/6 - Applications/2-RAG-and-Memory/2.1 RAG/CKP/5.1 RAG/RAG 1/Search/Untitled.canvas",
-    "32FD6~1.2_S/32434A~1.1_M/321~1.1KI/YOUR_P~1/claude/skills/DataScienceAndAI/6 - Applications/NLP_LLMs_RAG 1/5.1 RAG/RAG 1/Search/Untitled.canvas"
+    "32FD6~1.2_S/32434A~1.1_M/321~1.1KI/YOUR_P~1/claude/skills/DataScienceAndAI/6 - Applications/2-RAG-and-Memory/2.1 RAG/CKP/5.1 RAG/RAG 1/Search/Untitled.canvas"
   ]
 }
